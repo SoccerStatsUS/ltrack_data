@@ -1,0 +1,219 @@
+Player	Team-For	Home-Team	Away-Team	Date	Goal-Time	Goal-Type	Comp	Assist	Assist2	
+Kovalenko, Dema	Chicago Fire	Chicago Fire	Joe Public -- T & T	9/29/1999	82		CCC			
+Razov, Ante	Chicago Fire	Chicago Fire	Joe Public -- T & T	9/29/1999	19		CCC			
+Moreno, Jaime	DC United	DC United	Olimpia -- Honduras	9/29/1999	68		CCC			
+Kosecki, Roman	Chicago Fire	Alajuela -- Costa Rica	Chicago Fire	10/1/1999	38		CCC			
+Talley, Carey	DC United	Necaxa -- Mexico	DC United	10/1/1999	26		CCC			
+Razov, Ante	Chicago Fire	Chicago Fire	DC United	10/3/1999	71		CCC			
+Marsch, Jesse	Chicago Fire	Chicago Fire	DC United	10/3/1999	80		CCC	Dougherty, Paul		
+Otero, Antonio	DC United	Chicago Fire	DC United	10/3/1999	50		CCC			
+Wood, AJ	DC United	Chicago Fire	DC United	10/3/1999	2		CCC	Albright, Chris		
+Hendrickson, Ezra	Los Angeles Galaxy	Los Angeles Galaxy	Necaxa -- Mexico	8/18/1999	3		CCC			
+Pope, Eddie	DC United	Vasco da Gama -- Brazil	DC United	12/5/1998	77		IAC			
+Sanneh, Tony	DC United	Vasco da Gama -- Brazil	DC United	12/5/1998	34		IAC			
+Olsen, Ben	DC United	DC United	Joe Public -- T & T	8/11/1998	13		CCC	Williams, Richie		
+Olsen, Ben	DC United	DC United	Joe Public -- T & T	8/11/1998	44		CCC	Etcheverry, Marco		
+Wood, AJ	DC United	DC United	Joe Public -- T & T	8/11/1998	75		CCC	Olsen, Ben		
+Wood, AJ	DC United	DC United	Joe Public -- T & T	8/11/1998	90		CCC	Pope, Eddie		
+Lassiter, Roy	DC United	DC United	Joe Public -- T & T	8/11/1998	22		CCC			
+Lassiter, Roy	DC United	DC United	Joe Public -- T & T	8/11/1998	29		CCC	Olsen, Ben		
+Lassiter, Roy	DC United	DC United	Joe Public -- T & T	8/11/1998	67		CCC			
+Lassiter, Roy	DC United	DC United	Joe Public -- T & T	8/11/1998	67		CCC	Wood, AJ		
+Lassiter, Roy	DC United	DC United	Leon -- Mexico	8/14/1998	12		CCC			
+Lassiter, Roy	DC United	DC United	Leon -- Mexico	8/14/1998	61		CCC			
+Pope, Eddie	DC United	DC United	Toluca -- Mexico	8/16/1998	41		CCC			
+Henderson, Sean	Leon -- Mexico	Leon -- Mexico	Colorado Rapids	7/15/1998	43	Own Goal	CCC			
+Bravo, Paul	Colorado Rapids	Leon -- Mexico	Colorado Rapids	7/15/1998	69		CCC			
+Trittschuh, Steve	Colorado Rapids	Leon -- Mexico	Colorado Rapids	7/15/1998	45		CCC			
+Balboa, Marcelo	Colorado Rapids	Colorado Rapids	Leon -- Mexico	6/28/1998	83		CCC			
+Jones, Cobi	Los Angeles Galaxy	DC United	Los Angeles Galaxy	8/22/1997	10		CCC			
+Welton	Los Angeles Galaxy	Luis Angel Firpo-- El Salvador	Los Angeles Galaxy	8/12/1997	45		CCC			
+Hurtado, Eduardo	Los Angeles Galaxy	Luis Angel Firpo-- El Salvador	Los Angeles Galaxy	8/12/1997	78		CCC			
+Etcheverry, Marco	DC United	DC United	United Petrotrin -- T & T	8/11/1997	84		CCC			
+Cienfuegos, Mauricio	Los Angeles Galaxy	Los Angeles Galaxy	Santos -- Mexico	7/30/1997	64		CCC	Jones, Cobi		
+Hurtado, Eduardo	Los Angeles Galaxy	Los Angeles Galaxy	Santos -- Mexico	7/30/1997	65		CCC			
+Machon, Martin	Los Angeles Galaxy	Los Angeles Galaxy	Santos -- Mexico	7/30/1997	80		CCC	Cienfuegos, Mauricio		
+Welton	Los Angeles Galaxy	Los Angeles Galaxy	Santos -- Mexico	7/30/1997	84		CCC			
+Diaz Arce, Raul	DC United	DC United	CD Guadalajara -- Mexico	8/24/1997	41		CCC			
+Iroha, Ben	DC United	DC United	CD Guadalajara -- Mexico	8/24/1997	90		CCC			
+Hurtado, Eduardo	Los Angeles Galaxy	Cruz Azul -- Mexico	Los Angeles Galaxy	8/24/1997	8		CCC			
+Hurtado, Eduardo	Los Angeles Galaxy	Cruz Azul -- Mexico	Los Angeles Galaxy	8/24/1997	14		CCC			
+Campos, Jorge	Los Angeles Galaxy	Cruz Azul -- Mexico	Los Angeles Galaxy	8/24/1997	78		CCC			
+Talley, Carey	DC United	DC United	LD Alajuelense-- Costa Rica	1/17/2001	15		CCC			
+Olsen, Ben	DC United	DC United	LD Alajuelense-- Costa Rica	1/17/2001	90		CCC			
+Jones, Cobi	Los Angeles Galaxy	Los Angeles Galaxy	CD Olympia-- Honduras	1/21/2001	0		CCC			
+Hendrickson, Ezra	Los Angeles Galaxy	Los Angeles Galaxy	CD Olympia-- Honduras	1/21/2001	0		CCC			
+Hendrickson, Ezra	Los Angeles Galaxy	Los Angeles Galaxy	CD Olympia-- Honduras	1/21/2001	0		CCC			
+Talley, Carey	DC United	DC United	Pachuca-- Mexico	1/21/2001	0		CCC			
+Vanney, Greg	Los Angeles Galaxy	Los Angeles Galaxy	DC United	1/19/2001	0	Penalty	CCC			
+Etcheverry, Marco	DC United	Los Angeles Galaxy	DC United	1/19/2001	0	Penalty	CCC			
+Moreno, Jaime	DC United	DC United	CSD Comunicaciones-- Guatemala	8/3/2001	26		GC			
+Lisi, Mark	DC United	DC United	CSD Comunicaciones-- Guatemala	8/3/2001	89		GC			
+Talley, Carey	DC United	DC United	Arnett Gardens-- Jamaica	4/11/2001	30	Penalty	GC			
+Lisi, Mark	DC United	DC United	Arnett Gardens-- Jamaica	4/11/2001	86		GC			
+Maisonneuve, Brian	Columbus Crew	Columbus Crew	CD Saprissa-- Costa Rica	4/11/2001	45		GC			
+Talley, Carey	DC United	Arnett Gardens-- Jamaica	DC United	4/5/2001	59		GC			
+Diaz Arce, Raul	DC United	Arnett Gardens-- Jamaica	DC United	4/5/2001	39		GC			
+Diaz Arce, Raul	DC United	Arnett Gardens-- Jamaica	DC United	4/5/2001	66		GC			
+Lowe, Onandi	Kansas City Wizards	Kansas City Wizards	Sporting Cristal -- Peru	8/1/2001	7		MerC			
+Lassiter, Roy	Kansas City Wizards	Barcelona -- Ecuador	Kansas City Wizards	8/30/2001	31		MerC			
+Brown, Chris	Kansas City Wizards	Barcelona -- Ecuador	Kansas City Wizards	8/30/2001	45		MerC			
+Brown, Chris	Kansas City Wizards	Barcelona -- Ecuador	Kansas City Wizards	8/30/2001	51		MerC			
+Lassiter, Roy	Kansas City Wizards	Kansas City Wizards	Barcelona -- Ecuador	10/17/2001	32		MerC			
+McKeon, Matt	Kansas City Wizards	Santos -- Mexico	Kansas City Wizards	8/8/2001	53		MerC			
+Lassiter, Roy	Kansas City Wizards	Santos -- Mexico	Kansas City Wizards	8/8/2001	90		MerC			
+Lowe, Onandi	Kansas City Wizards	Sporting Cristal -- Peru	Kansas City Wizards	9/12/2001	40		MerC			
+Valencia, Adolfo	MetroStars	MetroStars	Italchacao -- Venezuela	8/8/2001	23		MerC			
+Petke, Mike	MetroStars	MetroStars	Italchacao -- Venezuela	8/8/2001	45		MerC			
+Valencia, Adolfo	MetroStars	Millionarios -- Colombia	MetroStars	8/30/2001	69		MerC			
+Adair, Chugger	Seattle Sounders	Seattle Sounders	SV Transvaal -- Suriname	6/17/1997	2		CCC	Aunger, Geoff		
+Adair, Chugger	Seattle Sounders	Seattle Sounders	SV Transvaal -- Suriname	6/17/1997	15		CCC	Aunger, Geoff		
+Gailey, Mike	Seattle Sounders	Seattle Sounders	SV Transvaal -- Suriname	6/17/1997	32		CCC	Jenkins, Scott		
+Gailey, Mike	Seattle Sounders	Seattle Sounders	SV Transvaal -- Suriname	6/17/1997	38		CCC	Jenkins, Scott		
+Megson, Neil	Seattle Sounders	Seattle Sounders	SV Transvaal -- Suriname	6/17/1997	42		CCC	Aunger, Geoff		
+Gelvezon	Seattle Sounders	Seattle Sounders	SV Transvaal -- Suriname	6/17/1997	49		CCC	Kinoshita, Kei		
+Crothers, Derek	Seattle Sounders	Seattle Sounders	SV Transvaal -- Suriname	6/17/1997	70		CCC			
+Barton, Kieran	Seattle Sounders	Seattle Sounders	SV Transvaal -- Suriname	6/17/1997	73		CCC	Crothers, Derek		
+Barton, Kieran	Seattle Sounders	Seattle Sounders	SV Transvaal -- Suriname	6/17/1997	82		CCC	Gelvezon		
+Adair, Chugger	Seattle Sounders	Seattle Sounders	SV Transvaal -- Suriname	6/17/1997	79		CCC			
+Hattrup, Peter	Seattle Sounders	Necaxa -- Mexico	Seattle Sounders	7/17/1997	90	Penalty	CCC			
+Gomez, Francisco	Kansas City Wizards	W. Connection -- Jamaica	Kansas City Wizards	3/3/2002	85		CCC	Glasgow, Gary		
+Mulrooney, Richard	San Jose Earthquakes	CD Olympia-- Honduras	San Jose Earthquakes	3/13/2002	74		CCC	Lagos, Manny		
+Agoos, Jeff	San Jose Earthquakes	San Jose Earthquakes	CD Olympia-- Honduras	3/16/2002	66		CCC			
+Donovan, Landon	San Jose Earthquakes	San Jose Earthquakes	CD Olympia-- Honduras	3/16/2002	33		CCC			
+Russell, Ian	San Jose Earthquakes	San Jose Earthquakes	CD Olympia-- Honduras	3/16/2002	40		CCC			
+Kovalenko, Dema	Chicago Fire	CSD Municipal -- Guatemala	Chicago Fire	3/16/2002	0		CCC			
+Bocanegra, Carlos	Chicago Fire	Chicago Fire	CSD Municipal -- Guatemala	3/20/2002	82		CCC			
+Razov, Ante	Chicago Fire	Chicago Fire	CSD Municipal -- Guatemala	3/20/2002	27		CCC			
+Pope, Eddie	DC United	DC United	CSD Comunicaciones-- Guatemala	3/13/2002	89		CCC			
+Lisi, Mark	DC United	DC United	CSD Comunicaciones-- Guatemala	3/13/2002	61		CCC			
+Burns, Mike	Kansas City Wizards	Kansas City Wizards	W. Connection -- Jamaica	3/16/2002	52		CCC			
+Preki	Kansas City Wizards	Kansas City Wizards	W. Connection -- Jamaica	3/16/2002	53		CCC			
+Talley, Carey	Kansas City Wizards	Kansas City Wizards	Santos -- Mexico	4/24/2002	33		CCC			
+Brown, Chris	Kansas City Wizards	Kansas City Wizards	Santos -- Mexico	4/24/2002	71		CCC			
+Corrales, Ramiro	San Jose Earthquakes	San Jose Earthquakes	Pachuca-- Mexico	4/24/2002	61		CCC			
+Glasgow, Gary	Kansas City Wizards	Santos -- Mexico	Kansas City Wizards	4/10/2002	81		CCC			
+Kovalenko, Dema	Chicago Fire	Chicago Fire	Morelia -- Mexico	7/10/2002	66		CCC			
+Kovalenko, Dema	Chicago Fire	Chicago Fire	Morelia -- Mexico	7/10/2002	61		CCC			
+Fabbro, Dario	Kansas City Wizards	Morelia -- Mexico	Kansas City Wizards	8/7/2002	85		CCC	Armstrong, Stephen		
+Brown, Chris	Kansas City Wizards	Kansas City Wizards	Morelia -- Mexico	8/28/2002	0		CCC			
+Albright, Chris	Los Angeles Galaxy	Necaxa -- Mexico	Los Angeles Galaxy	4/16/2003	19		CCC			
+Buddle, Edson	Columbus Crew	Columbus Crew	Morelia -- Mexico	4/16/2003	15		CCC			
+Cunningham, Jeff	Columbus Crew	Columbus Crew	Morelia -- Mexico	4/16/2003	28	Penalty	CCC			
+Chacon, Alex Pineda	Los Angeles Galaxy	Los Angeles Galaxy	Necaxa -- Mexico	4/9/2003	36		CCC			
+Donovan, Landon	San Jose Earthquakes	San Jose Earthquakes	CSD Municipal -- Guatemala	3/26/2003	19		CCC			
+Ching, Brian	San Jose Earthquakes	San Jose Earthquakes	CSD Municipal -- Guatemala	3/26/2003	35		CCC			
+Twellman, Taylor	New England Revolution	LD Alajuelense-- Costa Rica	New England Revolution	3/26/2003	18		CCC			
+Harris, Wolde	New England Revolution	LD Alajuelense-- Costa Rica	New England Revolution	3/26/2003	54		CCC			
+Noonan, Pat	New England Revolution	LD Alajuelense-- Costa Rica	New England Revolution	3/26/2003	56		CCC			
+Lalas, Alexi	Los Angeles Galaxy	Los Angeles Galaxy	Motagua -- Honduras	3/23/2003	72		CCC			
+Buddle, Edson	Columbus Crew	Columbus Crew	Deportivo Arabe Unido --Panama	3/23/2003	42		CCC			
+Buddle, Edson	Columbus Crew	Columbus Crew	Deportivo Arabe Unido --Panama	3/23/2003	59		CCC			
+Martino, Kyle	Columbus Crew	Columbus Crew	Deportivo Arabe Unido --Panama	3/23/2003	70		CCC			
+Ruiz, Carlos	Los Angeles Galaxy	Motagua -- Honduras	Los Angeles Galaxy	3/16/2003	21		CCC			
+Lalas, Alexi	Los Angeles Galaxy	Motagua -- Honduras	Los Angeles Galaxy	3/16/2003	68		CCC			
+Lagos, Manny	San Jose Earthquakes	CSD Municipal -- Guatemala	San Jose Earthquakes	3/16/2003	61		CCC			
+Lagos, Manny	San Jose Earthquakes	CSD Municipal -- Guatemala	San Jose Earthquakes	3/16/2003	72		CCC			
+Buddle, Edson	Columbus Crew	Deportivo Arabe Unido --Panama	Columbus Crew	3/16/2003	60		CCC			
+Mapp, Justin	Chicago Fire	San Juan Jabloteh -- T & T	Chicago Fire	3/17/2004	87		CCC			
+Williams, Andy	Chicago Fire	Chicago Fire	CD Saprissa-- Costa Rica	4/21/2004	55		CCC	Selolwane, Dipsy		
+Curtin, Jim	Chicago Fire	Chicago Fire	CD Saprissa-- Costa Rica	4/21/2004	86		CCC	Jaqua, Nate		
+Ralph, Damani	Chicago Fire	Chicago Fire	San Juan Jabloteh -- T & T	3/24/2004	42		CCC			
+Selolwane, Dipsy	Chicago Fire	Chicago Fire	San Juan Jabloteh -- T & T	3/24/2004	51		CCC			
+Selolwane, Dipsy	Chicago Fire	Chicago Fire	San Juan Jabloteh -- T & T	3/24/2004	62		CCC			
+Armas, Chris	Chicago Fire	Chicago Fire	San Juan Jabloteh -- T & T	3/24/2004	90		CCC			
+Mullan, Brian	San Jose Earthquakes	San Jose Earthquakes	Alajuela -- Costa Rica	3/24/2004	90		CCC			
+Washington, Dante	Dallas Burn/FC Dallas 96	Dallas Burn/FC Dallas 96	Cruz Azul -- Mexico	3/8/1998	56		CCWC			
+Washington, Dante	Dallas Burn/FC Dallas 96	Dallas Burn/FC Dallas 96	Necaxa -- Mexico	3/4/1998	57		CCWC			
+Chacon, Alex Pineda	Los Angeles Galaxy	PSV Eindhoven -- Netherlands	Los Angeles Galaxy	7/20/2003	15		PCK	Albright, Chris		
+Eskandarian, Alecko	DC United	DC United	Harbour View FC -- Jamaica	3/9/2005	5		CCC			
+Gros, Joshua	DC United	DC United	Harbour View FC -- Jamaica	3/9/2005	64		CCC			
+Walker, Jamil	DC United	Harbour View FC -- Jamaica	DC United	3/16/2005	74		CCC			
+Moreno, Jaime	DC United	Harbour View FC -- Jamaica	DC United	3/16/2005	77		CCC			
+Burciaga, Jose	Kansas City Wizards	Deportivo Saprissa -Costa Rica	Kansas City Wizards	3/17/2005	78		CCC			
+Gomez, Christian	DC United	DC United	UNAM -- Mexico	4/6/2005	10		CCC	Moreno, Jaime		
+Gardner, Josh	Los Angeles Galaxy	CD Saprissa-- Costa Rica	Los Angeles Galaxy	3/8/2006	18		CCC			
+Donovan, Landon	Los Angeles Galaxy	CD Saprissa-- Costa Rica	Los Angeles Galaxy	3/8/2006	40		CCC			
+Noel, Fabrice	Puerto Rico Islanders - USL	SV Leo Victor - Surinam	Puerto Rico Islanders - USL	11/11/2007	18		CQ			
+Noel, Fabrice	Puerto Rico Islanders - USL	SV Leo Victor - Surinam	Puerto Rico Islanders - USL	11/11/2007	22		CQ			
+Velez, Marco	Puerto Rico Islanders - USL	SV Leo Victor - Surinam	Puerto Rico Islanders - USL	11/11/2007	33		CQ			
+Zapata, Alberto	Puerto Rico Islanders - USL	SV Leo Victor - Surinam	Puerto Rico Islanders - USL	11/11/2007	57		CQ			
+Steele, Jonathan	Puerto Rico Islanders - USL	SV Leo Victor - Surinam	Puerto Rico Islanders - USL	11/11/2007	58		CQ			
+Delgado, Noah	Puerto Rico Islanders - USL	SV Leo Victor - Surinam	Puerto Rico Islanders - USL	11/11/2007	68		CQ			
+Johnson, David	Puerto Rico Islanders - USL	SV Leo Victor - Surinam	Puerto Rico Islanders - USL	11/11/2007	90		CQ			
+Zapata, Alberto	Puerto Rico Islanders - USL	Inter Moengotapoe - Surinam	Puerto Rico Islanders - USL	11/8/2007	7		CQ			
+Delgado, Noah	Puerto Rico Islanders - USL	Inter Moengotapoe - Surinam	Puerto Rico Islanders - USL	11/8/2007	14		CQ			
+Villegas, Petter	Puerto Rico Islanders - USL	Inter Moengotapoe - Surinam	Puerto Rico Islanders - USL	11/8/2007	17		CQ			
+Noel, Fabrice	Puerto Rico Islanders - USL	Inter Moengotapoe - Surinam	Puerto Rico Islanders - USL	11/8/2007	89		CQ			
+Delgado, Alberto	Puerto Rico Islanders - USL	Inter Moengotapoe - Surinam	Puerto Rico Islanders - USL	11/8/2007	90		CQ			
+Herrera, Victor	Puerto Rico Islanders - USL	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	11/6/2007	2		CQ			
+Noel, Fabrice	Puerto Rico Islanders - USL	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	11/6/2007	11		CQ			
+Noel, Fabrice	Puerto Rico Islanders - USL	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	11/6/2007	45		CQ			
+Noel, Fabrice	Puerto Rico Islanders - USL	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	11/6/2007	47		CQ			
+Noel, Fabrice	Puerto Rico Islanders - USL	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	11/6/2007	48		CQ			
+Zapata, Alberto	Puerto Rico Islanders - USL	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	11/6/2007	45		CQ			
+Zapata, Alberto	Puerto Rico Islanders - USL	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	11/6/2007	51		CQ			
+Zapata, Alberto	Puerto Rico Islanders - USL	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	11/6/2007	74		CQ			
+Velez, Marco	Puerto Rico Islanders - USL	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	11/6/2007	72		CQ			
+Delgado, Alberto	Puerto Rico Islanders - USL	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	11/6/2007	88		CQ			
+Delgado, Noah	Puerto Rico Islanders - USL	Harbour View FC -- Jamaica	Puerto Rico Islanders - USL	11/4/2007	7		CQ			
+Delgado, Noah	Puerto Rico Islanders - USL	Harbour View FC -- Jamaica	Puerto Rico Islanders - USL	11/4/2007	14		CQ			
+Moreno, Jaime	DC United	CD Guadalajara -- Mexico	DC United	4/3/2007	35		CCC			
+Emilio, Luciano	DC United	DC United	CD Guadalajara -- Mexico	3/15/2007	90		CCC			
+Mullan, Brian	Houston Dynamo	Pachuca-- Mexico	Houston Dynamo	4/5/2007	53		CCC			
+Ching, Brian	Houston Dynamo	Pachuca-- Mexico	Houston Dynamo	4/5/2007	78		CCC			
+Ching, Brian	Houston Dynamo	Houston Dynamo	Pachuca-- Mexico	3/15/2007	57		CCC			
+Wondolowski, Chris	Houston Dynamo	Houston Dynamo	Pachuca-- Mexico	3/15/2007	84		CCC			
+Emilio, Luciano	DC United	DC United	CD Olympia-- Honduras	3/1/2007	37		CCC			
+Emilio, Luciano	DC United	DC United	CD Olympia-- Honduras	3/1/2007	83		CCC			
+Gomez, Christian	DC United	DC United	CD Olympia-- Honduras	3/1/2007	48	Penalty	CCC			
+Gomez, Christian	DC United	CD Olympia-- Honduras	DC United	2/21/2007	29		CCC			
+Gomez, Christian	DC United	CD Olympia-- Honduras	DC United	2/21/2007	59		CCC			
+Emilio, Luciano	DC United	CD Olympia-- Honduras	DC United	2/21/2007	44		CCC			
+Erpen, Facundo	DC United	CD Olympia-- Honduras	DC United	2/21/2007	74		CCC			
+Dalglish, Paul	Houston Dynamo	Houston Dynamo	Puntarenas FC - Costa Rica	3/1/2007	27		CCC			
+Gray, Kelly	Houston Dynamo	Houston Dynamo	Puntarenas FC - Costa Rica	3/1/2007	74		CCC			
+Morales, Yuri	Puerto Rico Islanders - USL	Puerto Rico Islanders - USL	Hoppers FC - Antigua	12/9/2006	7		CQ			
+Morales, Yuri	Puerto Rico Islanders - USL	Puerto Rico Islanders - USL	Hoppers FC - Antigua	12/9/2006	23		CQ			
+Gonzalez, Alejandro	Puerto Rico Islanders - USL	Puerto Rico Islanders - USL	Hoppers FC - Antigua	12/9/2006	44		CQ			
+Ekelund, Ronnie	San Jose Earthquakes	Rubin Kazan -- Russia	San Jose Earthquakes	2/20/2003	24	Penalty	LMC			
+Ekelund, Ronnie	San Jose Earthquakes	Viking Stavangar -- Norway	San Jose Earthquakes	2/24/2003	5		LMC	Mullan, Brian		
+Lalas, Alexi	Los Angeles Galaxy	Lyn Oslo -- Norway	Los Angeles Galaxy	2/18/2003	49		LMC	Elliott, Simon		
+Albright, Chris	Los Angeles Galaxy	Lyn Oslo -- Norway	Los Angeles Galaxy	2/18/2003	53		LMC	Elliott, Simon		
+Victorine, Sasha	Los Angeles Galaxy	Lyn Oslo -- Norway	Los Angeles Galaxy	2/18/2003	16		LMC	Glinton, Gavin		
+Glinton, Gavin	Los Angeles Galaxy	Lyn Oslo -- Norway	Los Angeles Galaxy	2/18/2003	6		LMC	Elliott, Simon		
+Glinton, Gavin	Los Angeles Galaxy	Lyn Oslo -- Norway	Los Angeles Galaxy	2/18/2003	88		LMC	Cienfuegos, Mauricio		
+Cienfuegos, Mauricio	Los Angeles Galaxy	Torpedo Moscow -- Russia	Los Angeles Galaxy	2/21/2003	24		LMC			
+Victorine, Sasha	Los Angeles Galaxy	Torpedo Moscow -- Russia	Los Angeles Galaxy	2/21/2003	50		LMC	Califf, Danny		
+Gomez, Herculez	Los Angeles Galaxy	Torpedo Moscow -- Russia	Los Angeles Galaxy	2/21/2003	17		LMC	Moore, Jason		
+Albright, Chris	Los Angeles Galaxy	Viking Stavangar -- Norway	Los Angeles Galaxy	2/28/2003	20		LMC	Gomez, Herculez		
+Albright, Chris	Los Angeles Galaxy	Viking Stavangar -- Norway	Los Angeles Galaxy	2/28/2003	33		LMC	Moore, Jason		
+Cienfuegos, Mauricio	Los Angeles Galaxy	Viking Stavangar -- Norway	Los Angeles Galaxy	2/28/2003	54		LMC	Albright, Chris		
+DeRosario, Dwayne	San Jose Earthquakes	Gif Sundsvall -- Sweden	San Jose Earthquakes	2/25/2004	45		LMC	Mulrooney, Richard		
+Walker, Jamil	San Jose Earthquakes	Gif Sundsvall -- Sweden	San Jose Earthquakes	2/25/2004	53		LMC	Mullan, Brian		
+Donovan, Landon	San Jose Earthquakes	Gif Sundsvall -- Sweden	San Jose Earthquakes	2/25/2004	90		LMC	Russell, Ian		
+Ching, Brian	San Jose Earthquakes	Stabaek -- Norway	San Jose Earthquakes	2/28/2004	73		LMC	Leveque, Roger		
+Walker, Jamil	San Jose Earthquakes	Stabaek -- Norway	San Jose Earthquakes	2/28/2004	34		LMC	Corrales, Ramiro		
+DeRosario, Dwayne	San Jose Earthquakes	Viking Stavangar -- Norway	San Jose Earthquakes	3/2/2003	36		LMC	Mullan, Brian		
+Corrales, Ramiro	San Jose Earthquakes	Dynamo Kiev -- Ukraine	San Jose Earthquakes	3/5/2004	86		LMC			
+Corrales, Ramiro	San Jose Earthquakes	Lyn Oslo -- Norway	San Jose Earthquakes	2/27/2003	15	Penalty	LMC			
+Mullan, Brian	San Jose Earthquakes	Lyn Oslo -- Norway	San Jose Earthquakes	2/27/2003	38		LMC	Walker, Jamil		
+Alvarez, Arturo	San Jose Earthquakes	Lyn Oslo -- Norway	San Jose Earthquakes	2/27/2003	90		LMC	Corrales, Ramiro		
+Clark, Ricardo	Houston Dynamo	Houston Dynamo	Gamba Osaka - Japan	2/23/2008	11		PPC			
+DeRosario, Dwayne	Houston Dynamo	Houston Dynamo	Sydney FC - Australia	2/20/2008	27		PPC			
+Holden, Stuart	Houston Dynamo	Houston Dynamo	Sydney FC - Australia	2/20/2008	28		PPC			
+Wondolowski, Chris	Houston Dynamo	Houston Dynamo	Sydney FC - Australia	2/20/2008	43		PPC			
+Allen, Ely	Los Angeles Galaxy	Los Angeles Galaxy	Sydney FC - Australia	2/23/2008	3		PPC			
+Tudela, Josh	Los Angeles Galaxy	Los Angeles Galaxy	Sydney FC - Australia	2/23/2008	45		PPC			
+McTavish, Devon	DC United	Harbour View FC -- Jamaica	DC United	3/12/2008	45		CCC			
+McTavish, Devon	DC United	DC United	Harbour View FC -- Jamaica	3/18/2008	26		CCC	Gallardo, Marcelo		
+Emilio, Luciano	DC United	DC United	Harbour View FC -- Jamaica	3/18/2008	63		CCC	Carreiro, Fred		
+Emilio, Luciano	DC United	DC United	Harbour View FC -- Jamaica	3/18/2008	66		CCC			
+McTavish, Devon	DC United	DC United	Harbour View FC -- Jamaica	3/18/2008	68		CCC	Quaranta, Santino		
+Carreiro, Fred	DC United	DC United	Harbour View FC -- Jamaica	3/18/2008	88		CCC	Quaranta, Santino		
+DeRosario, Dwayne	Houston Dynamo	Houston Dynamo	CSD Municipal -- Guatemala	3/19/2008	47		CCC			
+DeRosario, Dwayne	Houston Dynamo	Houston Dynamo	CSD Municipal -- Guatemala	3/19/2008	69	Penalty	CCC			
+Wondolowski, Chris	Houston Dynamo	Houston Dynamo	CSD Municipal -- Guatemala	3/19/2008	75		CCC	Ashe, Cory		
+Dyachenko, Rod	DC United	DC United	Pachuca-- Mexico	4/9/2008	85		CCC			
+Niell, Franco	DC United	DC United	Pachuca-- Mexico	4/9/2008	90		CCC			
+Noel, Fabrice	Puerto Rico Islanders - USL	Puerto Rico Islanders - USL	San Juan Jabloteh -- T & T	5/9/2008	9		CQ			

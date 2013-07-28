@@ -1,0 +1,337 @@
+Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Referee	Awarded	Round	Period	
+4/12/1997	Carolina Dynamo	Raleigh Flyers	1	2	1,456	League Game	LGE			As Scored	0	0	
+4/12/1997	Jacksonville Cyclones	Toronto Lynx	3	1	5,190	League Game	LGE			As Scored	0	0	
+4/12/1997	Seattle Sounders	Vancouver 86ers	0	1	4,561	League Game	LGE			As Scored	0	0	
+4/18/1997	California Jaguars	El Paso Patriots	2	0	100	League Game	LGE			As Scored	0	0	
+4/18/1997	Nashville Metros	Milwaukee Rampage	0	0	2,630	League Game	LGE	Nashville wins SO 2-1		As Scored	0	0	
+4/18/1997	Orlando Sundogs	Long Island Rough Riders	0	2	3,412	League Game	LGE			As Scored	0	0	
+4/18/1997	Vancouver 86ers	Seattle Sounders	0	1	4,119	League Game	LGE			As Scored	0	0	
+4/19/1997	Atlanta Ruckus	Milwaukee Rampage	0	1	3,272	League Game	LGE			As Scored	0	0	
+4/19/1997	Charleston Battery	Toronto Lynx	4	2	1,620	League Game	LGE			As Scored	0	0	
+4/19/1997	Raleigh Flyers	Hershey Wildcats	0	1	2,192	League Game	LGE			As Scored	0	0	
+4/20/1997	Colorado Foxes	Seattle Sounders	0	1	742	League Game	LGE			As Scored	0	0	
+4/20/1997	Orange County Zodiac	El Paso Patriots	1	0	1	League Game	LGE			As Scored	0	0	
+4/23/1997	California Jaguars	Vancouver 86ers	3	1	800	League Game	LGE			As Scored	0	0	
+4/24/1997	Jacksonville Cyclones	Long Island Rough Riders	0	0	2,098	League Game	LGE	Long Island wins 4-3 in SO		As Scored	0	0	
+4/25/1997	Atlanta Ruckus	El Paso Patriots	3	0	1,857	League Game	LGE			As Scored	0	0	
+4/25/1997	Carolina Dynamo	Hershey Wildcats	1	1	2,754	League Game	LGE			As Scored	0	0	
+4/25/1997	Charleston Battery	Worcester Wildfire	2	1	1,126	League Game	LGE			As Scored	0	0	
+4/25/1997	Nashville Metros	New Orleans Riverboat Gamblers	0	0	3,250	League Game	LGE	Nashville wins 3-1 so		As Scored	0	0	
+4/25/1997	Orange County Zodiac	Vancouver 86ers	1	2	2,185	League Game	LGE			As Scored	0	0	
+4/25/1997	Orlando Sundogs	Minnesota Thunder	0	1	1,955	League Game	LGE			As Scored	0	0	
+4/25/1997	Richmond Kickers	Raleigh Flyers	1	0	2,135	League Game	LGE			As Scored	0	0	
+4/26/1997	Connecticut Wolves	Long Island Rough Riders	2	0	2,388	League Game	LGE			As Scored	0	0	
+4/26/1997	Jacksonville Cyclones	Worcester Wildfire	0	1	1,920	League Game	LGE			As Scored	0	0	
+4/26/1997	Raleigh Flyers	Richmond Kickers	0	0	1,808	League Game	LGE	Raleigh wins SO 3-2		As Scored	0	0	
+4/26/1997	Seattle Sounders	Colorado Foxes	2	3	2,505	League Game	LGE			As Scored	0	0	
+4/27/1997	Nashville Metros	El Paso Patriots	0	2	410	League Game	LGE			As Scored	0	0	
+4/27/1997	New Orleans Riverboat Gamblers	Minnesota Thunder	0	0	272	League Game	LGE	New Orleans wins SO 3-2		As Scored	0	0	
+4/30/1997	Vancouver 86ers	Orange County Zodiac	3	0	3,115	League Game	LGE			As Scored	0	0	
+5/2/1997	Atlanta Ruckus	Minnesota Thunder	1	0	1,262	League Game	LGE			As Scored	0	0	
+5/2/1997	New Orleans Riverboat Gamblers	Milwaukee Rampage	2	0	689	League Game	LGE			As Scored	0	0	
+5/2/1997	Orange County Zodiac	Seattle Sounders	1	2	1,875	League Game	LGE			As Scored	0	0	
+5/2/1997	Richmond Kickers	Hershey Wildcats	0	1	1,287	League Game	LGE			As Scored	0	0	
+5/2/1997	Worcester Wildfire	Toronto Lynx	1	3	2,356	League Game	LGE			As Scored	0	0	
+5/3/1997	Charleston Battery	Jacksonville Cyclones	3	2	1,554	League Game	LGE			As Scored	0	0	
+5/3/1997	Colorado Foxes	El Paso Patriots	4	3	2,325	League Game	LGE			As Scored	0	0	
+5/3/1997	Hershey Wildcats	Rochester Rhinos	1	3	4,372	League Game	LGE			As Scored	0	0	
+5/3/1997	Nashville Metros	Minnesota Thunder	1	0	810	League Game	LGE			As Scored	0	0	
+5/3/1997	Raleigh Flyers	Carolina Dynamo	2	2	2,116	League Game	LGE	Raleigh wins SO 3-1		As Scored	0	0	
+5/4/1997	California Jaguars	Seattle Sounders	3	1	1,300	League Game	LGE			As Scored	0	0	
+5/4/1997	Orlando Sundogs	Milwaukee Rampage	2	1	1,540	League Game	LGE			As Scored	0	0	
+5/4/1997	Richmond Kickers	Long Island Rough Riders	3	1	1,386	League Game	LGE			As Scored	0	0	
+5/7/1997	Vancouver 86ers	New Orleans Riverboat Gamblers	4	0	3,058	League Game	LGE			As Scored	0	0	
+5/9/1997	Charleston Battery	Rochester Rhinos	1	2	1,149	League Game	LGE			As Scored	0	0	
+5/9/1997	El Paso Patriots	Orlando Sundogs	1	1	3,185	League Game	LGE	El Paso wins SO 2-0		As Scored	0	0	
+5/9/1997	Richmond Kickers	Toronto Lynx	0	3	1,126	League Game	LGE			As Scored	0	0	
+5/9/1997	Worcester Wildfire	Raleigh Flyers	3	0	100	League Game	LGE			As Scored	0	0	
+5/10/1997	Carolina Dynamo	Jacksonville Cyclones	3	0	1,986	League Game	LGE			As Scored	0	0	
+5/10/1997	Connecticut Wolves	Raleigh Flyers	1	1	2,042	League Game	LGE			As Scored	0	0	
+5/10/1997	Hershey Wildcats	Richmond Kickers	0	1	0	League Game	LGE			As Scored	0	0	
+5/10/1997	Seattle Sounders	New Orleans Riverboat Gamblers	4	0	2,503	League Game	LGE			As Scored	0	0	
+5/11/1997	Colorado Foxes	Orlando Sundogs	5	1	100	League Game	LGE			As Scored	0	0	
+5/11/1997	Connecticut Wolves	Hershey Wildcats	1	2	1,205	League Game	LGE			As Scored	0	0	
+5/11/1997	Minnesota Thunder	Milwaukee Rampage	2	2	2,791	League Game	LGE	Milwaukee wins SO 1-0		As Scored	0	0	
+5/14/1997	Charleston Battery	Montreal Impact	0	2	1,498	League Game	LGE			As Scored	0	0	
+5/14/1997	Jacksonville Cyclones	Rochester Rhinos	0	1	1,759	League Game	LGE			As Scored	0	0	
+5/14/1997	Richmond Kickers	Raleigh Flyers	0	1	1,125	League Game	LGE			As Scored	0	0	
+5/16/1997	Carolina Dynamo	Rochester Rhinos	0	1	2,008	League Game	LGE			As Scored	0	0	
+5/16/1997	Milwaukee Rampage	El Paso Patriots	3	1	2,481	League Game	LGE			As Scored	0	0	
+5/16/1997	Nashville Metros	Seattle Sounders	0	1	2,814	League Game	LGE			As Scored	0	0	
+5/16/1997	New Orleans Riverboat Gamblers	Vancouver 86ers	2	4	1,265	League Game	LGE			As Scored	0	0	
+5/16/1997	Orange County Zodiac	Colorado Foxes	2	4	1,895	League Game	LGE			As Scored	0	0	
+5/16/1997	Raleigh Flyers	Montreal Impact	0	0	1,267	League Game	LGE	Raleigh wins SO 2-1		As Scored	0	0	
+5/16/1997	Worcester Wildfire	Long Island Rough Riders	0	3	1,957	League Game	LGE			As Scored	0	0	
+5/17/1997	Hershey Wildcats	Charleston Battery	5	0	3,010	League Game	LGE			As Scored	0	0	
+5/18/1997	Atlanta Ruckus	Seattle Sounders	0	0	3,782	League Game	LGE	Seattle wins 3-1 in SO		As Scored	0	0	
+5/18/1997	California Jaguars	Colorado Foxes	3	0	100	League Game	LGE			As Scored	0	0	
+5/18/1997	Connecticut Wolves	Long Island Rough Riders	0	2	1,117	League Game	LGE			As Scored	0	0	
+5/18/1997	Jacksonville Cyclones	Montreal Impact	0	3	1,581	League Game	LGE			As Scored	0	0	
+5/18/1997	Minnesota Thunder	El Paso Patriots	1	1	2,832	League Game	LGE	El Paso wins SO 1-0		As Scored	0	0	
+5/18/1997	Orlando Sundogs	Vancouver 86ers	0	2	1,100	League Game	LGE			As Scored	0	0	
+5/18/1997	Richmond Kickers	Carolina Dynamo	0	2	1,720	League Game	LGE			As Scored	0	0	
+5/19/1997	Toronto Lynx	Rochester Rhinos	3	2	1,492	League Game	LGE			As Scored	0	0	
+5/21/1997	Orange County Zodiac	California Jaguars	2	1	1,028	League Game	LGE			As Scored	0	0	
+5/22/1997	Jacksonville Cyclones	Orlando Sundogs	2	3	2,212	League Game	LGE			As Scored	0	0	
+5/23/1997	Atlanta Ruckus	Vancouver 86ers	3	2	2,800	League Game	LGE			As Scored	0	0	
+5/23/1997	Carolina Dynamo	Worcester Wildfire	4	1	100	League Game	LGE			As Scored	0	0	
+5/23/1997	Connecticut Wolves	Richmond Kickers	0	1	9,113	League Game	LGE			As Scored	0	0	
+5/23/1997	El Paso Patriots	California Jaguars	0	1	2,975	League Game	LGE			As Scored	0	0	
+5/23/1997	Minnesota Thunder	Hershey Wildcats	0	1	2,671	League Game	LGE			As Scored	0	0	
+5/23/1997	New Orleans Riverboat Gamblers	Seattle Sounders	0	2	1,103	League Game	LGE			As Scored	0	0	
+5/23/1997	Toronto Lynx	Charleston Battery	1	1	1,515	League Game	LGE	Toronto wins SO 2-0		As Scored	0	0	
+5/24/1997	Raleigh Flyers	Jacksonville Cyclones	1	2	1,647	League Game	LGE			As Scored	0	0	
+5/25/1997	Colorado Foxes	California Jaguars	3	2	727	League Game	LGE			As Scored	0	0	
+5/25/1997	Milwaukee Rampage	Hershey Wildcats	0	2	1,123	League Game	LGE			As Scored	0	0	
+5/25/1997	Montreal Impact	Charleston Battery	2	0	5,754	League Game	LGE			As Scored	0	0	
+5/25/1997	Nashville Metros	Vancouver 86ers	1	2	936	League Game	LGE			As Scored	0	0	
+5/25/1997	Orlando Sundogs	Seattle Sounders	1	0	1,611	League Game	LGE			As Scored	0	0	
+5/25/1997	Richmond Kickers	Worcester Wildfire	3	2	1,153	League Game	LGE			As Scored	0	0	
+5/26/1997	Rochester Rhinos	Toronto Lynx	2	3	12,153	League Game	LGE			As Scored	0	0	
+5/28/1997	Vancouver 86ers	El Paso Patriots	0	0	2,909	League Game	LGE	Vancouver wins SO 3-0		As Scored	0	0	
+5/29/1997	Atlanta Ruckus	Colorado Foxes	1	1	100	League Game	LGE	Atlanta wins 2-1 in SO		As Scored	0	0	
+5/29/1997	Richmond Kickers	Carolina Dynamo	2	1	1,024	League Game	LGE			As Scored	0	0	
+5/30/1997	California Jaguars	New Orleans Riverboat Gamblers	2	3	100	League Game	LGE			As Scored	0	0	
+5/30/1997	Hershey Wildcats	Montreal Impact	1	2	2,400	League Game	LGE			As Scored	0	0	
+5/30/1997	Orlando Sundogs	Nashville Metros	1	1	3,842	League Game	LGE	Nashville wins SO 2-1		As Scored	0	0	
+5/30/1997	Raleigh Flyers	Connecticut Wolves	0	2	1,492	League Game	LGE			As Scored	0	0	
+5/30/1997	Worcester Wildfire	Jacksonville Cyclones	1	0	1,143	League Game	LGE			As Scored	0	0	
+5/31/1997	Carolina Dynamo	Connecticut Wolves	0	0	4,144	League Game	LGE	Connecticut wins SO 2-0		As Scored	0	0	
+5/31/1997	Charleston Battery	Atlanta Ruckus	2	2	2,005	League Game	LGE	Atlanta wins 3-2 in SO		As Scored	0	0	
+5/31/1997	Milwaukee Rampage	Minnesota Thunder	0	1	3,782	League Game	LGE			As Scored	0	0	
+5/31/1997	Nashville Metros	Colorado Foxes	3	3	100	League Game	LGE	Colorado wins SO 1-0		As Scored	0	0	
+6/1/1997	Hershey Wildcats	Rochester Rhinos	2	1	1,606	League Game	LGE			As Scored	0	0	
+6/1/1997	Long Island Rough Riders	Richmond Kickers	0	1	4,086	League Game	LGE			As Scored	0	0	
+6/1/1997	Montreal Impact	Jacksonville Cyclones	2	0	3,163	League Game	LGE			As Scored	0	0	
+6/1/1997	Orange County Zodiac	New Orleans Riverboat Gamblers	1	0	2,168	League Game	LGE			As Scored	0	0	
+6/1/1997	Seattle Sounders	El Paso Patriots	0	0	2,006	League Game	LGE	Seattle wins SO 4-3		As Scored	0	0	
+6/6/1997	El Paso Patriots	New Orleans Riverboat Gamblers	1	3	2,657	League Game	LGE			As Scored	0	0	
+6/6/1997	Milwaukee Rampage	California Jaguars	1	2	4,118	League Game	LGE			As Scored	0	0	
+6/6/1997	Toronto Lynx	Carolina Dynamo	2	0	1,634	League Game	LGE			As Scored	0	0	
+6/6/1997	Vancouver 86ers	Atlanta Ruckus	1	0	3,095	League Game	LGE			As Scored	0	0	
+6/6/1997	Worcester Wildfire	Hershey Wildcats	1	1	1,982	League Game	LGE	Hershey wins SO 2-1		As Scored	0	0	
+6/7/1997	Charleston Battery	Richmond Kickers	2	4	1,272	League Game	LGE			As Scored	0	0	
+6/7/1997	Long Island Rough Riders	Raleigh Flyers	6	1	7,137	League Game	LGE			As Scored	0	0	
+6/7/1997	Orange County Zodiac	El Paso Patriots	2	1	1,747	League Game	LGE			As Scored	0	0	
+6/7/1997	Orlando Sundogs	Nashville Metros	3	0	903	League Game	LGE			As Scored	0	0	
+6/7/1997	Rochester Rhinos	Jacksonville Cyclones	5	4	8,677	League Game	LGE			As Scored	0	0	
+6/8/1997	Colorado Foxes	New Orleans Riverboat Gamblers	2	3	727	League Game	LGE			As Scored	0	0	
+6/8/1997	Hershey Wildcats	Raleigh Flyers	3	2	1,981	League Game	LGE			As Scored	0	0	
+6/8/1997	Minnesota Thunder	California Jaguars	0	1	2,176	League Game	LGE			As Scored	0	0	
+6/8/1997	Montreal Impact	Carolina Dynamo	2	1	100	League Game	LGE			As Scored	0	0	
+6/8/1997	Seattle Sounders	Atlanta Ruckus	7	0	2,027	League Game	LGE			As Scored	0	0	
+6/8/1997	Toronto Lynx	Jacksonville Cyclones	4	1	1,055	League Game	LGE			As Scored	0	0	
+6/11/1997	Long Island Rough Riders	Richmond Kickers	1	1	2,122	League Game	LGE	Long Island wins SO 1-0		As Scored	0	0	
+6/12/1997	Connecticut Wolves	Montreal Impact	0	3	689	League Game	LGE			As Scored	0	0	
+6/13/1997	Carolina Dynamo	Charleston Battery	4	1	2,213	League Game	LGE			As Scored	0	0	
+6/13/1997	El Paso Patriots	Orange County Zodiac	1	2	3,240	League Game	LGE			As Scored	0	0	
+6/13/1997	Nashville Metros	Atlanta Ruckus	2	0	852	League Game	LGE			As Scored	0	0	
+6/13/1997	Orlando Sundogs	California Jaguars	5	0	940	League Game	LGE			As Scored	0	0	
+6/13/1997	Rochester Rhinos	Worcester Wildfire	4	0	8,504	League Game	LGE			As Scored	0	0	
+6/14/1997	Jacksonville Cyclones	Nashville Metros	1	5	2,196	League Game	LGE			As Scored	0	0	
+6/14/1997	Long Island Rough Riders	Hershey Wildcats	0	1	4,866	League Game	LGE			As Scored	0	0	
+6/14/1997	Minnesota Thunder	Milwaukee Rampage	1	0	4,862	League Game	LGE			As Scored	0	0	
+6/14/1997	Seattle Sounders	Vancouver 86ers	2	1	2,196	League Game	LGE			As Scored	0	0	
+6/15/1997	Colorado Foxes	Orange County Zodiac	3	1	820	League Game	LGE			As Scored	0	0	
+6/15/1997	Hershey Wildcats	Long Island Rough Riders	2	1	2,522	League Game	LGE			As Scored	0	0	
+6/15/1997	New Orleans Riverboat Gamblers	California Jaguars	2	1	1,128	League Game	LGE			As Scored	0	0	
+6/15/1997	Raleigh Flyers	Carolina Dynamo	0	2	1,350	League Game	LGE			As Scored	0	0	
+6/15/1997	Rochester Rhinos	Connecticut Wolves	4	2	9,319	League Game	LGE			As Scored	0	0	
+6/15/1997	Toronto Lynx	Worcester Wildfire	2	1	1,743	League Game	LGE			As Scored	0	0	
+6/18/1997	Long Island Rough Riders	Connecticut Wolves	1	1	1,538	League Game	LGE	Connecticut wins SO 1-0		As Scored	0	0	
+6/18/1997	Montreal Impact	Toronto Lynx	0	1	2,933	League Game	LGE			As Scored	0	0	
+6/20/1997	Atlanta Ruckus	New Orleans Riverboat Gamblers	1	2	4,283	League Game	LGE			As Scored	0	0	
+6/20/1997	California Jaguars	Milwaukee Rampage	3	0	100	League Game	LGE			As Scored	0	0	
+6/20/1997	Carolina Dynamo	Richmond Kickers	3	2	2,947	League Game	LGE			As Scored	0	0	
+6/20/1997	Connecticut Wolves	Toronto Lynx	1	2	1,209	League Game	LGE			As Scored	0	0	
+6/20/1997	El Paso Patriots	Nashville Metros	1	1	4,820	League Game	LGE	Nashville wins SO 1-0		As Scored	0	0	
+6/20/1997	Seattle Sounders	Orlando Sundogs	2	1	2,093	League Game	LGE			As Scored	0	0	
+6/20/1997	Worcester Wildfire	Charleston Battery	0	1	1,628	League Game	LGE			As Scored	0	0	
+6/21/1997	Long Island Rough Riders	Toronto Lynx	1	0	6,860	League Game	LGE			As Scored	0	0	
+6/21/1997	New Orleans Riverboat Gamblers	Atlanta Ruckus	3	0	1,589	League Game	LGE			As Scored	0	0	
+6/21/1997	Raleigh Flyers	Rochester Rhinos	2	1	1,922	League Game	LGE			As Scored	0	0	
+6/22/1997	Colorado Foxes	Nashville Metros	2	1	100	League Game	LGE			As Scored	0	0	
+6/22/1997	Connecticut Wolves	Charleston Battery	0	0	100	League Game	LGE	Connecticut wins SO 2-1		As Scored	0	0	
+6/22/1997	Hershey Wildcats	Worcester Wildfire	4	0	3,061	League Game	LGE			As Scored	0	0	
+6/22/1997	Orange County Zodiac	Milwaukee Rampage	1	2	1,021	League Game	LGE			As Scored	0	0	
+6/22/1997	Richmond Kickers	Rochester Rhinos	2	3	3,021	League Game	LGE			As Scored	0	0	
+6/22/1997	Vancouver 86ers	Orlando Sundogs	4	1	3,373	League Game	LGE			As Scored	0	0	
+6/25/1997	Colorado Foxes	Atlanta Ruckus	2	1	1,300	League Game	LGE			As Scored	0	0	
+6/25/1997	Montreal Impact	Worcester Wildfire	6	0	2,834	League Game	LGE			As Scored	0	0	
+6/25/1997	Rochester Rhinos	Carolina Dynamo	3	2	8,525	League Game	LGE			As Scored	0	0	
+6/25/1997	Vancouver 86ers	Seattle Sounders	0	1	3,563	League Game	LGE			As Scored	0	0	
+6/26/1997	Orlando Sundogs	Jacksonville Cyclones	3	0	939	League Game	LGE			As Scored	0	0	
+6/27/1997	Charleston Battery	Connecticut Wolves	2	0	1,050	League Game	LGE			As Scored	0	0	
+6/27/1997	El Paso Patriots	Atlanta Ruckus	3	2	2,980	League Game	LGE			As Scored	0	0	
+6/27/1997	Minnesota Thunder	Vancouver 86ers	1	1	3,108	League Game	LGE	Minnesota wins SO 2-1		As Scored	0	0	
+6/27/1997	New Orleans Riverboat Gamblers	Colorado Foxes	2	2	831	League Game	LGE	New Orleans wins SO 3-2		As Scored	0	0	
+6/27/1997	Orange County Zodiac	Nashville Metros	1	4	850	League Game	LGE			As Scored	0	0	
+6/27/1997	Seattle Sounders	California Jaguars	2	0	3,124	League Game	LGE			As Scored	0	0	
+6/28/1997	Jacksonville Cyclones	Connecticut Wolves	2	0	1,893	League Game	LGE			As Scored	0	0	
+6/28/1997	Raleigh Flyers	Long Island Rough Riders	3	1	2,094	League Game	LGE			As Scored	0	0	
+6/28/1997	Worcester Wildfire	Montreal Impact	0	0	1,174	League Game	LGE	Montreal wins SO 4-3		As Scored	0	0	
+6/29/1997	California Jaguars	Nashville Metros	3	1	100	League Game	LGE			As Scored	0	0	
+6/29/1997	Carolina Dynamo	Long Island Rough Riders	4	1	3,825	League Game	LGE			As Scored	0	0	
+6/29/1997	Milwaukee Rampage	Vancouver 86ers	2	1	3,652	League Game	LGE			As Scored	0	0	
+6/29/1997	Orlando Sundogs	Colorado Foxes	2	1	1,544	League Game	LGE			As Scored	0	0	
+7/2/1997	Charleston Battery	Long Island Rough Riders	2	1	1,596	League Game	LGE			As Scored	0	0	
+7/2/1997	Montreal Impact	Toronto Lynx	1	0	3,865	League Game	LGE			As Scored	0	0	
+7/3/1997	Colorado Foxes	California Jaguars	3	1	2,154	League Game	LGE			As Scored	0	0	
+7/3/1997	Orlando Sundogs	El Paso Patriots	0	1	701	League Game	LGE			As Scored	0	0	
+7/4/1997	Atlanta Ruckus	Orange County Zodiac	4	2	1,269	League Game	LGE			As Scored	0	0	
+7/4/1997	Milwaukee Rampage	Seattle Sounders	1	2	2,877	League Game	LGE			As Scored	0	0	
+7/4/1997	Minnesota Thunder	Nashville Metros	0	0	5,281	League Game	LGE	Nashville wins SO 2-1		As Scored	0	0	
+7/4/1997	Raleigh Flyers	Charleston Battery	2	2	2,747	League Game	LGE	Charleston wins SO 4-1		As Scored	0	0	
+7/4/1997	Rochester Rhinos	Montreal Impact	1	0	10,875	League Game	LGE			As Scored	0	0	
+7/5/1997	Jacksonville Cyclones	Carolina Dynamo	0	3	1,708	League Game	LGE			As Scored	0	0	
+7/5/1997	New Orleans Riverboat Gamblers	El Paso Patriots	3	0	1,076	League Game	LGE			As Scored	0	0	
+7/5/1997	Toronto Lynx	Richmond Kickers	0	2	1,776	League Game	LGE			As Scored	0	0	
+7/6/1997	Hershey Wildcats	Connecticut Wolves	3	1	2,943	League Game	LGE			As Scored	0	0	
+7/6/1997	Long Island Rough Riders	Worcester Wildfire	2	1	3,371	League Game	LGE			As Scored	0	0	
+7/6/1997	Minnesota Thunder	Seattle Sounders	1	0	1,165	League Game	LGE			As Scored	0	0	
+7/6/1997	Montreal Impact	Rochester Rhinos	6	1	4,267	League Game	LGE			As Scored	0	0	
+7/6/1997	Nashville Metros	Orange County Zodiac	6	1	2,123	League Game	LGE			As Scored	0	0	
+7/9/1997	Montreal Impact	Richmond Kickers	1	0	5,823	League Game	LGE			As Scored	0	0	
+7/9/1997	Vancouver 86ers	California Jaguars	2	0	3,452	League Game	LGE			As Scored	0	0	
+7/11/1997	California Jaguars	Colorado Foxes	2	0	600	League Game	LGE			As Scored	0	0	
+7/11/1997	El Paso Patriots	Vancouver 86ers	1	0	3,045	League Game	LGE			As Scored	0	0	
+7/11/1997	Jacksonville Cyclones	Raleigh Flyers	1	4	1,278	League Game	LGE			As Scored	0	0	
+7/11/1997	Milwaukee Rampage	Orange County Zodiac	2	1	3,481	League Game	LGE			As Scored	0	0	
+7/11/1997	Orlando Sundogs	New Orleans Riverboat Gamblers	2	1	1,124	League Game	LGE			As Scored	0	0	
+7/11/1997	Worcester Wildfire	Hershey Wildcats	2	1	1,097	League Game	LGE			As Scored	0	0	
+7/12/1997	Atlanta Ruckus	Carolina Dynamo	1	2	1,964	League Game	LGE			As Scored	0	0	
+7/12/1997	Charleston Battery	Raleigh Flyers	2	2	2,275	League Game	LGE	Charleston wins SO 2-0		As Scored	0	0	
+7/12/1997	Minnesota Thunder	Orange County Zodiac	1	1	5,301	League Game	LGE			As Scored	0	0	
+7/12/1997	Rochester Rhinos	Richmond Kickers	0	1	12,857	League Game	LGE			As Scored	0	0	
+7/13/1997	Colorado Foxes	Vancouver 86ers	2	1	463	League Game	LGE			As Scored	0	0	
+7/13/1997	Connecticut Wolves	Worcester Wildfire	2	1	2,056	League Game	LGE			As Scored	0	0	
+7/13/1997	Hershey Wildcats	Toronto Lynx	1	0	3,322	League Game	LGE			As Scored	0	0	
+7/13/1997	New Orleans Riverboat Gamblers	Orlando Sundogs	3	1	873	League Game	LGE			As Scored	0	0	
+7/14/1997	Minnesota Thunder	Atlanta Ruckus	2	1	6,266	League Game	LGE			As Scored	0	0	
+7/16/1997	Long Island Rough Riders	Rochester Rhinos	1	1	3,491	League Game	LGE	Long Island wins SO 3-2		As Scored	0	0	
+7/16/1997	Montreal Impact	Raleigh Flyers	4	0	6,533	League Game	LGE			As Scored	0	0	
+7/17/1997	Nashville Metros	Jacksonville Cyclones	5	0	1,840	League Game	LGE			As Scored	0	0	
+7/18/1997	California Jaguars	Orlando Sundogs	0	1	850	League Game	LGE			As Scored	0	0	
+7/18/1997	Carolina Dynamo	Toronto Lynx	2	0	2,106	League Game	LGE			As Scored	0	0	
+7/18/1997	Richmond Kickers	Montreal Impact	1	2	1,661	League Game	LGE			As Scored	0	0	
+7/18/1997	Rochester Rhinos	Hershey Wildcats	2	4	11,835	League Game	LGE			As Scored	0	0	
+7/19/1997	El Paso Patriots	Colorado Foxes	0	2	1,638	League Game	LGE			As Scored	0	0	
+7/19/1997	Milwaukee Rampage	Nashville Metros	0	0	3,873	League Game	LGE	Nashville wins SO 2-1		As Scored	0	0	
+7/19/1997	New Orleans Riverboat Gamblers	Jacksonville Cyclones	3	0	1,479	League Game	LGE			As Scored	0	0	
+7/19/1997	Raleigh Flyers	Toronto Lynx	1	0	2,026	League Game	LGE			As Scored	0	0	
+7/19/1997	Worcester Wildfire	Connecticut Wolves	0	2	1,323	League Game	LGE			As Scored	0	0	
+7/20/1997	Long Island Rough Riders	Connecticut Wolves	2	1	4,277	League Game	LGE			As Scored	0	0	
+7/20/1997	Montreal Impact	Hershey Wildcats	2	4	6,421	League Game	LGE			As Scored	0	0	
+7/20/1997	Orange County Zodiac	Orlando Sundogs	1	4	711	League Game	LGE			As Scored	0	0	
+7/20/1997	Richmond Kickers	Charleston Battery	3	1	1,608	League Game	LGE			As Scored	0	0	
+7/20/1997	Vancouver 86ers	Minnesota Thunder	0	1	3,408	League Game	LGE			As Scored	0	0	
+7/25/1997	California Jaguars	Minnesota Thunder	3	0	100	League Game	LGE			As Scored	0	0	
+7/25/1997	El Paso Patriots	Milwaukee Rampage	1	2	2,038	League Game	LGE			As Scored	0	0	
+7/25/1997	Jacksonville Cyclones	Hershey Wildcats	1	4	1,460	League Game	LGE			As Scored	0	0	
+7/25/1997	Montreal Impact	Long Island Rough Riders	4	3	6,257	League Game	LGE			As Scored	0	0	
+7/25/1997	Nashville Metros	Orlando Sundogs	0	0	1,286	League Game	LGE	Nashville wins SO 2-1		As Scored	0	0	
+7/25/1997	Toronto Lynx	Rochester Rhinos	1	1	1,488	League Game	LGE	Toronto wins SO 1-0		As Scored	0	0	
+7/25/1997	Worcester Wildfire	Carolina Dynamo	2	3	1,211	League Game	LGE			As Scored	0	0	
+7/26/1997	Charleston Battery	Hershey Wildcats	3	1	2,163	League Game	LGE			As Scored	0	0	
+7/26/1997	Richmond Kickers	Connecticut Wolves	2	0	1,942	League Game	LGE			As Scored	0	0	
+7/27/1997	Atlanta Ruckus	Orlando Sundogs	4	0	1,458	League Game	LGE			As Scored	0	0	
+7/27/1997	Colorado Foxes	Milwaukee Rampage	1	2	753	League Game	LGE			As Scored	0	0	
+7/27/1997	Connecticut Wolves	Carolina Dynamo	0	6	1,297	League Game	LGE			As Scored	0	0	
+7/27/1997	Long Island Rough Riders	Rochester Rhinos	2	1	3,062	League Game	LGE			As Scored	0	0	
+7/27/1997	New Orleans Riverboat Gamblers	El Paso Patriots	4	2	1,580	League Game	LGE			As Scored	0	0	
+7/27/1997	Orange County Zodiac	Minnesota Thunder	1	2	950	League Game	LGE			As Scored	0	0	
+7/27/1997	Seattle Sounders	California Jaguars	0	0	3,027	League Game	LGE	California wins SO 3-1		As Scored	0	0	
+7/27/1997	Toronto Lynx	Montreal Impact	2	1	1,874	League Game	LGE			As Scored	0	0	
+7/31/1997	Colorado Foxes	El Paso Patriots	2	1	675	League Game	LGE			As Scored	0	0	
+8/1/1997	Atlanta Ruckus	Charleston Battery	1	0	4,896	League Game	LGE			As Scored	0	0	
+8/1/1997	California Jaguars	Orange County Zodiac	1	3	350	League Game	LGE			As Scored	0	0	
+8/1/1997	Carolina Dynamo	New Orleans Riverboat Gamblers	2	1	3,318	League Game	LGE			As Scored	0	0	
+8/1/1997	Connecticut Wolves	Jacksonville Cyclones	1	1	2,031	League Game	LGE	Jacksonville wins SO 3-2		As Scored	0	0	
+8/1/1997	Vancouver 86ers	Milwaukee Rampage	3	1	3,699	League Game	LGE			As Scored	0	0	
+8/2/1997	El Paso Patriots	Colorado Foxes	3	2	4,412	League Game	LGE			As Scored	0	0	
+8/2/1997	Hershey Wildcats	Minnesota Thunder	0	1	4,211	League Game	LGE			As Scored	0	0	
+8/2/1997	Orlando Sundogs	Atlanta Ruckus	2	2	732	League Game	LGE	Atlanta wins so 4-2		As Scored	0	0	
+8/2/1997	Richmond Kickers	New Orleans Riverboat Gamblers	0	1	3,842	League Game	LGE			As Scored	0	0	
+8/2/1997	Rochester Rhinos	Raleigh Flyers	1	1	9,413	League Game	LGE	Raleigh wins SO 2-1		As Scored	0	0	
+8/2/1997	Seattle Sounders	Milwaukee Rampage	1	1	3,527	League Game	LGE	Milwaukee wins SO 2-1		As Scored	0	0	
+8/2/1997	Worcester Wildfire	Connecticut Wolves	1	3	1,185	League Game	LGE			As Scored	0	0	
+8/3/1997	Long Island Rough Riders	Jacksonville Cyclones	4	0	2,987	League Game	LGE			As Scored	0	0	
+8/3/1997	Nashville Metros	Charleston Battery	1	0	1,274	League Game	LGE			As Scored	0	0	
+8/3/1997	Orange County Zodiac	California Jaguars	0	1	750	League Game	LGE			As Scored	0	0	
+8/3/1997	Toronto Lynx	Raleigh Flyers	4	2	1,463	League Game	LGE			As Scored	0	0	
+8/6/1997	Long Island Rough Riders	Carolina Dynamo	0	0	6,231	League Game	LGE	Carolina wins SO 3-2		As Scored	0	0	
+8/6/1997	Milwaukee Rampage	Minnesota Thunder	1	0	2,833	League Game	LGE			As Scored	0	0	
+8/6/1997	Toronto Lynx	Montreal Impact	0	1	1,651	League Game	LGE			As Scored	0	0	
+8/6/1997	Vancouver 86ers	Nashville Metros	5	0	3,538	League Game	LGE			As Scored	0	0	
+8/8/1997	Orange County Zodiac	Atlanta Ruckus	3	2	468	League Game	LGE			As Scored	0	0	
+8/8/1997	Raleigh Flyers	Worcester Wildfire	3	1	1,380	League Game	LGE			As Scored	0	0	
+8/8/1997	Rochester Rhinos	Connecticut Wolves	1	2	10,217	League Game	LGE			As Scored	0	0	
+8/8/1997	Seattle Sounders	Nashville Metros	2	0	2,517	League Game	LGE			As Scored	0	0	
+8/8/1997	Vancouver 86ers	Colorado Foxes	5	1	3,744	League Game	LGE			As Scored	0	0	
+8/9/1997	Charleston Battery	Worcester Wildfire	3	0	1,754	League Game	LGE			As Scored	0	0	
+8/9/1997	Jacksonville Cyclones	Richmond Kickers	3	1	2,872	League Game	LGE			As Scored	0	0	
+8/9/1997	Long Island Rough Riders	Montreal Impact	1	0	4,135	League Game	LGE			As Scored	0	0	
+8/9/1997	Milwaukee Rampage	Orlando Sundogs	3	0	4,428	League Game	LGE			As Scored	0	0	
+8/10/1997	California Jaguars	Atlanta Ruckus	2	1	500	League Game	LGE			As Scored	0	0	
+8/10/1997	El Paso Patriots	Orange County Zodiac	2	3	2,185	League Game	LGE			As Scored	0	0	
+8/10/1997	Hershey Wildcats	Carolina Dynamo	2	3	3,721	League Game	LGE			As Scored	0	0	
+8/10/1997	Minnesota Thunder	Orlando Sundogs	1	0	6,519	League Game	LGE			As Scored	0	0	
+8/10/1997	Seattle Sounders	Colorado Foxes	3	0	3,008	League Game	LGE			As Scored	0	0	
+8/10/1997	Toronto Lynx	Connecticut Wolves	1	0	1,634	League Game	LGE			As Scored	0	0	
+8/13/1997	Montreal Impact	Long Island Rough Riders	0	1	6,825	League Game	LGE			As Scored	0	0	
+8/14/1997	Colorado Foxes	Minnesota Thunder	4	1	768	League Game	LGE			As Scored	0	0	
+8/14/1997	New Orleans Riverboat Gamblers	Nashville Metros	3	3	959	League Game	LGE	New Orleans wins SO 2-0		As Scored	0	0	
+8/15/1997	Hershey Wildcats	Milwaukee Rampage	0	1	3,363	League Game	LGE			As Scored	0	0	
+8/15/1997	Rochester Rhinos	Charleston Battery	1	0	10,380	League Game	LGE			As Scored	0	0	
+8/15/1997	Seattle Sounders	Orange County Zodiac	2	0	3,591	League Game	LGE			As Scored	0	0	
+8/15/1997	Worcester Wildfire	Toronto Lynx	2	1	817	League Game	LGE			As Scored	0	0	
+8/16/1997	Carolina Dynamo	Montreal Impact	1	2	3,847	League Game	LGE			As Scored	0	0	
+8/16/1997	El Paso Patriots	Minnesota Thunder	2	3	1,058	League Game	LGE			As Scored	0	0	
+8/16/1997	Jacksonville Cyclones	Atlanta Ruckus	1	2	1,207	League Game	LGE			As Scored	0	0	
+8/16/1997	Long Island Rough Riders	Charleston Battery	3	0	3,889	League Game	LGE			As Scored	0	0	
+8/16/1997	New Orleans Riverboat Gamblers	Nashville Metros	1	5	1,549	League Game	LGE			As Scored	0	0	
+8/16/1997	Raleigh Flyers	Richmond Kickers	1	4	1,260	League Game	LGE			As Scored	0	0	
+8/17/1997	Rochester Rhinos	Milwaukee Rampage	2	2	11,997	League Game	LGE	Milwaukee wins SO 4-2		As Scored	0	0	
+8/17/1997	Toronto Lynx	Worcester Wildfire	0	1	1,380	League Game	LGE			As Scored	0	0	
+8/17/1997	Vancouver 86ers	Orange County Zodiac	3	1	4,089	League Game	LGE			As Scored	0	0	
+8/18/1997	Seattle Sounders	Minnesota Thunder	0	0	3,536	League Game	LGE	Minnesota wins SO 1-0		As Scored	0	0	
+8/20/1997	Montreal Impact	Connecticut Wolves	2	0	7,083	League Game	LGE			As Scored	0	0	
+8/22/1997	Atlanta Ruckus	Nashville Metros	0	1	3,107	League Game	LGE			As Scored	0	0	
+8/22/1997	California Jaguars	Orange County Zodiac	6	1	1,000	League Game	LGE			As Scored	0	0	
+8/22/1997	Charleston Battery	Raleigh Flyers	0	1	3,498	League Game	LGE			As Scored	0	0	
+8/22/1997	El Paso Patriots	Seattle Sounders	2	3	1,120	League Game	LGE			As Scored	0	0	
+8/22/1997	Minnesota Thunder	New Orleans Riverboat Gamblers	2	0	3,703	League Game	LGE			As Scored	0	0	
+8/22/1997	Richmond Kickers	Jacksonville Cyclones	2	1	3,918	League Game	LGE			As Scored	0	0	
+8/22/1997	Worcester Wildfire	Rochester Rhinos	2	2	3,511	League Game	LGE	Worcester wins SO 2-1		As Scored	0	0	
+8/23/1997	Carolina Dynamo	Atlanta Ruckus	2	3	3,086	League Game	LGE			As Scored	0	0	
+8/23/1997	Nashville Metros	Orlando Sundogs	1	0	2,650	League Game	LGE			As Scored	0	0	
+8/23/1997	Raleigh Flyers	Charleston Battery	1	2	2,220	League Game	LGE			As Scored	0	0	
+8/24/1997	Colorado Foxes	Seattle Sounders	1	0	965	League Game	LGE			As Scored	0	0	
+8/24/1997	Connecticut Wolves	Rochester Rhinos	1	3	2,410	League Game	LGE			As Scored	0	0	
+8/24/1997	Hershey Wildcats	Jacksonville Cyclones	4	1	4,205	League Game	LGE			As Scored	0	0	
+8/24/1997	Milwaukee Rampage	New Orleans Riverboat Gamblers	2	3	3,471	League Game	LGE			As Scored	0	0	
+8/24/1997	Montreal Impact	Minnesota Thunder	4	0	7,517	League Game	LGE			As Scored	0	0	
+8/24/1997	Orange County Zodiac	Vancouver 86ers	1	0	750	League Game	LGE			As Scored	0	0	
+8/24/1997	Toronto Lynx	Long Island Rough Riders	3	4	1,456	League Game	LGE			As Scored	0	0	
+8/26/1997	California Jaguars	Vancouver 86ers	2	0	500	League Game	LGE			As Scored	0	0	
+8/26/1997	Milwaukee Rampage	Atlanta Ruckus	0	1	1,828	League Game	LGE			As Scored	0	0	
+8/27/1997	Carolina Dynamo	Raleigh Flyers	5	1	765	League Game	LGE			As Scored	0	0	
+8/29/1997	Connecticut Wolves	Richmond Kickers	4	2	3,422	League Game	LGE			As Scored	0	0	
+8/29/1997	El Paso Patriots	New Orleans Riverboat Gamblers	0	0	2,873	League Game	LGE	El Paso wins 2-1 on PK's		As Scored	0	0	
+8/29/1997	Milwaukee Rampage	Montreal Impact	1	2	2,919	League Game	LGE			As Scored	0	0	
+8/29/1997	Minnesota Thunder	Colorado Foxes	0	1	3,391	League Game	LGE			As Scored	0	0	
+8/29/1997	Orlando Sundogs	Orange County Zodiac	3	0	853	League Game	LGE			As Scored	0	0	
+8/29/1997	Rochester Rhinos	Long Island Rough Riders	4	0	13,510	League Game	LGE			As Scored	0	0	
+8/29/1997	Vancouver 86ers	Seattle Sounders	2	1	4,650	League Game	LGE			As Scored	0	0	
+8/30/1997	Atlanta Ruckus	Orlando Sundogs	1	2	2,189	League Game	LGE			As Scored	0	0	
+8/30/1997	Jacksonville Cyclones	Charleston Battery	2	4	2,020	League Game	LGE			As Scored	0	0	
+8/30/1997	Nashville Metros	California Jaguars	0	2	1,235	League Game	LGE			As Scored	0	0	
+8/30/1997	Worcester Wildfire	Richmond Kickers	1	2	1,619	League Game	LGE			As Scored	0	0	
+8/31/1997	Connecticut Wolves	Worcester Wildfire	4	0	3,903	League Game	LGE			As Scored	0	0	
+8/31/1997	Milwaukee Rampage	Colorado Foxes	2	1	3,441	League Game	LGE			As Scored	0	0	
+8/31/1997	Minnesota Thunder	Montreal Impact	0	4	3,867	League Game	LGE			As Scored	0	0	
+8/31/1997	New Orleans Riverboat Gamblers	Orange County Zodiac	0	1	833	League Game	LGE			As Scored	0	0	
+8/31/1997	Toronto Lynx	Hershey Wildcats	3	4	1,372	League Game	LGE			As Scored	0	0	
+9/1/1997	Atlanta Ruckus	California Jaguars	2	3	1,128	League Game	LGE			As Scored	0	0	
+9/1/1997	Charleston Battery	Carolina Dynamo	1	4	1,760	League Game	LGE			As Scored	0	0	
+9/1/1997	Rochester Rhinos	Toronto Lynx	3	2	11,219	League Game	LGE			As Scored	0	0	

@@ -1,0 +1,421 @@
+Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Referee	Awarded	Round	Period	
+4/9/1999	Orange County Zodiac	San Diego Flash	2	1	1,200	League Game	LGE			As Scored	0	0	
+4/10/1999	San Diego Flash	Orange County Zodiac	2	1	3,726	League Game	LGE			As Scored	0	0	
+4/15/1999	Orange County Zodiac	US Pro 40	1	1	623	League Game	LGE			As Scored	0	0	
+4/16/1999	Jacksonville Cyclones	Boston Bulldogs	1	3	625	League Game	LGE			As Scored	0	0	
+4/17/1999	Atlanta Silverbacks	Connecticut Wolves	1	0	8,613	League Game	LGE			As Scored	0	0	
+4/17/1999	Orange County Zodiac	SFB Seals	4	2	557	League Game	LGE			As Scored	0	0	
+4/17/1999	San Diego Flash	US Pro 40	5	2	2,606	League Game	LGE			As Scored	0	0	
+4/18/1999	Jacksonville Cyclones	Connecticut Wolves	4	3	100	League Game	LGE			As Scored	0	0	
+4/24/1999	Charleston Battery	Atlanta Silverbacks	3	0	5,186	League Game	LGE			As Scored	0	0	
+4/24/1999	Connecticut Wolves	Boston Bulldogs	1	0	3,132	League Game	LGE			As Scored	0	0	
+4/24/1999	El Paso Patriots	San Diego Flash	3	4	3,420	League Game	LGE			As Scored	0	0	
+4/24/1999	Hampton Roads Mariners	Hershey Wildcats	2	1	2,643	League Game	LGE			As Scored	0	0	
+4/24/1999	Long Island Rough Riders	Richmond Kickers	0	1	3,208	League Game	LGE			As Scored	0	0	
+4/24/1999	Raleigh Capital Express	Jacksonville Cyclones	0	2	1,792	League Game	LGE			As Scored	0	0	
+4/24/1999	Sacramento Geckos	SFB Seals	0	2	100	League Game	LGE			As Scored	0	0	
+4/24/1999	Tennessee Rhythm	Indiana Blast	1	3	325	League Game	LGE			As Scored	0	0	
+4/29/1999	Raleigh Capital Express	Maryland Mania	2	0	787	League Game	LGE			As Scored	0	0	
+4/30/1999	Boston Bulldogs	Lehigh Valley Steam	1	1	735	League Game	LGE			As Scored	0	0	
+4/30/1999	El Paso Patriots	US Pro 40	2	0	4,310	League Game	LGE			As Scored	0	0	
+4/30/1999	New Orleans Storm	Indiana Blast	2	0	2,245	League Game	LGE			As Scored	0	0	
+4/30/1999	San Diego Flash	Tennessee Rhythm	1	1	2,116	League Game	LGE			As Scored	0	0	
+5/1/1999	Atlanta Silverbacks	Jacksonville Cyclones	1	0	3,284	League Game	LGE			As Scored	0	0	
+5/1/1999	Charleston Battery	Raleigh Capital Express	0	0	2,476	League Game	LGE			As Scored	0	0	
+5/1/1999	Long Island Rough Riders	Hershey Wildcats	2	1	1,705	League Game	LGE			As Scored	0	0	
+5/1/1999	Orange County Zodiac	Tennessee Rhythm	5	1	826	League Game	LGE			As Scored	0	0	
+5/1/1999	Pittsburgh Riverhounds	Cincinnati Riverhawks	2	2	5,639	League Game	LGE			As Scored	0	0	
+5/1/1999	Richmond Kickers	Hampton Roads Mariners	1	1	2,179	League Game	LGE			As Scored	0	0	
+5/1/1999	Rochester Rhinos	Minnesota Thunder	0	1	12,870	League Game	LGE			As Scored	0	0	
+5/1/1999	SFB Seals	Sacramento Geckos	1	0	2,370	League Game	LGE			As Scored	0	0	
+5/1/1999	Vancouver 86ers	Seattle Sounders	1	2	5,144	League Game	LGE			As Scored	0	0	
+5/2/1999	New Orleans Storm	US Pro 40	0	3	1,335	League Game	LGE			As Scored	0	0	
+5/2/1999	Toronto Lynx	Minnesota Thunder	0	0	1,183	League Game	LGE			As Scored	0	0	
+5/5/1999	El Paso Patriots	Indiana Blast	1	0	3,025	League Game	LGE			As Scored	0	0	
+5/6/1999	SFB Seals	US Pro 40	0	1	418	League Game	LGE			As Scored	0	0	
+5/7/1999	Connecticut Wolves	Rochester Rhinos	0	1	498	League Game	LGE			As Scored	0	0	
+5/7/1999	Hershey Wildcats	Charleston Battery	1	2	3,398	League Game	LGE			As Scored	0	0	
+5/7/1999	Orange County Zodiac	Indiana Blast	4	6	857	League Game	LGE			As Scored	0	0	
+5/7/1999	Raleigh Capital Express	Hampton Roads Mariners	2	1	1,323	League Game	LGE			As Scored	0	0	
+5/7/1999	Richmond Kickers	Toronto Lynx	0	0	4,014	League Game	LGE			As Scored	0	0	
+5/8/1999	Atlanta Silverbacks	Long Island Rough Riders	1	2	2,423	League Game	LGE			As Scored	0	0	
+5/8/1999	Connecticut Wolves	Staten Island Vipers	0	3	1,250	League Game	LGE			As Scored	0	0	
+5/8/1999	Hampton Roads Mariners	Toronto Lynx	1	0	3,540	League Game	LGE			As Scored	0	0	
+5/8/1999	Milwaukee Rampage	New Orleans Storm	4	0	3,891	League Game	LGE			As Scored	0	0	
+5/8/1999	Pittsburgh Riverhounds	Lehigh Valley Steam	1	0	4,260	League Game	LGE			As Scored	0	0	
+5/8/1999	Sacramento Geckos	US Pro 40	0	1	379	League Game	LGE			As Scored	0	0	
+5/8/1999	Seattle Sounders	Vancouver 86ers	2	1	3,778	League Game	LGE			As Scored	0	0	
+5/8/1999	Tennessee Rhythm	Cincinnati Riverhawks	2	1	1,050	League Game	LGE			As Scored	0	0	
+5/9/1999	Boston Bulldogs	Rochester Rhinos	1	2	243	League Game	LGE			As Scored	0	0	
+5/9/1999	Jacksonville Cyclones	Long Island Rough Riders	4	2	883	League Game	LGE			As Scored	0	0	
+5/9/1999	Maryland Mania	Charleston Battery	0	2	1,104	League Game	LGE			As Scored	0	0	
+5/9/1999	Minnesota Thunder	New Orleans Storm	2	0	1,380	League Game	LGE			As Scored	0	0	
+5/9/1999	San Diego Flash	Indiana Blast	6	0	2,302	League Game	LGE			As Scored	0	0	
+5/13/1999	Tennessee Rhythm	US Pro 40	1	2	450	League Game	LGE			As Scored	0	0	
+5/14/1999	Atlanta Silverbacks	Staten Island Vipers	0	2	1,304	League Game	LGE			As Scored	0	0	
+5/14/1999	Boston Bulldogs	Pittsburgh Riverhounds	1	0	337	League Game	LGE			As Scored	0	0	
+5/14/1999	Charleston Battery	Richmond Kickers	3	1	4,317	League Game	LGE			As Scored	0	0	
+5/14/1999	Indiana Blast	Cincinnati Riverhawks	0	0	2,981	League Game	LGE			As Scored	0	0	
+5/14/1999	New Orleans Storm	Jacksonville Cyclones	0	1	2,224	League Game	LGE			As Scored	0	0	
+5/14/1999	Orange County Zodiac	Seattle Sounders	1	4	608	League Game	LGE			As Scored	0	0	
+5/15/1999	Long Island Rough Riders	Connecticut Wolves	3	0	2,895	League Game	LGE			As Scored	0	0	
+5/15/1999	Maryland Mania	Lehigh Valley Steam	0	1	1,133	League Game	LGE			As Scored	0	0	
+5/15/1999	Milwaukee Rampage	Cincinnati Riverhawks	1	1	2,817	League Game	LGE			As Scored	0	0	
+5/15/1999	Raleigh Capital Express	Hershey Wildcats	1	1	2,197	League Game	LGE			As Scored	0	0	
+5/15/1999	Rochester Rhinos	Toronto Lynx	3	1	10,471	League Game	LGE			As Scored	0	0	
+5/15/1999	Sacramento Geckos	Minnesota Thunder	0	1	100	League Game	LGE			As Scored	0	0	
+5/15/1999	San Diego Flash	Seattle Sounders	2	0	2,785	League Game	LGE			As Scored	0	0	
+5/15/1999	Tennessee Rhythm	US Pro 40	0	2	850	League Game	LGE			As Scored	0	0	
+5/16/1999	El Paso Patriots	New Orleans Storm	1	2	312	League Game	LGE			As Scored	0	0	
+5/16/1999	Jacksonville Cyclones	Staten Island Vipers	1	2	872	League Game	LGE			As Scored	0	0	
+5/16/1999	SFB Seals	Minnesota Thunder	0	1	1,279	League Game	LGE			As Scored	0	0	
+5/20/1999	Maryland Mania	Atlanta Silverbacks	1	1	312	League Game	LGE			As Scored	0	0	
+5/20/1999	Pittsburgh Riverhounds	Raleigh Capital Express	7	0	3,605	League Game	LGE			As Scored	0	0	
+5/21/1999	Boston Bulldogs	Connecticut Wolves	3	0	306	League Game	LGE			As Scored	0	0	
+5/21/1999	Indiana Blast	Tennessee Rhythm	2	1	2,440	League Game	LGE			As Scored	0	0	
+5/21/1999	Orange County Zodiac	El Paso Patriots	2	1	916	League Game	LGE			As Scored	0	0	
+5/21/1999	Sacramento Geckos	Milwaukee Rampage	1	5	200	League Game	LGE			As Scored	0	0	
+5/21/1999	Vancouver 86ers	Minnesota Thunder	1	1	100	League Game	LGE			As Scored	0	0	
+5/22/1999	Charleston Battery	Jacksonville Cyclones	2	1	3,333	League Game	LGE			As Scored	0	0	
+5/22/1999	Cincinnati Riverhawks	Pittsburgh Riverhounds	4	3	1,494	League Game	LGE			As Scored	0	0	
+5/22/1999	Hampton Roads Mariners	Richmond Kickers	1	2	2,940	League Game	LGE			As Scored	0	0	
+5/22/1999	Hershey Wildcats	Atlanta Silverbacks	3	1	2,776	League Game	LGE			As Scored	0	0	
+5/22/1999	Long Island Rough Riders	Lehigh Valley Steam	2	1	3,148	League Game	LGE			As Scored	0	0	
+5/22/1999	Seattle Sounders	Minnesota Thunder	0	2	2,676	League Game	LGE			As Scored	0	0	
+5/22/1999	SFB Seals	Milwaukee Rampage	1	1	1,219	League Game	LGE			As Scored	0	0	
+5/23/1999	El Paso Patriots	San Diego Flash	2	3	1,837	League Game	LGE			As Scored	0	0	
+5/23/1999	Maryland Mania	Rochester Rhinos	1	4	560	League Game	LGE			As Scored	0	0	
+5/23/1999	Staten Island Vipers	Connecticut Wolves	3	0	1,284	League Game	LGE			As Scored	0	0	
+5/27/1999	San Diego Flash	US Pro 40	1	0	1,392	League Game	LGE			As Scored	0	0	
+5/28/1999	Atlanta Silverbacks	Richmond Kickers	2	2	1,832	League Game	LGE			As Scored	0	0	
+5/28/1999	Milwaukee Rampage	El Paso Patriots	1	2	3,426	League Game	LGE			As Scored	0	0	
+5/28/1999	Raleigh Capital Express	Boston Bulldogs	0	3	1,972	League Game	LGE			As Scored	0	0	
+5/28/1999	Staten Island Vipers	Hershey Wildcats	1	0	1,492	League Game	LGE			As Scored	0	0	
+5/29/1999	Charleston Battery	Boston Bulldogs	1	2	3,548	League Game	LGE			As Scored	0	0	
+5/29/1999	Cincinnati Riverhawks	Sacramento Geckos	2	1	1,092	League Game	LGE			As Scored	0	0	
+5/29/1999	Connecticut Wolves	Pittsburgh Riverhounds	3	1	2,610	League Game	LGE			As Scored	0	0	
+5/29/1999	Hampton Roads Mariners	Maryland Mania	0	1	2,493	League Game	LGE			As Scored	0	0	
+5/29/1999	Hershey Wildcats	Lehigh Valley Steam	2	1	2,272	League Game	LGE			As Scored	0	0	
+5/29/1999	Long Island Rough Riders	Staten Island Vipers	3	1	2,367	League Game	LGE			As Scored	0	0	
+5/29/1999	Minnesota Thunder	El Paso Patriots	7	0	3,346	League Game	LGE			As Scored	0	0	
+5/29/1999	Orange County Zodiac	US Pro 40	1	2	100	League Game	LGE			As Scored	0	0	
+5/29/1999	Rochester Rhinos	Jacksonville Cyclones	3	2	10,575	League Game	LGE			As Scored	0	0	
+5/29/1999	Seattle Sounders	SFB Seals	3	0	1,783	League Game	LGE			As Scored	0	0	
+5/29/1999	Tennessee Rhythm	Indiana Blast	6	2	800	League Game	LGE			As Scored	0	0	
+5/30/1999	Connecticut Wolves	Long Island Rough Riders	0	1	1,023	League Game	LGE			As Scored	0	0	
+5/30/1999	Toronto Lynx	Jacksonville Cyclones	2	3	3,122	League Game	LGE			As Scored	0	0	
+5/30/1999	Vancouver 86ers	SFB Seals	4	1	4,321	League Game	LGE			As Scored	0	0	
+5/31/1999	Atlanta Silverbacks	New Orleans Storm	1	0	1,481	League Game	LGE			As Scored	0	0	
+6/2/1999	Toronto Lynx	Connecticut Wolves	1	2	2,854	League Game	LGE			As Scored	0	0	
+6/3/1999	Orange County Zodiac	San Diego Flash	1	1	504	League Game	LGE			As Scored	0	0	
+6/3/1999	Vancouver 86ers	Seattle Sounders	1	1	2,760	League Game	LGE			As Scored	0	0	
+6/4/1999	Cincinnati Riverhawks	US Pro 40	1	2	891	League Game	LGE			As Scored	0	0	
+6/4/1999	El Paso Patriots	SFB Seals	1	0	1,127	League Game	LGE			As Scored	0	0	
+6/4/1999	New Orleans Storm	Milwaukee Rampage	4	2	3,573	League Game	LGE			As Scored	0	0	
+6/4/1999	Richmond Kickers	Maryland Mania	1	0	2,079	League Game	LGE			As Scored	0	0	
+6/4/1999	Rochester Rhinos	Charleston Battery	2	1	10,828	League Game	LGE			As Scored	0	0	
+6/5/1999	Atlanta Silverbacks	Hampton Roads Mariners	0	2	1,387	League Game	LGE			As Scored	0	0	
+6/5/1999	Cincinnati Riverhawks	Indiana Blast	3	1	1,346	League Game	LGE			As Scored	0	0	
+6/5/1999	Hershey Wildcats	Pittsburgh Riverhounds	2	1	12,752	League Game	LGE			As Scored	0	0	
+6/5/1999	Jacksonville Cyclones	Raleigh Capital Express	4	3	637	League Game	LGE			As Scored	0	0	
+6/5/1999	Long Island Rough Riders	Boston Bulldogs	2	1	3,728	League Game	LGE			As Scored	0	0	
+6/5/1999	Sacramento Geckos	Orange County Zodiac	0	1	100	League Game	LGE			As Scored	0	0	
+6/5/1999	Seattle Sounders	Vancouver 86ers	0	2	1,576	League Game	LGE			As Scored	0	0	
+6/6/1999	Indiana Blast	US Pro 40	1	2	1,723	League Game	LGE			As Scored	0	0	
+6/6/1999	Maryland Mania	Lehigh Valley Steam	0	1	650	League Game	LGE			As Scored	0	0	
+6/6/1999	New Orleans Storm	SFB Seals	2	1	1,432	League Game	LGE			As Scored	0	0	
+6/6/1999	Staten Island Vipers	Boston Bulldogs	0	2	1,332	League Game	LGE			As Scored	0	0	
+6/6/1999	Tennessee Rhythm	Milwaukee Rampage	3	2	850	League Game	LGE			As Scored	0	0	
+6/6/1999	Toronto Lynx	Charleston Battery	1	1	1,858	League Game	LGE			As Scored	0	0	
+6/11/1999	Atlanta Silverbacks	Hershey Wildcats	1	0	1,259	League Game	LGE			As Scored	0	0	
+6/11/1999	Charleston Battery	Raleigh Capital Express	1	1	3,264	League Game	LGE			As Scored	0	0	
+6/11/1999	Indiana Blast	Tennessee Rhythm	2	1	2,440	League Game	LGE			As Scored	0	0	
+6/11/1999	Milwaukee Rampage	Cincinnati Riverhawks	5	2	3,281	League Game	LGE			As Scored	0	0	
+6/11/1999	Orange County Zodiac	Sacramento Geckos	3	1	891	League Game	LGE			As Scored	0	0	
+6/11/1999	Pittsburgh Riverhounds	Toronto Lynx	2	1	4,295	League Game	LGE			As Scored	0	0	
+6/11/1999	San Diego Flash	El Paso Patriots	4	0	2,987	League Game	LGE			As Scored	0	0	
+6/11/1999	Seattle Sounders	US Pro 40	0	2	1,853	League Game	LGE			As Scored	0	0	
+6/12/1999	Maryland Mania	Jacksonville Cyclones	0	3	510	League Game	LGE			As Scored	0	0	
+6/12/1999	Minnesota Thunder	Cincinnati Riverhawks	6	0	2,926	League Game	LGE			As Scored	0	0	
+6/12/1999	Raleigh Capital Express	Hampton Roads Mariners	1	2	1,231	League Game	LGE			As Scored	0	0	
+6/13/1999	Hershey Wildcats	Jacksonville Cyclones	3	0	3,662	League Game	LGE			As Scored	0	0	
+6/13/1999	Richmond Kickers	Pittsburgh Riverhounds	0	1	2,301	League Game	LGE			As Scored	0	0	
+6/13/1999	San Diego Flash	Sacramento Geckos	3	0	1,635	League Game	LGE			As Scored	0	0	
+6/13/1999	SFB Seals	El Paso Patriots	2	1	520	League Game	LGE			As Scored	0	0	
+6/13/1999	Staten Island Vipers	Rochester Rhinos	1	1	1,322	League Game	LGE			As Scored	0	0	
+6/13/1999	Vancouver 86ers	US Pro 40	5	1	4,043	League Game	LGE			As Scored	0	0	
+6/16/1999	El Paso Patriots	Vancouver 86ers	3	1	1,845	League Game	LGE			As Scored	0	0	
+6/16/1999	Minnesota Thunder	Milwaukee Rampage	1	1	2,949	League Game	LGE			As Scored	0	0	
+6/17/1999	Charleston Battery	Staten Island Vipers	2	1	2,722	League Game	LGE			As Scored	0	0	
+6/18/1999	Boston Bulldogs	Long Island Rough Riders	1	4	561	League Game	LGE			As Scored	0	0	
+6/18/1999	El Paso Patriots	Seattle Sounders	4	1	2,589	League Game	LGE			As Scored	0	0	
+6/18/1999	Milwaukee Rampage	Indiana Blast	2	1	2,459	League Game	LGE			As Scored	0	0	
+6/18/1999	New Orleans Storm	Vancouver 86ers	3	2	2,297	League Game	LGE			As Scored	0	0	
+6/18/1999	Richmond Kickers	Hampton Roads Mariners	2	1	1,835	League Game	LGE			As Scored	0	0	
+6/18/1999	Rochester Rhinos	Toronto Lynx	3	0	11,089	League Game	LGE			As Scored	0	0	
+6/18/1999	Sacramento Geckos	San Diego Flash	2	3	384	League Game	LGE			As Scored	0	0	
+6/18/1999	SFB Seals	Orange County Zodiac	3	3	781	League Game	LGE			As Scored	0	0	
+6/19/1999	Atlanta Silverbacks	Boston Bulldogs	3	2	2,521	League Game	LGE			As Scored	0	0	
+6/19/1999	Connecticut Wolves	Long Island Rough Riders	3	2	1,193	League Game	LGE			As Scored	0	0	
+6/19/1999	Hampton Roads Mariners	Richmond Kickers	0	1	2,789	League Game	LGE			As Scored	0	0	
+6/19/1999	Hershey Wildcats	Pittsburgh Riverhounds	1	2	5,695	League Game	LGE			As Scored	0	0	
+6/19/1999	Minnesota Thunder	Indiana Blast	2	0	2,609	League Game	LGE			As Scored	0	0	
+6/19/1999	Raleigh Capital Express	Staten Island Vipers	0	3	1,352	League Game	LGE			As Scored	0	0	
+6/20/1999	Jacksonville Cyclones	Charleston Battery	3	2	1,089	League Game	LGE			As Scored	0	0	
+6/20/1999	Maryland Mania	Toronto Lynx	0	1	256	League Game	LGE			As Scored	0	0	
+6/20/1999	Rochester Rhinos	Lehigh Valley Steam	1	0	9,601	League Game	LGE			As Scored	0	0	
+6/20/1999	Sacramento Geckos	Seattle Sounders	1	3	205	League Game	LGE			As Scored	0	0	
+6/20/1999	SFB Seals	San Diego Flash	0	0	502	League Game	LGE			As Scored	0	0	
+6/20/1999	Tennessee Rhythm	Vancouver 86ers	2	0	1,276	League Game	LGE			As Scored	0	0	
+6/22/1999	Toronto Lynx	Lehigh Valley Steam	4	0	1,379	League Game	LGE			As Scored	0	0	
+6/23/1999	Boston Bulldogs	Long Island Rough Riders	3	1	381	League Game	LGE			As Scored	0	0	
+6/23/1999	Indiana Blast	Vancouver 86ers	1	2	1,007	League Game	LGE			As Scored	0	0	
+6/24/1999	Jacksonville Cyclones	New Orleans Storm	0	1	550	League Game	LGE			As Scored	0	0	
+6/25/1999	Charleston Battery	Maryland Mania	3	0	3,157	League Game	LGE			As Scored	0	0	
+6/25/1999	Cincinnati Riverhawks	US Pro 40	0	3	886	League Game	LGE			As Scored	0	0	
+6/25/1999	Hampton Roads Mariners	Pittsburgh Riverhounds	2	3	2,032	League Game	LGE			As Scored	0	0	
+6/25/1999	Milwaukee Rampage	Rochester Rhinos	2	1	2,874	League Game	LGE			As Scored	0	0	
+6/25/1999	Richmond Kickers	Atlanta Silverbacks	2	1	2,010	League Game	LGE			As Scored	0	0	
+6/26/1999	Boston Bulldogs	Hershey Wildcats	0	2	457	League Game	LGE			As Scored	0	0	
+6/26/1999	Cincinnati Riverhawks	Tennessee Rhythm	4	2	746	League Game	LGE			As Scored	0	0	
+6/26/1999	El Paso Patriots	Orange County Zodiac	2	1	2,265	League Game	LGE			As Scored	0	0	
+6/26/1999	Jacksonville Cyclones	Maryland Mania	4	1	100	League Game	LGE			As Scored	0	0	
+6/26/1999	Lehigh Valley Steam	Connecticut Wolves	0	2	2,133	League Game	LGE			As Scored	0	0	
+6/26/1999	Long Island Rough Riders	Toronto Lynx	1	1	4,271	League Game	LGE			As Scored	0	0	
+6/26/1999	Seattle Sounders	San Diego Flash	0	3	1,943	League Game	LGE			As Scored	0	0	
+6/26/1999	SFB Seals	Sacramento Geckos	4	1	926	League Game	LGE			As Scored	0	0	
+6/27/1999	Hampton Roads Mariners	Atlanta Silverbacks	1	1	2,055	League Game	LGE			As Scored	0	0	
+6/27/1999	Indiana Blast	US Pro 40	1	2	1,792	League Game	LGE			As Scored	0	0	
+6/27/1999	Minnesota Thunder	Rochester Rhinos	0	0	2,515	League Game	LGE			As Scored	0	0	
+6/27/1999	Pittsburgh Riverhounds	Staten Island Vipers	1	2	3,922	League Game	LGE			As Scored	0	0	
+6/27/1999	Raleigh Capital Express	Charleston Battery	2	1	1,453	League Game	LGE			As Scored	0	0	
+6/27/1999	Vancouver 86ers	San Diego Flash	1	0	4,112	League Game	LGE			As Scored	0	0	
+6/30/1999	Lehigh Valley Steam	Hershey Wildcats	4	3	599	League Game	LGE			As Scored	0	0	
+6/30/1999	New Orleans Storm	Seattle Sounders	1	4	1,231	League Game	LGE			As Scored	0	0	
+6/30/1999	Staten Island Vipers	Hampton Roads Mariners	3	1	1,454	League Game	LGE			As Scored	0	0	
+7/1/1999	New Orleans Storm	Cincinnati Riverhawks	4	3	975	League Game	LGE			As Scored	0	0	
+7/1/1999	Orange County Zodiac	Vancouver 86ers	1	1	828	League Game	LGE			As Scored	0	0	
+7/1/1999	Toronto Lynx	Milwaukee Rampage	2	0	2,012	League Game	LGE			As Scored	0	0	
+7/2/1999	Atlanta Silverbacks	Raleigh Capital Express	0	1	2,556	League Game	LGE			As Scored	0	0	
+7/2/1999	Charleston Battery	Long Island Rough Riders	2	1	3,082	League Game	LGE			As Scored	0	0	
+7/2/1999	Connecticut Wolves	Richmond Kickers	0	2	1,197	League Game	LGE			As Scored	0	0	
+7/2/1999	Pittsburgh Riverhounds	Lehigh Valley Steam	2	1	3,675	League Game	LGE			As Scored	0	0	
+7/2/1999	Rochester Rhinos	Milwaukee Rampage	4	2	10,614	League Game	LGE			As Scored	0	0	
+7/2/1999	SFB Seals	Sacramento Geckos	1	0	523	League Game	LGE			As Scored	0	0	
+7/3/1999	El Paso Patriots	US Pro 40	0	1	3,481	League Game	LGE			As Scored	0	0	
+7/3/1999	Hampton Roads Mariners	Jacksonville Cyclones	2	2	2,419	League Game	LGE			As Scored	0	0	
+7/3/1999	Maryland Mania	Hershey Wildcats	0	3	754	League Game	LGE			As Scored	0	0	
+7/3/1999	New Orleans Storm	Cincinnati Riverhawks	1	3	1,659	League Game	LGE			As Scored	0	0	
+7/3/1999	Raleigh Capital Express	Long Island Rough Riders	0	0	1,887	League Game	LGE			As Scored	0	0	
+7/3/1999	San Diego Flash	Vancouver 86ers	1	3	2,472	League Game	LGE			As Scored	0	0	
+7/3/1999	Staten Island Vipers	Boston Bulldogs	2	2	1,663	League Game	LGE			As Scored	0	0	
+7/4/1999	Connecticut Wolves	Toronto Lynx	0	1	472	League Game	LGE			As Scored	0	0	
+7/4/1999	Indiana Blast	Seattle Sounders	1	3	2,008	League Game	LGE			As Scored	0	0	
+7/4/1999	Minnesota Thunder	Tennessee Rhythm	1	1	2,735	League Game	LGE			As Scored	0	0	
+7/4/1999	Richmond Kickers	Jacksonville Cyclones	4	1	2,008	League Game	LGE			As Scored	0	0	
+7/6/1999	Boston Bulldogs	Toronto Lynx	0	1	302	League Game	LGE			As Scored	0	0	
+7/7/1999	Cincinnati Riverhawks	San Diego Flash	2	5	695	League Game	LGE			As Scored	0	0	
+7/7/1999	Tennessee Rhythm	Seattle Sounders	1	1	1,250	League Game	LGE			As Scored	0	0	
+7/9/1999	Cincinnati Riverhawks	Orange County Zodiac	0	1	680	League Game	LGE			As Scored	0	0	
+7/9/1999	Connecticut Wolves	Lehigh Valley Steam	1	5	1,098	League Game	LGE			As Scored	0	0	
+7/9/1999	Maryland Mania	Indiana Blast	0	0	100	League Game	LGE			As Scored	0	0	
+7/9/1999	Milwaukee Rampage	San Diego Flash	0	2	2,978	League Game	LGE			As Scored	0	0	
+7/9/1999	Minnesota Thunder	US Pro 40	1	1	2,622	League Game	LGE			As Scored	0	0	
+7/9/1999	Richmond Kickers	Hershey Wildcats	4	1	2,245	League Game	LGE			As Scored	0	0	
+7/9/1999	Rochester Rhinos	Raleigh Capital Express	1	0	9,845	League Game	LGE			As Scored	0	0	
+7/9/1999	Vancouver 86ers	El Paso Patriots	4	1	5,108	League Game	LGE			As Scored	0	0	
+7/10/1999	Boston Bulldogs	Staten Island Vipers	1	1	370	League Game	LGE			As Scored	0	0	
+7/10/1999	Charleston Battery	Atlanta Silverbacks	1	2	4,371	League Game	LGE			As Scored	0	0	
+7/10/1999	Toronto Lynx	Raleigh Capital Express	1	0	2,469	League Game	LGE			As Scored	0	0	
+7/10/1999	Vancouver 86ers	Sacramento Geckos	0	0	100	League Game	LGE	Vancouver wins by Forfeit		Home Win	0	0	
+7/11/1999	Cincinnati Riverhawks	Indiana Blast	0	2	975	League Game	LGE			As Scored	0	0	
+7/11/1999	Hershey Wildcats	Lehigh Valley Steam	2	1	2,717	League Game	LGE			As Scored	0	0	
+7/11/1999	Milwaukee Rampage	US Pro 40	5	1	1,987	League Game	LGE			As Scored	0	0	
+7/11/1999	Minnesota Thunder	San Diego Flash	0	0	8,630	League Game	LGE			As Scored	0	0	
+7/11/1999	Rochester Rhinos	Pittsburgh Riverhounds	2	1	12,290	League Game	LGE			As Scored	0	0	
+7/11/1999	Seattle Sounders	El Paso Patriots	2	1	1,964	League Game	LGE			As Scored	0	0	
+7/13/1999	Toronto Lynx	Pittsburgh Riverhounds	0	4	1,853	League Game	LGE			As Scored	0	0	
+7/16/1999	Atlanta Silverbacks	Charleston Battery	1	1	2,389	League Game	LGE			As Scored	0	0	
+7/16/1999	Boston Bulldogs	Hampton Roads Mariners	0	0	408	League Game	LGE			As Scored	0	0	
+7/16/1999	Connecticut Wolves	Hershey Wildcats	1	1	1,204	League Game	LGE			As Scored	0	0	
+7/16/1999	El Paso Patriots	Orange County Zodiac	1	3	1,176	League Game	LGE			As Scored	0	0	
+7/16/1999	Indiana Blast	Sacramento Geckos	2	1	1,038	League Game	LGE			As Scored	0	0	
+7/16/1999	Lehigh Valley Steam	Jacksonville Cyclones	3	2	1,086	League Game	LGE			As Scored	0	0	
+7/16/1999	Milwaukee Rampage	Toronto Lynx	2	1	2,329	League Game	LGE			As Scored	0	0	
+7/16/1999	Raleigh Capital Express	Richmond Kickers	1	2	2,256	League Game	LGE			As Scored	0	0	
+7/16/1999	Seattle Sounders	Cincinnati Riverhawks	5	3	1,640	League Game	LGE			As Scored	0	0	
+7/16/1999	Tennessee Rhythm	SFB Seals	2	1	1,472	League Game	LGE			As Scored	0	0	
+7/17/1999	Connecticut Wolves	Hampton Roads Mariners	3	2	1,052	League Game	LGE			As Scored	0	0	
+7/17/1999	Hershey Wildcats	Maryland Mania	3	0	2,720	League Game	LGE			As Scored	0	0	
+7/17/1999	Long Island Rough Riders	Rochester Rhinos	1	2	2,805	League Game	LGE			As Scored	0	0	
+7/17/1999	Minnesota Thunder	Toronto Lynx	5	0	3,869	League Game	LGE			As Scored	0	0	
+7/17/1999	Pittsburgh Riverhounds	Jacksonville Cyclones	4	2	4,483	League Game	LGE			As Scored	0	0	
+7/17/1999	Richmond Kickers	Raleigh Capital Express	4	1	2,690	League Game	LGE			As Scored	0	0	
+7/17/1999	Staten Island Vipers	Lehigh Valley Steam	3	0	1,702	League Game	LGE			As Scored	0	0	
+7/18/1999	Indiana Blast	SFB Seals	2	0	3,292	League Game	LGE			As Scored	0	0	
+7/18/1999	New Orleans Storm	Atlanta Silverbacks	2	6	1,678	League Game	LGE			As Scored	0	0	
+7/18/1999	Tennessee Rhythm	Sacramento Geckos	3	0	1,052	League Game	LGE			As Scored	0	0	
+7/18/1999	Vancouver 86ers	Cincinnati Riverhawks	1	0	5,304	League Game	LGE			As Scored	0	0	
+7/20/1999	Hampton Roads Mariners	Richmond Kickers	4	1	1,771	League Game	LGE			As Scored	0	0	
+7/20/1999	Milwaukee Rampage	Minnesota Thunder	1	2	2,892	League Game	LGE			As Scored	0	0	
+7/21/1999	SFB Seals	Cincinnati Riverhawks	2	2	731	League Game	LGE			As Scored	0	0	
+7/21/1999	Staten Island Vipers	Long Island Rough Riders	1	2	1,637	League Game	LGE			As Scored	0	0	
+7/22/1999	Orange County Zodiac	El Paso Patriots	2	2	1,604	League Game	LGE			As Scored	0	0	
+7/23/1999	Boston Bulldogs	Richmond Kickers	2	1	567	League Game	LGE			As Scored	0	0	
+7/23/1999	Charleston Battery	Connecticut Wolves	5	1	3,385	League Game	LGE			As Scored	0	0	
+7/23/1999	Indiana Blast	New Orleans Storm	1	3	1,177	League Game	LGE			As Scored	0	0	
+7/23/1999	Milwaukee Rampage	Tennessee Rhythm	0	3	1,825	League Game	LGE			As Scored	0	0	
+7/23/1999	Vancouver 86ers	US Pro 40	1	2	4,002	League Game	LGE			As Scored	0	0	
+7/24/1999	Atlanta Silverbacks	Maryland Mania	6	0	1,137	League Game	LGE			As Scored	0	0	
+7/24/1999	Pittsburgh Riverhounds	Long Island Rough Riders	1	2	3,574	League Game	LGE			As Scored	0	0	
+7/24/1999	Raleigh Capital Express	Connecticut Wolves	3	2	1,471	League Game	LGE			As Scored	0	0	
+7/24/1999	Sacramento Geckos	SFB Seals	0	2	1,377	League Game	LGE			As Scored	0	0	
+7/24/1999	San Diego Flash	El Paso Patriots	2	3	1,422	League Game	LGE			As Scored	0	0	
+7/25/1999	Hershey Wildcats	Hampton Roads Mariners	4	1	2,491	League Game	LGE			As Scored	0	0	
+7/25/1999	Jacksonville Cyclones	Charleston Battery	0	3	1,115	League Game	LGE			As Scored	0	0	
+7/25/1999	Minnesota Thunder	Tennessee Rhythm	1	0	1,204	League Game	LGE			As Scored	0	0	
+7/25/1999	Seattle Sounders	US Pro 40	1	2	2,246	League Game	LGE			As Scored	0	0	
+7/25/1999	Staten Island Vipers	Richmond Kickers	4	0	1,827	League Game	LGE			As Scored	0	0	
+7/25/1999	Toronto Lynx	Rochester Rhinos	0	1	5,119	League Game	LGE			As Scored	0	0	
+7/28/1999	Lehigh Valley Steam	Maryland Mania	1	0	1,169	League Game	LGE			As Scored	0	0	
+7/28/1999	Long Island Rough Riders	Connecticut Wolves	5	1	1,540	League Game	LGE			As Scored	0	0	
+7/28/1999	New Orleans Storm	Minnesota Thunder	3	2	1,700	League Game	LGE			As Scored	0	0	
+7/28/1999	Seattle Sounders	Sacramento Geckos	2	0	1,822	League Game	LGE			As Scored	0	0	
+7/30/1999	Hershey Wildcats	Raleigh Capital Express	2	0	2,378	League Game	LGE			As Scored	0	0	
+7/30/1999	Indiana Blast	Maryland Mania	4	1	1,010	League Game	LGE			As Scored	0	0	
+7/30/1999	Minnesota Thunder	Orange County Zodiac	2	1	1,633	League Game	LGE			As Scored	0	0	
+7/30/1999	Pittsburgh Riverhounds	Charleston Battery	2	0	4,189	League Game	LGE			As Scored	0	0	
+7/30/1999	Richmond Kickers	US Pro 40	3	2	2,075	League Game	LGE			As Scored	0	0	
+7/30/1999	Rochester Rhinos	Atlanta Silverbacks	2	0	13,439	League Game	LGE			As Scored	0	0	
+7/30/1999	Staten Island Vipers	Connecticut Wolves	1	2	1,283	League Game	LGE			As Scored	0	0	
+7/30/1999	Toronto Lynx	Boston Bulldogs	1	0	2,424	League Game	LGE			As Scored	0	0	
+7/30/1999	Vancouver 86ers	Sacramento Geckos	7	0	3,959	League Game	LGE			As Scored	0	0	
+7/31/1999	El Paso Patriots	San Diego Flash	1	2	1,762	League Game	LGE			As Scored	0	0	
+7/31/1999	Hampton Roads Mariners	US Pro 40	1	0	2,854	League Game	LGE			As Scored	0	0	
+7/31/1999	Lehigh Valley Steam	Raleigh Capital Express	2	0	517	League Game	LGE			As Scored	0	0	
+7/31/1999	Long Island Rough Riders	Staten Island Vipers	1	2	2,823	League Game	LGE			As Scored	0	0	
+7/31/1999	New Orleans Storm	Tennessee Rhythm	3	0	1,762	League Game	LGE			As Scored	0	0	
+7/31/1999	SFB Seals	Seattle Sounders	1	1	717	League Game	LGE			As Scored	0	0	
+8/1/1999	Lehigh Valley Steam	Charleston Battery	3	1	583	League Game	LGE			As Scored	0	0	
+8/1/1999	Maryland Mania	Pittsburgh Riverhounds	4	5	151	League Game	LGE			As Scored	0	0	
+8/1/1999	Milwaukee Rampage	Orange County Zodiac	0	3	3,427	League Game	LGE			As Scored	0	0	
+8/1/1999	Rochester Rhinos	Boston Bulldogs	0	2	13,183	League Game	LGE			As Scored	0	0	
+8/1/1999	SFB Seals	Vancouver 86ers	0	2	491	League Game	LGE			As Scored	0	0	
+8/1/1999	Toronto Lynx	Atlanta Silverbacks	2	1	2,590	League Game	LGE			As Scored	0	0	
+8/4/1999	New Orleans Storm	US Pro 40	4	2	1,045	League Game	LGE			As Scored	0	0	
+8/4/1999	Staten Island Vipers	Toronto Lynx	0	1	1,235	League Game	LGE			As Scored	0	0	
+8/6/1999	Cincinnati Riverhawks	Tennessee Rhythm	2	2	985	League Game	LGE			As Scored	0	0	
+8/6/1999	Hampton Roads Mariners	Rochester Rhinos	1	1	2,033	League Game	LGE			As Scored	0	0	
+8/6/1999	Jacksonville Cyclones	Atlanta Silverbacks	3	2	100	League Game	LGE			As Scored	0	0	
+8/6/1999	Lehigh Valley Steam	Toronto Lynx	3	1	1,274	League Game	LGE			As Scored	0	0	
+8/6/1999	Milwaukee Rampage	Indiana Blast	1	0	3,422	League Game	LGE			As Scored	0	0	
+8/6/1999	Sacramento Geckos	El Paso Patriots	1	2	950	League Game	LGE			As Scored	0	0	
+8/6/1999	San Diego Flash	Orange County Zodiac	1	1	1,169	League Game	LGE			As Scored	0	0	
+8/6/1999	Vancouver 86ers	SFB Seals	5	3	4,629	League Game	LGE			As Scored	0	0	
+8/7/1999	Charleston Battery	Jacksonville Cyclones	5	1	3,127	League Game	LGE			As Scored	0	0	
+8/7/1999	Connecticut Wolves	Boston Bulldogs	0	3	1,114	League Game	LGE			As Scored	0	0	
+8/7/1999	Lehigh Valley Steam	Staten Island Vipers	0	2	919	League Game	LGE			As Scored	0	0	
+8/7/1999	Long Island Rough Riders	Maryland Mania	4	0	1,823	League Game	LGE			As Scored	0	0	
+8/7/1999	Minnesota Thunder	Indiana Blast	0	1	3,086	League Game	LGE			As Scored	0	0	
+8/7/1999	Pittsburgh Riverhounds	Hershey Wildcats	1	1	4,279	League Game	LGE			As Scored	0	0	
+8/8/1999	Hampton Roads Mariners	Raleigh Capital Express	1	0	2,025	League Game	LGE			As Scored	0	0	
+8/8/1999	Richmond Kickers	Rochester Rhinos	0	2	3,538	League Game	LGE			As Scored	0	0	
+8/8/1999	San Diego Flash	El Paso Patriots	2	1	584	League Game	LGE			As Scored	0	0	
+8/8/1999	Seattle Sounders	SFB Seals	3	0	2,108	League Game	LGE			As Scored	0	0	
+8/8/1999	Staten Island Vipers	Maryland Mania	4	0	1,331	League Game	LGE			As Scored	0	0	
+8/9/1999	Hershey Wildcats	Toronto Lynx	3	2	2,439	League Game	LGE			As Scored	0	0	
+8/11/1999	Lehigh Valley Steam	Pittsburgh Riverhounds	0	2	773	League Game	LGE			As Scored	0	0	
+8/11/1999	Long Island Rough Riders	Boston Bulldogs	1	1	4,704	League Game	LGE			As Scored	0	0	
+8/11/1999	Orange County Zodiac	El Paso Patriots	2	2	1,172	League Game	LGE			As Scored	0	0	
+8/11/1999	Sacramento Geckos	New Orleans Storm	1	3	442	League Game	LGE			As Scored	0	0	
+8/11/1999	Tennessee Rhythm	Milwaukee Rampage	0	1	1,467	League Game	LGE			As Scored	0	0	
+8/13/1999	Charleston Battery	Hampton Roads Mariners	1	3	4,233	League Game	LGE			As Scored	0	0	
+8/13/1999	Hershey Wildcats	Maryland Mania	3	2	2,969	League Game	LGE			As Scored	0	0	
+8/13/1999	Indiana Blast	Milwaukee Rampage	2	0	2,112	League Game	LGE			As Scored	0	0	
+8/13/1999	Orange County Zodiac	New Orleans Storm	3	2	785	League Game	LGE			As Scored	0	0	
+8/13/1999	Richmond Kickers	Raleigh Capital Express	1	3	2,445	League Game	LGE			As Scored	0	0	
+8/13/1999	Sacramento Geckos	Seattle Sounders	1	3	231	League Game	LGE			As Scored	0	0	
+8/13/1999	SFB Seals	Vancouver 86ers	1	2	617	League Game	LGE			As Scored	0	0	
+8/13/1999	Staten Island Vipers	Pittsburgh Riverhounds	3	2	1,664	League Game	LGE			As Scored	0	0	
+8/13/1999	Tennessee Rhythm	Cincinnati Riverhawks	1	0	1,569	League Game	LGE			As Scored	0	0	
+8/14/1999	Boston Bulldogs	Connecticut Wolves	3	1	701	League Game	LGE			As Scored	0	0	
+8/14/1999	Long Island Rough Riders	Pittsburgh Riverhounds	3	2	1,903	League Game	LGE			As Scored	0	0	
+8/14/1999	San Diego Flash	New Orleans Storm	2	1	1,323	League Game	LGE			As Scored	0	0	
+8/15/1999	Atlanta Silverbacks	Charleston Battery	1	1	5,124	League Game	LGE			As Scored	0	0	
+8/15/1999	Cincinnati Riverhawks	Milwaukee Rampage	1	2	843	League Game	LGE			As Scored	0	0	
+8/15/1999	Jacksonville Cyclones	Hampton Roads Mariners	1	1	635	League Game	LGE			As Scored	0	0	
+8/15/1999	Maryland Mania	Hershey Wildcats	0	4	250	League Game	LGE			As Scored	0	0	
+8/15/1999	Rochester Rhinos	Connecticut Wolves	4	1	12,156	League Game	LGE			As Scored	0	0	
+8/15/1999	Sacramento Geckos	Vancouver 86ers	1	7	100	League Game	LGE			As Scored	0	0	
+8/15/1999	SFB Seals	Seattle Sounders	2	4	741	League Game	LGE			As Scored	0	0	
+8/16/1999	Raleigh Capital Express	Richmond Kickers	4	2	613	League Game	LGE			As Scored	0	0	
+8/17/1999	New Orleans Storm	Tennessee Rhythm	5	4	1,405	League Game	LGE			As Scored	0	0	
+8/18/1999	El Paso Patriots	Sacramento Geckos	4	2	1,430	League Game	LGE			As Scored	0	0	
+8/18/1999	Minnesota Thunder	US Pro 40	4	1	3,832	League Game	LGE			As Scored	0	0	
+8/19/1999	Lehigh Valley Steam	Long Island Rough Riders	5	4	896	League Game	LGE			As Scored	0	0	
+8/19/1999	Pittsburgh Riverhounds	Rochester Rhinos	0	1	4,015	League Game	LGE			As Scored	0	0	
+8/20/1999	Boston Bulldogs	Maryland Mania	6	0	811	League Game	LGE			As Scored	0	0	
+8/20/1999	Cincinnati Riverhawks	El Paso Patriots	2	4	850	League Game	LGE			As Scored	0	0	
+8/20/1999	Connecticut Wolves	Staten Island Vipers	1	2	1,004	League Game	LGE			As Scored	0	0	
+8/20/1999	Hampton Roads Mariners	Charleston Battery	0	2	2,794	League Game	LGE			As Scored	0	0	
+8/20/1999	New Orleans Storm	Jacksonville Cyclones	0	1	2,548	League Game	LGE			As Scored	0	0	
+8/20/1999	Raleigh Capital Express	Atlanta Silverbacks	0	1	1,277	League Game	LGE			As Scored	0	0	
+8/20/1999	Seattle Sounders	Sacramento Geckos	6	0	2,290	League Game	LGE			As Scored	0	0	
+8/20/1999	Vancouver 86ers	Orange County Zodiac	2	3	5,104	League Game	LGE			As Scored	0	0	
+8/21/1999	Connecticut Wolves	Maryland Mania	3	4	324	League Game	LGE			As Scored	0	0	
+8/21/1999	Hershey Wildcats	Rochester Rhinos	0	1	4,901	League Game	LGE			As Scored	0	0	
+8/21/1999	Lehigh Valley Steam	Pittsburgh Riverhounds	2	1	756	League Game	LGE			As Scored	0	0	
+8/21/1999	Milwaukee Rampage	US Pro 40	3	0	6,392	League Game	LGE			As Scored	0	0	
+8/21/1999	Minnesota Thunder	Cincinnati Riverhawks	4	1	389	League Game	LGE			As Scored	0	0	
+8/21/1999	Richmond Kickers	Charleston Battery	1	2	2,349	League Game	LGE			As Scored	0	0	
+8/21/1999	San Diego Flash	SFB Seals	4	1	5,841	League Game	LGE			As Scored	0	0	
+8/22/1999	Indiana Blast	Minnesota Thunder	2	2	1,314	League Game	LGE			As Scored	0	0	
+8/22/1999	Seattle Sounders	Orange County Zodiac	2	1	2,116	League Game	LGE			As Scored	0	0	
+8/22/1999	Staten Island Vipers	Long Island Rough Riders	2	1	1,587	League Game	LGE			As Scored	0	0	
+8/22/1999	Tennessee Rhythm	New Orleans Storm	3	2	1,313	League Game	LGE			As Scored	0	0	
+8/24/1999	Hampton Roads Mariners	Raleigh Capital Express	5	1	2,229	League Game	LGE			As Scored	0	0	
+8/25/1999	Boston Bulldogs	Staten Island Vipers	2	3	1,282	League Game	LGE			As Scored	0	0	
+8/25/1999	Vancouver 86ers	Sacramento Geckos	8	0	4,137	League Game	LGE			As Scored	0	0	
+8/27/1999	Cincinnati Riverhawks	New Orleans Storm	2	3	100	League Game	LGE			As Scored	0	0	
+8/27/1999	Jacksonville Cyclones	Hershey Wildcats	0	2	325	League Game	LGE			As Scored	0	0	
+8/27/1999	Lehigh Valley Steam	Atlanta Silverbacks	1	3	776	League Game	LGE			As Scored	0	0	
+8/27/1999	Maryland Mania	Richmond Kickers	0	7	254	League Game	LGE			As Scored	0	0	
+8/27/1999	Orange County Zodiac	San Diego Flash	2	1	2,378	League Game	LGE			As Scored	0	0	
+8/27/1999	Pittsburgh Riverhounds	Connecticut Wolves	4	1	5,325	League Game	LGE			As Scored	0	0	
+8/27/1999	Seattle Sounders	Milwaukee Rampage	2	0	2,749	League Game	LGE			As Scored	0	0	
+8/27/1999	Tennessee Rhythm	Minnesota Thunder	1	2	1,500	League Game	LGE			As Scored	0	0	
+8/27/1999	Toronto Lynx	Rochester Rhinos	0	2	4,744	League Game	LGE			As Scored	0	0	
+8/28/1999	Cincinnati Riverhawks	Minnesota Thunder	1	2	745	League Game	LGE			As Scored	0	0	
+8/28/1999	Indiana Blast	New Orleans Storm	3	2	1,478	League Game	LGE			As Scored	0	0	
+8/28/1999	Lehigh Valley Steam	Boston Bulldogs	2	1	502	League Game	LGE			As Scored	0	0	
+8/28/1999	Long Island Rough Riders	Hampton Roads Mariners	6	3	2,108	League Game	LGE			As Scored	0	0	
+8/28/1999	Sacramento Geckos	SFB Seals	2	2	162	League Game	LGE			As Scored	0	0	
+8/28/1999	San Diego Flash	Orange County Zodiac	4	0	3,000	League Game	LGE			As Scored	0	0	
+8/29/1999	El Paso Patriots	Tennessee Rhythm	2	0	1,689	League Game	LGE			As Scored	0	0	
+8/29/1999	Jacksonville Cyclones	Richmond Kickers	1	4	420	League Game	LGE			As Scored	0	0	
+8/29/1999	Maryland Mania	Raleigh Capital Express	1	4	211	League Game	LGE			As Scored	0	0	
+8/29/1999	Pittsburgh Riverhounds	Atlanta Silverbacks	3	0	3,207	League Game	LGE			As Scored	0	0	
+8/29/1999	Vancouver 86ers	Milwaukee Rampage	4	0	4,472	League Game	LGE			As Scored	0	0	
+8/30/1999	Lehigh Valley Steam	Rochester Rhinos	1	0	1,356	League Game	LGE			As Scored	0	0	
+9/1/1999	Tennessee Rhythm	Atlanta Silverbacks	1	3	730	League Game	LGE			As Scored	0	0	
+9/1/1999	Toronto Lynx	Long Island Rough Riders	4	0	2,271	League Game	LGE			As Scored	0	0	
+9/3/1999	Hershey Wildcats	Richmond Kickers	4	0	4,526	League Game	LGE			As Scored	0	0	
+9/3/1999	Indiana Blast	Cincinnati Riverhawks	4	3	2,549	League Game	LGE			As Scored	0	0	
+9/3/1999	Minnesota Thunder	Milwaukee Rampage	3	0	3,550	League Game	LGE			As Scored	0	0	
+9/3/1999	Rochester Rhinos	Long Island Rough Riders	0	1	13,051	League Game	LGE			As Scored	0	0	
+9/4/1999	Atlanta Silverbacks	Tennessee Rhythm	3	1	100	League Game	LGE			As Scored	0	0	
+9/4/1999	El Paso Patriots	Orange County Zodiac	2	6	2,046	League Game	LGE			As Scored	0	0	
+9/4/1999	Maryland Mania	Hampton Roads Mariners	0	5	153	League Game	LGE			As Scored	0	0	
+9/4/1999	Milwaukee Rampage	Minnesota Thunder	1	2	4,289	League Game	LGE			As Scored	0	0	
+9/4/1999	New Orleans Storm	Jacksonville Cyclones	3	4	100	League Game	LGE			As Scored	0	0	
+9/4/1999	Pittsburgh Riverhounds	Boston Bulldogs	5	3	4,024	League Game	LGE			As Scored	0	0	
+9/4/1999	Raleigh Capital Express	Charleston Battery	2	0	100	League Game	LGE			As Scored	0	0	
+9/4/1999	Sacramento Geckos	US Pro 40	0	3	120	League Game	LGE			As Scored	0	0	
+9/4/1999	Seattle Sounders	Vancouver 86ers	1	1	3,105	League Game	LGE			As Scored	0	0	
+9/4/1999	Toronto Lynx	Staten Island Vipers	2	0	4,544	League Game	LGE			As Scored	0	0	
+9/5/1999	Charleston Battery	Hershey Wildcats	2	1	3,330	League Game	LGE			As Scored	0	0	
+9/5/1999	Hampton Roads Mariners	Lehigh Valley Steam	1	1	2,294	League Game	LGE			As Scored	0	0	
+9/5/1999	Richmond Kickers	Lehigh Valley Steam	2	2	3,068	League Game	LGE			As Scored	0	0	
+9/5/1999	Rochester Rhinos	Staten Island Vipers	3	0	11,706	League Game	LGE			As Scored	0	0	
+9/5/1999	SFB Seals	US Pro 40	4	3	1,235	League Game	LGE			As Scored	0	0	
+9/5/1999	Vancouver 86ers	Seattle Sounders	1	0	5,605	League Game	LGE			As Scored	0	0	

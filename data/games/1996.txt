@@ -1,0 +1,305 @@
+Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Referee	Awarded	Round	Period	
+4/6/1996	New Orleans Riverboat Gamblers	New Mexico Chiles	5	2	0	League Game	LGE			As Scored	0	0	
+4/6/1996	San Jose Clash	DC United	1	0	31,683	League Game	LGE	MLS First Game!!!!!	Baharmast, Esse	As Scored	0	0	
+4/6/1996	Tampa Bay Cyclones	NY/NJ Stallions	5	1	0	League Game	LGE			As Scored	0	0	
+4/12/1996	Charleston Battery	Albany Alleycats	2	2	0	League Game	LGE			As Scored	0	0	
+4/12/1996	El Paso Patriots	Sacramento Scorpions	2	1	0	League Game	LGE			As Scored	0	0	
+4/13/1996	CCV Hydra	Cascade Surge	1	2	0	League Game	LGE			As Scored	0	0	
+4/13/1996	Columbus Crew	DC United	4	0	25,266	League Game	LGE		Dominguez, Raul	As Scored	0	0	
+4/13/1996	Dallas/Ft. Worth Toros	Tulsa Roughnecks	2	3	0	League Game	LGE			As Scored	0	0	
+4/13/1996	Everett Bigfoot	Yakima Reds	1	1	0	League Game	LGE			As Scored	0	0	
+4/13/1996	Kansas City Wiz	Colorado Rapids	3	0	21,141	League Game	LGE		Patlak, Joshua 	As Scored	0	0	
+4/13/1996	Los Angeles Galaxy	MetroStars	2	1	69,255	League Game	LGE		Hall, Brian	As Scored	0	0	
+4/13/1996	New Orleans Riverboat Gamblers	Minnesota Thunder	1	2	0	League Game	LGE			As Scored	0	0	
+4/13/1996	Reno Rattlers	New Mexico Chiles	1	0	0	League Game	LGE			As Scored	0	0	
+4/13/1996	South Carolina Shamrocks	Carolina Dynamo	2	1	0	League Game	LGE			As Scored	0	0	
+4/13/1996	Tampa Bay Mutiny	New England Revolution	3	2	26,473	League Game	LGE		Boulas, Zimmerman	As Scored	0	0	
+4/14/1996	California Jaguars	El Paso Patriots	2	1	0	League Game	LGE			As Scored	0	0	
+4/14/1996	Chico Rooks	Cascade Surge	0	0	0	League Game	LGE			As Scored	0	0	
+4/14/1996	Dallas Burn	San Jose Clash	0	0	27,779	League Game	LGE	Dallas wins shootout 2-1	Terry, Kevin	As Scored	0	0	
+4/14/1996	Mobile Revelers	Minnesota Thunder	0	1	0	League Game	LGE			As Scored	0	0	
+4/14/1996	New Mexico Chiles	Sacramento Scorpions	3	1	0	League Game	LGE			As Scored	0	0	
+4/14/1996	Wilmington Hammerheads	Albany Alleycats	2	1	0	League Game	LGE			As Scored	0	0	
+4/18/1996	Dallas Burn	Kansas City Wiz	3	0	9,405	League Game	LGE		Stott, Kevin	As Scored	0	0	
+4/20/1996	Columbus Crew	Tampa Bay Mutiny	1	2	24,434	League Game	LGE		Dominguez, Raul	As Scored	0	0	
+4/20/1996	DC United	Los Angeles Galaxy	1	2	35,032	League Game	LGE		Tamberino, Paul	As Scored	0	0	
+4/20/1996	MetroStars	New England Revolution	0	1	46,826	League Game	LGE		Dominguez, Raul	As Scored	0	0	
+4/21/1996	Colorado Rapids	Dallas Burn	3	1	21,711	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+4/21/1996	San Jose Clash	Kansas City Wiz	2	2	17,580	League Game	LGE		Hall, Brian	As Scored	0	0	
+4/24/1996	South Carolina Shamrocks	Charlotte Eagles	3	2	0	League Game	LGE			As Scored	0	0	
+4/26/1996	Central Coast Roadrunners	Southern California Gunners	1	0	0	League Game	LGE			As Scored	0	0	
+4/26/1996	Central Jersey Riptide	North Jersey Imperials	1	0	0	League Game	LGE			As Scored	0	0	
+4/26/1996	Charleston Battery	Cape Cod Crusaders	0	1	0	League Game	LGE			As Scored	0	0	
+4/26/1996	Connecticut Wolves	NY/NJ Stallions	3	2	0	League Game	LGE			As Scored	0	0	
+4/26/1996	El Paso Patriots	Minnesota Thunder	3	2	0	League Game	LGE			As Scored	0	0	
+4/26/1996	Everett Bigfoot	Cascade Surge	3	0	0	League Game	LGE			As Scored	0	0	
+4/26/1996	Mobile Revelers	New Orleans Riverboat Gamblers	2	2	0	League Game	LGE			As Scored	0	0	
+4/26/1996	Montclair	Arizona Phoenix	1	3	0	League Game	LGE			As Scored	0	0	
+4/26/1996	Orlando Lions	South Florida Future	3	2	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Baltimore Bays	New Hampshire Phantoms	1	2	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Bellingham Orcas	Puget Sound Hammers	4	2	0	League Game	LGE			As Scored	0	0	
+4/27/1996	California Jaguars	Reno Rattlers	3	3	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Carolina Dynamo	Raleigh Flyers	3	1	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Charlotte Eagles	Cape Cod Crusaders	2	1	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Cocoa Expos	South Florida Future	3	1	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Dallas/Ft. Worth Toros	Houston Hurricanes	2	1	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Delaware Wizards	Long Island Rough Riders	1	2	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Des Moines Menace	Colorado Springs Stampede	2	0	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Jackson Chargers	Mobile Revelers	3	0	0	League Game	LGE			As Scored	0	0	
+4/27/1996	MetroStars	Columbus Crew	0	2	26,416	League Game	LGE		Boulas, Zimmerman	As Scored	0	0	
+4/27/1996	Nashville Metros	Lexington Bluegrass Bandits	1	2	0	League Game	LGE			As Scored	0	0	
+4/27/1996	New England Revolution	DC United	1	1	32,864	League Game	LGE	New England wins shootout 3-2	Baharmast, Esse	As Scored	0	0	
+4/27/1996	New Mexico Chiles	Minnesota Thunder	1	0	0	League Game	LGE			As Scored	0	0	
+4/27/1996	NY/NJ Stallions	Florida Strikers	2	5	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Ohio Xoggz	Milwaukee Rampage	0	1	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Oklahoma City Heat	Tulsa Roughnecks	4	1	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Richmond Kickers	Washington Mustangs	4	1	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Rockford Raptors	Chicago Stingers	2	3	0	League Game	LGE			As Scored	0	0	
+4/27/1996	San Diego Top Guns	Arizona Phoenix	4	2	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Seattle Sounders	Vancouver 86ers	2	1	4,500	League Game	LGE			As Scored	0	0	
+4/27/1996	SFV Golden Eagles	Central Coast Roadrunners	0	1	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Tampa Bay Cyclones	South Carolina Shamrocks	1	2	0	League Game	LGE			As Scored	0	0	
+4/27/1996	Wilmington Hammerheads	Chattanooga Express	2	2	0	League Game	LGE			As Scored	0	0	
+4/28/1996	CCV Hydra	Sacramento Scorpions	0	1	0	League Game	LGE			As Scored	0	0	
+4/28/1996	Chico Rooks	Reno Rattlers	1	0	0	League Game	LGE			As Scored	0	0	
+4/28/1996	Los Angeles Galaxy	San Jose Clash	2	1	40,347	League Game	LGE		Stott, Kevin	As Scored	0	0	
+4/28/1996	Philadelphia Freedom	New Hampshire Phantoms	4	0	0	League Game	LGE			As Scored	0	0	
+4/28/1996	Reading Rage	Florida Strikers	1	1	0	League Game	LGE			As Scored	0	0	
+4/28/1996	San Diego Top Guns	SFV Golden Eagles	1	0	0	League Game	LGE			As Scored	0	0	
+4/28/1996	Sioux City Breeze	Colorado Springs Stampede	1	1	0	League Game	LGE			As Scored	0	0	
+4/28/1996	Tampa Bay Mutiny	Dallas Burn	1	2	14,084	League Game	LGE		Dominguez, Raul	As Scored	0	0	
+5/1/1996	DC United	Dallas Burn	3	1	11,253	League Game	LGE		Noh, Byungil 	As Scored	0	0	
+5/2/1996	Kansas City Wiz	Columbus Crew	6	4	8,848	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+5/4/1996	MetroStars	Tampa Bay Mutiny	3	3	38,621	League Game	LGE	Metrostars wins shootout 2-1	Baharmast, Esse	As Scored	0	0	
+5/4/1996	New England Revolution	San Jose Clash	1	2	16,334	League Game	LGE		Dominguez, Raul	As Scored	0	0	
+5/5/1996	Colorado Rapids	Kansas City Wiz	4	0	11,070	League Game	LGE		Hepburn, John	As Scored	0	0	
+5/5/1996	Dallas Burn	Columbus Crew	0	0	35,250	League Game	LGE	Dallas wins shootout 3-1	Hall, Brian	As Scored	0	0	
+5/5/1996	Los Angeles Galaxy	DC United	3	1	20,471	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+5/8/1996	San Jose Clash	Colorado Rapids	3	1	12,972	League Game	LGE		Weyland, Tim	As Scored	0	0	
+5/8/1996	Tampa Bay Mutiny	Kansas City Wiz	2	0	7,025	League Game	LGE		Terry, Kevin	As Scored	0	0	
+5/10/1996	Rochester Rhinos	New York Fever	1	1	0	League Game	LGE	5834		Away Win	0	0	
+5/11/1996	Colorado Rapids	Tampa Bay Mutiny	1	2	9,171	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+5/11/1996	Columbus Crew	New England Revolution	3	2	24,750	League Game	LGE		Van De Wyngard, Roberto 	As Scored	0	0	
+5/11/1996	Kansas City Wiz	Dallas Burn	2	3	17,706	League Game	LGE		Covaciu, Ted	As Scored	0	0	
+5/11/1996	Seattle Sounders	Colorado Foxes	2	1	3,056	League Game	LGE		Oscar Mayer	As Scored	0	0	
+5/12/1996	DC United	MetroStars	1	1	14,722	League Game	LGE	Metrostars wins shootout 2-1	Stott, Kevin	As Scored	0	0	
+5/12/1996	San Jose Clash	Los Angeles Galaxy	1	2	31,728	League Game	LGE		Grady, Richard	As Scored	0	0	
+5/15/1996	DC United	Columbus Crew	5	2	7,422	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+5/16/1996	MetroStars	Colorado Rapids	3	0	14,121	League Game	LGE		Dominguez, Raul	As Scored	0	0	
+5/17/1996	Atlanta Ruckus	Montreal Impact	1	3	2,617	League Game	LGE		A. Success	As Scored	0	0	
+5/17/1996	Colorado Foxes	Seattle Sounders	3	2	7,180	League Game	LGE		Esse Baharmast	As Scored	0	0	
+5/18/1996	Dallas Burn	DC United	3	2	23,251	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+5/18/1996	Tampa Bay Mutiny	San Jose Clash	3	2	12,047	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+5/19/1996	Columbus Crew	Colorado Rapids	2	4	20,164	League Game	LGE		Akhay, Zekai 	As Scored	0	0	
+5/19/1996	Los Angeles Galaxy	Kansas City Wiz	2	0	25,231	League Game	LGE		Gorog, Frank	As Scored	0	0	
+5/19/1996	New England Revolution	MetroStars	2	0	20,131	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+5/22/1996	Kansas City Wiz	MetroStars	2	1	8,916	League Game	LGE		Saheli, Ali	As Scored	0	0	
+5/23/1996	Dallas Burn	Tampa Bay Mutiny	0	1	11,457	League Game	LGE		Weyland, Tim	As Scored	0	0	
+5/24/1996	Colorado Foxes	Atlanta Ruckus	5	1	2,617	League Game	LGE			As Scored	0	0	
+5/24/1996	Montreal Impact	New York Fever	2	0	3,927	League Game	LGE			As Scored	0	0	
+5/25/1996	New England Revolution	Colorado Rapids	2	2	14,323	League Game	LGE	New England wins shootout 1-0	Resendes, Ed 	As Scored	0	0	
+5/25/1996	Vancouver 86ers	Seattle Sounders	0	2	2,634	League Game	LGE			As Scored	0	0	
+5/26/1996	Los Angeles Galaxy	Columbus Crew	3	2	16,231	League Game	LGE		Weyland, Tim	As Scored	0	0	
+5/29/1996	Colorado Rapids	Dallas Burn	2	0	10,971	League Game	LGE		Hall, Brian	As Scored	0	0	
+5/29/1996	San Jose Clash	Kansas City Wiz	2	1	10,299	League Game	LGE		Stott, Kevin	As Scored	0	0	
+5/30/1996	MetroStars	DC United	1	2	25,322	League Game	LGE		Boulas, Zimmerman	As Scored	0	0	
+5/31/1996	Rochester Rhinos	Seattle Sounders	1	1	5,261	League Game	LGE			As Scored	0	0	
+6/1/1996	Atlanta Ruckus	New York Fever	3	2	1,847	League Game	LGE			As Scored	0	0	
+6/1/1996	Kansas City Wiz	New England Revolution	2	1	17,808	League Game	LGE		Olson, Steve	As Scored	0	0	
+6/1/1996	San Jose Clash	Columbus Crew	2	2	16,077	League Game	LGE	San Jose wins shootout 2-1	Angeles, Arturo	As Scored	0	0	
+6/1/1996	Tampa Bay Mutiny	Los Angeles Galaxy	1	2	19,717	League Game	LGE		Dominguez, Raul	As Scored	0	0	
+6/2/1996	Colorado Rapids	DC United	2	2	8,617	League Game	LGE	DC United wins shootout 3-1	Stott, Kevin	As Scored	0	0	
+6/2/1996	Dallas Burn	MetroStars	0	1	10,006	League Game	LGE		Terry, Kevin	As Scored	0	0	
+6/2/1996	Montreal Impact	Seattle Sounders	0	1	2,456	League Game	LGE		T. Camacho	As Scored	0	0	
+6/2/1996	Vancouver 86ers	Colorado Foxes	0	2	1,328	League Game	LGE			As Scored	0	0	
+6/5/1996	DC United	San Jose Clash	3	1	15,845	League Game	LGE		Tamberino, Paul	As Scored	0	0	
+6/5/1996	Kansas City Wiz	Tampa Bay Mutiny	1	3	9,551	League Game	LGE		Hall, Brian	As Scored	0	0	
+6/6/1996	New England Revolution	Los Angeles Galaxy	2	2	20,236	League Game	LGE	Los Angeles wins shootout 3-2	Baharmast, Esse	As Scored	0	0	
+6/7/1996	Atlanta Ruckus	Seattle Sounders	0	0	2,915	League Game	LGE			As Scored	0	0	
+6/7/1996	Colorado Foxes	Vancouver 86ers	1	0	3,127	League Game	LGE			As Scored	0	0	
+6/8/1996	Columbus Crew	Kansas City Wiz	3	3	16,526	League Game	LGE	Kansas City wins shootout 4-1	Dominguez, Raul	As Scored	0	0	
+6/8/1996	Dallas Burn	San Jose Clash	4	1	25,187	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+6/8/1996	Tampa Bay Mutiny	Colorado Rapids	2	1	7,388	League Game	LGE		Terry, Kevin	As Scored	0	0	
+6/9/1996	MetroStars	Los Angeles Galaxy	0	4	53,250	League Game	LGE		Terry, Kevin	As Scored	0	0	
+6/9/1996	Montreal Impact	Rochester Rhinos	2	0	5,344	League Game	LGE			As Scored	0	0	
+6/9/1996	New York Fever	Colorado Foxes	2	1	1,624	League Game	LGE			As Scored	0	0	
+6/9/1996	Vancouver 86ers	Atlanta Ruckus	1	0	2,178	League Game	LGE			As Scored	0	0	
+6/12/1996	Montreal Impact	Colorado Foxes	3	2	1,583	League Game	LGE		Y. Plante	As Scored	0	0	
+6/14/1996	Atlanta Ruckus	Seattle Sounders	2	0	1,611	League Game	LGE		Kevin Terry	As Scored	0	0	
+6/14/1996	Rochester Rhinos	Montreal Impact	0	0	5,038	League Game	LGE		G. Barkey	As Scored	0	0	
+6/15/1996	Dallas Burn	Colorado Rapids	1	1	9,704	League Game	LGE	Dallas wins shootout 4-2	Grady, Richard	As Scored	0	0	
+6/15/1996	New England Revolution	Kansas City Wiz	1	1	21,407	League Game	LGE	New England wins shootout 2-1	Tamberino, Paul	As Scored	0	0	
+6/16/1996	Los Angeles Galaxy	Tampa Bay Mutiny	2	2	92,216	League Game	LGE	Los Angeles wins shootout 4-2	Patlak, Joshua 	As Scored	0	0	
+6/16/1996	MetroStars	San Jose Clash	0	1	18,404	League Game	LGE		Stott, Kevin	As Scored	0	0	
+6/16/1996	Montreal Impact	Vancouver 86ers	1	1	3,180	League Game	LGE		Sonia Denoncourt	As Scored	0	0	
+6/16/1996	New York Fever	Seattle Sounders	1	1	1,284	League Game	LGE			As Scored	0	0	
+6/19/1996	Atlanta Ruckus	Vancouver 86ers	0	2	1,000	League Game	LGE			As Scored	0	0	
+6/19/1996	Columbus Crew	Colorado Rapids	2	2	13,093	League Game	LGE	Colorado wins shootout 4-1	Yonan, Marcel	As Scored	0	0	
+6/19/1996	MetroStars	Dallas Burn	0	0	14,322	League Game	LGE	Metrostars wins shootout 2-0	Baharmast, Esse	As Scored	0	0	
+6/20/1996	Colorado Foxes	New York Fever	2	2	2,107	League Game	LGE			As Scored	0	0	
+6/20/1996	Kansas City Wiz	DC United	5	1	9,458	League Game	LGE		Grady, Richard	As Scored	0	0	
+6/21/1996	Rochester Rhinos	Vancouver 86ers	3	2	4,549	League Game	LGE			As Scored	0	0	
+6/22/1996	Seattle Sounders	Colorado Foxes	0	1	3,400	League Game	LGE		Oscar Mayer	As Scored	0	0	
+6/22/1996	Tampa Bay Mutiny	Columbus Crew	3	3	8,767	League Game	LGE	Columbus wins shootout 3-2	Patlak, Joshua 	As Scored	0	0	
+6/23/1996	Colorado Foxes	Montreal Impact	0	1	1,752	League Game	LGE		R. Herron	As Scored	0	0	
+6/23/1996	New England Revolution	Dallas Burn	1	4	17,066	League Game	LGE		Resendes, Ed 	As Scored	0	0	
+6/23/1996	San Jose Clash	DC United	2	1	14,088	League Game	LGE		Gorog, Frank	As Scored	0	0	
+6/23/1996	Vancouver 86ers	New York Fever	1	3	0	League Game	LGE	1852		As Scored	0	0	
+6/26/1996	Los Angeles Galaxy	Colorado Rapids	3	1	21,290	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+6/26/1996	MetroStars	Kansas City Wiz	2	0	16,103	League Game	LGE		Rodhas, Ruben	As Scored	0	0	
+6/27/1996	Colorado Foxes	Rochester Rhinos	6	0	1,176	League Game	LGE			As Scored	0	0	
+6/27/1996	New England Revolution	Columbus Crew	1	1	15,209	League Game	LGE	Columbus wins shootout 2-1	Boulas, Zimmerman	As Scored	0	0	
+6/28/1996	Atlanta Ruckus	Montreal Impact	1	2	1,102	League Game	LGE		Richard Grady	As Scored	0	0	
+6/29/1996	Dallas Burn	Kansas City Wiz	0	1	9,615	League Game	LGE		Patlak, Joshua 	As Scored	0	0	
+6/29/1996	Seattle Sounders	Rochester Rhinos	1	0	3,429	League Game	LGE			As Scored	0	0	
+6/30/1996	Colorado Rapids	Los Angeles Galaxy	2	1	15,711	League Game	LGE		Boulas, Zimmerman	As Scored	0	0	
+6/30/1996	Columbus Crew	MetroStars	0	4	17,261	League Game	LGE		Grady, Richard	As Scored	0	0	
+6/30/1996	DC United	New England Revolution	3	1	19,355	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+6/30/1996	New York Fever	Montreal Impact	1	0	311	League Game	LGE			As Scored	0	0	
+6/30/1996	San Jose Clash	Tampa Bay Mutiny	4	0	19,380	League Game	LGE		Weyland, Tim	As Scored	0	0	
+7/4/1996	Colorado Rapids	MetroStars	2	1	20,117	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+7/4/1996	Dallas Burn	DC United	1	1	16,177	League Game	LGE	Dallas wins shootout 3-1	Hall, Brian	As Scored	0	0	
+7/4/1996	Los Angeles Galaxy	New England Revolution	0	1	62,703	League Game	LGE		Gorog, Frank	As Scored	0	0	
+7/4/1996	Tampa Bay Mutiny	Columbus Crew	4	1	18,761	League Game	LGE		Patlak, Joshua 	As Scored	0	0	
+7/5/1996	Montreal Impact	Atlanta Ruckus	2	0	5,103	League Game	LGE		Sonia Denoncourt	As Scored	0	0	
+7/5/1996	Vancouver 86ers	Rochester Rhinos	3	2	5,172	League Game	LGE			As Scored	0	0	
+7/6/1996	Kansas City Wiz	Los Angeles Galaxy	3	1	17,921	League Game	LGE		Stott, Kevin	As Scored	0	0	
+7/6/1996	San Jose Clash	New England Revolution	1	1	18,813	League Game	LGE	New England wins shootout 4-3	Hall, Brian	As Scored	0	0	
+7/6/1996	Seattle Sounders	New York Fever	1	1	3,119	League Game	LGE			As Scored	0	0	
+7/7/1996	Atlanta Ruckus	Rochester Rhinos	1	1	900	League Game	LGE			As Scored	0	0	
+7/7/1996	Colorado Rapids	Columbus Crew	2	1	7,911	League Game	LGE		Tamberino, Paul	As Scored	0	0	
+7/7/1996	DC United	Dallas Burn	6	1	11,244	League Game	LGE		Tamberino, Paul	As Scored	0	0	
+7/7/1996	Vancouver 86ers	New York Fever	1	1	4,012	League Game	LGE			As Scored	0	0	
+7/10/1996	Kansas City Wiz	Colorado Rapids	2	0	8,062	League Game	LGE		Saheli, Ali	As Scored	0	0	
+7/10/1996	MetroStars	Dallas Burn	3	2	17,416	League Game	LGE		Rodhas, Ruben	As Scored	0	0	
+7/10/1996	Montreal Impact	Rochester Rhinos	3	0	5,342	League Game	LGE		J. Godon	As Scored	0	0	
+7/11/1996	Colorado Foxes	Seattle Sounders	3	0	3,572	League Game	LGE			As Scored	0	0	
+7/11/1996	Columbus Crew	New England Revolution	1	1	13,751	League Game	LGE	New England wins shootout 3-0	Angeles, Arturo	As Scored	0	0	
+7/12/1996	DC United	Tampa Bay Mutiny	1	0	20,014	League Game	LGE		Shekar, Bob	As Scored	0	0	
+7/12/1996	Rochester Rhinos	Montreal Impact	3	2	14,717	League Game	LGE		C. Barkey	As Scored	0	0	
+7/14/1996	Colorado Foxes	Montreal Impact	1	2	2,762	League Game	LGE		K. Hageman	As Scored	0	0	
+7/14/1996	Vancouver 86ers	Seattle Sounders	2	2	4,185	League Game	LGE			As Scored	0	0	
+7/17/1996	Colorado Rapids	San Jose Clash	1	2	6,117	League Game	LGE		Patlak, Joshua 	As Scored	0	0	
+7/17/1996	Dallas Burn	Los Angeles Galaxy	5	2	17,665	League Game	LGE		Grady, Richard	As Scored	0	0	
+7/17/1996	Seattle Sounders	Montreal Impact	0	0	2,891	League Game	LGE		K. Hageman	As Scored	0	0	
+7/18/1996	Tampa Bay Mutiny	Kansas City Wiz	3	2	7,520	League Game	LGE		Tamberino, Paul	As Scored	0	0	
+7/19/1996	Rochester Rhinos	New York Fever	2	0	9,983	League Game	LGE			As Scored	0	0	
+7/19/1996	Vancouver 86ers	Montreal Impact	1	4	4,048	League Game	LGE		G. Rogers	As Scored	0	0	
+7/20/1996	Columbus Crew	San Jose Clash	3	4	18,156	League Game	LGE		Saheli, Ali	As Scored	0	0	
+7/20/1996	Kansas City Wiz	Dallas Burn	1	2	11,592	League Game	LGE		Hall, Brian	As Scored	0	0	
+7/20/1996	New England Revolution	DC United	2	0	18,347	League Game	LGE		Stott, Kevin	As Scored	0	0	
+7/20/1996	Seattle Sounders	Colorado Foxes	3	0	3,571	League Game	LGE		Oscar Mayer	As Scored	0	0	
+7/21/1996	Colorado Rapids	Tampa Bay Mutiny	1	3	6,320	League Game	LGE		Gorog, Frank	As Scored	0	0	
+7/21/1996	Los Angeles Galaxy	MetroStars	3	0	17,137	League Game	LGE		Weyland, Tim	As Scored	0	0	
+7/21/1996	New York Fever	Atlanta Ruckus	1	0	944	League Game	LGE			As Scored	0	0	
+7/22/1996	New York Fever	Atlanta Ruckus	3	0	337	League Game	LGE			As Scored	0	0	
+7/24/1996	Colorado Rapids	New England Revolution	2	0	6,236	League Game	LGE		Weyland, Tim	As Scored	0	0	
+7/24/1996	Montreal Impact	Atlanta Ruckus	3	0	5,419	League Game	LGE		J. Farias	As Scored	0	0	
+7/24/1996	San Jose Clash	MetroStars	0	1	15,096	League Game	LGE		Stott, Kevin	As Scored	0	0	
+7/25/1996	Colorado Foxes	Vancouver 86ers	1	2	5,722	League Game	LGE			As Scored	0	0	
+7/25/1996	Columbus Crew	Tampa Bay Mutiny	1	0	12,832	League Game	LGE		Van De Wyngard, Roberto 	As Scored	0	0	
+7/26/1996	Rochester Rhinos	Atlanta Ruckus	3	1	12,331	League Game	LGE			As Scored	0	0	
+7/27/1996	Dallas Burn	Colorado Rapids	3	0	9,081	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+7/27/1996	Kansas City Wiz	New England Revolution	4	2	11,555	League Game	LGE		Hall, Brian	As Scored	0	0	
+7/27/1996	Seattle Sounders	Vancouver 86ers	0	1	3,000	League Game	LGE		Saga-Denang	As Scored	0	0	
+7/27/1996	Tampa Bay Mutiny	Los Angeles Galaxy	4	3	13,131	League Game	LGE		Patlak, Joshua 	As Scored	0	0	
+7/28/1996	Colorado Foxes	Atlanta Ruckus	5	0	2,163	League Game	LGE			As Scored	0	0	
+7/28/1996	DC United	Columbus Crew	2	0	11,173	League Game	LGE		Rodhas, Ruben	As Scored	0	0	
+7/28/1996	MetroStars	San Jose Clash	4	1	21,212	League Game	LGE		Grady, Richard	As Scored	0	0	
+7/28/1996	New York Fever	Montreal Impact	0	2	427	League Game	LGE		R. Eddy	As Scored	0	0	
+7/31/1996	Columbus Crew	Dallas Burn	1	2	13,190	League Game	LGE		Weyland, Tim	As Scored	0	0	
+7/31/1996	DC United	Kansas City Wiz	2	3	9,467	League Game	LGE		Terry, Kevin	As Scored	0	0	
+7/31/1996	New England Revolution	San Jose Clash	2	0	12,871	League Game	LGE		Rodhas, Ruben	As Scored	0	0	
+7/31/1996	Vancouver 86ers	Colorado Foxes	3	1	4,057	League Game	LGE			As Scored	0	0	
+8/1/1996	Colorado Rapids	Los Angeles Galaxy	2	2	9,310	League Game	LGE	Los Angeles wins shootout 4-3	Hall, Brian	As Scored	0	0	
+8/3/1996	New England Revolution	MetroStars	1	1	20,162	League Game	LGE	New England wins shootout 3-2	Angeles, Arturo	As Scored	0	0	
+8/3/1996	Rochester Rhinos	Seattle Sounders	2	1	13,142	League Game	LGE			As Scored	0	0	
+8/3/1996	Tampa Bay Mutiny	Colorado Rapids	3	1	6,281	League Game	LGE		Boulas, Zimmerman	As Scored	0	0	
+8/4/1996	DC United	Kansas City Wiz	2	4	12,356	League Game	LGE		Patlak, Joshua 	As Scored	0	0	
+8/4/1996	Los Angeles Galaxy	Columbus Crew	1	1	15,089	League Game	LGE	Columbus wins shootout 3-2	Gorog, Frank	As Scored	0	0	
+8/4/1996	New York Fever	Vancouver 86ers	0	0	832	League Game	LGE			As Scored	0	0	
+8/7/1996	Colorado Rapids	Kansas City Wiz	4	2	6,013	League Game	LGE		Shekar, Bob	As Scored	0	0	
+8/7/1996	Rochester Rhinos	Vancouver 86ers	1	2	9,821	League Game	LGE			As Scored	0	0	
+8/7/1996	Tampa Bay Mutiny	DC United	1	3	6,476	League Game	LGE		Grady, Richard	As Scored	0	0	
+8/8/1996	Colorado Foxes	New York Fever	2	2	3,912	League Game	LGE			As Scored	0	0	
+8/8/1996	Los Angeles Galaxy	New England Revolution	1	0	10,251	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+8/9/1996	Montreal Impact	Seattle Sounders	0	0	6,293	League Game	LGE			As Scored	0	0	
+8/10/1996	Columbus Crew	DC United	3	2	18,587	League Game	LGE		Olson, Steve	As Scored	0	0	
+8/10/1996	Dallas Burn	Tampa Bay Mutiny	2	1	12,503	League Game	LGE		Stott, Kevin	As Scored	0	0	
+8/10/1996	Rochester Rhinos	New York Fever	2	2	7,126	League Game	LGE			As Scored	0	0	
+8/11/1996	Colorado Rapids	MetroStars	0	2	8,880	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+8/11/1996	Kansas City Wiz	Los Angeles Galaxy	2	2	13,362	League Game	LGE	Kansas City wins shootout 3-1	Weyland, Tim	As Scored	0	0	
+8/11/1996	New York Fever	Seattle Sounders	0	1	679	League Game	LGE			As Scored	0	0	
+8/11/1996	San Jose Clash	New England Revolution	6	1	12,099	League Game	LGE		Terry, Kevin	As Scored	0	0	
+8/14/1996	Dallas Burn	Columbus Crew	2	2	7,338	League Game	LGE	Columbus wins shootout 3-2	Boulas, Zimmerman	As Scored	0	0	
+8/14/1996	MetroStars	New England Revolution	4	0	20,711	League Game	LGE		Patlak, Joshua 	As Scored	0	0	
+8/14/1996	Montreal Impact	Vancouver 86ers	1	0	6,431	League Game	LGE		J. Farias	As Scored	0	0	
+8/14/1996	Seattle Sounders	Rochester Rhinos	2	0	2,587	League Game	LGE		Zarrabi-Kashani, Mohammad	As Scored	0	0	
+8/15/1996	Kansas City Wiz	San Jose Clash	4	1	8,250	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+8/16/1996	New England Revolution	Colorado Rapids	2	0	14,103	League Game	LGE		Grady, Richard	As Scored	0	0	
+8/16/1996	New York Fever	Colorado Foxes	1	2	3,117	League Game	LGE			As Scored	0	0	
+8/16/1996	Vancouver 86ers	Rochester Rhinos	0	1	4,093	League Game	LGE			As Scored	0	0	
+8/17/1996	Seattle Sounders	Montreal Impact	2	0	3,560	League Game	LGE		D. Ajir	As Scored	0	0	
+8/17/1996	Tampa Bay Mutiny	MetroStars	3	1	11,778	League Game	LGE		Gorog, Frank	As Scored	0	0	
+8/18/1996	Colorado Foxes	Rochester Rhinos	5	2	3,879	League Game	LGE			As Scored	0	0	
+8/18/1996	Columbus Crew	San Jose Clash	2	0	16,629	League Game	LGE		Tamberino, Paul	As Scored	0	0	
+8/18/1996	DC United	Los Angeles Galaxy	2	1	24,536	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+8/18/1996	New York Fever	Atlanta Ruckus	0	1	537	League Game	LGE			As Scored	0	0	
+8/21/1996	Los Angeles Galaxy	Kansas City Wiz	1	1	13,073	League Game	LGE	Kansas City wins shootout 5-4	Grady, Richard	As Scored	0	0	
+8/21/1996	MetroStars	DC United	2	3	20,416	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+8/21/1996	New England Revolution	Tampa Bay Mutiny	4	2	18,764	League Game	LGE		Hall, Brian	As Scored	0	0	
+8/21/1996	Rochester Rhinos	Colorado Foxes	0	0	11,196	League Game	LGE			As Scored	0	0	
+8/21/1996	Vancouver 86ers	Montreal Impact	1	0	3,818	League Game	LGE		Rene Parra	As Scored	0	0	
+8/22/1996	San Jose Clash	Dallas Burn	0	0	13,359	League Game	LGE	San Jose wins shootout 3-2	Weyland, Tim	As Scored	0	0	
+8/23/1996	Montreal Impact	Colorado Foxes	2	1	7,231	League Game	LGE			As Scored	0	0	
+8/24/1996	Atlanta Ruckus	New York Fever	0	5	751	League Game	LGE			As Scored	0	0	
+8/24/1996	Columbus Crew	Kansas City Wiz	2	1	20,246	League Game	LGE		Patlak, Joshua 	As Scored	0	0	
+8/24/1996	Seattle Sounders	Vancouver 86ers	2	2	3,566	League Game	LGE			As Scored	0	0	
+8/25/1996	Colorado Foxes	Vancouver 86ers	2	1	3,576	League Game	LGE			As Scored	0	0	
+8/25/1996	DC United	Tampa Bay Mutiny	3	0	15,804	League Game	LGE		Van De Wyngard, Roberto 	As Scored	0	0	
+8/25/1996	Los Angeles Galaxy	Dallas Burn	2	3	19,279	League Game	LGE		Terry, Kevin	As Scored	0	0	
+8/25/1996	Rochester Rhinos	New York Fever	3	2	10,664	League Game	LGE			As Scored	0	0	
+8/25/1996	San Jose Clash	Colorado Rapids	1	0	12,369	League Game	LGE		Yonan, Marcel	As Scored	0	0	
+8/28/1996	Columbus Crew	Los Angeles Galaxy	2	0	16,747	League Game	LGE		Rodhas, Ruben	As Scored	0	0	
+8/29/1996	Colorado Rapids	DC United	1	2	6,368	League Game	LGE		Saheli, Ali	As Scored	0	0	
+8/30/1996	Montreal Impact	New York Fever	1	0	7,037	League Game	LGE		T. Camacho	As Scored	0	0	
+8/30/1996	Rochester Rhinos	Atlanta Ruckus	8	2	11,311	League Game	LGE			As Scored	0	0	
+8/30/1996	Vancouver 86ers	Seattle Sounders	1	4	3,748	League Game	LGE			As Scored	0	0	
+8/31/1996	Tampa Bay Mutiny	New England Revolution	3	1	8,128	League Game	LGE		Saheli, Ali	As Scored	0	0	
+9/1/1996	Atlanta Ruckus	Rochester Rhinos	0	4	926	League Game	LGE			As Scored	0	0	
+9/1/1996	Colorado Foxes	Seattle Sounders	2	0	2,933	League Game	LGE			As Scored	0	0	
+9/1/1996	Kansas City Wiz	MetroStars	2	2	11,139	League Game	LGE	Kansas City wins shootout 3-1	Olson, Steve	As Scored	0	0	
+9/1/1996	New York Fever	Montreal Impact	0	2	1,347	League Game	LGE			As Scored	0	0	
+9/1/1996	San Jose Clash	Los Angeles Galaxy	1	1	26,184	League Game	LGE	Los Angeles wins shootout 3-1	Boulas, Zimmerman	As Scored	0	0	
+9/4/1996	MetroStars	Tampa Bay Mutiny	0	2	16,102	League Game	LGE		Weyland, Tim	As Scored	0	0	
+9/4/1996	Montreal Impact	Rochester Rhinos	2	1	3,987	League Game	LGE		E. Roy	As Scored	0	0	
+9/4/1996	New England Revolution	Dallas Burn	2	1	12,933	League Game	LGE		Shekar, Bob	As Scored	0	0	
+9/4/1996	Vancouver 86ers	New York Fever	3	0	3,756	League Game	LGE			As Scored	0	0	
+9/5/1996	Los Angeles Galaxy	Colorado Rapids	0	0	8,561	League Game	LGE	Colorado wins shootout 2-1	Stott, Kevin	As Scored	0	0	
+9/6/1996	DC United	MetroStars	1	2	8,053	League Game	LGE		Boulas, Zimmerman	As Scored	0	0	
+9/6/1996	Vancouver 86ers	Colorado Foxes	2	2	3,631	League Game	LGE			As Scored	0	0	
+9/7/1996	Dallas Burn	New England Revolution	0	2	18,582	League Game	LGE		Stott, Kevin	As Scored	0	0	
+9/7/1996	Kansas City Wiz	Columbus Crew	1	5	12,141	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+9/7/1996	Seattle Sounders	New York Fever	3	0	5,068	League Game	LGE		Oscar Mayer	As Scored	0	0	
+9/8/1996	Colorado Rapids	San Jose Clash	1	3	8,990	League Game	LGE		Van De Wyngard, Roberto 	As Scored	0	0	
+9/10/1996	MetroStars	Los Angeles Galaxy	3	1	19,111	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+9/11/1996	Atlanta Ruckus	Colorado Foxes	0	3	1,721	League Game	LGE			As Scored	0	0	
+9/11/1996	Rochester Rhinos	Montreal Impact	1	0	8,128	League Game	LGE			As Scored	0	0	
+9/11/1996	San Jose Clash	Dallas Burn	2	2	10,894	League Game	LGE	Dallas wins shootout 3-1	Gorog, Frank	As Scored	0	0	
+9/12/1996	New England Revolution	Tampa Bay Mutiny	1	2	11,009	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+9/13/1996	Rochester Rhinos	Colorado Foxes	0	1	12,249	League Game	LGE			As Scored	0	0	
+9/13/1996	Vancouver 86ers	Atlanta Ruckus	5	0	4,250	League Game	LGE			As Scored	0	0	
+9/14/1996	New York Fever	Rochester Rhinos	0	3	2,465	League Game	LGE			As Scored	0	0	
+9/14/1996	Seattle Sounders	Atlanta Ruckus	2	1	6,072	League Game	LGE			As Scored	0	0	
+9/14/1996	Tampa Bay Mutiny	DC United	2	0	8,135	League Game	LGE		Tamberino, Paul	As Scored	0	0	
+9/15/1996	Columbus Crew	MetroStars	2	0	31,550	League Game	LGE		Shekar, Bob	As Scored	0	0	
+9/15/1996	Los Angeles Galaxy	San Jose Clash	4	2	14,179	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+9/17/1996	DC United	New England Revolution	3	2	7,360	League Game	LGE		Yonan, Marcel	As Scored	0	0	
+9/18/1996	MetroStars	Columbus Crew	1	0	14,007	League Game	LGE		Terry, Kevin	As Scored	0	0	
+9/18/1996	San Jose Clash	Tampa Bay Mutiny	1	1	13,091	League Game	LGE	Tampa Bay wins shootout 3-1	Boulas, Zimmerman	As Scored	0	0	
+9/19/1996	Dallas Burn	Los Angeles Galaxy	1	2	12,569	League Game	LGE		Saheli, Ali	As Scored	0	0	
+9/21/1996	DC United	Colorado Rapids	3	1	20,573	League Game	LGE		Angeles, Arturo	As Scored	0	0	
+9/21/1996	Kansas City Wiz	San Jose Clash	0	0	18,594	League Game	LGE	San Jose wins shootout 2-1	Yonan, Marcel	As Scored	0	0	
+9/21/1996	New England Revolution	Columbus Crew	0	1	38,633	League Game	LGE		Baharmast, Esse	As Scored	0	0	
+9/21/1996	Tampa Bay Mutiny	MetroStars	4	1	11,145	League Game	LGE		Gorog, Frank	As Scored	0	0	
+9/22/1996	Los Angeles Galaxy	Dallas Burn	2	1	18,347	League Game	LGE		Patlak, Joshua 	As Scored	0	0	

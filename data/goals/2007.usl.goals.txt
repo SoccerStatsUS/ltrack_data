@@ -1,0 +1,640 @@
+Player	Team-For	Home-Team	Away-Team	Date	Goal-Time	Goal-Type	Comp	Assist	Assist2	
+Marcina, Alen	Puerto Rico Islanders	Puerto Rico Islanders	Rochester Rhinos	4/13/2007	14		LGE	Delgado, Noah		
+Herrera, Victor Manuel	Puerto Rico Islanders	Puerto Rico Islanders	Rochester Rhinos	4/13/2007	47		LGE	Marcina, Alen		
+Diallo, Hamed	Rochester Rhinos	Puerto Rico Islanders	Rochester Rhinos	4/13/2007	50		LGE			
+Bertz, Kenny	Rochester Rhinos	Miami FC	Rochester Rhinos	4/15/2007	70		LGE	Menyongar, Johnny		
+Coggins, Jacob	Charlotte Eagles	Charlotte Eagles	Crystal Palace Baltimore	4/20/2007	15		LGE	Herrera, Jorge		
+Akwari, Nelson	Charlotte Eagles	Charlotte Eagles	Crystal Palace Baltimore	4/20/2007	19		LGE			
+Coggins, Jacob	Charlotte Eagles	Charlotte Eagles	Crystal Palace Baltimore	4/20/2007	28		LGE			
+Shak, Steve	Charlotte Eagles	Charlotte Eagles	Crystal Palace Baltimore	4/20/2007	51		LGE	Herrera, Jorge		
+Kante, Ibrahim	Crystal Palace Baltimore	Charlotte Eagles	Crystal Palace Baltimore	4/20/2007	87		LGE			
+Antoniuk, Daniel	Atlanta Silverbacks	Atlanta Silverbacks	Montreal Impact	4/21/2007	15		LGE	Hayes, David		
+Antoniuk, Daniel	Atlanta Silverbacks	Atlanta Silverbacks	Montreal Impact	4/21/2007	62		LGE	Millwood, Machel		
+Palleschi, Matthew	Montreal Impact	Atlanta Silverbacks	Montreal Impact	4/21/2007	75		LGE	Leduc, Patrick		
+Di Lorenzo, Leonardo	Montreal Impact	Atlanta Silverbacks	Montreal Impact	4/21/2007	88		LGE			
+Low, Kupono	Carolina Railhawks	Carolina Railhawks	Minnesota Thunder	4/21/2007	8		LGE	Brightwell, Stuart		
+Toure, Ansu	Minnesota Thunder	Carolina Railhawks	Minnesota Thunder	4/21/2007	70	Penalty	LGE			
+Lookingland, Michael	Harrisburg City Islanders	Harrisburg City Islanders	Wilmington Hammerheads	4/21/2007	45		LGE	Schofield, David		
+Nweke, Charles	Wilmington Hammerheads	Harrisburg City Islanders	Wilmington Hammerheads	4/21/2007	1		LGE			
+Gregor, Andrew	Portland Timbers	Portland Timbers	Puerto Rico Islanders	4/21/2007	2		LGE			
+Kreamalmeyer, Luke	Portland Timbers	Portland Timbers	Puerto Rico Islanders	4/21/2007	53		LGE	Ready, Troy		
+Gregor, Andrew	Portland Timbers	Portland Timbers	Puerto Rico Islanders	4/21/2007	86		LGE			
+Zapata, Alberto	Puerto Rico Islanders	Portland Timbers	Puerto Rico Islanders	4/21/2007	83		LGE	Marcina, Alen		
+Burke, Michael	Richmond Kickers	Richmond Kickers	Cincinnati Kings	4/21/2007	71		LGE	Harding, Evan		
+Gorres, Sascha	Richmond Kickers	Richmond Kickers	Cincinnati Kings	4/21/2007	82		LGE			
+Sebrango-Rodriguez, Eduardo	Vancouver Whitecaps	Vancouver Whitecaps	Seattle Sounders	4/21/2007	55		LGE	Valente, Alfredo		
+Buete, George (Scott)	Atlanta Silverbacks	Atlanta Silverbacks	Minnesota Thunder	4/27/2007	42		LGE	Millwood, Machel		
+McManus, Anthony (Tony)	Atlanta Silverbacks	Atlanta Silverbacks	Minnesota Thunder	4/27/2007	65		LGE	Bobo, Matthew		
+Millwood, Machel	Atlanta Silverbacks	Atlanta Silverbacks	Minnesota Thunder	4/27/2007	67		LGE	Antoniuk, Daniel		
+Farber, Brian	Minnesota Thunder	Atlanta Silverbacks	Minnesota Thunder	4/27/2007	90		LGE			
+Coggins, Jacob	Charlotte Eagles	Charlotte Eagles	Western Mass Pioneers	4/27/2007	8		LGE	Shak, Steve		
+Johnson, Benjamin	Charlotte Eagles	Charlotte Eagles	Western Mass Pioneers	4/27/2007	55		LGE			
+Cameron, Sean	Miami FC	Miami FC	Seattle Sounders	4/27/2007	13		LGE			
+Vasquez, Eric	Miami FC	Miami FC	Seattle Sounders	4/27/2007	68		LGE			
+Gonzalez, Luis (Luichi)	Miami FC	Miami FC	Seattle Sounders	4/27/2007	73		LGE	Cameron, Sean		
+Knox, Nathan	Seattle Sounders	Miami FC	Seattle Sounders	4/27/2007	14		LGE	Alcaraz-Cuellar, Hugo		
+Levesque, Roger	Seattle Sounders	Miami FC	Seattle Sounders	4/27/2007	62		LGE	Alcaraz-Cuellar, Hugo		
+Severs, Chad	Harrisburg City Islanders	Bermuda Hogges	Harrisburg City Islanders	4/27/2007	72		LGE	Tanzini, Matt		
+Fuller, Ian	Charleston Battery	Charleston Battery	Montreal Impact	4/28/2007	4		LGE			
+Armstrong, Stephen	Charleston Battery	Charleston Battery	Montreal Impact	4/28/2007	90	Penalty	LGE			
+Fabro, Martin	Montreal Impact	Charleston Battery	Montreal Impact	4/28/2007	3		LGE	Di Lorenzo, Leonardo		
+Gbeke, Charles	Montreal Impact	Charleston Battery	Montreal Impact	4/28/2007	8		LGE	Palleschi, Matthew		
+Di Lorenzo, Leonardo	Montreal Impact	Charleston Battery	Montreal Impact	4/28/2007	45		LGE			
+Cheurlin, Romain	Cincinnati Kings	Cincinnati Kings	Cleveland City Stars	4/28/2007	66		LGE	Sarkodie, Kwame		
+Potteiger, Derek	Cleveland City Stars	Cincinnati Kings	Cleveland City Stars	4/28/2007	77		LGE	Cummings, Jack		
+Cummings, Jack	Cleveland City Stars	Cincinnati Kings	Cleveland City Stars	4/28/2007	62	Penalty	LGE			
+Ssejjemba, Robert	Richmond Kickers	Richmond Kickers	New Hampshire Phantoms	4/28/2007	21		LGE	Burke, Michael		
+Alexander, Robert (Trey)	Richmond Kickers	Richmond Kickers	New Hampshire Phantoms	4/28/2007	37		LGE	Watson, Matthew		
+Ssejjemba, Robert	Richmond Kickers	Richmond Kickers	New Hampshire Phantoms	4/28/2007	52		LGE	Burke, Michael		
+Watson, Matthew	Richmond Kickers	Richmond Kickers	New Hampshire Phantoms	4/28/2007	89		LGE	Morris, Brian		
+Sebrango-Rodriguez, Eduardo	Vancouver Whitecaps	Vancouver Whitecaps	California Victory	4/28/2007	3		LGE	Testo, David		
+Nash, Martin	Vancouver Whitecaps	Vancouver Whitecaps	California Victory	4/28/2007	69		LGE			
+Hansen, Joshua	California Victory	Vancouver Whitecaps	California Victory	4/28/2007	60		LGE	Kim, Chuck		
+Munoz, Michael	California Victory	Vancouver Whitecaps	California Victory	4/28/2007	41		LGE			
+Ibbetson, Luke	Wilmington Hammerheads	Wilmington Hammerheads	Western Mass Pioneers	4/28/2007	46		LGE	Hughes, Jeffrey		
+McFarlane, Omar	Western Mass Pioneers	Wilmington Hammerheads	Western Mass Pioneers	4/28/2007	66		LGE			
+Maciel, Everson	Western Mass Pioneers	Wilmington Hammerheads	Western Mass Pioneers	4/28/2007	77		LGE	Manning, Ahmad		
+Lookingland, Michael	Harrisburg City Islanders	Bermuda Hogges	Harrisburg City Islanders	4/29/2007	5		LGE	Severs, Chad		
+Lemons, Christopher	Cleveland City Stars	Crystal Palace Baltimore	Cleveland City Stars	5/4/2007	12		LGE	Leibbrandt, Ian		
+Leibbrandt, Ian	Cleveland City Stars	Crystal Palace Baltimore	Cleveland City Stars	5/4/2007	18		LGE	De Vae, John		
+McGregor, Dana	Cleveland City Stars	Crystal Palace Baltimore	Cleveland City Stars	5/4/2007	58		LGE	Williams, Luke		
+Moffat, Adam	Cleveland City Stars	Crystal Palace Baltimore	Cleveland City Stars	5/4/2007	90		LGE	Duerr, Glen		
+Palguta, Scott	Rochester Rhinos	Rochester Rhinos	Vancouver Whitecaps	5/4/2007	51		LGE			
+Gjertsen, Joseph (Joey)	Vancouver Whitecaps	Rochester Rhinos	Vancouver Whitecaps	5/4/2007	9		LGE	Nash, Martin		
+Hayes, David	Atlanta Silverbacks	Atlanta Silverbacks	Carolina Railhawks	5/5/2007	18	Penalty	LGE			
+Moore, Justin	Atlanta Silverbacks	Atlanta Silverbacks	Carolina Railhawks	5/5/2007	48		LGE	Rios-Rodriguez, Rodrigo		
+Jones, Bret (Eric)	Cincinnati Kings	Crystal Palace Baltimore	Cincinnati Kings	5/5/2007	87		LGE	McCloskey, Kevin		
+Odour, Moffat	Harrisburg City Islanders	Harrisburg City Islanders	Charlotte Eagles	5/5/2007	7		LGE	Ombiji, Brian		
+Ombiji, Brian	Harrisburg City Islanders	Harrisburg City Islanders	Charlotte Eagles	5/5/2007	68		LGE	Schofield, David		
+Fisher, Stephen	Harrisburg City Islanders	Harrisburg City Islanders	Charlotte Eagles	5/5/2007	70		LGE	Schofield, David		
+Velten, Timothy	Harrisburg City Islanders	Harrisburg City Islanders	Charlotte Eagles	5/5/2007	90		LGE	Fisher, Stephen		
+Ruud, Adam	Charlotte Eagles	Harrisburg City Islanders	Charlotte Eagles	5/5/2007	4		LGE	Coggins, Jacob		
+Ruud, Adam	Charlotte Eagles	Harrisburg City Islanders	Charlotte Eagles	5/5/2007	36		LGE	Swinehart, Dustin		
+Coggins, Jacob	Charlotte Eagles	Harrisburg City Islanders	Charlotte Eagles	5/5/2007	85		LGE	Ruud, Adam		
+Gbeke, Charles	Montreal Impact	Miami FC	Montreal Impact	5/5/2007	69		LGE	Moojen, Frederico		
+Knox, Nathan	Seattle Sounders	Seattle Sounders	Portland Timbers	5/5/2007	20		LGE	Gardner, Joshua		
+Northup, Nathan	Wilmington Hammerheads	Wilmington Hammerheads	Richmond Kickers	5/5/2007	36		LGE	Holmes, Jamie		
+Watson, Matthew	Richmond Kickers	Wilmington Hammerheads	Richmond Kickers	5/5/2007	89		LGE	Schramm, Frederick (Ricky)		
+Schramm, Frederick (Ricky)	Richmond Kickers	Wilmington Hammerheads	Richmond Kickers	5/5/2007	77		LGE			
+Willis, Jason	Western Mass Pioneers	Western Mass Pioneers	New Hampshire Phantoms	5/5/2007	49		LGE	Maciel, Everson		
+Barbosa, Almir	New Hampshire Phantoms	Western Mass Pioneers	New Hampshire Phantoms	5/5/2007	26	Penalty	LGE			
+Chin, Gordan	Charleston Battery	Charleston Battery	Rochester Rhinos	5/6/2007	3		LGE	Vercollone, Luke		
+Menyongar, Johnny	Rochester Rhinos	Charleston Battery	Rochester Rhinos	5/6/2007	58		LGE			
+Juarez, Frederico (Freddy)	Minnesota Thunder	Minnesota Thunder	Vancouver Whitecaps	5/6/2007	66		LGE			
+Alberts, James (Jay)	Vancouver Whitecaps	Minnesota Thunder	Vancouver Whitecaps	5/6/2007	50		LGE	Kindel, Steve		
+Klein, Steve	Vancouver Whitecaps	Minnesota Thunder	Vancouver Whitecaps	5/6/2007	88		LGE	Nash, Martin		
+Holder, Laurence (Lloyd)	Bermuda Hogges	Bermuda Hogges	Cincinnati Kings	5/9/2007	47		LGE	Astwood, Stephen (Ste)		
+McCloskey, Kevin	Cincinnati Kings	Bermuda Hogges	Cincinnati Kings	5/9/2007	4		LGE			
+Jordan, Bryan	Portland Timbers	Portland Timbers	Seattle Sounders	5/11/2007	78		LGE			
+Gregor, Andrew	Portland Timbers	Portland Timbers	Seattle Sounders	5/11/2007	87	Penalty	LGE			
+Le Toux, Sebastian	Seattle Sounders	Portland Timbers	Seattle Sounders	5/11/2007	8		LGE	Levesque, Roger		
+Levesque, Roger	Seattle Sounders	Portland Timbers	Seattle Sounders	5/11/2007	77		LGE	Le Toux, Sebastian		
+Zapata, Alberto	Puerto Rico Islanders	Puerto Rico Islanders	Montreal Impact	5/11/2007	76		LGE	Herrera, Victor Manuel		
+Moojen, Frederico	Montreal Impact	Puerto Rico Islanders	Montreal Impact	5/11/2007	43		LGE	Biello, Mauro		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	5/11/2007	13		LGE	Ruud, Adam		
+Spencer, Matthew (Ross)	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	5/11/2007	86		LGE	Swinehart, Dustin		
+Moore, Justin	Atlanta Silverbacks	Atlanta Silverbacks	Carolina Railhawks	5/12/2007	43		LGE	Antoniuk, Daniel		
+Low, Kupono	Carolina Railhawks	Atlanta Silverbacks	Carolina Railhawks	5/12/2007	9		LGE			
+Dombrowski, Chad	Carolina Railhawks	Atlanta Silverbacks	Carolina Railhawks	5/12/2007	29		LGE			
+McClung, Kiel	California Victory	California Victory	Rochester Rhinos	5/12/2007	73		LGE	Retiz, Jose		
+Menyongar, Johnny	Rochester Rhinos	California Victory	Rochester Rhinos	5/12/2007	5		LGE	Harrison, Chase		
+Palguta, Scott	Rochester Rhinos	California Victory	Rochester Rhinos	5/12/2007	21		LGE			
+Martinez, Rey Angel	Rochester Rhinos	California Victory	Rochester Rhinos	5/12/2007	79		LGE	Shirley-Black, Stephen		
+Armstrong, Stephen	Charleston Battery	Charleston Battery	Miami FC	5/12/2007	29		LGE			
+Alvarez, Byron	Charleston Battery	Charleston Battery	Miami FC	5/12/2007	85		LGE	Chin, Gordan		
+Sarkodie, Kwame	Cincinnati Kings	Cincinnati Kings	Cleveland City Stars	5/12/2007	42		LGE	Jones, Bret (Eric)		
+Codrington, Nigel	Cleveland City Stars	Cincinnati Kings	Cleveland City Stars	5/12/2007	69		LGE			
+Codrington, Nigel	Cleveland City Stars	Cincinnati Kings	Cleveland City Stars	5/12/2007	72		LGE	Schulte, Mark		
+Alexander, Robert (Trey)	Richmond Kickers	Crystal Palace Baltimore	Richmond Kickers	5/12/2007	90		LGE	Burke, Michael		
+Alcaraz-Cuellar, Hugo	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	5/12/2007	27	Penalty	LGE			
+Sebrango-Rodriguez, Eduardo	Vancouver Whitecaps	Seattle Sounders	Vancouver Whitecaps	5/12/2007	37		LGE	Kindel, Steve		
+Testo, David	Vancouver Whitecaps	Seattle Sounders	Vancouver Whitecaps	5/12/2007	50		LGE	Sebrango-Rodriguez, Eduardo		
+Donatelli, Tony	Vancouver Whitecaps	Seattle Sounders	Vancouver Whitecaps	5/12/2007	87		LGE	Bailey, Joel (JJ)		
+Molinari, Federico	Western Mass Pioneers	Western Mass Pioneers	Harrisburg City Islanders	5/12/2007	25		LGE			
+Wilson, Easton	Western Mass Pioneers	Western Mass Pioneers	Harrisburg City Islanders	5/12/2007	78		LGE	Deren, Jeff		
+Gregor, Andrew	Portland Timbers	Portland Timbers	Rochester Rhinos	5/13/2007	24		LGE	Bagley, Christopher		
+Griffin, Leonard	Portland Timbers	Portland Timbers	Rochester Rhinos	5/13/2007	32		LGE	Gregor, Andrew		
+McGinlay, Mike	Cincinnati Kings	Cincinnati Kings	New Hampshire Phantoms	5/18/2007	3		LGE	Delgado, Noah		
+McGinlay, Mike	Cincinnati Kings	Cincinnati Kings	New Hampshire Phantoms	5/18/2007	18		LGE			
+McGinlay, Mike	Cincinnati Kings	Cincinnati Kings	New Hampshire Phantoms	5/18/2007	26		LGE	Delgado, Noah		
+Miller, Samuel	Cincinnati Kings	Cincinnati Kings	New Hampshire Phantoms	5/18/2007	45		LGE	Delgado, Noah		
+Oliveira-Filho, Crizam (Zinho)	Miami FC	Miami FC	Minnesota Thunder	5/18/2007	51		LGE			
+Tarley, Duncan (Melvin)	Puerto Rico Islanders	Puerto Rico Islanders	Atlanta Silverbacks	5/18/2007	6		LGE			
+Zapata, Alberto	Puerto Rico Islanders	Puerto Rico Islanders	Atlanta Silverbacks	5/18/2007	51		LGE			
+Hassim, Rafique	Atlanta Silverbacks	Puerto Rico Islanders	Atlanta Silverbacks	5/18/2007	39		LGE			
+Hassim, Rafique	Atlanta Silverbacks	Puerto Rico Islanders	Atlanta Silverbacks	5/18/2007	53		LGE			
+McManus, Anthony (Tony)	Atlanta Silverbacks	Puerto Rico Islanders	Atlanta Silverbacks	5/18/2007	88		LGE			
+Howes, Gregory	Seattle Sounders	Seattle Sounders	Rochester Rhinos	5/18/2007	58		LGE			
+Menyongar, Johnny	Rochester Rhinos	Seattle Sounders	Rochester Rhinos	5/18/2007	60		LGE			
+Hansen, Joshua	California Victory	California Victory	Vancouver Whitecaps	5/19/2007	13		LGE			
+Sebrango-Rodriguez, Eduardo	Vancouver Whitecaps	California Victory	Vancouver Whitecaps	5/19/2007	6		LGE			
+Sebrango-Rodriguez, Eduardo	Vancouver Whitecaps	California Victory	Vancouver Whitecaps	5/19/2007	10		LGE			
+Cann, Adrian	Vancouver Whitecaps	California Victory	Vancouver Whitecaps	5/19/2007	69		LGE			
+Low, Kupono	Carolina Railhawks	Carolina Railhawks	Charleston Battery	5/19/2007	39	Penalty	LGE			
+Moffat, Adam	Cleveland City Stars	Cleveland City Stars	New Hampshire Phantoms	5/19/2007	15		LGE			
+Codrington, Nigel	Cleveland City Stars	Cleveland City Stars	New Hampshire Phantoms	5/19/2007	23		LGE			
+Moffat, Adam	Cleveland City Stars	Cleveland City Stars	New Hampshire Phantoms	5/19/2007	90		LGE			
+Lopes, Tiago Manuel Ferreira	New Hampshire Phantoms	Cleveland City Stars	New Hampshire Phantoms	5/19/2007	54		LGE			
+Fernandes, Narcisco Lima	New Hampshire Phantoms	Cleveland City Stars	New Hampshire Phantoms	5/19/2007	82		LGE			
+Jaman, Nowaf	Richmond Kickers	Richmond Kickers	Charlotte Eagles	5/19/2007	74		LGE			
+Oliveira-Filho, Crizam (Zinho)	Miami FC	Miami FC	Atlanta Silverbacks	5/20/2007	50		LGE			
+Fraser, Sean	Miami FC	Miami FC	Atlanta Silverbacks	5/20/2007	61		LGE	Capecci, Daniel		
+Antoniuk, Daniel	Atlanta Silverbacks	Miami FC	Atlanta Silverbacks	5/20/2007	7		LGE			
+Palleschi, Matthew	Montreal Impact	Montreal Impact	Seattle Sounders	5/20/2007	12		LGE			
+Fabro, Martin	Montreal Impact	Montreal Impact	Seattle Sounders	5/20/2007	54		LGE			
+Tarley, Duncan (Melvin)	Puerto Rico Islanders	Puerto Rico Islanders	Minnesota Thunder	5/20/2007	16		LGE			
+Farber, Brian	Minnesota Thunder	Puerto Rico Islanders	Minnesota Thunder	5/20/2007	35		LGE			
+Gibson, Leo	Minnesota Thunder	Puerto Rico Islanders	Minnesota Thunder	5/20/2007	73		LGE			
+Gjertsen, Joseph (Joey)	Vancouver Whitecaps	Vancouver Whitecaps	Rochester Rhinos	5/20/2007	39		LGE			
+Alberts, James (Jay)	Vancouver Whitecaps	Vancouver Whitecaps	Rochester Rhinos	5/20/2007	70		LGE			
+Sebrango-Rodriguez, Eduardo	Vancouver Whitecaps	Vancouver Whitecaps	Rochester Rhinos	5/20/2007	82		LGE			
+Menyongar, Johnny	Rochester Rhinos	Vancouver Whitecaps	Rochester Rhinos	5/20/2007	67	Penalty	LGE			
+Le Toux, Sebastian	Seattle Sounders	Seattle Sounders	Carolina Railhawks	5/23/2007	57		LGE			
+Horne, David	Cincinnati Kings	Cincinnati Kings	Wilmington Hammerheads	5/24/2007	87		LGE	McGinlay, Mike		
+Jones, Bret (Eric)	Cincinnati Kings	Cincinnati Kings	Wilmington Hammerheads	5/24/2007	90		LGE			
+MacKenzie, Ross	Wilmington Hammerheads	Cincinnati Kings	Wilmington Hammerheads	5/24/2007	75		LGE	Smith, Andrew		
+Holmes, Jamie	Wilmington Hammerheads	Cincinnati Kings	Wilmington Hammerheads	5/24/2007	79		LGE	MacKenzie, Ross		
+Flores, Sergio	Crystal Palace Baltimore	Wilmington Hammerheads	Crystal Palace Baltimore	5/19/2007	11		LGE			
+Marshall, Andrew	Crystal Palace Baltimore	Wilmington Hammerheads	Crystal Palace Baltimore	5/19/2007	48		LGE			
+Alcala, Joshua	Crystal Palace Baltimore	Wilmington Hammerheads	Crystal Palace Baltimore	5/19/2007	90		LGE			
+Gbeke, Charles	Montreal Impact	Montreal Impact	Miami FC	5/25/2007	37		LGE	Di Lorenzo, Leonardo		
+Thompson, Scot	Portland Timbers	Portland Timbers	California Victory	5/25/2007	10		LGE	Jordan, Bryan		
+Jordan, Bryan	Portland Timbers	Portland Timbers	California Victory	5/25/2007	55		LGE			
+Edozien, Connally	Carolina Railhawks	Vancouver Whitecaps	Carolina Railhawks	5/25/2007	57		LGE			
+Molinari, Federico	Western Mass Pioneers	Western Mass Pioneers	Charlotte Eagles	5/25/2007	45		LGE	Augustine, Anthony		
+Coggins, Jacob	Charlotte Eagles	Western Mass Pioneers	Charlotte Eagles	5/25/2007	12		LGE			
+Hansen, Joshua	California Victory	California Victory	Seattle Sounders	5/26/2007	51	Penalty	LGE			
+Howes, Gregory	Seattle Sounders	California Victory	Seattle Sounders	5/26/2007	1		LGE	Besagno, Jacob		
+Levesque, Roger	Seattle Sounders	California Victory	Seattle Sounders	5/26/2007	70		LGE	Le Toux, Sebastian		
+Alvarez, Byron	Charleston Battery	Charleston Battery	Atlanta Silverbacks	5/26/2007	35		LGE	Armstrong, Stephen		
+Fuller, Ian	Charleston Battery	Charleston Battery	Atlanta Silverbacks	5/26/2007	51		LGE	Corcoran, Christopher		
+Paye, Aaron	Minnesota Thunder	Minnesota Thunder	Puerto Rico Islanders	5/26/2007	9		LGE	Alvino, Terry		
+Delgado, Noah	Puerto Rico Islanders	Minnesota Thunder	Puerto Rico Islanders	5/26/2007	45		LGE	Zapata, Alberto		
+Delgado, Noah	Puerto Rico Islanders	Minnesota Thunder	Puerto Rico Islanders	5/26/2007	88		LGE	Villagas-Espana, Petter		
+Fernandes, Narcisco Lima	New Hampshire Phantoms	New Hampshire Phantoms	Charlotte Eagles	5/26/2007	83		LGE	McNeil, Thomas		
+Barbosa, Almir	New Hampshire Phantoms	New Hampshire Phantoms	Charlotte Eagles	5/26/2007	90	Penalty	LGE			
+Harvey, Daniel	Charlotte Eagles	New Hampshire Phantoms	Charlotte Eagles	5/26/2007	30		LGE	Coggins, Jacob		
+Coggins, Jacob	Charlotte Eagles	New Hampshire Phantoms	Charlotte Eagles	5/26/2007	36		LGE	Harvey, Daniel		
+Coggins, Jacob	Charlotte Eagles	New Hampshire Phantoms	Charlotte Eagles	5/26/2007	65		LGE			
+Bulow, David	Richmond Kickers	Richmond Kickers	Crystal Palace Baltimore	5/26/2007	38		LGE	Gorres, Sascha		
+Mbuta, Matthew Andongcho	Crystal Palace Baltimore	Richmond Kickers	Crystal Palace Baltimore	5/26/2007	75		LGE			
+Delicate, Matthew	Rochester Rhinos	Rochester Rhinos	Miami FC	5/27/2007	16		LGE	Ambersley, Michael		
+Delicate, Matthew	Rochester Rhinos	Rochester Rhinos	Miami FC	5/27/2007	61		LGE	Menyongar, Johnny		
+Morales, Yuri	California Victory	California Victory	Charleston Battery	5/30/2007	45		LGE	Sanchez, Ricardo		
+Armstrong, Stephen	Charleston Battery	California Victory	Charleston Battery	5/30/2007	40		LGE	Alavanja, Lazo		
+Coggins, Jacob	Charlotte Eagles	Charlotte Eagles	Cincinnati Kings	6/1/2007	8		LGE	Herrera, Jorge		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Cincinnati Kings	6/1/2007	18		LGE	Herrera, Jorge		
+Harvey, Daniel	Charlotte Eagles	Charlotte Eagles	Cincinnati Kings	6/1/2007	46		LGE	Shak, Steve		
+Johnson, Benjamin	Charlotte Eagles	Charlotte Eagles	Cincinnati Kings	6/1/2007	61		LGE	Swinehart, Dustin		
+Herrera, Jorge	Charlotte Eagles	Charlotte Eagles	Cincinnati Kings	6/1/2007	90		LGE	Shak, Steve		
+Sarkodie, Kwame	Cincinnati Kings	Charlotte Eagles	Cincinnati Kings	6/1/2007	14		LGE	Cheurlin, Romain		
+Sarkodie, Kwame	Cincinnati Kings	Charlotte Eagles	Cincinnati Kings	6/1/2007	48		LGE			
+Miller, Samuel	Cincinnati Kings	Charlotte Eagles	Cincinnati Kings	6/1/2007	50		LGE			
+Ambersley, Michael	Rochester Rhinos	Miami FC	Rochester Rhinos	6/1/2007	24		LGE			
+McManus, Anthony (Tony)	Atlanta Silverbacks	Atlanta Silverbacks	Miami FC	6/2/2007	31		LGE	Moore, Justin		
+FelicianoDeOliveir, JulioCesar	Miami FC	Atlanta Silverbacks	Miami FC	6/2/2007	73		LGE	Oliveira-Filho, Crizam (Zinho)		
+Vasquez, Eric	Miami FC	Atlanta Silverbacks	Miami FC	6/2/2007	90		LGE	Mosquera, Nicolas		
+Tanzini, Matt	Harrisburg City Islanders	Harrisburg City Islanders	Cleveland City Stars	6/2/2007	65		LGE	Odour, Moffat		
+Tanzini, Matt	Harrisburg City Islanders	Harrisburg City Islanders	Cleveland City Stars	6/2/2007	69		LGE			
+Schulte, Mark	Cleveland City Stars	Harrisburg City Islanders	Cleveland City Stars	6/2/2007	20		LGE			
+Leibbrandt, Ian	Cleveland City Stars	Harrisburg City Islanders	Cleveland City Stars	6/2/2007	28		LGE	Peterson, Andrew		
+Paye, Aaron	Minnesota Thunder	Minnesota Thunder	Charleston Battery	6/2/2007	86	Penalty	LGE			
+Alvarez, Byron	Charleston Battery	Minnesota Thunder	Charleston Battery	6/2/2007	19		LGE	Alavanja, Lazo		
+Alvarez, Byron	Charleston Battery	Minnesota Thunder	Charleston Battery	6/2/2007	75		LGE	Chin, Gordan		
+Nweke, Charles	Wilmington Hammerheads	Wilmington Hammerheads	Cincinnati Kings	6/2/2007	20		LGE	MacKenzie, Ross		
+Bell, Brian	Wilmington Hammerheads	Wilmington Hammerheads	Cincinnati Kings	6/2/2007	31		LGE	MacKenzie, Ross		
+Wilson, Easton	Western Mass Pioneers	Western Mass Pioneers	Richmond Kickers	6/2/2007	45		LGE	Manning, Ahmad		
+Deren, Jeff	Western Mass Pioneers	Western Mass Pioneers	Richmond Kickers	6/2/2007	74		LGE	Molinari, Federico		
+Gorres, Sascha	Richmond Kickers	Western Mass Pioneers	Richmond Kickers	6/2/2007	9		LGE	McEachron, Trevor		
+McEachron, Trevor	Richmond Kickers	Western Mass Pioneers	Richmond Kickers	6/2/2007	22		LGE	Gorres, Sascha		
+Villagas-Espana, Petter	Puerto Rico Islanders	Puerto Rico Islanders	Rochester Rhinos	6/3/2007	15		LGE	Zapata, Alberto		
+Diallo, Hamed	Rochester Rhinos	Puerto Rico Islanders	Rochester Rhinos	6/3/2007	80		LGE	Martinez, Rey Angel		
+Moojen, Frederico	Montreal Impact	Montreal Impact	Minnesota Thunder	6/5/2007	41		LGE			
+Bass, Jeremiah	Minnesota Thunder	Montreal Impact	Minnesota Thunder	6/5/2007	90		LGE			
+Steede, Kwame	Bermuda Hogges	Bermuda Hogges	Charlotte Eagles	6/6/2007	77		LGE	Peniston, Jared		
+Coggins, Jacob	Charlotte Eagles	Bermuda Hogges	Charlotte Eagles	6/6/2007	45		LGE	Swinehart, Dustin		
+Coggins, Jacob	Charlotte Eagles	Bermuda Hogges	Charlotte Eagles	6/6/2007	59		LGE	Harvey, Daniel		
+Swinehart, Dustin	Charlotte Eagles	Bermuda Hogges	Charlotte Eagles	6/6/2007	74		LGE	Coggins, Jacob		
+Spencer, Matthew (Ross)	Charlotte Eagles	Bermuda Hogges	Charlotte Eagles	6/6/2007	90		LGE	Coggins, Jacob		
+Morales, Yuri	California Victory	California Victory	Vancouver Whitecaps	6/7/2007	41		LGE	Sanchez, Ricardo		
+Bennett, Ian	Charleston Battery	Charleston Battery	Seattle Sounders	6/7/2007	73		LGE			
+Knox, Nathan	Seattle Sounders	Charleston Battery	Seattle Sounders	6/7/2007	37		LGE			
+Howes, Gregory	Seattle Sounders	Charleston Battery	Seattle Sounders	6/7/2007	50		LGE	Sakuda, Kevin		
+Vasquez, Eric	Miami FC	Miami FC	Puerto Rico Islanders	6/7/2007	8	Penalty	LGE			
+Gonzalez, Luis (Luichi)	Miami FC	Miami FC	Puerto Rico Islanders	6/7/2007	35		LGE	Oliveira-Filho, Crizam (Zinho)		
+Tarley, Duncan (Melvin)	Puerto Rico Islanders	Miami FC	Puerto Rico Islanders	6/7/2007	21		LGE	Gonzalez-Pareja, Alejandro		
+Ramirez, Jorge Eduardo	Puerto Rico Islanders	Miami FC	Puerto Rico Islanders	6/7/2007	46		LGE	Gonzalez-Pareja, Alejandro		
+Edozien, Connally	Carolina Railhawks	Carolina Railhawks	Rochester Rhinos	6/8/2007	11		LGE	Low, Kupono		
+Edozien, Connally	Carolina Railhawks	Carolina Railhawks	Rochester Rhinos	6/8/2007	38		LGE	Maher, Anthony		
+Ambersley, Michael	Rochester Rhinos	Carolina Railhawks	Rochester Rhinos	6/8/2007	37		LGE	Palguta, Scott		
+Delicate, Matthew	Rochester Rhinos	Carolina Railhawks	Rochester Rhinos	6/8/2007	45		LGE	Martinez, Rey Angel		
+Gregor, Andrew	Portland Timbers	Montreal Impact	Portland Timbers	6/8/2007	75	Penalty	LGE			
+Moffat, Adam	Cleveland City Stars	Cleveland City Stars	Cincinnati Kings	6/9/2007	45		LGE	Schulte, Mark		
+Sheringham, Charles	Crystal Palace Baltimore	Crystal Palace Baltimore	Charlotte Eagles	6/9/2007	0		LGE	Mbuta, Matthew Andongcho		
+Pierce, Ryan	Harrisburg City Islanders	Harrisburg City Islanders	Bermuda Hogges	6/9/2007	47		LGE	Severs, Chad		
+Severs, Chad	Harrisburg City Islanders	Harrisburg City Islanders	Bermuda Hogges	6/9/2007	51		LGE	Tanzini, Matt		
+Odour, Moffat	Harrisburg City Islanders	Harrisburg City Islanders	Bermuda Hogges	6/9/2007	74		LGE	Fisher, Stephen		
+Severs, Chad	Harrisburg City Islanders	Harrisburg City Islanders	Bermuda Hogges	6/9/2007	78		LGE	Odour, Moffat		
+Astwood, Stephen (Ste)	Bermuda Hogges	Harrisburg City Islanders	Bermuda Hogges	6/9/2007	10		LGE	Scheufele, Peter		
+Goater, Shaun	Bermuda Hogges	Harrisburg City Islanders	Bermuda Hogges	6/9/2007	63		LGE	Ming, Damon Jason		
+Vasquez, Eric	Miami FC	Miami FC	Puerto Rico Islanders	6/9/2007	33	Penalty	LGE			
+Delgado, Noah	Puerto Rico Islanders	Miami FC	Puerto Rico Islanders	6/9/2007	13		LGE	Tarley, Duncan (Melvin)		
+Villagas-Espana, Petter	Puerto Rico Islanders	Miami FC	Puerto Rico Islanders	6/9/2007	60		LGE	Zapata, Alberto		
+Zapata, Alberto	Puerto Rico Islanders	Miami FC	Puerto Rico Islanders	6/9/2007	62		LGE	Sattler, Daryl		
+Gonzalez-Pareja, Alejandro	Puerto Rico Islanders	Miami FC	Puerto Rico Islanders	6/9/2007	87		LGE	Beach, Raymond		
+Barbosa, Almir	New Hampshire Phantoms	New Hampshire Phantoms	Western Mass Pioneers	6/9/2007	30		LGE	Casal, Flavio (Casal)		
+Bulow, David	Richmond Kickers	Richmond Kickers	Wilmington Hammerheads	6/9/2007	52		LGE	Harding, Evan		
+Ssejjemba, Robert	Richmond Kickers	Richmond Kickers	Wilmington Hammerheads	6/9/2007	78		LGE	Pascale, Ronnie		
+Lines, Aaran	Rochester Rhinos	Rochester Rhinos	Portland Timbers	6/9/2007	4		LGE			
+Delicate, Matthew	Rochester Rhinos	Rochester Rhinos	Portland Timbers	6/9/2007	28		LGE	Lines, Aaran		
+Griffin, Leonard	Portland Timbers	Rochester Rhinos	Portland Timbers	6/9/2007	41		LGE			
+Donatelli, Tony	Vancouver Whitecaps	Vancouver Whitecaps	Minnesota Thunder	6/10/2007	74		LGE	Gjertsen, Joseph (Joey)		
+Le Toux, Sebastian	Seattle Sounders	Carolina Railhawks	Seattle Sounders	6/15/2007	35		LGE	Jackson, Danny		
+McGinlay, Mike	Cincinnati Kings	Cincinnati Kings	Western Mass Pioneers	6/15/2007	8		LGE	Sarkodie, Kwame		
+Hermann, Thies	Cincinnati Kings	Cincinnati Kings	Western Mass Pioneers	6/15/2007	38		LGE	Horne, David		
+Micklos, Nathan	Cincinnati Kings	Cincinnati Kings	Western Mass Pioneers	6/15/2007	90		LGE	Townsend, Ashleigh		
+McFarlane, Omar	Western Mass Pioneers	Cincinnati Kings	Western Mass Pioneers	6/15/2007	50		LGE	Maciel, Everson		
+Maciel, Everson	Western Mass Pioneers	Cincinnati Kings	Western Mass Pioneers	6/15/2007	51		LGE			
+Deren, Jeff	Western Mass Pioneers	Cincinnati Kings	Western Mass Pioneers	6/15/2007	73		LGE	Wilson, Easton		
+Alvarez, Byron	Charleston Battery	Montreal Impact	Charleston Battery	6/15/2007	90		LGE			
+Corrie, George	Wilmington Hammerheads	Wilmington Hammerheads	New Hampshire Phantoms	6/15/2007	21		LGE	Mattison, Landy		
+Barbosa, Almir	New Hampshire Phantoms	Wilmington Hammerheads	New Hampshire Phantoms	6/15/2007	26		LGE	Jackson, Tyler		
+Shak, Steve	Charlotte Eagles	Charlotte Eagles	New Hampshire Phantoms	6/16/2007	5		LGE	Ruud, Adam		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	New Hampshire Phantoms	6/16/2007	34		LGE	Shak, Steve		
+Codrington, Nigel	Cleveland City Stars	Cleveland City Stars	Western Mass Pioneers	6/16/2007	5	Penalty	LGE			
+Williams, Luke	Cleveland City Stars	Cleveland City Stars	Western Mass Pioneers	6/16/2007	90		LGE	Montez, Jared		
+Codrington, Nigel	Cleveland City Stars	Cleveland City Stars	Western Mass Pioneers	6/16/2007	90		LGE	Williams, Luke		
+Mbuta, Matthew Andongcho	Crystal Palace Baltimore	Crystal Palace Baltimore	Bermuda Hogges	6/16/2007	47		LGE	Sheringham, Charles		
+Alcala, Joshua	Crystal Palace Baltimore	Crystal Palace Baltimore	Bermuda Hogges	6/16/2007	61		LGE	Sheringham, Charles		
+Peniston, Jared	Bermuda Hogges	Crystal Palace Baltimore	Bermuda Hogges	6/16/2007	69		LGE	Ming, Damon Jason		
+Paye, Aaron	Minnesota Thunder	Minnesota Thunder	Miami FC	6/16/2007	25		LGE	Alvino, Terry		
+Gonzalez, Luis (Luichi)	Miami FC	Minnesota Thunder	Miami FC	6/16/2007	39		LGE	Vasquez, Eric		
+Burke, Michael	Richmond Kickers	Richmond Kickers	Bermuda Hogges	6/17/2007	18		LGE			
+Bulow, David	Richmond Kickers	Richmond Kickers	Bermuda Hogges	6/17/2007	42		LGE	Gorres, Sascha		
+Ssejjemba, Robert	Richmond Kickers	Richmond Kickers	Bermuda Hogges	6/17/2007	63		LGE	Burke, Michael		
+Ssejjemba, Robert	Richmond Kickers	Richmond Kickers	Bermuda Hogges	6/17/2007	73		LGE	Burke, Michael		
+Delicate, Matthew	Rochester Rhinos	Rochester Rhinos	Charleston Battery	6/17/2007	23		LGE	Lines, Aaran		
+Bonseu, Tenywa (T-Bone)	Rochester Rhinos	Rochester Rhinos	Charleston Battery	6/17/2007	35		LGE	Palguta, Scott		
+Diallo, Hamed	Rochester Rhinos	Rochester Rhinos	Charleston Battery	6/17/2007	66		LGE	Delicate, Matthew		
+Ball, John	Rochester Rhinos	Rochester Rhinos	Charleston Battery	6/17/2007	87		LGE	Bertz, Kenny		
+Martinez, Rey Angel	Rochester Rhinos	Rochester Rhinos	Charleston Battery	6/17/2007	90		LGE	Menyongar, Johnny		
+Alvarez, Byron	Charleston Battery	Rochester Rhinos	Charleston Battery	6/17/2007	27		LGE			
+King, Aaron	Charleston Battery	Rochester Rhinos	Charleston Battery	6/17/2007	70		LGE	Alvarez, Byron		
+Williamson, Adam	Wilmington Hammerheads	Bermuda Hogges	Wilmington Hammerheads	6/19/2007	36		LGE	Cvilikas, Brian		
+Stewart, Craig	New Hampshire Phantoms	New Hampshire Phantoms	Western Mass Pioneers	6/20/2007	80		LGE	McNeil, Thomas		
+Deren, Jeff	Western Mass Pioneers	New Hampshire Phantoms	Western Mass Pioneers	6/20/2007	19	Penalty	LGE			
+Wilson, Easton	Western Mass Pioneers	New Hampshire Phantoms	Western Mass Pioneers	6/20/2007	90		LGE	McFarlane, Omar		
+Dombrowski, Neil	Portland Timbers	Portland Timbers	Montreal Impact	6/21/2007	85		LGE	Hague, David		
+Marcina, Alen	Montreal Impact	Portland Timbers	Montreal Impact	6/21/2007	86		LGE	Gomes Santana, Jose Ze Roberto		
+King, Aaron	Charleston Battery	Charleston Battery	Atlanta Silverbacks	6/22/2007	87		LGE	Richardson, Michael Evan		
+Armstrong, Stephen	Charleston Battery	Charleston Battery	Atlanta Silverbacks	6/22/2007	90	Penalty	LGE			
+Buete, George (Scott)	Atlanta Silverbacks	Charleston Battery	Atlanta Silverbacks	6/22/2007	37		LGE	Antoniuk, Daniel		
+Sebrango-Rodriguez, Eduardo	Vancouver Whitecaps	Miami FC	Vancouver Whitecaps	6/22/2007	87		LGE	Donatelli, Tony		
+Diallo, Hamed	Rochester Rhinos	Rochester Rhinos	California Victory	6/22/2007	15		LGE			
+Casillas, Hugo	California Victory	Rochester Rhinos	California Victory	6/22/2007	84		LGE	Munoz, Michael		
+Nweke, Charles	Wilmington Hammerheads	Wilmington Hammerheads	Cleveland City Stars	6/22/2007	11		LGE	Williamson, Adam		
+MacKenzie, Ross	Wilmington Hammerheads	Wilmington Hammerheads	Cleveland City Stars	6/22/2007	70		LGE			
+Moffat, Adam	Cleveland City Stars	Wilmington Hammerheads	Cleveland City Stars	6/22/2007	25		LGE			
+Moffat, Adam	Cleveland City Stars	Wilmington Hammerheads	Cleveland City Stars	6/22/2007	61		LGE			
+Burke, Michael	Richmond Kickers	Bermuda Hogges	Richmond Kickers	6/23/2007	66		LGE	Wolfe, Steven		
+Bulow, David	Richmond Kickers	Bermuda Hogges	Richmond Kickers	6/23/2007	70		LGE			
+Long, Phillip	Carolina Railhawks	Carolina Railhawks	Charleston Battery	6/23/2007	55		LGE	Worthen, Joey		
+Low, Kupono	Carolina Railhawks	Carolina Railhawks	Charleston Battery	6/23/2007	67	Penalty	LGE			
+Shak, Steve	Charlotte Eagles	Charlotte Eagles	Cleveland City Stars	6/23/2007	27		LGE			
+McGinlay, Mike	Cincinnati Kings	Cincinnati Kings	Crystal Palace Baltimore	6/23/2007	81	Penalty	LGE			
+Hermann, Thies	Cincinnati Kings	Cincinnati Kings	Crystal Palace Baltimore	6/23/2007	88		LGE	Townsend, Ashleigh		
+Urquijo, Harold	Crystal Palace Baltimore	Cincinnati Kings	Crystal Palace Baltimore	6/23/2007	18		LGE	Mbuta, Matthew Andongcho		
+Alcala, Joshua	Crystal Palace Baltimore	Cincinnati Kings	Crystal Palace Baltimore	6/23/2007	28		LGE	Urquijo, Harold		
+Odour, Moffat	Harrisburg City Islanders	Harrisburg City Islanders	New Hampshire Phantoms	6/23/2007	27		LGE			
+Ombiji, Brian	Harrisburg City Islanders	Harrisburg City Islanders	New Hampshire Phantoms	6/23/2007	60		LGE	Lookingland, Michael		
+Di Lorenzo, Leonardo	Montreal Impact	Seattle Sounders	Montreal Impact	6/23/2007	71		LGE	Lyall, Geordie		
+Farber, Brian	Minnesota Thunder	Minnesota Thunder	California Victory	6/24/2007	3		LGE	Van dar Sluijs, Alex		
+Goater, Shaun	Bermuda Hogges	Bermuda Hogges	New Hampshire Phantoms	6/25/2007	9		LGE	Lightbourne, Kyle (Lighty)		
+Goater, Shaun	Bermuda Hogges	Bermuda Hogges	New Hampshire Phantoms	6/25/2007	41	Penalty	LGE			
+Krause, Neil	New Hampshire Phantoms	Bermuda Hogges	New Hampshire Phantoms	6/25/2007	14		LGE			
+Hague, David	Portland Timbers	California Victory	Portland Timbers	6/28/2007	89		LGE	Wicks, Josh		
+Scott, Zacharias (Zach)	Seattle Sounders	Seattle Sounders	Miami FC	6/28/2007	44		LGE	Alcaraz-Cuellar, Hugo		
+Potteiger, Derek	Cleveland City Stars	Cleveland City Stars	Crystal Palace Baltimore	6/29/2007	79		LGE	McGregor, Dana		
+Mark, Larry	Crystal Palace Baltimore	Cleveland City Stars	Crystal Palace Baltimore	6/29/2007	86		LGE	Alcala, Joshua		
+Ribeiro, Antonio	Montreal Impact	Montreal Impact	Puerto Rico Islanders	6/29/2007	90		LGE	Gatti, Simon		
+Antoniuk, Daniel	Atlanta Silverbacks	Rochester Rhinos	Atlanta Silverbacks	6/29/2007	44		LGE			
+Queeley, Thomas (John)	Atlanta Silverbacks	Rochester Rhinos	Atlanta Silverbacks	6/29/2007	90		LGE	Hayes, David		
+Armstrong, Stephen	Charleston Battery	Charleston Battery	Vancouver Whitecaps	6/30/2007	56		LGE			
+Gjertsen, Joseph (Joey)	Vancouver Whitecaps	Charleston Battery	Vancouver Whitecaps	6/30/2007	36		LGE	Johnston, Martin (Morty)		
+Olum, Lawrence	Portland Timbers	Portland Timbers	Miami FC	6/30/2007	90		LGE	Gregor, Andrew		
+Ssejjemba, Robert	Richmond Kickers	Richmond Kickers	Harrisburg City Islanders	6/30/2007	69		LGE	Burke, Michael		
+Corrie, George	Wilmington Hammerheads	Wilmington Hammerheads	Charlotte Eagles	6/30/2007	30		LGE			
+Corrie, George	Wilmington Hammerheads	Wilmington Hammerheads	Charlotte Eagles	6/30/2007	54		LGE	MacKenzie, Ross		
+Daka, Taurai (Patrick)	Charlotte Eagles	Wilmington Hammerheads	Charlotte Eagles	6/30/2007	3		LGE	Johnson, Benjamin		
+Sutton, Jamal	Charlotte Eagles	Wilmington Hammerheads	Charlotte Eagles	6/30/2007	34		LGE	Harvey, Daniel		
+McFarlane, Omar	Western Mass Pioneers	Western Mass Pioneers	New Hampshire Phantoms	6/30/2007	68		LGE	Molinari, Federico		
+Hansen, Joshua	California Victory	Montreal Impact	California Victory	7/1/2007	59		LGE	Morales, Yuri		
+Morales, Yuri	California Victory	Montreal Impact	California Victory	7/1/2007	84		LGE	Casillas, Hugo		
+Le Toux, Sebastian	Seattle Sounders	Rochester Rhinos	Seattle Sounders	7/3/2007	71		LGE	Scott, Zacharias (Zach)		
+Antoniuk, Daniel	Atlanta Silverbacks	Atlanta Silverbacks	Charleston Battery	7/4/2007	21		LGE	Ukah, Warren		
+Rios-Rodriguez, Rodrigo	Atlanta Silverbacks	Atlanta Silverbacks	Charleston Battery	7/4/2007	25		LGE	Buete, George (Scott)		
+Hayes, David	Atlanta Silverbacks	Atlanta Silverbacks	Charleston Battery	7/4/2007	43		LGE	Antoniuk, Daniel		
+Alavanja, Lazo	Charleston Battery	Atlanta Silverbacks	Charleston Battery	7/4/2007	31		LGE			
+King, Aaron	Charleston Battery	Atlanta Silverbacks	Charleston Battery	7/4/2007	90		LGE			
+Kim, Chuck	California Victory	California Victory	Miami FC	7/4/2007	89		LGE	Aguayo, Omar		
+Fraser, Sean	Miami FC	California Victory	Miami FC	7/4/2007	35		LGE	Oliveira-Filho, Crizam (Zinho)		
+Pulido, John	Miami FC	California Victory	Miami FC	7/4/2007	86		LGE			
+Codrington, Nigel	Cleveland City Stars	Cleveland City Stars	Bermuda Hogges	7/6/2007	2		LGE	De Vae, John		
+Hunter, Benjamin	Cleveland City Stars	Cleveland City Stars	Bermuda Hogges	7/6/2007	38		LGE	Schulte, Mark		
+Clancy, Joseph	New Hampshire Phantoms	New Hampshire Phantoms	Richmond Kickers	7/6/2007	81		LGE			
+McNeil, Thomas	New Hampshire Phantoms	New Hampshire Phantoms	Richmond Kickers	7/6/2007	90		LGE	Casal, Flavio (Casal)		
+Alexander, Robert (Trey)	Richmond Kickers	New Hampshire Phantoms	Richmond Kickers	7/6/2007	78		LGE	Pace, Ralph		
+Diallo, Hamed	Rochester Rhinos	Rochester Rhinos	Carolina Railhawks	7/6/2007	3		LGE	Ball, John		
+Diallo, Hamed	Rochester Rhinos	Rochester Rhinos	Carolina Railhawks	7/6/2007	90		LGE	Palguta, Scott		
+Maher, Anthony	Carolina Railhawks	Rochester Rhinos	Carolina Railhawks	7/6/2007	11		LGE	Carrieri, Chris		
+Odour, Moffat	Harrisburg City Islanders	Wilmington Hammerheads	Harrisburg City Islanders	7/6/2007	32		LGE	Morman, Christopher		
+Johnston, Martin (Morty)	Harrisburg City Islanders	Wilmington Hammerheads	Harrisburg City Islanders	7/6/2007	47		LGE	Schofield, David		
+Ukah, Warren	Atlanta Silverbacks	Atlanta Silverbacks	Vancouver Whitecaps	7/7/2007	20		LGE	Antoniuk, Daniel		
+Ukah, Warren	Atlanta Silverbacks	Atlanta Silverbacks	Vancouver Whitecaps	7/7/2007	83		LGE	Rios-Rodriguez, Rodrigo		
+Gregor, Andrew	Portland Timbers	California Victory	Portland Timbers	7/7/2007	11		LGE			
+Jordan, Bryan	Portland Timbers	California Victory	Portland Timbers	7/7/2007	17		LGE	Thompson, Justin		
+Knowles, Cameron	Portland Timbers	California Victory	Portland Timbers	7/7/2007	20		LGE	Gregor, Andrew		
+Odour, Moffat	Harrisburg City Islanders	Charlotte Eagles	Harrisburg City Islanders	7/7/2007	42		LGE			
+McFarlane, Omar	Western Mass Pioneers	Crystal Palace Baltimore	Western Mass Pioneers	7/7/2007	48		LGE			
+Alvarez, Gerardo	Cleveland City Stars	Cleveland City Stars	Cincinnati Kings	7/8/2007	15	Penalty	LGE			
+De Vae, John	Cleveland City Stars	Cleveland City Stars	Cincinnati Kings	7/8/2007	89		LGE	Williams, Luke		
+Gbeke, Charles	Montreal Impact	Montreal Impact	Carolina Railhawks	7/8/2007	63		LGE	Gervais, Gabriel		
+Gbeke, Charles	Montreal Impact	Montreal Impact	Carolina Railhawks	7/8/2007	65		LGE	Gervais, Gabriel		
+Worthen, Joey	Carolina Railhawks	Montreal Impact	Carolina Railhawks	7/8/2007	17		LGE			
+Worthen, Joey	Carolina Railhawks	Montreal Impact	Carolina Railhawks	7/8/2007	30		LGE			
+Le Toux, Sebastian	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	7/12/2007	24		LGE			
+Ribeiro, Antonio	Montreal Impact	Carolina Railhawks	Montreal Impact	7/13/2007	84		LGE			
+Barbosa, Almir	New Hampshire Phantoms	New Hampshire Phantoms	Cleveland City Stars	7/13/2007	34	Penalty	LGE			
+McGregor, Dana	Cleveland City Stars	New Hampshire Phantoms	Cleveland City Stars	7/13/2007	8		LGE	Potteiger, Derek		
+Jordan, Bryan	Portland Timbers	Portland Timbers	California Victory	7/13/2007	53		LGE	Thompson, Scot		
+Noel, Fabrice	Puerto Rico Islanders	Puerto Rico Islanders	Charleston Battery	7/13/2007	32		LGE			
+Noel, Fabrice	Puerto Rico Islanders	Puerto Rico Islanders	Charleston Battery	7/13/2007	54		LGE	Needham, Jay		
+Velez, Marco	Puerto Rico Islanders	Puerto Rico Islanders	Charleston Battery	7/13/2007	57		LGE	Villagas-Espana, Petter		
+Chin, Gordan	Charleston Battery	Puerto Rico Islanders	Charleston Battery	7/13/2007	37		LGE	Alavanja, Lazo		
+Watson, Matthew	Richmond Kickers	Richmond Kickers	Charlotte Eagles	7/13/2007	3		LGE			
+Schramm, Frederick (Ricky)	Richmond Kickers	Richmond Kickers	Charlotte Eagles	7/13/2007	40		LGE	Watson, Matthew		
+Bulow, David	Richmond Kickers	Richmond Kickers	Charlotte Eagles	7/13/2007	45		LGE	Watson, Matthew		
+Watson, Matthew	Richmond Kickers	Richmond Kickers	Charlotte Eagles	7/13/2007	83		LGE	Smith, Wilfred (Praddy)		
+Harvey, Daniel	Charlotte Eagles	Richmond Kickers	Charlotte Eagles	7/13/2007	44		LGE	Coggins, Jacob		
+Ukah, Warren	Atlanta Silverbacks	Atlanta Silverbacks	Rochester Rhinos	7/14/2007	24		LGE			
+Hayes, David	Atlanta Silverbacks	Atlanta Silverbacks	Rochester Rhinos	7/14/2007	48	Penalty	LGE			
+Rios-Rodriguez, Rodrigo	Atlanta Silverbacks	Atlanta Silverbacks	Rochester Rhinos	7/14/2007	59		LGE	Antoniuk, Daniel		
+Antoniuk, Daniel	Atlanta Silverbacks	Atlanta Silverbacks	Rochester Rhinos	7/14/2007	90		LGE	Rios-Rodriguez, Rodrigo		
+Severs, Chad	Rochester Rhinos	Atlanta Silverbacks	Rochester Rhinos	7/14/2007	52		LGE			
+Ruud, Adam	Charlotte Eagles	Charlotte Eagles	Richmond Kickers	7/14/2007	26		LGE			
+Harding, Evan	Richmond Kickers	Charlotte Eagles	Richmond Kickers	7/14/2007	8		LGE	Gorres, Sascha		
+Watson, Matthew	Richmond Kickers	Charlotte Eagles	Richmond Kickers	7/14/2007	83		LGE			
+Horne, David	Cincinnati Kings	Cincinnati Kings	Bermuda Hogges	7/14/2007	68		LGE			
+McGinlay, Mike	Cincinnati Kings	Cincinnati Kings	Bermuda Hogges	7/14/2007	75		LGE	Glaser, Philip		
+Astwood, Stephen (Ste)	Bermuda Hogges	Cincinnati Kings	Bermuda Hogges	7/14/2007	12		LGE	Peniston, Jared		
+Astwood, Stephen (Ste)	Bermuda Hogges	Cincinnati Kings	Bermuda Hogges	7/14/2007	20		LGE	Ming, Damon Jason		
+Peniston, Jared	Bermuda Hogges	Cincinnati Kings	Bermuda Hogges	7/14/2007	43		LGE	Hill, Clevon		
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	Miami FC	7/14/2007	3		LGE	Nash, Martin		
+Oliveira-Filho, Crizam (Zinho)	Miami FC	Vancouver Whitecaps	Miami FC	7/14/2007	53		LGE			
+Fraser, Sean	Miami FC	Vancouver Whitecaps	Miami FC	7/14/2007	65		LGE	Van Kanten, Sergio		
+Deren, Jeff	Western Mass Pioneers	Western Mass Pioneers	Cleveland City Stars	7/14/2007	15		LGE	Maciel, Everson		
+McGregor, Dana	Cleveland City Stars	Western Mass Pioneers	Cleveland City Stars	7/14/2007	26		LGE	Williams, Luke		
+Spicer, Darren	Minnesota Thunder	Minnesota Thunder	Montreal Impact	7/15/2007	31		LGE	Paye, Aaron		
+Taylor, Kevin	Minnesota Thunder	Minnesota Thunder	Montreal Impact	7/15/2007	45		LGE	Paye, Aaron		
+Paye, Aaron	Minnesota Thunder	Minnesota Thunder	Montreal Impact	7/15/2007	80	Penalty	LGE			
+Knowles, Cameron	Portland Timbers	Portland Timbers	California Victory	7/15/2007	32		LGE	Kreamalmeyer, Luke		
+Hague, David	Portland Timbers	Portland Timbers	California Victory	7/15/2007	68		LGE	Gregor, Andrew		
+Hague, David	Portland Timbers	Portland Timbers	California Victory	7/15/2007	74		LGE	Wicks, Josh		
+Knowles, Cameron	Portland Timbers	Portland Timbers	California Victory	7/15/2007	88		LGE	Hague, David		
+Bianchi, Federico	California Victory	Portland Timbers	California Victory	7/15/2007	17		LGE	Morales, Yuri		
+Astwood, Stephen (Ste)	Bermuda Hogges	Bermuda Hogges	Crystal Palace Baltimore	7/16/2007	46		LGE			
+Brooks, Gary	Crystal Palace Baltimore	Bermuda Hogges	Crystal Palace Baltimore	7/16/2007	28		LGE			
+Brooks, Gary	Crystal Palace Baltimore	Bermuda Hogges	Crystal Palace Baltimore	7/16/2007	40		LGE	Herman, Andrew		
+Bianchi, Federico	California Victory	California Victory	Atlanta Silverbacks	7/17/2007	39		LGE	Hansen, Joshua		
+Schofield, David	Harrisburg City Islanders	Harrisburg City Islanders	Cincinnati Kings	7/18/2007	7		LGE			
+Ombiji, Brian	Harrisburg City Islanders	Harrisburg City Islanders	Cincinnati Kings	7/18/2007	36		LGE	Devlin, Brian		
+Micklos, Nathan	Cincinnati Kings	Harrisburg City Islanders	Cincinnati Kings	7/18/2007	34		LGE	Moodie, Richard		
+Farber, Brian	Minnesota Thunder	Minnesota Thunder	Montreal Impact	7/18/2007	12		LGE	Paye, Aaron		
+Leduc, Patrick	Montreal Impact	Minnesota Thunder	Montreal Impact	7/18/2007	71	Penalty	LGE			
+Gregor, Andrew	Portland Timbers	Portland Timbers	Vancouver Whitecaps	7/19/2007	29		LGE	Poltl, Tom		
+Olum, Lawrence	Portland Timbers	Portland Timbers	Vancouver Whitecaps	7/19/2007	52		LGE	Bagley, Christopher		
+Nash, Martin	Vancouver Whitecaps	Portland Timbers	Vancouver Whitecaps	7/19/2007	18		LGE			
+Micklos, Nathan	Cincinnati Kings	Cincinnati Kings	Richmond Kickers	7/20/2007	70		LGE			
+Cameron, Sean	Miami FC	Miami FC	Carolina Railhawks	7/20/2007	49		LGE	Fraser, Sean		
+Oliveira-Filho, Crizam (Zinho)	Miami FC	Miami FC	Carolina Railhawks	7/20/2007	51		LGE	Fraser, Sean		
+Sanfilippo, Frankie	Carolina Railhawks	Miami FC	Carolina Railhawks	7/20/2007	89		LGE	Low, Kupono		
+Gonzalez-Pareja, Alejandro	Puerto Rico Islanders	Puerto Rico Islanders	California Victory	7/20/2007	67		LGE			
+Hansen, Joshua	California Victory	Puerto Rico Islanders	California Victory	7/20/2007	77		LGE			
+Brooks, Gary	Crystal Palace Baltimore	Western Mass Pioneers	Crystal Palace Baltimore	7/20/2007	89		LGE	Ughiovhe, Alex Idris		
+Bagley, Christopher	Portland Timbers	Atlanta Silverbacks	Portland Timbers	7/21/2007	65		LGE	Hague, David		
+Daka, Taurai (Patrick)	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	7/21/2007	53		LGE			
+Moffat, Adam	Cleveland City Stars	Cleveland City Stars	Richmond Kickers	7/21/2007	86		LGE	Lappin, Spencer Logan		
+Watson, Matthew	Richmond Kickers	Cleveland City Stars	Richmond Kickers	7/21/2007	90		LGE	Schramm, Frederick (Ricky)		
+Rush, Sean	Crystal Palace Baltimore	New Hampshire Phantoms	Crystal Palace Baltimore	7/21/2007	89		LGE	Brooks, Gary		
+Scheufele, Peter	Rochester Rhinos	Rochester Rhinos	Seattle Sounders	7/21/2007	52		LGE			
+Diallo, Hamed	Rochester Rhinos	Rochester Rhinos	Seattle Sounders	7/21/2007	73		LGE	Martinez, Rey Angel		
+Howes, Gregory	Seattle Sounders	Rochester Rhinos	Seattle Sounders	7/21/2007	38		LGE	Levesque, Roger		
+Levesque, Roger	Seattle Sounders	Rochester Rhinos	Seattle Sounders	7/21/2007	55		LGE			
+Alcaraz-Cuellar, Hugo	Seattle Sounders	Rochester Rhinos	Seattle Sounders	7/21/2007	80		LGE			
+Alvarez, Byron	Charleston Battery	Charleston Battery	Portland Timbers	7/22/2007	26		LGE			
+Vercollone, Luke	Charleston Battery	Charleston Battery	Portland Timbers	7/22/2007	75		LGE			
+Hansen, Joshua	California Victory	Miami FC	California Victory	7/22/2007	4		LGE			
+Delgado, Noah	Puerto Rico Islanders	Puerto Rico Islanders	Carolina Railhawks	7/22/2007	3		LGE	Gonzalez-Pareja, Alejandro		
+Atieno, Taiwo (Tai)	Puerto Rico Islanders	Puerto Rico Islanders	Carolina Railhawks	7/22/2007	28		LGE	Krause, John		
+Delgado, Noah	Puerto Rico Islanders	Puerto Rico Islanders	Carolina Railhawks	7/22/2007	41		LGE			
+Worthen, Joey	Carolina Railhawks	Puerto Rico Islanders	Carolina Railhawks	7/22/2007	19		LGE	Steele, Jonathan (Jonny)		
+Bean, Ralph	Bermuda Hogges	Bermuda Hogges	Western Mass Pioneers	7/24/2007	41		LGE			
+Richards, Kevin	Bermuda Hogges	Bermuda Hogges	Western Mass Pioneers	7/24/2007	70		LGE			
+Willis, Jason	Western Mass Pioneers	Bermuda Hogges	Western Mass Pioneers	7/24/2007	6		LGE			
+Deren, Jeff	Western Mass Pioneers	Bermuda Hogges	Western Mass Pioneers	7/24/2007	17		LGE			
+Odour, Moffat	Harrisburg City Islanders	Crystal Palace Baltimore	Harrisburg City Islanders	7/25/2007	40		LGE			
+Ombiji, Brian	Harrisburg City Islanders	Crystal Palace Baltimore	Harrisburg City Islanders	7/25/2007	50		LGE			
+Thompson, Michael	Wilmington Hammerheads	Wilmington Hammerheads	Richmond Kickers	7/25/2007	16		LGE	Holmes, Jamie		
+Holmes, Jamie	Wilmington Hammerheads	Wilmington Hammerheads	Richmond Kickers	7/25/2007	29		LGE	Williamson, Adam		
+Jones, Kelvin	Richmond Kickers	Wilmington Hammerheads	Richmond Kickers	7/25/2007	65		LGE	Burke, Michael		
+Schramm, Frederick (Ricky)	Richmond Kickers	Wilmington Hammerheads	Richmond Kickers	7/25/2007	71		LGE	Smith, Wilfred (Praddy)		
+Micklos, Nathan	Cincinnati Kings	Cincinnati Kings	Charlotte Eagles	7/27/2007	6		LGE	Brown, Tim		
+Micklos, Nathan	Cincinnati Kings	Cincinnati Kings	Charlotte Eagles	7/27/2007	61		LGE	Glaser, Philip		
+Micklos, Nathan	Cincinnati Kings	Cincinnati Kings	Charlotte Eagles	7/27/2007	90	Penalty	LGE			
+Coggins, Jacob	Charlotte Eagles	Cincinnati Kings	Charlotte Eagles	7/27/2007	9		LGE	Kabwe, Joseph		
+Swinehart, Dustin	Charlotte Eagles	Cincinnati Kings	Charlotte Eagles	7/27/2007	68	Penalty	LGE			
+Ruud, Adam	Charlotte Eagles	Cincinnati Kings	Charlotte Eagles	7/27/2007	82		LGE	Rife, Josh		
+Holmes, Jamie	Wilmington Hammerheads	Western Mass Pioneers	Wilmington Hammerheads	7/27/2007	38		LGE	Cowley, David Kenneth		
+MacKenzie, Ross	Wilmington Hammerheads	Western Mass Pioneers	Wilmington Hammerheads	7/27/2007	63		LGE	Holmes, Jamie		
+Schulte, Mark	Cleveland City Stars	Cleveland City Stars	Charlotte Eagles	7/28/2007	57		LGE	Junge, Ryan		
+Mbuta, Matthew Andongcho	Crystal Palace Baltimore	Crystal Palace Baltimore	Bermuda Hogges	7/28/2007	15		LGE	Marshall, Andrew		
+Flores, Sergio	Crystal Palace Baltimore	Crystal Palace Baltimore	Bermuda Hogges	7/28/2007	31		LGE	Brooks, Gary		
+Brooks, Gary	Crystal Palace Baltimore	Crystal Palace Baltimore	Bermuda Hogges	7/28/2007	33		LGE	Marshall, Andrew		
+Mbuta, Matthew Andongcho	Crystal Palace Baltimore	Crystal Palace Baltimore	Bermuda Hogges	7/28/2007	36		LGE	Flores, Sergio		
+Flores, Sergio	Crystal Palace Baltimore	Crystal Palace Baltimore	Bermuda Hogges	7/28/2007	44		LGE	Alcala, Joshua		
+Brooks, Gary	Crystal Palace Baltimore	Crystal Palace Baltimore	Bermuda Hogges	7/28/2007	48		LGE	Harkin, Bryan		
+Herman, Andrew	Crystal Palace Baltimore	Crystal Palace Baltimore	Bermuda Hogges	7/28/2007	69		LGE	Rush, Sean		
+Harkin, Bryan	Crystal Palace Baltimore	Crystal Palace Baltimore	Bermuda Hogges	7/28/2007	80		LGE	Flores, Sergio		
+Ming, Damon Jason	Bermuda Hogges	Crystal Palace Baltimore	Bermuda Hogges	7/28/2007	37		LGE	Bean, Ralph		
+Ombiji, Brian	Harrisburg City Islanders	Harrisburg City Islanders	Richmond Kickers	7/28/2007	65		LGE	Devlin, Brian		
+Ombiji, Brian	Harrisburg City Islanders	Harrisburg City Islanders	Richmond Kickers	7/28/2007	87		LGE	Tanzini, Matt		
+Schramm, Frederick (Ricky)	Richmond Kickers	Harrisburg City Islanders	Richmond Kickers	7/28/2007	60		LGE	Jaman, Nowaf		
+Barbosa, Almir	New Hampshire Phantoms	New Hampshire Phantoms	Wilmington Hammerheads	7/28/2007	7		LGE	Teixeira-Gomes, Valdemar		
+Burgess, Romelle	New Hampshire Phantoms	New Hampshire Phantoms	Wilmington Hammerheads	7/28/2007	65		LGE			
+Teixeira-Gomes, Valdemar	New Hampshire Phantoms	New Hampshire Phantoms	Wilmington Hammerheads	7/28/2007	83		LGE	Thiam, Oumar		
+Holmes, Jamie	Wilmington Hammerheads	New Hampshire Phantoms	Wilmington Hammerheads	7/28/2007	39		LGE	Thompson, Michael		
+Ibbetson, Luke	Wilmington Hammerheads	New Hampshire Phantoms	Wilmington Hammerheads	7/28/2007	90		LGE	Bell, Brian		
+Farber, Brian	Minnesota Thunder	Minnesota Thunder	California Victory	7/26/2007	19		LGE	Gibson, Leo		
+Morales, Yuri	California Victory	Minnesota Thunder	California Victory	7/26/2007	25		LGE	Sanchez, Ricardo		
+Morales, Yuri	California Victory	Minnesota Thunder	California Victory	7/26/2007	41		LGE			
+Donatelli, Tony	Vancouver Whitecaps	Vancouver Whitecaps	Seattle Sounders	7/27/2007	41	Penalty	LGE			
+Marcina, Alen	Vancouver Whitecaps	Vancouver Whitecaps	Seattle Sounders	7/27/2007	85		LGE	Valente, Alfredo		
+Howes, Gregory	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	7/27/2007	90		LGE			
+Levesque, Roger	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	7/27/2007	16		LGE	Treschuk, Kenji		
+Needham, Jay	Puerto Rico Islanders	California Victory	Puerto Rico Islanders	7/28/2007	41		LGE	Gonzalez-Pareja, Alejandro		
+Low, Kupono	Carolina Railhawks	Carolina Railhawks	Miami FC	7/28/2007	34	Penalty	LGE			
+Pulido, John	Miami FC	Carolina Railhawks	Miami FC	7/28/2007	5		LGE	Oliveira-Filho, Crizam (Zinho)		
+Williams, Christopher	Miami FC	Carolina Railhawks	Miami FC	7/28/2007	45		LGE	Vasquez, Eric		
+Cameron, Sean	Miami FC	Carolina Railhawks	Miami FC	7/28/2007	65		LGE	Fraser, Sean		
+Gonzalez, Luis (Luichi)	Miami FC	Carolina Railhawks	Miami FC	7/28/2007	88		LGE	Oliveira-Filho, Crizam (Zinho)		
+Diallo, Hamed	Rochester Rhinos	Rochester Rhinos	Minnesota Thunder	7/28/2007	17		LGE	Severs, Chad		
+Diallo, Hamed	Rochester Rhinos	Rochester Rhinos	Minnesota Thunder	7/28/2007	19		LGE	Kramer, Daniel		
+Bonseu, Tenywa (T-Bone)	Rochester Rhinos	Rochester Rhinos	Minnesota Thunder	7/28/2007	31		LGE	Lines, Aaran		
+Severs, Chad	Rochester Rhinos	Rochester Rhinos	Minnesota Thunder	7/28/2007	45		LGE	Menyongar, Johnny		
+Ubiparipovic, Sinisa	Minnesota Thunder	Rochester Rhinos	Minnesota Thunder	7/28/2007	7		LGE	Spicer, Darren		
+Taylor, Kevin	Minnesota Thunder	Rochester Rhinos	Minnesota Thunder	7/28/2007	12		LGE	Toure, Ansu		
+Hughes, Jordan	Charleston Battery	Charleston Battery	Miami FC	7/31/2007	3		LGE	Alavanja, Lazo		
+King, Aaron	Charleston Battery	Charleston Battery	Miami FC	7/31/2007	67		LGE	Toussaint, Andre		
+Toussaint, Andre	Charleston Battery	Charleston Battery	Miami FC	7/31/2007	88		LGE	King, Aaron		
+Antoniuk, Daniel	Atlanta Silverbacks	Atlanta Silverbacks	Charleston Battery	8/4/2007	22		LGE	Liendo, Luis		
+Hayes, David	Atlanta Silverbacks	Atlanta Silverbacks	Charleston Battery	8/4/2007	26	Penalty	LGE			
+Armstrong, Stephen	Charleston Battery	Atlanta Silverbacks	Charleston Battery	8/4/2007	66		LGE	Toussaint, Andre		
+Hayes, David	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	8/10/2007	43	Penalty	LGE			
+Kandji, Macoumba (Mac)	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	8/10/2007	73		LGE	Rios-Rodriguez, Rodrigo		
+Millwood, Machel	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	8/10/2007	83		LGE	Liendo, Luis		
+Vasquez, Eric	Miami FC	Miami FC	Atlanta Silverbacks	8/12/2007	36	Penalty	LGE			
+Hayes, David	Atlanta Silverbacks	Miami FC	Atlanta Silverbacks	8/12/2007	22		LGE			
+Kandji, Macoumba (Mac)	Atlanta Silverbacks	Miami FC	Atlanta Silverbacks	8/12/2007	47		LGE	Antoniuk, Daniel		
+Ukah, Warren	Atlanta Silverbacks	Miami FC	Atlanta Silverbacks	8/12/2007	87		LGE			
+Biello, Mauro	Montreal Impact	Montreal Impact	Carolina Railhawks	8/1/2007	23		LGE	Gjertsen, Joseph (Joey)		
+Vincello, Mauricio	Montreal Impact	Montreal Impact	Carolina Railhawks	8/1/2007	45		LGE	Ribeiro, Antonio		
+Gbeke, Charles	Montreal Impact	Montreal Impact	Carolina Railhawks	8/1/2007	62		LGE	Gjertsen, Joseph (Joey)		
+Testo, David	Montreal Impact	Montreal Impact	Carolina Railhawks	8/1/2007	87		LGE	Brown Perea, Roberto Ronaldo		
+Dombrowski, Chad	Carolina Railhawks	Montreal Impact	Carolina Railhawks	8/1/2007	32		LGE	Low, Kupono		
+Gardner, Joshua	Seattle Sounders	Seattle Sounders	Portland Timbers	8/1/2007	32		LGE			
+Le Toux, Sebastian	Seattle Sounders	Seattle Sounders	Portland Timbers	8/1/2007	68		LGE	Levesque, Roger		
+Valente, Alfredo	Vancouver Whitecaps	Vancouver Whitecaps	Puerto Rico Islanders	8/2/2007	77		LGE	Nash, Martin		
+Noel, Fabrice	Puerto Rico Islanders	Vancouver Whitecaps	Puerto Rico Islanders	8/2/2007	64		LGE			
+Bailey, Joel (JJ)	Carolina Railhawks	Carolina Railhawks	California Victory	8/3/2007	30		LGE	Edozien, Connally		
+Edozien, Connally	Carolina Railhawks	Carolina Railhawks	California Victory	8/3/2007	55		LGE			
+Lemons, Christopher	Cleveland City Stars	Cleveland City Stars	Harrisburg City Islanders	8/3/2007	8	Penalty	LGE			
+Calvano, Anthony	Harrisburg City Islanders	Cincinnati Kings	Harrisburg City Islanders	8/4/2007	9		LGE			
+Clay, Adam	Harrisburg City Islanders	Cincinnati Kings	Harrisburg City Islanders	8/4/2007	55		LGE	Lookingland, Michael		
+Spicer, Darren	Minnesota Thunder	Minnesota Thunder	Portland Timbers	8/4/2007	46		LGE	Farber, Brian		
+Olum, Lawrence	Portland Timbers	Minnesota Thunder	Portland Timbers	8/4/2007	63		LGE	Kreamalmeyer, Luke		
+Shakir, Omar	Bermuda Hogges	New Hampshire Phantoms	Bermuda Hogges	8/4/2007	64		LGE	Ming, Damon Jason		
+Jaman, Nowaf	Richmond Kickers	Richmond Kickers	Western Mass Pioneers	8/4/2007	14		LGE	Bulow, David		
+Schramm, Frederick (Ricky)	Richmond Kickers	Richmond Kickers	Western Mass Pioneers	8/4/2007	45		LGE	Harding, Evan		
+Levesque, Roger	Seattle Sounders	Seattle Sounders	Puerto Rico Islanders	8/4/2007	40		LGE	Howes, Gregory		
+Mbuta, Matthew Andongcho	Crystal Palace Baltimore	Crystal Palace Baltimore	Wilmington Hammerheads	8/5/2007	56		LGE	Kante, Ibrahim		
+Urquijo, Harold	Crystal Palace Baltimore	Crystal Palace Baltimore	Wilmington Hammerheads	8/5/2007	69		LGE	Flores, Sergio		
+Brooks, Gary	Crystal Palace Baltimore	Crystal Palace Baltimore	Wilmington Hammerheads	8/5/2007	76		LGE	Mbuta, Matthew Andongcho		
+Gbeke, Charles	Montreal Impact	Montreal Impact	Rochester Rhinos	8/5/2007	37		LGE	Gjertsen, Joseph (Joey)		
+Maciel, Everson	Western Mass Pioneers	Western Mass Pioneers	Bermuda Hogges	8/7/2007	32		LGE	Tagle, German		
+Daka, Taurai (Patrick)	Charlotte Eagles	Charlotte Eagles	Bermuda Hogges	8/10/2007	7		LGE	Schroeder, Gregg		
+Sutton, Jamal	Charlotte Eagles	Charlotte Eagles	Bermuda Hogges	8/10/2007	11		LGE	Kabwe, Joseph		
+Kabwe, Joseph	Charlotte Eagles	Charlotte Eagles	Bermuda Hogges	8/10/2007	30		LGE	Daka, Taurai (Patrick)		
+Kabwe, Joseph	Charlotte Eagles	Charlotte Eagles	Bermuda Hogges	8/10/2007	71		LGE	Coggins, Jacob		
+Dill, Lashun	Bermuda Hogges	Charlotte Eagles	Bermuda Hogges	8/10/2007	86		LGE			
+Holmes, Jamie	Rochester Rhinos	Rochester Rhinos	Carolina Railhawks	8/10/2007	11		LGE	Ball, John		
+Ball, John	Rochester Rhinos	Rochester Rhinos	Carolina Railhawks	8/10/2007	83		LGE	Menyongar, Johnny		
+McFarlane, Omar	Western Mass Pioneers	Western Mass Pioneers	Cincinnati Kings	8/10/2007	11		LGE	Tagle, German		
+Deren, Jeff	Western Mass Pioneers	Western Mass Pioneers	Cincinnati Kings	8/10/2007	17		LGE	Molinari, Federico		
+McFarlane, Omar	Western Mass Pioneers	Western Mass Pioneers	Cincinnati Kings	8/10/2007	21		LGE	Wilson, Easton		
+Deren, Jeff	Western Mass Pioneers	Western Mass Pioneers	Cincinnati Kings	8/10/2007	35		LGE	Riley, Chris		
+Molinari, Federico	Western Mass Pioneers	Western Mass Pioneers	Cincinnati Kings	8/10/2007	70		LGE	Deren, Jeff		
+McMenamin, Kevin	Western Mass Pioneers	Western Mass Pioneers	Cincinnati Kings	8/10/2007	79		LGE	Sampson, Jamie		
+Horne, David	Cincinnati Kings	Western Mass Pioneers	Cincinnati Kings	8/10/2007	75		LGE	Brown, Tim		
+Fuller, Ian	Charleston Battery	Charleston Battery	California Victory	8/11/2007	90		LGE	Vercollone, Luke		
+Brooks, Gary	Crystal Palace Baltimore	Harrisburg City Islanders	Crystal Palace Baltimore	8/11/2007	70		LGE	Mbuta, Matthew Andongcho		
+Thiam, Oumar	New Hampshire Phantoms	New Hampshire Phantoms	Cincinnati Kings	8/11/2007	89		LGE	Loftus, Chris		
+Micklos, Nathan	Cincinnati Kings	New Hampshire Phantoms	Cincinnati Kings	8/11/2007	7		LGE	Miller, Samuel		
+Glaser, Philip	Cincinnati Kings	New Hampshire Phantoms	Cincinnati Kings	8/11/2007	45		LGE			
+Micklos, Nathan	Cincinnati Kings	New Hampshire Phantoms	Cincinnati Kings	8/11/2007	58		LGE	Slemker, Jake		
+Gorres, Sascha	Richmond Kickers	Richmond Kickers	Cleveland City Stars	8/11/2007	16		LGE	Burke, Michael		
+Moffat, Adam	Cleveland City Stars	Richmond Kickers	Cleveland City Stars	8/11/2007	28		LGE	Cummings, Jack		
+Rivera-Valdovinos, Santa Maria	Seattle Sounders	Seattle Sounders	Minnesota Thunder	8/11/2007	63		LGE	Alcaraz-Cuellar, Hugo		
+Graham, Taylor	Seattle Sounders	Seattle Sounders	Minnesota Thunder	8/11/2007	90		LGE	Alcaraz-Cuellar, Hugo		
+Ota, Keisuke	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/11/2007	77		LGE	Greenfield, Jonathan		
+Ota, Keisuke	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/11/2007	82		LGE	Gibson, Leo		
+Menyongar, Johnny	Rochester Rhinos	Rochester Rhinos	Puerto Rico Islanders	8/12/2007	26		LGE			
+Severs, Chad	Rochester Rhinos	Rochester Rhinos	Puerto Rico Islanders	8/12/2007	72		LGE	Diallo, Hamed		
+Valente, Alfredo	Vancouver Whitecaps	Vancouver Whitecaps	Minnesota Thunder	8/12/2007	8		LGE	Jordan, Jason		
+Cvilikas, Brian	Wilmington Hammerheads	Wilmington Hammerheads	Bermuda Hogges	8/12/2007	58		LGE	Zarate, Juvenal (Junior)		
+Cvilikas, Brian	Wilmington Hammerheads	Wilmington Hammerheads	Bermuda Hogges	8/12/2007	64		LGE	Nweke, Charles		
+Cvilikas, Brian	Wilmington Hammerheads	Wilmington Hammerheads	Bermuda Hogges	8/12/2007	90		LGE			
+Edozien, Connally	Carolina Railhawks	Charleston Battery	Carolina Railhawks	8/14/2007	6		LGE	Carrieri, Chris		
+Edozien, Connally	Carolina Railhawks	Charleston Battery	Carolina Railhawks	8/14/2007	41		LGE	Long, Phillip		
+Edozien, Connally	Carolina Railhawks	Charleston Battery	Carolina Railhawks	8/14/2007	66		LGE	Low, Kupono		
+Brown Perea, Roberto Ronaldo	Montreal Impact	California Victory	Montreal Impact	8/16/2007	34		LGE			
+Vincello, Mauricio	Montreal Impact	California Victory	Montreal Impact	8/16/2007	59		LGE	Gjertsen, Joseph (Joey)		
+Toure, Ansu	Minnesota Thunder	Minnesota Thunder	Portland Timbers	8/16/2007	11	Penalty	LGE			
+Friedland, Kevin	Minnesota Thunder	Minnesota Thunder	Portland Timbers	8/16/2007	78	Penalty	LGE			
+Taylor, Matthew	Portland Timbers	Minnesota Thunder	Portland Timbers	8/16/2007	22		LGE	Olum, Lawrence		
+Ambriz, Jaime	Portland Timbers	Minnesota Thunder	Portland Timbers	8/16/2007	87		LGE	Taylor, Matthew		
+Atieno, Taiwo (Tai)	Puerto Rico Islanders	Puerto Rico Islanders	Miami FC	8/17/2007	90		LGE			
+O'Brien, Leighton	Seattle Sounders	California Victory	Seattle Sounders	8/18/2007	80	Penalty	LGE			
+Menyongar, Johnny	Rochester Rhinos	Minnesota Thunder	Rochester Rhinos	8/18/2007	26		LGE			
+Leduc, Patrick	Montreal Impact	Vancouver Whitecaps	Montreal Impact	8/18/2007	45		LGE	Brown Perea, Roberto Ronaldo		
+Palleschi, Matthew	Montreal Impact	Vancouver Whitecaps	Montreal Impact	8/18/2007	90		LGE	Jordan, Matthew		
+Sims, Willie	Puerto Rico Islanders	Puerto Rico Islanders	Miami FC	8/19/2007	10		LGE			
+Sims, Willie	Puerto Rico Islanders	Puerto Rico Islanders	Miami FC	8/19/2007	31		LGE	Velez, Marco		
+Sims, Willie	Puerto Rico Islanders	Puerto Rico Islanders	Miami FC	8/19/2007	72	Penalty	LGE			
+Mosquera, Nicolas	Miami FC	Puerto Rico Islanders	Miami FC	8/19/2007	63		LGE			
+Fraser, Sean	Miami FC	Puerto Rico Islanders	Miami FC	8/19/2007	89		LGE			
+Graham, Taylor	Seattle Sounders	Seattle Sounders	Atlanta Silverbacks	8/22/2007	81		LGE	O'Brien, Leighton		
+Levesque, Roger	Seattle Sounders	Seattle Sounders	Atlanta Silverbacks	8/22/2007	84		LGE	Sakuda, Kevin		
+Thompson, Justin	Portland Timbers	Portland Timbers	Charleston Battery	8/23/2007	79		LGE			
+Gbeke, Charles	Montreal Impact	Rochester Rhinos	Montreal Impact	8/24/2007	70		LGE	Di Lorenzo, Leonardo		
+Gervais, Gabriel	Montreal Impact	Rochester Rhinos	Montreal Impact	8/24/2007	73		LGE	Gbeke, Charles		
+Jean-Jacques, Jamil	Miami FC	Miami FC	Portland Timbers	8/25/2007	68		LGE	Gonzalez, Luis (Luichi)		
+Gregor, Andrew	Portland Timbers	Miami FC	Portland Timbers	8/25/2007	22	Penalty	LGE			
+Thompson, Scot	Portland Timbers	Miami FC	Portland Timbers	8/25/2007	74		LGE	Gregor, Andrew		
+Farber, Brian	Minnesota Thunder	Minnesota Thunder	Atlanta Silverbacks	8/25/2007	5		LGE	Weiler, Dale		
+Millwood, Machel	Atlanta Silverbacks	Minnesota Thunder	Atlanta Silverbacks	8/25/2007	21		LGE	Rios-Rodriguez, Rodrigo		
+McManus, Anthony (Tony)	Atlanta Silverbacks	Minnesota Thunder	Atlanta Silverbacks	8/25/2007	30		LGE	Bobo, Matthew		
+Hayes, David	Atlanta Silverbacks	Minnesota Thunder	Atlanta Silverbacks	8/25/2007	50		LGE	Ukah, Warren		
+Clarke, Jeff	Vancouver Whitecaps	Vancouver Whitecaps	Charleston Battery	8/25/2007	69		LGE	McLaughlin, Jason		
+Low, Kupono	Carolina Railhawks	Carolina Railhawks	Montreal Impact	8/26/2007	52	Penalty	LGE			
+Atieno, Taiwo (Tai)	Puerto Rico Islanders	Puerto Rico Islanders	Portland Timbers	8/26/2007	56		LGE	Villagas-Espana, Petter		
+Le Toux, Sebastian	Seattle Sounders	Seattle Sounders	Charleston Battery	8/26/2007	43		LGE	Alcaraz-Cuellar, Hugo		
+Nash, Martin	Vancouver Whitecaps	Vancouver Whitecaps	Minnesota Thunder	8/30/2007	16		LGE	Marcina, Alen		
+Gbeke, Charles	Montreal Impact	Montreal Impact	Rochester Rhinos	8/31/2007	9		LGE	Vincello, Mauricio		
+Gbeke, Charles	Montreal Impact	Montreal Impact	Rochester Rhinos	8/31/2007	35		LGE	Gjertsen, Joseph (Joey)		
+Levesque, Roger	Seattle Sounders	Seattle Sounders	Minnesota Thunder	8/31/2007	79		LGE	Schmid, Andre		
+Zenoni, Kyle	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/31/2007	23		LGE			
+Zenoni, Kyle	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/31/2007	45		LGE	Farber, Brian		
+Millwood, Machel	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	9/1/2007	3		LGE	McManus, Anthony (Tony)		
+Ukah, Warren	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	9/1/2007	12		LGE	Hayes, David		
+Wolfe, Anthony	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	9/1/2007	79		LGE	Buete, George (Scott)		
+Krause, John	Puerto Rico Islanders	Atlanta Silverbacks	Puerto Rico Islanders	9/1/2007	48		LGE	Herrera, Victor Manuel		
+Jordan, Bryan	Portland Timbers	Carolina Railhawks	Portland Timbers	9/1/2007	80		LGE	Kreamalmeyer, Luke		
+Oliveira-Filho, Crizam (Zinho)	Miami FC	Miami FC	Charleston Battery	9/2/2007	22		LGE	Gonzalez, Luis (Luichi)		
+Vasquez, Eric	Miami FC	Miami FC	Charleston Battery	9/2/2007	27	Penalty	LGE			
+Mosquera, Nicolas	Miami FC	Miami FC	Charleston Battery	9/2/2007	90		LGE	Calix, Luis Enrique		
+Armstrong, Stephen	Charleston Battery	Miami FC	Charleston Battery	9/2/2007	4		LGE	Fuller, Ian		
+King, Aaron	Charleston Battery	Miami FC	Charleston Battery	9/2/2007	13		LGE	Armstrong, Stephen		
+Leduc, Patrick	Montreal Impact	Montreal Impact	Atlanta Silverbacks	9/5/2007	44		LGE			
+Gibson, Leo	Minnesota Thunder	Minnesota Thunder	Carolina Railhawks	9/6/2007	9		LGE	Spicer, Darren		
+Gibson, Leo	Minnesota Thunder	Minnesota Thunder	Carolina Railhawks	9/6/2007	43		LGE			
+Farber, Brian	Minnesota Thunder	Minnesota Thunder	Carolina Railhawks	9/6/2007	52		LGE	Weiler, Dale		
+Gibson, Leo	Minnesota Thunder	Minnesota Thunder	Carolina Railhawks	9/6/2007	67		LGE			
+Gibson, Leo	Minnesota Thunder	Minnesota Thunder	Carolina Railhawks	9/6/2007	75		LGE			
+Le Toux, Sebastian	Seattle Sounders	Seattle Sounders	California Victory	9/6/2007	6		LGE	Gardner, Joshua		
+Le Toux, Sebastian	Seattle Sounders	Seattle Sounders	California Victory	9/6/2007	24		LGE	Levesque, Roger		
+Le Toux, Sebastian	Seattle Sounders	Seattle Sounders	California Victory	9/6/2007	61		LGE	Levesque, Roger		
+Schmid, Andre	Seattle Sounders	Seattle Sounders	California Victory	9/6/2007	66		LGE	Treschuk, Kenji		
+Donatelli, Tony	Vancouver Whitecaps	Vancouver Whitecaps	Atlanta Silverbacks	9/7/2007	81		LGE	Nash, Martin		
+McManus, Anthony (Tony)	Atlanta Silverbacks	Vancouver Whitecaps	Atlanta Silverbacks	9/7/2007	88		LGE			
+Norkus, Caleb	Carolina Railhawks	California Victory	Carolina Railhawks	9/8/2007	38		LGE			
+Brightwell, Stuart	Carolina Railhawks	California Victory	Carolina Railhawks	9/8/2007	9		LGE	Carrieri, Chris		
+Martinez, Rey Angel	Rochester Rhinos	Rochester Rhinos	Montreal Impact	9/8/2007	68		LGE	Palguta, Scott		
+Delicate, Matthew	Rochester Rhinos	Rochester Rhinos	Montreal Impact	9/8/2007	78		LGE	Diallo, Hamed		
+O'Brien, Leighton	Seattle Sounders	Minnesota Thunder	Seattle Sounders	9/9/2007	14		LGE			
+Atieno, Taiwo (Tai)	Puerto Rico Islanders	Puerto Rico Islanders	Charleston Battery	7/15/2007	39		LGE	Herrera, Victor Manuel		
+Atieno, Taiwo (Tai)	Puerto Rico Islanders	Puerto Rico Islanders	Charleston Battery	7/15/2007	42		LGE	Needham, Jay		
+Gonzalez-Pareja, Alejandro	Puerto Rico Islanders	Puerto Rico Islanders	Charleston Battery	7/15/2007	45	Penalty	LGE			
+Noel, Fabrice	Puerto Rico Islanders	Puerto Rico Islanders	Charleston Battery	7/15/2007	59		LGE	Atieno, Taiwo (Tai)		
+Alvarez, Byron	Charleston Battery	Puerto Rico Islanders	Charleston Battery	7/15/2007	20		LGE	Alavanja, Lazo		
+Curran, Brandon	Charleston Battery	Puerto Rico Islanders	Charleston Battery	7/15/2007	40		LGE	Alvarez, Byron		
+Alavanja, Lazo	Charleston Battery	Puerto Rico Islanders	Charleston Battery	7/15/2007	57		LGE			

@@ -1,0 +1,991 @@
+Player	Team-For	Home-Team	Away-Team	Date	Goal-Time	Goal-Type	Comp	Assist	Assist2	
+Suri, Mo	Atlanta Ruckus	Milwaukee Rampage	Atlanta Ruckus	8/26/1997	71		LGE	Jacinto, Jacenir		
+Henry, Todd	California Jaguars	California Jaguars	Vancouver 86ers	8/26/1997	44		LGE	Holocher, Paul		
+Baena, Mark	California Jaguars	California Jaguars	Vancouver 86ers	8/26/1997	61		LGE	Robertson, Ralph		
+Allnutt, Yari	Carolina Dynamo	Carolina Dynamo	Raleigh Flyers	8/27/1997	6		LGE	Stockton, Khary		
+Loftin, Brian	Carolina Dynamo	Carolina Dynamo	Raleigh Flyers	8/27/1997	29		LGE	Hamid, Ayman		
+Hamid, Ayman	Carolina Dynamo	Carolina Dynamo	Raleigh Flyers	8/27/1997	58		LGE	Loftin, Brian		
+Loftin, Brian	Carolina Dynamo	Carolina Dynamo	Raleigh Flyers	8/27/1997	67		LGE	Allnutt, Yari		
+Loftin, Brian	Carolina Dynamo	Carolina Dynamo	Raleigh Flyers	8/27/1997	80		LGE	Kelly, Mark		
+Duff, Chris	Raleigh Flyers	Carolina Dynamo	Raleigh Flyers	8/27/1997	28		LGE	Arroyo, Mario		
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	8/29/1997	13		LGE	Martinez, Vince		
+Glenn, Jimmy	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	8/29/1997	43		LGE	Motajo, Manny		
+Daligcon, Nate	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	8/29/1997	48		LGE			
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	8/29/1997	58		LGE	Moxom, David		
+Barbieri, Erik	Connecticut Wolves	Connecticut Wolves	Richmond Kickers	8/29/1997	7		LGE	McDermott, Michael (Mick)		
+Barbieri, Erik	Connecticut Wolves	Connecticut Wolves	Richmond Kickers	8/29/1997	8		LGE	Hickey, Ben		
+Camaj, Anton	Connecticut Wolves	Connecticut Wolves	Richmond Kickers	8/29/1997	34		LGE	Barbieri, Erik		
+Boney, Shawn	Connecticut Wolves	Connecticut Wolves	Richmond Kickers	8/29/1997	48		LGE			
+Ukrop, Rob	Richmond Kickers	Connecticut Wolves	Richmond Kickers	8/29/1997	13		LGE	Edwards, Dale		
+Lone, Mario	Richmond Kickers	Connecticut Wolves	Richmond Kickers	8/29/1997	71		LGE	Riegler, Jason		
+Ladimir, Ron	Orlando Sundogs	Orlando Sundogs	Orange County Zodiac	8/29/1997	4		LGE	Gutierrez, Henry		
+Barnes, Sebastian	Orlando Sundogs	Orlando Sundogs	Orange County Zodiac	8/29/1997	24		LGE			
+Ladimir, Ron	Orlando Sundogs	Orlando Sundogs	Orange County Zodiac	8/29/1997	29		LGE	Hattrup, Peter		
+Szczepanski, Jon	Milwaukee Rampage	Milwaukee Rampage	Montreal Impact	8/29/1997	49	Penalty	LGE			
+DeSantis, Nick	Montreal Impact	Milwaukee Rampage	Montreal Impact	8/29/1997	62		LGE	Davis, Fabian		
+DeSantis, Nick	Montreal Impact	Milwaukee Rampage	Montreal Impact	8/29/1997	73	Penalty	LGE			
+Wescott, Sterling	Colorado Foxes	Minnesota Thunder	Colorado Foxes	8/29/1997	45		LGE			
+Mobilio, Domenic	Vancouver 86ers	Vancouver 86ers	Seattle Sounders	8/29/1997	23	Penalty	LGE			
+Kusch, Garrett	Vancouver 86ers	Vancouver 86ers	Seattle Sounders	8/29/1997	43		LGE	Fitzsimons, Stuart		
+Figueroa, Vicente	Seattle Sounders	Vancouver 86ers	Seattle Sounders	8/29/1997	56		LGE	Alcerro, Ricardo		
+Miles, Matt	Worcester Wildfire	Worcester Wildfire	Richmond Kickers	8/30/1997	35		LGE	Veselka, Chris		
+McKay, Josh	Richmond Kickers	Worcester Wildfire	Richmond Kickers	8/30/1997	16		LGE			
+Cowlishaw, Leigh	Richmond Kickers	Worcester Wildfire	Richmond Kickers	8/30/1997	77		LGE			
+DeOliveira, Jose Marcone	Jacksonville Cyclones	Jacksonville Cyclones	Charleston Battery	8/30/1997	43		LGE	Zavagnin, Kerry		
+Hughes, Waughn	Jacksonville Cyclones	Jacksonville Cyclones	Charleston Battery	8/30/1997	60		LGE	Zavagnin, Kerry		
+Miller, Todd	Charleston Battery	Jacksonville Cyclones	Charleston Battery	8/30/1997	14		LGE			
+Olalere, Patrick	Charleston Battery	Jacksonville Cyclones	Charleston Battery	8/30/1997	41		LGE			
+Olalere, Patrick	Charleston Battery	Jacksonville Cyclones	Charleston Battery	8/30/1997	46		LGE			
+Foley, Jim	Charleston Battery	Jacksonville Cyclones	Charleston Battery	8/30/1997	71		LGE	Miller, Todd		
+Suri, Mo	Atlanta Ruckus	Atlanta Ruckus	Orlando Sundogs	8/30/1997	41		LGE			
+Lewis, Dylan	Orlando Sundogs	Atlanta Ruckus	Orlando Sundogs	8/30/1997	63		LGE			
+Lee, Sheldon	Orlando Sundogs	Atlanta Ruckus	Orlando Sundogs	8/30/1997	93		LGE			
+Gonzales, Adrian	California Jaguars	Nashville Metros	California Jaguars	8/30/1997	12		LGE	Holocher, Paul		
+Holocher, Paul	California Jaguars	Nashville Metros	California Jaguars	8/30/1997	15		LGE	Baena, Mark		
+Marshall, David	Milwaukee Rampage	Milwaukee Rampage	Colorado Foxes	8/31/1997	4		LGE	Cortes, Ruben		
+Stebbins, Dan	Milwaukee Rampage	Milwaukee Rampage	Colorado Foxes	8/31/1997	91		LGE	Wright, Hector		
+Siersbaek, Carsten	Colorado Foxes	Milwaukee Rampage	Colorado Foxes	8/31/1997	54		LGE	Tadlock, Stoner		
+Jones, John	Orange County Zodiac	New Orleans Riverboat Gamblers	Orange County Zodiac	8/31/1997	72		LGE	Cowmey, John		
+Tilley, Darren	Montreal Impact	Minnesota Thunder	Montreal Impact	8/31/1997	25		LGE	Weiger, Steve		
+Lowe, Onandi	Montreal Impact	Minnesota Thunder	Montreal Impact	8/31/1997	75		LGE	Raines, CW		
+Tilley, Darren	Montreal Impact	Minnesota Thunder	Montreal Impact	8/31/1997	87		LGE			
+Kolic, Darko	Montreal Impact	Minnesota Thunder	Montreal Impact	8/31/1997	89		LGE			
+Gioia, Michele	Toronto Lynx	Toronto Lynx	Hershey Wildcats	8/31/1997	59		LGE			
+Spadafina, Franco	Toronto Lynx	Toronto Lynx	Hershey Wildcats	8/31/1997	82	Penalty	LGE			
+St. Louis, Terry	Toronto Lynx	Toronto Lynx	Hershey Wildcats	8/31/1997	88		LGE	Parry, Ben		
+D'Ambra, Don	Hershey Wildcats	Toronto Lynx	Hershey Wildcats	8/31/1997	14		LGE	Tschantret, Lee		
+Feniger, Mike	Hershey Wildcats	Toronto Lynx	Hershey Wildcats	8/31/1997	34		LGE	Fairchild, Nate		
+Longenecker, Brent	Hershey Wildcats	Toronto Lynx	Hershey Wildcats	8/31/1997	70		LGE	Tschantret, Lee		
+Zoric, Sasa	Hershey Wildcats	Toronto Lynx	Hershey Wildcats	8/31/1997	93	Penalty	LGE			
+Barbieri, Erik	Connecticut Wolves	Connecticut Wolves	Worcester Wildfire	8/31/1997	30		LGE	Coxon, Steve		
+Wright, Hector	Connecticut Wolves	Connecticut Wolves	Worcester Wildfire	8/31/1997	50		LGE			
+Hickey, Ben	Connecticut Wolves	Connecticut Wolves	Worcester Wildfire	8/31/1997	60		LGE	Barbieri, Erik		
+Wright, Hector	Connecticut Wolves	Connecticut Wolves	Worcester Wildfire	8/31/1997	90		LGE	McDermott, Michael (Mick)		
+Roberto, Marcos	Atlanta Ruckus	Atlanta Ruckus	California Jaguars	9/1/1997	38		LGE	Jacinto, Carlos		
+Ayegbaroju, Adeola	Atlanta Ruckus	Atlanta Ruckus	California Jaguars	9/1/1997	59		LGE	Suri, Mo		
+Watson, Jerome	California Jaguars	Atlanta Ruckus	California Jaguars	9/1/1997	84		LGE	Mann, Randy		
+Watson, Jerome	California Jaguars	Atlanta Ruckus	California Jaguars	9/1/1997	90		LGE	Ibsen, Zak		
+Baena, Mark	California Jaguars	Atlanta Ruckus	California Jaguars	9/1/1997	104		LGE	Collins, Ryan		
+Schmetzer, Andy	Charleston Battery	Charleston Battery	Carolina Dynamo	9/1/1997	40		LGE	Carithers, Chad		
+Loftin, Brian	Carolina Dynamo	Charleston Battery	Carolina Dynamo	9/1/1997	38		LGE	Hamid, Ayman		
+Care, Danny	Carolina Dynamo	Charleston Battery	Carolina Dynamo	9/1/1997	44		LGE	Allnutt, Yari		
+Hamid, Ayman	Carolina Dynamo	Charleston Battery	Carolina Dynamo	9/1/1997	57		LGE	Loftin, Brian		
+Loftin, Brian	Carolina Dynamo	Charleston Battery	Carolina Dynamo	9/1/1997	58		LGE	Haupt, Jason		
+Kennel, Chris	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	9/1/1997	9		LGE	Phelps, Jason		
+Daligcon, Nate	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	9/1/1997	70		LGE	Schmidt, Brad		
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	9/1/1997	77		LGE	Tomaro, Paul		
+St. Louis, Terry	Toronto Lynx	Rochester Rhinos	Toronto Lynx	9/1/1997	63		LGE			
+Stalteri, Paul	Toronto Lynx	Rochester Rhinos	Toronto Lynx	9/1/1997	89		LGE	Parry, Ben		
+Duguid, John	Jacksonville Cyclones	Jacksonville Cyclones	Toronto Lynx	4/12/1997	38		LGE	Fitzsimons, Stuart		
+Fitzsimons, Stuart	Jacksonville Cyclones	Jacksonville Cyclones	Toronto Lynx	4/12/1997	56		LGE	Valle, Dion		
+Ledesma, Carlos	Jacksonville Cyclones	Jacksonville Cyclones	Toronto Lynx	4/12/1997	69		LGE	McKnight, Ben		
+Thomas, Elvis	Toronto Lynx	Jacksonville Cyclones	Toronto Lynx	4/12/1997	80		LGE	Centurione, Luca		
+Allnutt, Yari	Carolina Dynamo	Carolina Dynamo	Raleigh Flyers	4/12/1997	18		LGE	Chan, Robin		
+Hunter, Mike	Raleigh Flyers	Carolina Dynamo	Raleigh Flyers	4/12/1997	15		LGE			
+Siikala, Toni	Raleigh Flyers	Carolina Dynamo	Raleigh Flyers	4/12/1997	40		LGE			
+Rooney, Jim	Long Island Rough Riders	Orlando Sundogs	Long Island Rough Riders	4/18/1997	9		LGE	Riley, Paul		
+Navarino, Joe	Long Island Rough Riders	Orlando Sundogs	Long Island Rough Riders	4/18/1997	41		LGE	Price, David		
+Mann, Randy	California Jaguars	California Jaguars	El Paso Patriots	4/18/1997	35		LGE	Ibsen, Zak		
+Ibsen, Zak	California Jaguars	California Jaguars	El Paso Patriots	4/18/1997	70		LGE			
+Kusch, Garrett	Vancouver 86ers	Seattle Sounders	Vancouver 86ers	4/12/1997	47		LGE	Skinner, Jeff		
+Earl, Dion	Seattle Sounders	Vancouver 86ers	Seattle Sounders	4/18/1997	40		LGE	Adair, Chugger		
+Castillo, Juan	Charleston Battery	Charleston Battery	Toronto Lynx	4/19/1997	10		LGE			
+Boisson, Alvin	Charleston Battery	Charleston Battery	Toronto Lynx	4/19/1997	20		LGE			
+St. Louis, Terry	Charleston Battery	Charleston Battery	Toronto Lynx	4/19/1997	41		LGE			
+Hoffman, David	Charleston Battery	Charleston Battery	Toronto Lynx	4/19/1997	75		LGE			
+Stalteri, Paul	Toronto Lynx	Charleston Battery	Toronto Lynx	4/19/1997	27		LGE			
+De Rosario, Dwayne	Toronto Lynx	Charleston Battery	Toronto Lynx	4/19/1997	71		LGE			
+Ferrandino, John	Hershey Wildcats	Raleigh Flyers	Hershey Wildcats	4/19/1997	85		LGE	Longenecker, Brent		
+Vasquez-Martinez, Jose	Orange County Zodiac	Orange County Zodiac	El Paso Patriots	4/20/1997	95		LGE	Farias, Carlos		
+Bigu	Atlanta Ruckus	Atlanta Ruckus	El Paso Patriots	4/25/1997	33		LGE	Rodrigues, Andre		
+Silva, Jacenir	Atlanta Ruckus	Atlanta Ruckus	El Paso Patriots	4/25/1997	44		LGE			
+Jacinto, Jacenir	Atlanta Ruckus	Atlanta Ruckus	El Paso Patriots	4/25/1997	77		LGE			
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Montreal Impact	7/4/1997	100	Penalty	LGE			
+Barnes, Sebastian	Orlando Sundogs	California Jaguars	Orlando Sundogs	7/18/1997	14		LGE			
+Provan, Jake	Milwaukee Rampage	Atlanta Ruckus	Milwaukee Rampage	4/19/1997	63		LGE	Weiger, Steve		
+Aunger, Geoff	Seattle Sounders	Colorado Foxes	Seattle Sounders	4/20/1997	65		LGE	Hoggan, David		
+Baena, Mark	California Jaguars	California Jaguars	Vancouver 86ers	4/23/1997	10		LGE			
+Mann, Randy	California Jaguars	California Jaguars	Vancouver 86ers	4/23/1997	79	Penalty	LGE			
+Baena, Mark	California Jaguars	California Jaguars	Vancouver 86ers	4/23/1997	85		LGE	Iverson, Rick		
+Kindel, Steve	Vancouver 86ers	California Jaguars	Vancouver 86ers	4/23/1997	54		LGE			
+Redd, Alan	Atlanta Ruckus	Atlanta Ruckus	Minnesota Thunder	5/2/1997	44		LGE	Suri, Mo		
+Suri, Mo	Atlanta Ruckus	Atlanta Ruckus	Vancouver 86ers	5/23/1997	21		LGE	Negatu, Golla		
+Shishkov, Stilian	Atlanta Ruckus	Atlanta Ruckus	Vancouver 86ers	5/23/1997	39		LGE	Dunlap, Chris		
+Silva, Jacenir	Atlanta Ruckus	Atlanta Ruckus	Vancouver 86ers	5/23/1997	53		LGE	Suri, Mo		
+Evans, Chris	Vancouver 86ers	Atlanta Ruckus	Vancouver 86ers	5/23/1997	42		LGE	Muirhead, Doug		
+Mobilio, Domenic	Vancouver 86ers	Atlanta Ruckus	Vancouver 86ers	5/23/1997	75		LGE	Kusch, Garrett		
+Bigu	Atlanta Ruckus	Atlanta Ruckus	Colorado Foxes	5/29/1997	84		LGE	Redd, Alan		
+Martinez, Chris	Colorado Foxes	Atlanta Ruckus	Colorado Foxes	5/29/1997	32		LGE	Tadlock, Stoner		
+Minihan, David	Charleston Battery	Charleston Battery	Atlanta Ruckus	5/31/1997	85		LGE	Hoffman, David		
+Olalere, Patrick	Charleston Battery	Charleston Battery	Atlanta Ruckus	5/31/1997	89		LGE	Castillo, Juan		
+Suri, Mo	Atlanta Ruckus	Charleston Battery	Atlanta Ruckus	5/31/1997	26		LGE	Shishkov, Stilian		
+Suri, Mo	Atlanta Ruckus	Charleston Battery	Atlanta Ruckus	5/31/1997	54		LGE	Dunlap, Chris		
+Mobilio, Domenic	Vancouver 86ers	Vancouver 86ers	Atlanta Ruckus	6/6/1997	21		LGE	Kusch, Garrett		
+Hoggan, David	Seattle Sounders	Seattle Sounders	Atlanta Ruckus	6/8/1997	2		LGE	Aunger, Geoff		
+Gelvezon, Paul	Seattle Sounders	Seattle Sounders	Atlanta Ruckus	6/8/1997	22		LGE	Adair, Chugger		
+Adair, Chugger	Seattle Sounders	Seattle Sounders	Atlanta Ruckus	6/8/1997	26		LGE	Gailey, Mike		
+Gailey, Mike	Seattle Sounders	Seattle Sounders	Atlanta Ruckus	6/8/1997	71		LGE			
+Kinoshita, Kei	Seattle Sounders	Seattle Sounders	Atlanta Ruckus	6/8/1997	74		LGE	Gailey, Mike		
+Gailey, Mike	Seattle Sounders	Seattle Sounders	Atlanta Ruckus	6/8/1997	77		LGE			
+Hoggan, David	Seattle Sounders	Seattle Sounders	Atlanta Ruckus	6/8/1997	86		LGE	Enneking, Mike		
+Berbari, Luis	Nashville Metros	Nashville Metros	Atlanta Ruckus	6/13/1997	33		LGE	Dahlal, Mourat		
+Mitchell, Jamal	Nashville Metros	Nashville Metros	Atlanta Ruckus	6/13/1997	67		LGE	Berbari, Luis		
+Silva, Jacenir	Atlanta Ruckus	Atlanta Ruckus	New Orleans Riverboat Gamblers	6/20/1997	89		LGE			
+Owens, William (Billy)	New Orleans Riverboat Gamblers	Atlanta Ruckus	New Orleans Riverboat Gamblers	6/20/1997	1		LGE			
+John, Stern	New Orleans Riverboat Gamblers	Atlanta Ruckus	New Orleans Riverboat Gamblers	6/20/1997	66		LGE			
+John, Stern	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Atlanta Ruckus	6/21/1997	2		LGE	Benjamin, Glenn		
+Trotman, Mickey	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Atlanta Ruckus	6/21/1997	40		LGE			
+Owens, William (Billy)	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Atlanta Ruckus	6/21/1997	57		LGE	Trotman, Mickey		
+Baena, Mark	California Jaguars	California Jaguars	Seattle Sounders	5/4/1997	16		LGE	Louis, Richie		
+Watson, Jerome	California Jaguars	California Jaguars	Seattle Sounders	5/4/1997	34		LGE	Baena, Mark		
+Watson, Jerome	California Jaguars	California Jaguars	Seattle Sounders	5/4/1997	86		LGE			
+Gailey, Mike	Seattle Sounders	California Jaguars	Seattle Sounders	5/4/1997	5		LGE			
+Baena, Mark	California Jaguars	California Jaguars	Colorado Foxes	5/18/1997	24		LGE	Rullo, Steve		
+Louis, Richie	California Jaguars	California Jaguars	Colorado Foxes	5/18/1997	39		LGE	Rullo, Steve		
+Baena, Mark	California Jaguars	California Jaguars	Colorado Foxes	5/18/1997	80		LGE	Watson, Jerome		
+Leal-Gustavo, Oscar	Orange County Zodiac	Orange County Zodiac	California Jaguars	5/21/1997	20		LGE	Farias, Carlos		
+Mingo, Alex	Orange County Zodiac	Orange County Zodiac	California Jaguars	5/21/1997	87		LGE	Farias, Carlos		
+Gomez, Javier (Francisco)	California Jaguars	Orange County Zodiac	California Jaguars	5/21/1997	77		LGE	Watson, Jerome		
+Robertson, Ralph	California Jaguars	El Paso Patriots	California Jaguars	5/23/1997	95		LGE	Ibsen, Zak		
+Patterson, Steve	Colorado Foxes	Colorado Foxes	California Jaguars	5/25/1997	37		LGE	Paule, Ross		
+Patterson, Steve	Colorado Foxes	Colorado Foxes	California Jaguars	5/25/1997	44		LGE	Guthrie, Rivers		
+Patterson, Steve	Colorado Foxes	Colorado Foxes	California Jaguars	5/25/1997	48		LGE	Wescott, Sterling		
+Watson, Jerome	California Jaguars	Colorado Foxes	California Jaguars	5/25/1997	24		LGE	Ibsen, Zak		
+Baena, Mark	California Jaguars	Colorado Foxes	California Jaguars	5/25/1997	32		LGE	Mann, Randy		
+Blanchard, Ricardo (Ricky)	New Orleans Riverboat Gamblers	California Jaguars	New Orleans Riverboat Gamblers	5/30/1997	6		LGE	John, Stern		
+John, Stern	New Orleans Riverboat Gamblers	California Jaguars	New Orleans Riverboat Gamblers	5/30/1997	67		LGE	Trotman, Mickey		
+Trotman, Mickey	New Orleans Riverboat Gamblers	California Jaguars	New Orleans Riverboat Gamblers	5/30/1997	71		LGE			
+Ukrop, Rob	Richmond Kickers	Richmond Kickers	Raleigh Flyers	4/25/1997	81		LGE	Fox, Chris		
+Castillo, Juan	Charleston Battery	Charleston Battery	Worcester Wildfire	4/25/1997	6		LGE			
+Carithers, Chad	Charleston Battery	Charleston Battery	Worcester Wildfire	4/25/1997	13		LGE	St. Louis, Terry		
+Klein, Stephen	Worcester Wildfire	Charleston Battery	Worcester Wildfire	4/25/1997	36		LGE			
+Magee, Amos	Minnesota Thunder	Orlando Sundogs	Minnesota Thunder	4/25/1997	62		LGE	Gramenz, Don		
+Hamid, Ayman	Carolina Dynamo	Carolina Dynamo	Hershey Wildcats	4/25/1997	80		LGE	Atta, Maher		
+D'Ambra, Don	Hershey Wildcats	Carolina Dynamo	Hershey Wildcats	4/25/1997	4		LGE			
+Leal-Gustavo, Oscar	Orange County Zodiac	Orange County Zodiac	Vancouver 86ers	4/25/1997	44		LGE			
+Kindel, Steve	Vancouver 86ers	Orange County Zodiac	Vancouver 86ers	4/25/1997	17		LGE			
+Mobilio, Domenic	Vancouver 86ers	Orange County Zodiac	Vancouver 86ers	4/25/1997	86		LGE			
+Pinto, Nelson	Colorado Foxes	Colorado Foxes	Atlanta Ruckus	6/25/1997	13		LGE	McCreath, Anthony		
+Patterson, Steve	Colorado Foxes	Colorado Foxes	Atlanta Ruckus	6/25/1997	15		LGE	Guthrie, Rivers		
+Dunlap, Chris	Atlanta Ruckus	Colorado Foxes	Atlanta Ruckus	6/25/1997	30		LGE			
+Dalombo, Omar	El Paso Patriots	El Paso Patriots	Atlanta Ruckus	6/27/1997	50		LGE	Bautista, Arturo		
+Greenwood, Ricci	El Paso Patriots	El Paso Patriots	Atlanta Ruckus	6/27/1997	69		LGE	Dalombo, Omar		
+Dedmond, Tony	El Paso Patriots	El Paso Patriots	Atlanta Ruckus	6/27/1997	86		LGE			
+Silva, Jacenir	Atlanta Ruckus	El Paso Patriots	Atlanta Ruckus	6/27/1997	20		LGE	Roberto, Marcos		
+Fashanu, Justin	Atlanta Ruckus	El Paso Patriots	Atlanta Ruckus	6/27/1997	88		LGE			
+Shishkov, Stilian	Atlanta Ruckus	Atlanta Ruckus	Orange County Zodiac	7/4/1997	37		LGE	El-Shami, Fashmi		
+Roberto, Marcos	Atlanta Ruckus	Atlanta Ruckus	Orange County Zodiac	7/4/1997	43		LGE	Silva, Jacenir		
+Silva, Jacenir	Atlanta Ruckus	Atlanta Ruckus	Orange County Zodiac	7/4/1997	54		LGE	Roberto, Marcos		
+Shishkov, Stilian	Atlanta Ruckus	Atlanta Ruckus	Orange County Zodiac	7/4/1997	59		LGE	Bigu		
+Leal-Gustavo, Oscar	Orange County Zodiac	Atlanta Ruckus	Orange County Zodiac	7/4/1997	76		LGE	Macedo, Danny		
+Leal-Gustavo, Oscar	Orange County Zodiac	Atlanta Ruckus	Orange County Zodiac	7/4/1997	85		LGE			
+Ayegbaroju, Adeola	Atlanta Ruckus	Atlanta Ruckus	Carolina Dynamo	7/12/1997	46		LGE	Silva, Jacenir		
+Sharpe, Richard	Carolina Dynamo	Atlanta Ruckus	Carolina Dynamo	7/12/1997	5		LGE	Ball, John		
+Loftin, Brian	Carolina Dynamo	Atlanta Ruckus	Carolina Dynamo	7/12/1997	34		LGE			
+Dusosky, Todd	Minnesota Thunder	Minnesota Thunder	Atlanta Ruckus	7/14/1997	90		LGE	Sylvester, John		
+Coughlin, John	Minnesota Thunder	Minnesota Thunder	Atlanta Ruckus	7/14/1997	102		LGE	Abboud, Mark		
+El-Shami, Fashmi	Atlanta Ruckus	Minnesota Thunder	Atlanta Ruckus	7/14/1997	69		LGE	Rodrigues, Andre		
+Obario, Emmanuel	Atlanta Ruckus	Atlanta Ruckus	Orlando Sundogs	7/27/1997	12		LGE	Crane, Brian		
+Suri, Mo	Atlanta Ruckus	Atlanta Ruckus	Orlando Sundogs	7/27/1997	20		LGE	Obario, Emmanuel		
+Suri, Mo	Atlanta Ruckus	Atlanta Ruckus	Orlando Sundogs	7/27/1997	85		LGE			
+Bigu	Atlanta Ruckus	Atlanta Ruckus	Orlando Sundogs	7/27/1997	89		LGE			
+Ayegbaroju, Adeola	Atlanta Ruckus	Atlanta Ruckus	Charleston Battery	8/1/1997	26		LGE	Suri, Mo		
+Sloniewski, Michael	Orlando Sundogs	Orlando Sundogs	Atlanta Ruckus	8/2/1997	15		LGE			
+Riegler, Jason	Orlando Sundogs	Orlando Sundogs	Atlanta Ruckus	8/2/1997	69		LGE	Barnes, Sebastian		
+Silva, Jacenir	Atlanta Ruckus	Orlando Sundogs	Atlanta Ruckus	8/2/1997	80		LGE	Vivanco, Javier		
+Ayegbaroju, Adeola	Atlanta Ruckus	Orlando Sundogs	Atlanta Ruckus	8/2/1997	88		LGE			
+Robles, Michael	Orange County Zodiac	Orange County Zodiac	Atlanta Ruckus	8/8/1997	42		LGE			
+Leal-Gustavo, Oscar	Orange County Zodiac	Orange County Zodiac	Atlanta Ruckus	8/8/1997	58		LGE	Jones, John		
+Leal-Gustavo, Oscar	Orange County Zodiac	Orange County Zodiac	Atlanta Ruckus	8/8/1997	100		LGE	Rodriguez, Ricky		
+Bigu	Atlanta Ruckus	Orange County Zodiac	Atlanta Ruckus	8/8/1997	80		LGE			
+Roberto, Marcos	Atlanta Ruckus	Orange County Zodiac	Atlanta Ruckus	8/8/1997	82	Penalty	LGE			
+Holocher, Paul	California Jaguars	California Jaguars	Atlanta Ruckus	8/10/1997	62		LGE			
+Louis, Richie	California Jaguars	California Jaguars	Atlanta Ruckus	8/10/1997	85		LGE	Holocher, Paul		
+Suri, Mo	Atlanta Ruckus	California Jaguars	Atlanta Ruckus	8/10/1997	19		LGE			
+Hughes, Waughn	Jacksonville Cyclones	Jacksonville Cyclones	Atlanta Ruckus	8/16/1997	45		LGE	Ortiz, Oswaldo		
+Roberto, Marcos	Atlanta Ruckus	Jacksonville Cyclones	Atlanta Ruckus	8/16/1997	15		LGE	Suri, Mo		
+Jacinto, Jacenir	Atlanta Ruckus	Jacksonville Cyclones	Atlanta Ruckus	8/16/1997	95		LGE			
+Mitchell, Jamal	Nashville Metros	Atlanta Ruckus	Nashville Metros	8/22/1997	80		LGE			
+Siers, Dave	Milwaukee Rampage	Milwaukee Rampage	California Jaguars	6/6/1997	26		LGE			
+Baena, Mark	California Jaguars	Milwaukee Rampage	California Jaguars	6/6/1997	23		LGE	Mann, Randy		
+Robertson, Ralph	California Jaguars	Milwaukee Rampage	California Jaguars	6/6/1997	69		LGE			
+Gomez, Javier (Francisco)	California Jaguars	Minnesota Thunder	California Jaguars	6/8/1997	34		LGE	Louis, Richie		
+Mann, Randy	California Jaguars	California Jaguars	Milwaukee Rampage	6/20/1997	46		LGE			
+Baena, Mark	California Jaguars	California Jaguars	Milwaukee Rampage	6/20/1997	48		LGE	Louis, Richie		
+Baena, Mark	California Jaguars	California Jaguars	Milwaukee Rampage	6/20/1997	52		LGE	Mann, Randy		
+Hoggan, David	Seattle Sounders	Seattle Sounders	California Jaguars	6/27/1997	34		LGE	Gailey, Mike		
+Gailey, Mike	Seattle Sounders	Seattle Sounders	California Jaguars	6/27/1997	49		LGE	Hoggan, David		
+Baena, Mark	California Jaguars	California Jaguars	Nashville Metros	6/29/1997	9		LGE	Holocher, Paul		
+Baena, Mark	California Jaguars	California Jaguars	Nashville Metros	6/29/1997	42		LGE	Mann, Randy		
+Watson, Jerome	California Jaguars	California Jaguars	Nashville Metros	6/29/1997	52		LGE	Holocher, Paul		
+Berbari, Luis	Nashville Metros	California Jaguars	Nashville Metros	6/29/1997	6		LGE	Dahlal, Mourat		
+Patterson, Steve	Colorado Foxes	Colorado Foxes	California Jaguars	7/3/1997	6		LGE	Ashton, Chad		
+Patterson, Steve	Colorado Foxes	Colorado Foxes	California Jaguars	7/3/1997	52		LGE	McCreath, Anthony		
+Patterson, Steve	Colorado Foxes	Colorado Foxes	California Jaguars	7/3/1997	88		LGE	Nunley, Andre		
+Baena, Mark	California Jaguars	Colorado Foxes	California Jaguars	7/3/1997	73		LGE	Mann, Randy		
+Muirhead, Doug	Vancouver 86ers	Vancouver 86ers	California Jaguars	7/9/1997	74	Penalty	LGE			
+Evans, Chris	Vancouver 86ers	Vancouver 86ers	California Jaguars	7/9/1997	80	Penalty	LGE			
+Baena, Mark	California Jaguars	California Jaguars	Colorado Foxes	7/11/1997	3		LGE			
+Watson, Jerome	California Jaguars	California Jaguars	Colorado Foxes	7/11/1997	17		LGE	Robertson, Ralph		
+Watson, Jerome	California Jaguars	California Jaguars	Minnesota Thunder	7/25/1997	64		LGE			
+Watson, Jerome	California Jaguars	California Jaguars	Minnesota Thunder	7/25/1997	68		LGE			
+Baena, Mark	California Jaguars	California Jaguars	Minnesota Thunder	7/25/1997	80		LGE			
+Holocher, Paul	California Jaguars	California Jaguars	Orange County Zodiac	8/1/1997	13		LGE	Baena, Mark		
+Guerrero, Juan	Orange County Zodiac	California Jaguars	Orange County Zodiac	8/1/1997	27		LGE			
+Perez, Orlando	Orange County Zodiac	California Jaguars	Orange County Zodiac	8/1/1997	65	Penalty	LGE			
+Leal-Gustavo, Oscar	Orange County Zodiac	California Jaguars	Orange County Zodiac	8/1/1997	82		LGE	Arana, Gerardo		
+Watson, Jerome	California Jaguars	Orange County Zodiac	California Jaguars	8/3/1997	86		LGE	Baena, Mark		
+Baena, Mark	California Jaguars	California Jaguars	Orange County Zodiac	8/22/1997	6		LGE	Bruckner, Neils		
+Gonzales, Adrian	California Jaguars	California Jaguars	Orange County Zodiac	8/22/1997	13		LGE	Mann, Randy		
+Gonzales, Adrian	California Jaguars	California Jaguars	Orange County Zodiac	8/22/1997	35		LGE	Henry, Todd		
+Gonzales, Adrian	California Jaguars	California Jaguars	Orange County Zodiac	8/22/1997	50		LGE	Baena, Mark		
+Baena, Mark	California Jaguars	California Jaguars	Orange County Zodiac	8/22/1997	69		LGE	Mann, Randy		
+Baena, Mark	California Jaguars	California Jaguars	Orange County Zodiac	8/22/1997	72		LGE	Gonzales, Adrian		
+Villarreal, Hector	Orange County Zodiac	California Jaguars	Orange County Zodiac	8/22/1997	42		LGE			
+Klein, Stephen	Worcester Wildfire	Jacksonville Cyclones	Worcester Wildfire	4/26/1997	28		LGE			
+Saunders, Michael	Connecticut Wolves	Connecticut Wolves	Long Island Rough Riders	4/26/1997	6		LGE	Dos Santos, Paulo		
+Saunders, Michael	Connecticut Wolves	Connecticut Wolves	Long Island Rough Riders	4/26/1997	78		LGE			
+Gailey, Mike	Seattle Sounders	Seattle Sounders	Colorado Foxes	4/26/1997	19		LGE	Hoggan, David		
+Adair, Chugger	Seattle Sounders	Seattle Sounders	Colorado Foxes	4/26/1997	89		LGE			
+Ashton, Chad	Colorado Foxes	Seattle Sounders	Colorado Foxes	4/26/1997	28		LGE	Guthrie, Rivers		
+Huber, Dan	Colorado Foxes	Seattle Sounders	Colorado Foxes	4/26/1997	81		LGE			
+Lujan, Aaron	Colorado Foxes	Seattle Sounders	Colorado Foxes	4/26/1997	87		LGE	Ashton, Chad		
+Siikala, Toni	Raleigh Flyers	Raleigh Flyers	Carolina Dynamo	5/3/1997	12		LGE	Montoya, Alberto		
+Alcerro, Ricardo	Raleigh Flyers	Raleigh Flyers	Carolina Dynamo	5/3/1997	88		LGE	Sanchez, Alex		
+Radwanski, Eddie	Carolina Dynamo	Raleigh Flyers	Carolina Dynamo	5/3/1997	19		LGE			
+Rosario, Robert	Carolina Dynamo	Raleigh Flyers	Carolina Dynamo	5/3/1997	21		LGE	Radwanski, Eddie		
+Stockton, Khary	Carolina Dynamo	Carolina Dynamo	Jacksonville Cyclones	5/10/1997	9		LGE	Allnutt, Yari		
+Allnutt, Yari	Carolina Dynamo	Carolina Dynamo	Jacksonville Cyclones	5/10/1997	35		LGE	Hamid, Ayman		
+Haupt, Jason	Carolina Dynamo	Carolina Dynamo	Jacksonville Cyclones	5/10/1997	87		LGE	Allnutt, Yari		
+Glenn, Jimmy	Rochester Rhinos	Carolina Dynamo	Rochester Rhinos	5/16/1997	8		LGE	Monteiro, Darci		
+Rosario, Robert	Carolina Dynamo	Richmond Kickers	Carolina Dynamo	5/18/1997	46		LGE	Mitchell, Byron		
+Allnutt, Yari	Carolina Dynamo	Richmond Kickers	Carolina Dynamo	5/18/1997	58		LGE	Radwanski, Eddie		
+Allnutt, Yari	Carolina Dynamo	Carolina Dynamo	Worcester Wildfire	5/23/1997	19		LGE	Radwanski, Eddie		
+Allnutt, Yari	Carolina Dynamo	Carolina Dynamo	Worcester Wildfire	5/23/1997	31		LGE	Loftin, Brian		
+Atta, Maher	Carolina Dynamo	Carolina Dynamo	Worcester Wildfire	5/23/1997	72		LGE	Dunn, Josh		
+Sharpe, Richard	Carolina Dynamo	Carolina Dynamo	Worcester Wildfire	5/23/1997	86		LGE	Stockton, Khary		
+Keegan, Paul	Worcester Wildfire	Carolina Dynamo	Worcester Wildfire	5/23/1997	34		LGE			
+Ukrop, Rob	Richmond Kickers	Richmond Kickers	Carolina Dynamo	5/29/1997	59		LGE	Davis, Fabian		
+Adu-Gyamfi, Kwaku	Richmond Kickers	Richmond Kickers	Carolina Dynamo	5/29/1997	98		LGE			
+Rosario, Robert	Carolina Dynamo	Richmond Kickers	Carolina Dynamo	5/29/1997	98		LGE	Ball, John		
+Tilley, Darren	Toronto Lynx	Toronto Lynx	Carolina Dynamo	6/6/1997	41		LGE	Kouzmanis, Tommy		
+Kouzmanis, Tommy	Toronto Lynx	Toronto Lynx	Carolina Dynamo	6/6/1997	70		LGE	Dugas, Martin		
+Barker, Lloyd	Montreal Impact	Montreal Impact	Carolina Dynamo	6/8/1997	65		LGE	Limniatis, John		
+Lowe, Onandi	Montreal Impact	Montreal Impact	Carolina Dynamo	6/8/1997	85		LGE	DeSantis, Nick		
+Wellington, Jamie	Carolina Dynamo	Montreal Impact	Carolina Dynamo	6/8/1997	34		LGE	Ball, John		
+Barnes, Sebastian	Orlando Sundogs	Orlando Sundogs	California Jaguars	6/13/1997	13		LGE	Smith, John		
+Barnes, Sebastian	Orlando Sundogs	Orlando Sundogs	California Jaguars	6/13/1997	30		LGE	Gill, Ian		
+Barnes, Sebastian	Orlando Sundogs	Orlando Sundogs	California Jaguars	6/13/1997	66		LGE	Smith, John		
+Smith, John	Orlando Sundogs	Orlando Sundogs	California Jaguars	6/13/1997	86		LGE			
+Geltz, Tim	Orlando Sundogs	Orlando Sundogs	California Jaguars	6/13/1997	90		LGE	Hara		
+Ball, John	Carolina Dynamo	Carolina Dynamo	Charleston Battery	6/13/1997	42		LGE	Atta, Maher		
+Loftin, Brian	Carolina Dynamo	Carolina Dynamo	Charleston Battery	6/13/1997	47		LGE	Breslin, Kieran		
+Ball, John	Carolina Dynamo	Carolina Dynamo	Charleston Battery	6/13/1997	55		LGE	Sharpe, Richard		
+Loftin, Brian	Carolina Dynamo	Carolina Dynamo	Charleston Battery	6/13/1997	84		LGE	Chan, Robin		
+Carithers, Chad	Charleston Battery	Carolina Dynamo	Charleston Battery	6/13/1997	89		LGE	St. Louis, Terry		
+Ball, John	Carolina Dynamo	Raleigh Flyers	Carolina Dynamo	6/15/1997	15		LGE	Dunn, Josh		
+Breslin, Kieran	Carolina Dynamo	Raleigh Flyers	Carolina Dynamo	6/15/1997	77		LGE	Wellington, Jamie		
+Loftin, Brian	Carolina Dynamo	Carolina Dynamo	Richmond Kickers	6/20/1997	9		LGE	Atta, Maher		
+Allnutt, Yari	Carolina Dynamo	Carolina Dynamo	Richmond Kickers	6/20/1997	39		LGE	Rosario, Robert		
+Allnutt, Yari	Carolina Dynamo	Carolina Dynamo	Richmond Kickers	6/20/1997	55		LGE	Mitchell, Byron		
+Davis, Fabian	Richmond Kickers	Carolina Dynamo	Richmond Kickers	6/20/1997	30		LGE			
+Davis, Fabian	Richmond Kickers	Carolina Dynamo	Richmond Kickers	6/20/1997	89		LGE			
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Carolina Dynamo	6/25/1997	12		LGE	Glenn, Jimmy		
+Vignjevic, Nikola	Rochester Rhinos	Rochester Rhinos	Carolina Dynamo	6/25/1997	87		LGE			
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Carolina Dynamo	6/25/1997	89		LGE	Alamo, Ezekiel		
+Ball, John	Carolina Dynamo	Rochester Rhinos	Carolina Dynamo	6/25/1997	44		LGE			
+Ball, John	Carolina Dynamo	Rochester Rhinos	Carolina Dynamo	6/25/1997	84		LGE	Allnutt, Yari		
+Allnutt, Yari	Carolina Dynamo	Carolina Dynamo	Long Island Rough Riders	6/29/1997	35		LGE	Mitchell, Byron		
+Breslin, Kieran	Carolina Dynamo	Carolina Dynamo	Long Island Rough Riders	6/29/1997	49		LGE	Sharpe, Richard		
+Sharpe, Richard	Carolina Dynamo	Carolina Dynamo	Long Island Rough Riders	6/29/1997	75		LGE	Schweitzer, Scott		
+Ball, John	Carolina Dynamo	Carolina Dynamo	Long Island Rough Riders	6/29/1997	85		LGE	Stockton, Khary		
+Ferri, Flavio	Long Island Rough Riders	Carolina Dynamo	Long Island Rough Riders	6/29/1997	41		LGE	Rooney, Jim		
+Loftin, Brian	Carolina Dynamo	Jacksonville Cyclones	Carolina Dynamo	7/5/1997	15		LGE	Sharpe, Richard		
+Sharpe, Richard	Carolina Dynamo	Jacksonville Cyclones	Carolina Dynamo	7/5/1997	16	Penalty	LGE			
+Sharpe, Richard	Carolina Dynamo	Jacksonville Cyclones	Carolina Dynamo	7/5/1997	77		LGE	Breslin, Kieran		
+Sharpe, Richard	Carolina Dynamo	Carolina Dynamo	Toronto Lynx	7/18/1997	22		LGE	Breslin, Kieran		
+Allnutt, Yari	Carolina Dynamo	Carolina Dynamo	Toronto Lynx	7/18/1997	62		LGE	Radwanski, Eddie		
+Ouimet, Jake	Worcester Wildfire	Worcester Wildfire	Carolina Dynamo	7/25/1997	38	Penalty	LGE			
+Keegan, Paul	Worcester Wildfire	Worcester Wildfire	Carolina Dynamo	7/25/1997	68		LGE	Buckley, Anthony		
+Allnutt, Yari	Carolina Dynamo	Worcester Wildfire	Carolina Dynamo	7/25/1997	14	Penalty	LGE			
+Atta, Maher	Carolina Dynamo	Worcester Wildfire	Carolina Dynamo	7/25/1997	45		LGE	Breslin, Kieran		
+Mitchell, Byron	Carolina Dynamo	Worcester Wildfire	Carolina Dynamo	7/25/1997	56		LGE			
+Radwanski, Eddie	Carolina Dynamo	Connecticut Wolves	Carolina Dynamo	7/27/1997	5		LGE	Allnutt, Yari		
+Radwanski, Eddie	Carolina Dynamo	Connecticut Wolves	Carolina Dynamo	7/27/1997	18		LGE			
+Loftin, Brian	Carolina Dynamo	Connecticut Wolves	Carolina Dynamo	7/27/1997	20		LGE	Breslin, Kieran		
+Radwanski, Eddie	Carolina Dynamo	Connecticut Wolves	Carolina Dynamo	7/27/1997	43		LGE	Atta, Maher		
+Haupt, Jason	Carolina Dynamo	Connecticut Wolves	Carolina Dynamo	7/27/1997	76		LGE	Ball, John		
+Cossu, David	Carolina Dynamo	Connecticut Wolves	Carolina Dynamo	7/27/1997	78		LGE	Ball, John		
+Allnutt, Yari	Carolina Dynamo	Carolina Dynamo	New Orleans Riverboat Gamblers	8/1/1997	58	Penalty	LGE			
+Haupt, Jason	Carolina Dynamo	Carolina Dynamo	New Orleans Riverboat Gamblers	8/1/1997	70		LGE	Radwanski, Eddie		
+John, Stern	New Orleans Riverboat Gamblers	Carolina Dynamo	New Orleans Riverboat Gamblers	8/1/1997	13		LGE	Benjamin, Glenn		
+Swords, Kyle	Hershey Wildcats	Hershey Wildcats	Carolina Dynamo	8/10/1997	47		LGE	Tschantret, Lee		
+Johnson, Rob	Hershey Wildcats	Hershey Wildcats	Carolina Dynamo	8/10/1997	84		LGE	Longenecker, Brent		
+Breslin, Kieran	Carolina Dynamo	Hershey Wildcats	Carolina Dynamo	8/10/1997	50		LGE			
+Saunders, Michael	Carolina Dynamo	Hershey Wildcats	Carolina Dynamo	8/10/1997	87		LGE	Ball, John		
+Shannon, Musa	Carolina Dynamo	Hershey Wildcats	Carolina Dynamo	8/10/1997	102		LGE			
+Saunders, Michael	Carolina Dynamo	Carolina Dynamo	Montreal Impact	8/16/1997	48		LGE	Allnutt, Yari		
+Kolic, Darko	Montreal Impact	Carolina Dynamo	Montreal Impact	8/16/1997	18		LGE	Barker, Lloyd		
+Tilley, Darren	Montreal Impact	Carolina Dynamo	Montreal Impact	8/16/1997	25		LGE	Sedgewick, William (Bill)		
+McCreath, Anthony	Colorado Foxes	Colorado Foxes	Vancouver 86ers	7/13/1997	40		LGE	Lujan, Aaron		
+Patterson, Steve	Colorado Foxes	Colorado Foxes	Vancouver 86ers	7/13/1997	84		LGE	Guthrie, Rivers		
+Clarke, Jeff	Vancouver 86ers	Colorado Foxes	Vancouver 86ers	7/13/1997	69	Penalty	LGE			
+DiGiamarino, Joey	Colorado Foxes	El Paso Patriots	Colorado Foxes	7/19/1997	12		LGE			
+McCreath, Anthony	Colorado Foxes	El Paso Patriots	Colorado Foxes	7/19/1997	21		LGE	Tadlock, Stoner		
+McCreath, Anthony	Colorado Foxes	Colorado Foxes	Milwaukee Rampage	7/27/1997	24		LGE	Patterson, Steve		
+Roy, Travis	Milwaukee Rampage	Colorado Foxes	Milwaukee Rampage	7/27/1997	32		LGE	Szczepanski, Jon		
+Roy, Travis	Milwaukee Rampage	Colorado Foxes	Milwaukee Rampage	7/27/1997	89		LGE	Ross, Quinn		
+McCreath, Anthony	Colorado Foxes	Colorado Foxes	El Paso Patriots	7/31/1997	27		LGE	Patterson, Steve		
+Lujan, Aaron	Colorado Foxes	Colorado Foxes	El Paso Patriots	7/31/1997	65		LGE	Tadlock, Stoner		
+Delgado, Rito	El Paso Patriots	Colorado Foxes	El Paso Patriots	7/31/1997	28	Penalty	LGE			
+Delgado, Rito	El Paso Patriots	El Paso Patriots	Colorado Foxes	8/2/1997	44		LGE	Greenwood, Ricci		
+Guardado, Herman	El Paso Patriots	El Paso Patriots	Colorado Foxes	8/2/1997	67		LGE			
+Delgado, Rito	El Paso Patriots	El Paso Patriots	Colorado Foxes	8/2/1997	104		LGE			
+Tadlock, Stoner	Colorado Foxes	El Paso Patriots	Colorado Foxes	8/2/1997	49		LGE	DiGiamarino, Joey		
+Adams, Dave	Colorado Foxes	El Paso Patriots	Colorado Foxes	8/2/1997	82		LGE			
+Dalombo, Omar	El Paso Patriots	Nashville Metros	El Paso Patriots	4/27/1997	37		LGE	Guevara, Mauricio		
+Greenwood, Ricci	El Paso Patriots	Nashville Metros	El Paso Patriots	4/27/1997	43		LGE			
+Mobilio, Domenic	Vancouver 86ers	Vancouver 86ers	Orange County Zodiac	4/30/1997	44		LGE	MacDonald, Steve		
+Jordan, Jason	Vancouver 86ers	Vancouver 86ers	Orange County Zodiac	4/30/1997	53		LGE	Kindel, Steve		
+Muirhead, Doug	Vancouver 86ers	Vancouver 86ers	Orange County Zodiac	4/30/1997	90	Penalty	LGE			
+D'Ambra, Don	Hershey Wildcats	Richmond Kickers	Hershey Wildcats	5/2/1997	62		LGE	Longenecker, Brent		
+Keegan, Paul	Worcester Wildfire	Worcester Wildfire	Toronto Lynx	5/2/1997	44		LGE	Susten, Stuart		
+De Rosario, Dwayne	Toronto Lynx	Worcester Wildfire	Toronto Lynx	5/2/1997	13		LGE	Stalteri, Paul		
+Thomas, Elvis	Toronto Lynx	Worcester Wildfire	Toronto Lynx	5/2/1997	29		LGE	Tilley, Darren		
+Dugas, Martin	Toronto Lynx	Worcester Wildfire	Toronto Lynx	5/2/1997	45		LGE	De Rosario, Dwayne		
+Smotherman, Louie	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Milwaukee Rampage	5/2/1997	44		LGE	DeOliveira, Daniel		
+Gentile, Gabriel	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Milwaukee Rampage	5/2/1997	84		LGE	Smotherman, Louie		
+Vasquez-Martinez, Jose	Orange County Zodiac	Orange County Zodiac	Seattle Sounders	5/2/1997	46		LGE	Grimes, Kevin		
+Aunger, Geoff	Seattle Sounders	Orange County Zodiac	Seattle Sounders	5/2/1997	63	Penalty	LGE			
+Aunger, Geoff	Seattle Sounders	Orange County Zodiac	Seattle Sounders	5/2/1997	72		LGE	Adair, Chugger		
+Berbari, Luis	Nashville Metros	Nashville Metros	Minnesota Thunder	5/3/1997	80		LGE			
+Feniger, Mike	Hershey Wildcats	Hershey Wildcats	Rochester Rhinos	5/3/1997	16		LGE	Valencia, Gabe		
+Glenn, Jimmy	Rochester Rhinos	Hershey Wildcats	Rochester Rhinos	5/3/1997	42		LGE	Steenkamp, Lenin		
+Steenkamp, Lenin	Rochester Rhinos	Hershey Wildcats	Rochester Rhinos	5/3/1997	55		LGE	Glenn, Jimmy		
+Miller, Doug	Rochester Rhinos	Hershey Wildcats	Rochester Rhinos	5/3/1997	77		LGE	McKay, Andrew (Yogi)		
+Boisson, Alvin	Charleston Battery	Charleston Battery	Jacksonville Cyclones	5/3/1997	37		LGE	Dias, Chris		
+Dias, Chris	Charleston Battery	Charleston Battery	Jacksonville Cyclones	5/3/1997	83		LGE	Minihan, David		
+Foley, Jim	Charleston Battery	Charleston Battery	Jacksonville Cyclones	5/3/1997	99		LGE	Boisson, Alvin		
+DeOliveira, Jose Marcone	Jacksonville Cyclones	Charleston Battery	Jacksonville Cyclones	5/3/1997	11		LGE			
+Heald, Mike	Jacksonville Cyclones	Charleston Battery	Jacksonville Cyclones	5/3/1997	65		LGE			
+Patterson, Steve	Colorado Foxes	Colorado Foxes	El Paso Patriots	5/3/1997	9		LGE	Wescott, Sterling		
+Ashton, Chad	Colorado Foxes	Colorado Foxes	El Paso Patriots	5/3/1997	74		LGE			
+Huber, Dan	Colorado Foxes	Colorado Foxes	El Paso Patriots	5/3/1997	78		LGE	Guthrie, Rivers		
+Martinez, Chris	Colorado Foxes	Colorado Foxes	El Paso Patriots	5/3/1997	96		LGE	Ashton, Chad		
+Dalombo, Omar	El Paso Patriots	Colorado Foxes	El Paso Patriots	5/3/1997	58		LGE	Guevara, Mauricio		
+Dalombo, Omar	El Paso Patriots	Colorado Foxes	El Paso Patriots	5/3/1997	66		LGE	Arrieta, Martin		
+Arrieta, Martin	El Paso Patriots	Colorado Foxes	El Paso Patriots	5/3/1997	85		LGE	Onwodowe, Kevin		
+Fox, Chris	Richmond Kickers	Richmond Kickers	Long Island Rough Riders	5/4/1997	20		LGE	Ukrop, Rob		
+Garcia, Carlos	Richmond Kickers	Richmond Kickers	Long Island Rough Riders	5/4/1997	69		LGE	Adu-Gyamfi, Kwaku		
+Fox, Chris	Richmond Kickers	Richmond Kickers	Long Island Rough Riders	5/4/1997	88		LGE	Garcia, Carlos		
+Rooney, Jim	Long Island Rough Riders	Richmond Kickers	Long Island Rough Riders	5/4/1997	23		LGE			
+Barnes, Sebastian	Orlando Sundogs	Orlando Sundogs	Milwaukee Rampage	5/4/1997	12		LGE	Freeman, Steve		
+Barnes, Sebastian	Orlando Sundogs	Orlando Sundogs	Milwaukee Rampage	5/4/1997	43		LGE	Freeman, Steve		
+Szczepanski, Jon	Milwaukee Rampage	Orlando Sundogs	Milwaukee Rampage	5/4/1997	86	Penalty	LGE			
+Mobilio, Domenic	Vancouver 86ers	Vancouver 86ers	New Orleans Riverboat Gamblers	5/7/1997	23		LGE	Heald, Oliver		
+Heald, Oliver	Vancouver 86ers	Vancouver 86ers	New Orleans Riverboat Gamblers	5/7/1997	66	Penalty	LGE			
+Jordan, Jason	Vancouver 86ers	Vancouver 86ers	New Orleans Riverboat Gamblers	5/7/1997	67		LGE	Kusch, Garrett		
+Franks, Chris	Vancouver 86ers	Vancouver 86ers	New Orleans Riverboat Gamblers	5/7/1997	80		LGE	Kusch, Garrett		
+Dugas, Martin	Toronto Lynx	Richmond Kickers	Toronto Lynx	5/9/1997	12		LGE			
+Thomas, Elvis	Toronto Lynx	Richmond Kickers	Toronto Lynx	5/9/1997	32		LGE			
+Tilley, Darren	Toronto Lynx	Richmond Kickers	Toronto Lynx	5/9/1997	40		LGE	Gong, Lei		
+Fresh, Kyle	Worcester Wildfire	Worcester Wildfire	Raleigh Flyers	5/9/1997	21		LGE			
+Ouimet, Jake	Worcester Wildfire	Worcester Wildfire	Raleigh Flyers	5/9/1997	64		LGE	Heimgartner, Mark		
+Heimgartner, Mark	Worcester Wildfire	Worcester Wildfire	Raleigh Flyers	5/9/1997	87		LGE			
+Castillo, Juan	Charleston Battery	Charleston Battery	Rochester Rhinos	5/9/1997	11		LGE			
+Glenn, Jimmy	Rochester Rhinos	Charleston Battery	Rochester Rhinos	5/9/1997	3		LGE	Miller, Doug		
+Monteiro, Darci	Rochester Rhinos	Charleston Battery	Rochester Rhinos	5/9/1997	79		LGE			
+Amparan, Gabino	El Paso Patriots	El Paso Patriots	Orlando Sundogs	5/9/1997	85		LGE	Pali, Pedro		
+Barnes, Sebastian	Orlando Sundogs	El Paso Patriots	Orlando Sundogs	5/9/1997	1		LGE			
+Saunders, Michael	Connecticut Wolves	Connecticut Wolves	Raleigh Flyers	5/10/1997	46		LGE	Hesch, Jim		
+Powell, Darren	Raleigh Flyers	Connecticut Wolves	Raleigh Flyers	5/10/1997	41		LGE			
+Hoggan, David	Seattle Sounders	Seattle Sounders	New Orleans Riverboat Gamblers	5/10/1997	28		LGE			
+Aunger, Geoff	Seattle Sounders	Seattle Sounders	New Orleans Riverboat Gamblers	5/10/1997	64		LGE	Gailey, Mike		
+Adair, Chugger	Seattle Sounders	Seattle Sounders	New Orleans Riverboat Gamblers	5/10/1997	66		LGE	McNeil, Brian		
+Hoggan, David	Seattle Sounders	Seattle Sounders	New Orleans Riverboat Gamblers	5/10/1997	78		LGE	Enneking, Mike		
+Henderson, Ryshiem	Connecticut Wolves	Connecticut Wolves	Hershey Wildcats	5/11/1997	48		LGE	Hesch, Jim		
+Longenecker, Brent	Hershey Wildcats	Connecticut Wolves	Hershey Wildcats	5/11/1997	77		LGE	Eales, Darren		
+Williams, Mike	Hershey Wildcats	Connecticut Wolves	Hershey Wildcats	5/11/1997	80		LGE	D'Ambra, Don		
+Wescott, Sterling	Colorado Foxes	Colorado Foxes	Orlando Sundogs	5/11/1997	6		LGE			
+McCreath, Anthony	Colorado Foxes	Colorado Foxes	Orlando Sundogs	5/11/1997	31		LGE	Tadlock, Stoner		
+Ashton, Chad	Colorado Foxes	Colorado Foxes	Orlando Sundogs	5/11/1997	34		LGE			
+Patterson, Steve	Colorado Foxes	Colorado Foxes	Orlando Sundogs	5/11/1997	63		LGE	Ashton, Chad		
+Wescott, Sterling	Colorado Foxes	Colorado Foxes	Orlando Sundogs	5/11/1997	85		LGE	Guthrie, Rivers		
+Wurdack, Tom	Orlando Sundogs	Colorado Foxes	Orlando Sundogs	5/11/1997	77		LGE	Gill, Ian		
+Magee, Amos	Minnesota Thunder	Minnesota Thunder	Milwaukee Rampage	5/11/1997	16		LGE	Larumbe, Daniel		
+Gotsmanov, Sergei	Minnesota Thunder	Minnesota Thunder	Milwaukee Rampage	5/11/1997	44	Penalty	LGE			
+Roy, Travis	Milwaukee Rampage	Minnesota Thunder	Milwaukee Rampage	5/11/1997	23		LGE	Szczepanski, Jon		
+Marshall, David	Milwaukee Rampage	Minnesota Thunder	Milwaukee Rampage	5/11/1997	88		LGE	Gansler, Peter		
+Sanchez, Alex	Raleigh Flyers	Richmond Kickers	Raleigh Flyers	5/14/1997	39		LGE	Hunter, Mike		
+Biello, Mauro	Montreal Impact	Charleston Battery	Montreal Impact	5/14/1997	50		LGE			
+Lowe, Onandi	Montreal Impact	Charleston Battery	Montreal Impact	5/14/1997	65		LGE	Biello, Mauro		
+Evans, Chris	Vancouver 86ers	Vancouver 86ers	Colorado Foxes	8/8/1997	5		LGE	Dailly, Paul		
+Heald, Oliver	Vancouver 86ers	Vancouver 86ers	Colorado Foxes	8/8/1997	48		LGE	Clarke, Jeff		
+Mobilio, Domenic	Vancouver 86ers	Vancouver 86ers	Colorado Foxes	8/8/1997	53		LGE			
+Mobilio, Domenic	Vancouver 86ers	Vancouver 86ers	Colorado Foxes	8/8/1997	58		LGE	Kusch, Garrett		
+Mobilio, Domenic	Vancouver 86ers	Vancouver 86ers	Colorado Foxes	8/8/1997	88		LGE	Kusch, Garrett		
+Patterson, Steve	Colorado Foxes	Vancouver 86ers	Colorado Foxes	8/8/1997	68		LGE	Ashton, Chad		
+Watson, Mark	Seattle Sounders	Seattle Sounders	Colorado Foxes	8/10/1997	22		LGE	Hoggan, David		
+Aunger, Geoff	Seattle Sounders	Seattle Sounders	Colorado Foxes	8/10/1997	33		LGE	Rodriguez, Esmundo		
+Barton, Kieran	Seattle Sounders	Seattle Sounders	Colorado Foxes	8/10/1997	75		LGE			
+Paule, Ross	Colorado Foxes	Colorado Foxes	Minnesota Thunder	8/14/1997	15		LGE	Guthrie, Rivers		
+Patterson, Steve	Colorado Foxes	Colorado Foxes	Minnesota Thunder	8/14/1997	26		LGE	Paule, Ross		
+Paule, Ross	Colorado Foxes	Colorado Foxes	Minnesota Thunder	8/14/1997	65		LGE	Patterson, Steve		
+Guthrie, Rivers	Colorado Foxes	Colorado Foxes	Minnesota Thunder	8/14/1997	88		LGE	Roselli, Chris		
+Magee, Amos	Minnesota Thunder	Colorado Foxes	Minnesota Thunder	8/14/1997	42		LGE	Lagos, Gerard		
+DiGiamarino, Joey	Colorado Foxes	Colorado Foxes	Seattle Sounders	8/24/1997	22		LGE	Demmin, Craig		
+Tadlock, Stoner	Colorado Foxes	Colorado Foxes	New Orleans Riverboat Gamblers	6/8/1997	67		LGE			
+Huber, Dan	Colorado Foxes	Colorado Foxes	New Orleans Riverboat Gamblers	6/8/1997	76		LGE	Lipp, Robert		
+Webber, Wade	New Orleans Riverboat Gamblers	Colorado Foxes	New Orleans Riverboat Gamblers	6/8/1997	37		LGE			
+Trotman, Mickey	New Orleans Riverboat Gamblers	Colorado Foxes	New Orleans Riverboat Gamblers	6/8/1997	50		LGE	John, Stern		
+Rhode, Linus	New Orleans Riverboat Gamblers	Colorado Foxes	New Orleans Riverboat Gamblers	6/8/1997	100		LGE	Trotman, Mickey		
+Patterson, Steve	Colorado Foxes	Colorado Foxes	Orange County Zodiac	6/15/1997	33		LGE			
+Hooker, Jeff	Colorado Foxes	Colorado Foxes	Orange County Zodiac	6/15/1997	70		LGE	Guthrie, Rivers		
+Guthrie, Rivers	Colorado Foxes	Colorado Foxes	Orange County Zodiac	6/15/1997	72		LGE	Wescott, Sterling		
+Leal-Gustavo, Oscar	Orange County Zodiac	Colorado Foxes	Orange County Zodiac	6/15/1997	21		LGE	Bovetas, John		
+Leal-Gustavo, Oscar	Orange County Zodiac	Orange County Zodiac	Colorado Foxes	5/16/1997	26		LGE	Vasquez-Martinez, Jose		
+Botello, Jose	Orange County Zodiac	Orange County Zodiac	Colorado Foxes	5/16/1997	73		LGE	Wilson, Brad		
+Ashton, Chad	Colorado Foxes	Orange County Zodiac	Colorado Foxes	5/16/1997	37		LGE			
+Paule, Ross	Colorado Foxes	Orange County Zodiac	Colorado Foxes	5/16/1997	55		LGE			
+Ashton, Chad	Colorado Foxes	Orange County Zodiac	Colorado Foxes	5/16/1997	68	Penalty	LGE			
+Huber, Dan	Colorado Foxes	Orange County Zodiac	Colorado Foxes	5/16/1997	86		LGE	Lipp, Robert		
+D'Ambra, Don	Hershey Wildcats	Hershey Wildcats	Charleston Battery	5/17/1997	1		LGE			
+Waite, Mark	Hershey Wildcats	Hershey Wildcats	Charleston Battery	5/17/1997	9		LGE	Pappas, Peter		
+Longenecker, Brent	Hershey Wildcats	Hershey Wildcats	Charleston Battery	5/17/1997	23		LGE			
+Johnson, Rob	Hershey Wildcats	Hershey Wildcats	Charleston Battery	5/17/1997	83		LGE	Takatalo, Jari		
+Johnson, Rob	Hershey Wildcats	Hershey Wildcats	Charleston Battery	5/17/1997	90		LGE	McSorley, Pat		
+Rooney, Jim	Long Island Rough Riders	Connecticut Wolves	Long Island Rough Riders	5/18/1997	28		LGE	Ledesma, Carlos		
+Rooney, Jim	Long Island Rough Riders	Connecticut Wolves	Long Island Rough Riders	5/18/1997	67		LGE	Navarino, Joe		
+Cozier, Mangea (Mac)	Richmond Kickers	Connecticut Wolves	Richmond Kickers	5/23/1997	73		LGE	Anguelov, Dian		
+Kouzmanis, Tommy	Toronto Lynx	Toronto Lynx	Charleston Battery	5/23/1997	55	Penalty	LGE			
+St. Louis, Terry	Charleston Battery	Toronto Lynx	Charleston Battery	5/23/1997	18		LGE	Castillo, Juan		
+Lowe, Onandi	Montreal Impact	Montreal Impact	Charleston Battery	5/25/1997	73		LGE	DeSantis, Nick		
+Sedgewick, William (Bill)	Montreal Impact	Montreal Impact	Charleston Battery	5/25/1997	77		LGE	DeSantis, Nick		
+Hickey, Ben	Connecticut Wolves	Raleigh Flyers	Connecticut Wolves	5/30/1997	5		LGE	Dos Santos, Paulo		
+Barbieri, Erik	Connecticut Wolves	Raleigh Flyers	Connecticut Wolves	5/30/1997	72		LGE	Hickey, Ben		
+Mitchell, Jamal	Nashville Metros	Nashville Metros	Colorado Foxes	5/31/1997	19		LGE	Chichkanov, Oleg		
+Mitchell, Jamal	Nashville Metros	Nashville Metros	Colorado Foxes	5/31/1997	57		LGE	Foster, Mark		
+Martinez, Vince	Nashville Metros	Nashville Metros	Colorado Foxes	5/31/1997	82		LGE	Hussein, Ali		
+Wescott, Sterling	Colorado Foxes	Nashville Metros	Colorado Foxes	5/31/1997	10		LGE	Harrington, Trey		
+Martinez, Chris	Colorado Foxes	Nashville Metros	Colorado Foxes	5/31/1997	81		LGE	Tadlock, Stoner		
+Martinez, Chris	Colorado Foxes	Nashville Metros	Colorado Foxes	5/31/1997	89		LGE	Lujan, Aaron		
+Olalere, Patrick	Charleston Battery	Charleston Battery	Richmond Kickers	6/7/1997	27		LGE	St. Louis, Terry		
+Ukrop, Rob	Richmond Kickers	Charleston Battery	Richmond Kickers	6/7/1997	52		LGE	Anguelov, Dian		
+Garcia, Gabe	Richmond Kickers	Charleston Battery	Richmond Kickers	6/7/1997	61		LGE	Anguelov, Dian		
+Garcia, Gabe	Richmond Kickers	Charleston Battery	Richmond Kickers	6/7/1997	74		LGE			
+Lone, Mario	Richmond Kickers	Charleston Battery	Richmond Kickers	6/7/1997	76		LGE	Davis, Fabian		
+Barker, Lloyd	Montreal Impact	Connecticut Wolves	Montreal Impact	6/12/1997	27		LGE	Lowe, Onandi		
+Barker, Lloyd	Montreal Impact	Connecticut Wolves	Montreal Impact	6/12/1997	36		LGE	Sedgewick, William (Bill)		
+Berdusco, Eddie	Montreal Impact	Connecticut Wolves	Montreal Impact	6/12/1997	44		LGE	Sedgewick, William (Bill)		
+Trotman, Mickey	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	California Jaguars	6/15/1997	8		LGE	Gentile, Gabriel		
+John, Stern	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	California Jaguars	6/15/1997	45		LGE	Trotman, Mickey		
+Rullo, Steve	California Jaguars	New Orleans Riverboat Gamblers	California Jaguars	6/15/1997	62		LGE			
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Connecticut Wolves	6/15/1997	20		LGE	Glenn, Jimmy		
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Connecticut Wolves	6/15/1997	37		LGE	Villagra, Gustavo		
+Glenn, Jimmy	Rochester Rhinos	Rochester Rhinos	Connecticut Wolves	6/15/1997	66		LGE			
+Rivas, Rene	Rochester Rhinos	Rochester Rhinos	Connecticut Wolves	6/15/1997	68		LGE	Tanner, Thomas		
+Dos Santos, Paulo	Connecticut Wolves	Rochester Rhinos	Connecticut Wolves	6/15/1997	60		LGE			
+McIntyre, Ian	Connecticut Wolves	Rochester Rhinos	Connecticut Wolves	6/15/1997	62		LGE			
+Martinez, Saul	Long Island Rough Riders	Long Island Rough Riders	Connecticut Wolves	6/18/1997	61		LGE			
+Dos Santos, Paulo	Connecticut Wolves	Long Island Rough Riders	Connecticut Wolves	6/18/1997	35		LGE	Hesch, Jim		
+Richvalsky, Damon	Charleston Battery	Worcester Wildfire	Charleston Battery	6/20/1997	24		LGE			
+Hennessey, Ian	Connecticut Wolves	Connecticut Wolves	Toronto Lynx	6/20/1997	77		LGE			
+Tilley, Darren	Toronto Lynx	Connecticut Wolves	Toronto Lynx	6/20/1997	58		LGE	Thomas, Elvis		
+Caporrella, Phil	Toronto Lynx	Connecticut Wolves	Toronto Lynx	6/20/1997	67		LGE	Carter, Ian		
+Guthrie, Rivers	Colorado Foxes	Colorado Foxes	Nashville Metros	6/22/1997	50		LGE			
+Patterson, Steve	Colorado Foxes	Colorado Foxes	Nashville Metros	6/22/1997	51		LGE	Wescott, Sterling		
+Cantero, Idelfonso	Nashville Metros	Colorado Foxes	Nashville Metros	6/22/1997	76		LGE	Hussein, Ali		
+Carithers, Chad	Charleston Battery	Charleston Battery	Connecticut Wolves	6/27/1997	44		LGE	Anhaeuser, Michael		
+Richvalsky, Damon	Charleston Battery	Charleston Battery	Connecticut Wolves	6/27/1997	61		LGE	Carithers, Chad		
+John, Stern	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Colorado Foxes	6/27/1997	36		LGE	Trotman, Mickey		
+Owens, William (Billy)	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Colorado Foxes	6/27/1997	66		LGE	Trotman, Mickey		
+Patterson, Steve	Colorado Foxes	New Orleans Riverboat Gamblers	Colorado Foxes	6/27/1997	23		LGE	Ashton, Chad		
+Adams, Dave	Colorado Foxes	New Orleans Riverboat Gamblers	Colorado Foxes	6/27/1997	73		LGE			
+Hughes, Waughn	Jacksonville Cyclones	Jacksonville Cyclones	Connecticut Wolves	6/28/1997	30		LGE	Marulanda, John		
+Ortiz, Oswaldo	Jacksonville Cyclones	Jacksonville Cyclones	Connecticut Wolves	6/28/1997	81		LGE	Hughes, Waughn		
+Smith, John	Orlando Sundogs	Orlando Sundogs	Colorado Foxes	6/29/1997	1		LGE	Geltz, Tim		
+Barnes, Sebastian	Orlando Sundogs	Orlando Sundogs	Colorado Foxes	6/29/1997	17		LGE	Geltz, Tim		
+Ashton, Chad	Colorado Foxes	Orlando Sundogs	Colorado Foxes	6/29/1997	34	Penalty	LGE			
+Boisson, Alvin	Charleston Battery	Charleston Battery	Long Island Rough Riders	7/2/1997	82		LGE	Dias, Chris		
+Carithers, Chad	Charleston Battery	Charleston Battery	Long Island Rough Riders	7/2/1997	71		LGE	Dias, Chris		
+Ledesma, Carlos	Long Island Rough Riders	Charleston Battery	Long Island Rough Riders	7/2/1997	14		LGE			
+Hunter, Mike	Raleigh Flyers	Raleigh Flyers	Charleston Battery	7/4/1997	14		LGE	Siikala, Toni		
+Montoya, Alberto	Raleigh Flyers	Raleigh Flyers	Charleston Battery	7/4/1997	37		LGE			
+Dias, Chris	Charleston Battery	Raleigh Flyers	Charleston Battery	7/4/1997	54		LGE			
+Olalere, Patrick	Charleston Battery	Raleigh Flyers	Charleston Battery	7/4/1997	60		LGE			
+Zoric, Sasa	Hershey Wildcats	Hershey Wildcats	Connecticut Wolves	7/6/1997	27		LGE	Tschantret, Lee		
+Waite, Mark	Hershey Wildcats	Hershey Wildcats	Connecticut Wolves	7/6/1997	48		LGE	Tschantret, Lee		
+Zoric, Sasa	Hershey Wildcats	Hershey Wildcats	Connecticut Wolves	7/6/1997	68		LGE	Feniger, Mike		
+Hesch, Jim	Connecticut Wolves	Hershey Wildcats	Connecticut Wolves	7/6/1997	31		LGE			
+Carithers, Chad	Charleston Battery	Charleston Battery	Raleigh Flyers	7/12/1997	9		LGE	Walker, Gerard		
+Olalere, Patrick	Charleston Battery	Charleston Battery	Raleigh Flyers	7/12/1997	85		LGE	Carithers, Chad		
+Siikala, Toni	Raleigh Flyers	Charleston Battery	Raleigh Flyers	7/12/1997	15		LGE	Duff, Chris		
+Siegmund, Arnold	Raleigh Flyers	Charleston Battery	Raleigh Flyers	7/12/1997	79		LGE			
+McIntyre, Ian	Connecticut Wolves	Connecticut Wolves	Worcester Wildfire	7/13/1997	9		LGE	Hickey, Ben		
+Barbieri, Erik	Connecticut Wolves	Connecticut Wolves	Worcester Wildfire	7/13/1997	80		LGE	Henderson, Ryshiem		
+Miles, Matt	Worcester Wildfire	Connecticut Wolves	Worcester Wildfire	7/13/1997	49		LGE	Ouimet, Jake		
+Saunders, Michael	Connecticut Wolves	Worcester Wildfire	Connecticut Wolves	7/19/1997	13		LGE	Barbieri, Erik		
+Saunders, Michael	Connecticut Wolves	Worcester Wildfire	Connecticut Wolves	7/19/1997	81		LGE			
+Rooney, Jim	Long Island Rough Riders	Long Island Rough Riders	Connecticut Wolves	7/20/1997	40		LGE	Wright, Hector		
+Inneh, Ernest	Long Island Rough Riders	Long Island Rough Riders	Connecticut Wolves	7/20/1997	50		LGE	Rooney, Jim		
+Sullivan, Derek	Connecticut Wolves	Long Island Rough Riders	Connecticut Wolves	7/20/1997	74		LGE	McDermott, Michael (Mick)		
+Ukrop, Rob	Richmond Kickers	Richmond Kickers	Charleston Battery	7/20/1997	23		LGE			
+Cozier, Mangea (Mac)	Richmond Kickers	Richmond Kickers	Charleston Battery	7/20/1997	30		LGE	Davis, Fabian		
+Echeverry, Gerson	Richmond Kickers	Richmond Kickers	Charleston Battery	7/20/1997	75	Penalty	LGE			
+Olalere, Patrick	Charleston Battery	Richmond Kickers	Charleston Battery	7/20/1997	17		LGE			
+McKay, Josh	Richmond Kickers	Richmond Kickers	Connecticut Wolves	7/26/1997	4		LGE	Cozier, Mangea (Mac)		
+Ukrop, Rob	Richmond Kickers	Richmond Kickers	Connecticut Wolves	7/26/1997	87		LGE	Anguelov, Dian		
+Carithers, Chad	Charleston Battery	Charleston Battery	Hershey Wildcats	7/26/1997	32		LGE	Norcott, Guy		
+Olalere, Patrick	Charleston Battery	Charleston Battery	Hershey Wildcats	7/26/1997	45		LGE	Anhaeuser, Michael		
+Schmetzer, Andy	Charleston Battery	Charleston Battery	Hershey Wildcats	7/26/1997	50		LGE			
+Longenecker, Brent	Hershey Wildcats	Charleston Battery	Hershey Wildcats	7/26/1997	0		LGE	Waite, Mark		
+Camaj, Anton	Connecticut Wolves	Connecticut Wolves	Jacksonville Cyclones	8/1/1997	79		LGE	Hennessey, Ian		
+Heald, Mike	Jacksonville Cyclones	Connecticut Wolves	Jacksonville Cyclones	8/1/1997	67		LGE	Gomez, Gil		
+Miles, Matt	Worcester Wildfire	Worcester Wildfire	Connecticut Wolves	8/2/1997	22		LGE	Agoos, Brad		
+Hesch, Jim	Connecticut Wolves	Worcester Wildfire	Connecticut Wolves	8/2/1997	16		LGE			
+Munnelly, Martin	Connecticut Wolves	Worcester Wildfire	Connecticut Wolves	8/2/1997	58		LGE	Camaj, Anton		
+Barbieri, Erik	Connecticut Wolves	Worcester Wildfire	Connecticut Wolves	8/2/1997	65		LGE	Camaj, Anton		
+Mitchell, Jamal	Nashville Metros	Nashville Metros	Charleston Battery	8/3/1997	78		LGE	Cantero, Idelfonso		
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Connecticut Wolves	8/8/1997	25		LGE	Glenn, Jimmy		
+Dos Santos, Paulo	Connecticut Wolves	Rochester Rhinos	Connecticut Wolves	8/8/1997	67		LGE	Hesch, Jim		
+Hesch, Jim	Connecticut Wolves	Rochester Rhinos	Connecticut Wolves	8/8/1997	81		LGE	Camaj, Anton		
+Carithers, Chad	Charleston Battery	Charleston Battery	Worcester Wildfire	8/9/1997	8		LGE	Boisson, Alvin		
+Castillo, Juan	Charleston Battery	Charleston Battery	Worcester Wildfire	8/9/1997	40		LGE	Miller, Todd		
+Brownell, Derrick	Charleston Battery	Charleston Battery	Worcester Wildfire	8/9/1997	56		LGE			
+Holness, Kevin	Toronto Lynx	Toronto Lynx	Connecticut Wolves	8/10/1997	93		LGE	Dugas, Martin		
+Glenn, Jimmy	Rochester Rhinos	Rochester Rhinos	Charleston Battery	8/15/1997	30		LGE	Vignjevic, Nikola		
+Rooney, Jim	Long Island Rough Riders	Long Island Rough Riders	Charleston Battery	8/16/1997	62		LGE	Pitturro, Laurence		
+Inneh, Ernest	Long Island Rough Riders	Long Island Rough Riders	Charleston Battery	8/16/1997	79		LGE	Ledesma, Carlos		
+Wright, Hector	Long Island Rough Riders	Long Island Rough Riders	Charleston Battery	8/16/1997	84		LGE	Ledesma, Carlos		
+Oliviero, Giuliano	Montreal Impact	Montreal Impact	Connecticut Wolves	8/20/1997	4		LGE	DeSantis, Nick		
+Tilley, Darren	Montreal Impact	Montreal Impact	Connecticut Wolves	8/20/1997	36		LGE	Kolic, Darko		
+Montoya, Alberto	Raleigh Flyers	Charleston Battery	Raleigh Flyers	8/22/1997	88	Penalty	LGE			
+Care, Danny	Carolina Dynamo	Carolina Dynamo	Atlanta Ruckus	8/23/1997	79		LGE	Ball, John		
+Radwanski, Eddie	Carolina Dynamo	Carolina Dynamo	Atlanta Ruckus	8/23/1997	86		LGE	Allnutt, Yari		
+Suri, Mo	Atlanta Ruckus	Carolina Dynamo	Atlanta Ruckus	8/23/1997	20		LGE	Jacinto, Jacenir		
+Rodrigues, Andre	Atlanta Ruckus	Carolina Dynamo	Atlanta Ruckus	8/23/1997	89		LGE	Roberto, Marcos		
+Suri, Mo	Atlanta Ruckus	Carolina Dynamo	Atlanta Ruckus	8/23/1997	95		LGE	Crane, Brian		
+Siikala, Toni	Raleigh Flyers	Raleigh Flyers	Charleston Battery	8/23/1997	24		LGE	Alcerro, Ricardo		
+Olalere, Patrick	Charleston Battery	Raleigh Flyers	Charleston Battery	8/23/1997	26		LGE	Carithers, Chad		
+Boisson, Alvin	Charleston Battery	Raleigh Flyers	Charleston Battery	8/23/1997	80		LGE			
+Mitchell, Chris	Connecticut Wolves	Connecticut Wolves	Rochester Rhinos	8/24/1997	85		LGE	Dos Santos, Paulo		
+Daligcon, Nate	Rochester Rhinos	Connecticut Wolves	Rochester Rhinos	8/24/1997	13		LGE			
+Miller, Doug	Rochester Rhinos	Connecticut Wolves	Rochester Rhinos	8/24/1997	65		LGE	Glenn, Jimmy		
+Miller, Doug	Rochester Rhinos	Connecticut Wolves	Rochester Rhinos	8/24/1997	75		LGE	Walton, Mali		
+Rivas, Rene	Rochester Rhinos	Jacksonville Cyclones	Rochester Rhinos	5/14/1997	21		LGE			
+Rinker, Travis	Long Island Rough Riders	Worcester Wildfire	Long Island Rough Riders	5/16/1997	42		LGE			
+Joseph, Ricardo	Long Island Rough Riders	Worcester Wildfire	Long Island Rough Riders	5/16/1997	69		LGE	Rooney, Jim		
+Riley, Paul	Long Island Rough Riders	Worcester Wildfire	Long Island Rough Riders	5/16/1997	77	Penalty	LGE			
+Herskovitz, Tod	Milwaukee Rampage	Milwaukee Rampage	El Paso Patriots	5/16/1997	18		LGE	Roy, Travis		
+Cecherz, Jarek	Milwaukee Rampage	Milwaukee Rampage	El Paso Patriots	5/16/1997	36		LGE	Igel, Nick		
+Igel, Nick	Milwaukee Rampage	Milwaukee Rampage	El Paso Patriots	5/16/1997	46		LGE	Cecherz, Jarek		
+Onwodowe, Kevin	El Paso Patriots	Milwaukee Rampage	El Paso Patriots	5/16/1997	71		LGE	Senglemann, Steve		
+Adair, Chugger	Seattle Sounders	Nashville Metros	Seattle Sounders	5/16/1997	79		LGE	Stoddard, Justin		
+Gentile, Gabriel	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Vancouver 86ers	5/16/1997	28	Penalty	LGE			
+Gentile, Gabriel	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Vancouver 86ers	5/16/1997	35	Penalty	LGE			
+Muirhead, Doug	Vancouver 86ers	New Orleans Riverboat Gamblers	Vancouver 86ers	5/16/1997	5		LGE	Kusch, Garrett		
+Mobilio, Domenic	Vancouver 86ers	New Orleans Riverboat Gamblers	Vancouver 86ers	5/16/1997	8		LGE	Sumner, Richie		
+Heald, Oliver	Vancouver 86ers	New Orleans Riverboat Gamblers	Vancouver 86ers	5/16/1997	31		LGE			
+Kusch, Garrett	Vancouver 86ers	New Orleans Riverboat Gamblers	Vancouver 86ers	5/16/1997	47		LGE	Heald, Oliver		
+Kusch, Garrett	Vancouver 86ers	Orlando Sundogs	Vancouver 86ers	5/18/1997	9		LGE	Sumner, Richie		
+Mobilio, Domenic	Vancouver 86ers	Orlando Sundogs	Vancouver 86ers	5/18/1997	74		LGE			
+DeSantis, Nick	Montreal Impact	Jacksonville Cyclones	Montreal Impact	5/18/1997	49		LGE			
+Sedgewick, William (Bill)	Montreal Impact	Jacksonville Cyclones	Montreal Impact	5/18/1997	84		LGE	Needham, Grant		
+Biello, Mauro	Montreal Impact	Jacksonville Cyclones	Montreal Impact	5/18/1997	86		LGE	Oliviero, Giuliano		
+Coughlin, John	Minnesota Thunder	Minnesota Thunder	El Paso Patriots	5/18/1997	81		LGE			
+Dalombo, Omar	El Paso Patriots	Minnesota Thunder	El Paso Patriots	5/18/1997	78		LGE			
+Cortes, Ruben	Jacksonville Cyclones	Jacksonville Cyclones	Orlando Sundogs	5/22/1997	10		LGE			
+Cerro, Diego	Jacksonville Cyclones	Jacksonville Cyclones	Orlando Sundogs	5/22/1997	26		LGE			
+Gill, Ian	Orlando Sundogs	Jacksonville Cyclones	Orlando Sundogs	5/22/1997	12		LGE	Smith, John		
+Mackey, David	Orlando Sundogs	Jacksonville Cyclones	Orlando Sundogs	5/22/1997	58		LGE	Geltz, Tim		
+Geltz, Tim	Orlando Sundogs	Jacksonville Cyclones	Orlando Sundogs	5/22/1997	82		LGE			
+D'Ambra, Don	Hershey Wildcats	Minnesota Thunder	Hershey Wildcats	5/23/1997	18		LGE	Kelly, Danny		
+Gailey, Mike	Seattle Sounders	New Orleans Riverboat Gamblers	Seattle Sounders	5/23/1997	28		LGE	Jenkins, Scott		
+Stoddard, Justin	Seattle Sounders	New Orleans Riverboat Gamblers	Seattle Sounders	5/23/1997	31		LGE			
+Alcerro, Ricardo	Raleigh Flyers	Raleigh Flyers	Jacksonville Cyclones	5/24/1997	9		LGE			
+McKnight, Ben	Jacksonville Cyclones	Raleigh Flyers	Jacksonville Cyclones	5/24/1997	35		LGE	Ortiz, Oswaldo		
+Schmidt, Brad	Jacksonville Cyclones	Raleigh Flyers	Jacksonville Cyclones	5/24/1997	98		LGE	McKnight, Ben		
+Geltz, Tim	Orlando Sundogs	Orlando Sundogs	Seattle Sounders	5/25/1997	79		LGE			
+D'Ambra, Don	Hershey Wildcats	Milwaukee Rampage	Hershey Wildcats	5/25/1997	43		LGE			
+Waite, Mark	Hershey Wildcats	Milwaukee Rampage	Hershey Wildcats	5/25/1997	90		LGE	Kelly, Danny		
+Gins, Noah	Nashville Metros	Nashville Metros	Vancouver 86ers	5/25/1997	87		LGE	Johnson, Brian		
+Dailly, Paul	Vancouver 86ers	Nashville Metros	Vancouver 86ers	5/25/1997	30		LGE	Evans, Chris		
+Kusch, Garrett	Vancouver 86ers	Nashville Metros	Vancouver 86ers	5/25/1997	85		LGE	Valentine, Carl		
+Ukrop, Rob	Richmond Kickers	Richmond Kickers	Worcester Wildfire	5/25/1997	62		LGE	Cannon, Scott		
+Anguelov, Dian	Richmond Kickers	Richmond Kickers	Worcester Wildfire	5/25/1997	70		LGE			
+Cozier, Mangea (Mac)	Richmond Kickers	Richmond Kickers	Worcester Wildfire	5/25/1997	88		LGE	Anguelov, Dian		
+Jaradat	Worcester Wildfire	Richmond Kickers	Worcester Wildfire	5/25/1997	21		LGE			
+Sawatzky, Darren	Worcester Wildfire	Richmond Kickers	Worcester Wildfire	5/25/1997	71		LGE	Keegan, Paul		
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	5/26/1997	5		LGE	Glenn, Jimmy		
+Gutierrez, Henry	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	5/26/1997	79		LGE	Miller, Doug		
+Caporrella, Phil	Toronto Lynx	Rochester Rhinos	Toronto Lynx	5/26/1997	28		LGE	Tilley, Darren		
+Gong, Lei	Toronto Lynx	Rochester Rhinos	Toronto Lynx	5/26/1997	50		LGE	Kouzmanis, Tommy		
+Caporrella, Phil	Toronto Lynx	Rochester Rhinos	Toronto Lynx	5/26/1997	55		LGE			
+Heimgartner, Mark	Worcester Wildfire	Worcester Wildfire	Jacksonville Cyclones	5/30/1997	54		LGE	Ouimet, Jake		
+Johnson, Rob	Hershey Wildcats	Hershey Wildcats	Montreal Impact	5/30/1997	41		LGE	D'Ambra, Don		
+Barker, Lloyd	Montreal Impact	Hershey Wildcats	Montreal Impact	5/30/1997	38		LGE			
+Lowe, Onandi	Montreal Impact	Hershey Wildcats	Montreal Impact	5/30/1997	50		LGE	DeSantis, Nick		
+Gins, Noah	Nashville Metros	Orlando Sundogs	Nashville Metros	5/30/1997	90		LGE			
+Reta, Tenkir	Minnesota Thunder	Milwaukee Rampage	Minnesota Thunder	5/31/1997	70		LGE			
+Kolic, Darko	Montreal Impact	Montreal Impact	Jacksonville Cyclones	6/1/1997	53		LGE	Lowe, Onandi		
+Needham, Grant	Montreal Impact	Montreal Impact	Jacksonville Cyclones	6/1/1997	86		LGE	Kolic, Darko		
+Adu-Gyamfi, Kwaku	Richmond Kickers	Long Island Rough Riders	Richmond Kickers	6/1/1997	76		LGE			
+D'Ambra, Don	Hershey Wildcats	Hershey Wildcats	Rochester Rhinos	6/1/1997	34		LGE	Waite, Mark		
+Longenecker, Brent	Hershey Wildcats	Hershey Wildcats	Rochester Rhinos	6/1/1997	85		LGE	Waite, Mark		
+Glenn, Jimmy	Rochester Rhinos	Hershey Wildcats	Rochester Rhinos	6/1/1997	28		LGE			
+Dancy, Jake	Orange County Zodiac	Orange County Zodiac	New Orleans Riverboat Gamblers	6/1/1997	74		LGE	Leal-Gustavo, Oscar		
+Ouimet, Jake	Worcester Wildfire	Worcester Wildfire	Hershey Wildcats	6/6/1997	33	Penalty	LGE			
+Tschantret, Lee	Hershey Wildcats	Worcester Wildfire	Hershey Wildcats	6/6/1997	6		LGE	Johnson, Rob		
+Sastoque, Juan	El Paso Patriots	El Paso Patriots	New Orleans Riverboat Gamblers	6/6/1997	67		LGE			
+Owens, William (Billy)	New Orleans Riverboat Gamblers	El Paso Patriots	New Orleans Riverboat Gamblers	6/6/1997	54		LGE			
+Blanchard, Ricardo (Ricky)	New Orleans Riverboat Gamblers	El Paso Patriots	New Orleans Riverboat Gamblers	6/6/1997	71		LGE	Owens, William (Billy)		
+Trotman, Mickey	New Orleans Riverboat Gamblers	El Paso Patriots	New Orleans Riverboat Gamblers	6/6/1997	78		LGE			
+Vignjevic, Nikola	Rochester Rhinos	Rochester Rhinos	Jacksonville Cyclones	6/7/1997	20		LGE			
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Jacksonville Cyclones	6/7/1997	37		LGE	Gutierrez, Henry		
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Jacksonville Cyclones	6/7/1997	48		LGE	Gutierrez, Henry		
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Jacksonville Cyclones	6/7/1997	66		LGE	Vignjevic, Nikola		
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Jacksonville Cyclones	6/7/1997	103		LGE	Monteiro, Darci		
+McKnight, Ben	Jacksonville Cyclones	Rochester Rhinos	Jacksonville Cyclones	6/7/1997	31		LGE	Gonzales, Franklin		
+Tomaro, Paul	Jacksonville Cyclones	Rochester Rhinos	Jacksonville Cyclones	6/7/1997	53		LGE	Schmidt, Brad		
+Schmidt, Brad	Jacksonville Cyclones	Rochester Rhinos	Jacksonville Cyclones	6/7/1997	73		LGE			
+Hughes, Waughn	Jacksonville Cyclones	Rochester Rhinos	Jacksonville Cyclones	6/7/1997	85		LGE			
+Leanti, Sal	Long Island Rough Riders	Long Island Rough Riders	Raleigh Flyers	6/7/1997	15		LGE	Mohammed, Dahir		
+Mohammed, Dahir	Long Island Rough Riders	Long Island Rough Riders	Raleigh Flyers	6/7/1997	31		LGE	Rooney, Jim		
+Leon-Penaranda, Daniel	Long Island Rough Riders	Long Island Rough Riders	Raleigh Flyers	6/7/1997	36		LGE	Leanti, Sal		
+Leon-Penaranda, Daniel	Long Island Rough Riders	Long Island Rough Riders	Raleigh Flyers	6/7/1997	64		LGE	Navarino, Joe		
+Leon-Penaranda, Daniel	Long Island Rough Riders	Long Island Rough Riders	Raleigh Flyers	6/7/1997	65		LGE	Rooney, Jim		
+Masters, Mike	Long Island Rough Riders	Long Island Rough Riders	Raleigh Flyers	6/7/1997	73		LGE	Pitturro, Laurence		
+Siikala, Toni	Raleigh Flyers	Long Island Rough Riders	Raleigh Flyers	6/7/1997	77		LGE	Hunter, Mike		
+Wurdack, Tom	Orlando Sundogs	Orlando Sundogs	Nashville Metros	6/7/1997	6		LGE	Smith, John		
+Smith, John	Orlando Sundogs	Orlando Sundogs	Nashville Metros	6/7/1997	57		LGE	Geltz, Tim		
+Barnes, Sebastian	Orlando Sundogs	Orlando Sundogs	Nashville Metros	6/7/1997	76		LGE	Smith, John		
+Lak, Peter	Orange County Zodiac	Orange County Zodiac	El Paso Patriots	6/7/1997	18		LGE	Rodriguez, Ricky		
+Bovetas, John	Orange County Zodiac	Orange County Zodiac	El Paso Patriots	6/7/1997	35	Penalty	LGE			
+Arrieta, Martin	El Paso Patriots	Orange County Zodiac	El Paso Patriots	6/7/1997	50		LGE			
+Caporrella, Phil	Toronto Lynx	Toronto Lynx	Jacksonville Cyclones	6/8/1997	16		LGE			
+Thomas, Elvis	Toronto Lynx	Toronto Lynx	Jacksonville Cyclones	6/8/1997	40		LGE	Kouzmanis, Tommy		
+Dugas, Martin	Toronto Lynx	Toronto Lynx	Jacksonville Cyclones	6/8/1997	57		LGE			
+Kouzmanis, Tommy	Toronto Lynx	Toronto Lynx	Jacksonville Cyclones	6/8/1997	75		LGE	Tilley, Darren		
+Ortiz, Oswaldo	Jacksonville Cyclones	Toronto Lynx	Jacksonville Cyclones	6/8/1997	89		LGE	Marulanda, John		
+Johnson, Rob	Hershey Wildcats	Hershey Wildcats	Raleigh Flyers	6/8/1997	17		LGE			
+Feniger, Mike	Hershey Wildcats	Hershey Wildcats	Raleigh Flyers	6/8/1997	85		LGE	Ferrandino, John		
+Tschantret, Lee	Hershey Wildcats	Hershey Wildcats	Raleigh Flyers	6/8/1997	97		LGE	Fairchild, Nate		
+Hunter, Mike	Raleigh Flyers	Hershey Wildcats	Raleigh Flyers	6/8/1997	3		LGE			
+Siegmund, Arnold	Raleigh Flyers	Hershey Wildcats	Raleigh Flyers	6/8/1997	89		LGE	Cekanor, James		
+Ferri, Flavio	Long Island Rough Riders	Long Island Rough Riders	Richmond Kickers	6/11/1997	53		LGE	Rinker, Travis		
+McKay, Josh	Richmond Kickers	Long Island Rough Riders	Richmond Kickers	6/11/1997	62		LGE			
+Tanner, Thomas	Rochester Rhinos	Rochester Rhinos	Worcester Wildfire	6/13/1997	2		LGE	Steenkamp, Lenin		
+Glenn, Jimmy	Rochester Rhinos	Rochester Rhinos	Worcester Wildfire	6/13/1997	45		LGE	Miller, Doug		
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Worcester Wildfire	6/13/1997	57		LGE	Glenn, Jimmy		
+Monteiro, Darci	Rochester Rhinos	Rochester Rhinos	Worcester Wildfire	6/13/1997	82		LGE			
+Dallastra, Pedro	El Paso Patriots	El Paso Patriots	Orange County Zodiac	6/13/1997	28		LGE			
+Leal-Gustavo, Oscar	Orange County Zodiac	El Paso Patriots	Orange County Zodiac	6/13/1997	9		LGE			
+Leal-Gustavo, Oscar	Orange County Zodiac	El Paso Patriots	Orange County Zodiac	6/13/1997	61		LGE			
+Aunger, Geoff	Seattle Sounders	Seattle Sounders	Vancouver 86ers	6/14/1997	40		LGE	Hoggan, David		
+Gailey, Mike	Seattle Sounders	Seattle Sounders	Vancouver 86ers	6/14/1997	80		LGE	Aunger, Geoff		
+Clarke, Jeff	Vancouver 86ers	Seattle Sounders	Vancouver 86ers	6/14/1997	75		LGE	Sumner, Richie		
+Feniger, Mike	Hershey Wildcats	Long Island Rough Riders	Hershey Wildcats	6/14/1997	53		LGE	D'Ambra, Don		
+Schmidt, Brad	Jacksonville Cyclones	Jacksonville Cyclones	Nashville Metros	6/14/1997	57	Penalty	LGE			
+Ozcan, Aytekin	Nashville Metros	Jacksonville Cyclones	Nashville Metros	6/14/1997	2		LGE	Rogaski, Ken		
+Dahlal, Mourat	Nashville Metros	Jacksonville Cyclones	Nashville Metros	6/14/1997	33		LGE	Ozcan, Aytekin		
+Dahlal, Mourat	Nashville Metros	Jacksonville Cyclones	Nashville Metros	6/14/1997	39		LGE	Galloway, Andy		
+Mitchell, Jamal	Nashville Metros	Jacksonville Cyclones	Nashville Metros	6/14/1997	71		LGE	Rogaski, Ken		
+Mitchell, Jamal	Nashville Metros	Jacksonville Cyclones	Nashville Metros	6/14/1997	72		LGE	Dahlal, Mourat		
+Magee, Amos	Minnesota Thunder	Minnesota Thunder	Milwaukee Rampage	6/14/1997	27		LGE	Leventhal, Aaron		
+Tilley, Darren	Toronto Lynx	Toronto Lynx	Worcester Wildfire	6/15/1997	15		LGE	Caporrella, Phil		
+Tilley, Darren	Toronto Lynx	Toronto Lynx	Worcester Wildfire	6/15/1997	64		LGE	Carter, Ian		
+Keegan, Paul	Worcester Wildfire	Toronto Lynx	Worcester Wildfire	6/15/1997	18		LGE	Agoos, Brad		
+Longenecker, Brent	Hershey Wildcats	Hershey Wildcats	Long Island Rough Riders	6/15/1997	76		LGE			
+Waite, Mark	Hershey Wildcats	Hershey Wildcats	Long Island Rough Riders	6/15/1997	82		LGE	Zoric, Sasa		
+Leanti, Sal	Long Island Rough Riders	Hershey Wildcats	Long Island Rough Riders	6/15/1997	3		LGE	Leon-Penaranda, Daniel		
+Gong, Lei	Toronto Lynx	Montreal Impact	Toronto Lynx	6/18/1997	92		LGE			
+Delgado, Rito	El Paso Patriots	El Paso Patriots	Nashville Metros	6/20/1997	61		LGE	Bautista, Arturo		
+Berbari, Luis	Nashville Metros	El Paso Patriots	Nashville Metros	6/20/1997	64		LGE			
+Stoddard, Justin	Seattle Sounders	Seattle Sounders	Orlando Sundogs	6/20/1997	33		LGE	Gailey, Mike		
+Gailey, Mike	Seattle Sounders	Seattle Sounders	Orlando Sundogs	6/20/1997	47		LGE			
+Smith, John	Orlando Sundogs	Seattle Sounders	Orlando Sundogs	6/20/1997	66		LGE	Barnes, Sebastian		
+White, Carson	Raleigh Flyers	Raleigh Flyers	Rochester Rhinos	6/21/1997	67		LGE	Duff, Chris		
+Powell, Darren	Raleigh Flyers	Raleigh Flyers	Rochester Rhinos	6/21/1997	90		LGE	Hunter, Mike		
+Miller, Doug	Rochester Rhinos	Raleigh Flyers	Rochester Rhinos	6/21/1997	72		LGE	Houser, Nate		
+Leal-Gustavo, Oscar	Orange County Zodiac	Orange County Zodiac	Milwaukee Rampage	6/22/1997	70		LGE	Rodriguez, Ricky		
+Roy, Travis	Milwaukee Rampage	Orange County Zodiac	Milwaukee Rampage	6/22/1997	54		LGE	Gentile, Mike		
+Szczepanski, Jon	Milwaukee Rampage	Orange County Zodiac	Milwaukee Rampage	6/22/1997	71		LGE	Roy, Travis		
+Garcia, Carlos	Richmond Kickers	Richmond Kickers	Rochester Rhinos	6/22/1997	68		LGE	Anguelov, Dian		
+McKay, Josh	Richmond Kickers	Richmond Kickers	Rochester Rhinos	6/22/1997	84		LGE			
+Miller, Doug	Rochester Rhinos	Richmond Kickers	Rochester Rhinos	6/22/1997	25		LGE	Gutierrez, Henry		
+Miller, Doug	Rochester Rhinos	Richmond Kickers	Rochester Rhinos	6/22/1997	47	Penalty	LGE			
+Miller, Doug	Rochester Rhinos	Richmond Kickers	Rochester Rhinos	6/22/1997	74		LGE			
+D'Ambra, Don	Hershey Wildcats	Hershey Wildcats	Worcester Wildfire	6/22/1997	41		LGE	Longenecker, Brent		
+Longenecker, Brent	Hershey Wildcats	Hershey Wildcats	Worcester Wildfire	6/22/1997	50		LGE	Tschantret, Lee		
+Tschantret, Lee	Hershey Wildcats	Hershey Wildcats	Worcester Wildfire	6/22/1997	65		LGE	Zoric, Sasa		
+D'Ambra, Don	Hershey Wildcats	Hershey Wildcats	Worcester Wildfire	6/22/1997	85		LGE	Zoric, Sasa		
+Kusch, Garrett	Vancouver 86ers	Vancouver 86ers	Orlando Sundogs	6/22/1997	21		LGE	Franks, Chris		
+MacDonald, Steve	Vancouver 86ers	Vancouver 86ers	Orlando Sundogs	6/22/1997	30		LGE	Dailly, Paul		
+Franks, Chris	Vancouver 86ers	Vancouver 86ers	Orlando Sundogs	6/22/1997	50		LGE	Dailly, Paul		
+Kusch, Garrett	Vancouver 86ers	Vancouver 86ers	Orlando Sundogs	6/22/1997	57		LGE	Franks, Chris		
+Geltz, Tim	Orlando Sundogs	Vancouver 86ers	Orlando Sundogs	6/22/1997	6		LGE	Lee, Sheldon		
+Lowe, Onandi	Montreal Impact	Montreal Impact	Worcester Wildfire	6/25/1997	15		LGE	Biello, Mauro		
+DeSantis, Nick	Montreal Impact	Montreal Impact	Worcester Wildfire	6/25/1997	30	Penalty	LGE			
+Needham, Grant	Montreal Impact	Montreal Impact	Worcester Wildfire	6/25/1997	54		LGE	DeSantis, Nick		
+Barker, Lloyd	Montreal Impact	Montreal Impact	Worcester Wildfire	6/25/1997	55		LGE	Kolic, Darko		
+Biello, Mauro	Montreal Impact	Montreal Impact	Worcester Wildfire	6/25/1997	62		LGE	Gioia, Michael		
+Oliviero, Giuliano	Montreal Impact	Montreal Impact	Worcester Wildfire	6/25/1997	90		LGE	Barker, Lloyd		
+Aunger, Geoff	Seattle Sounders	Vancouver 86ers	Seattle Sounders	6/25/1997	92		LGE			
+Mackey, David	Orlando Sundogs	Orlando Sundogs	Jacksonville Cyclones	6/26/1997	25		LGE	Smith, John		
+Riegler, Jason	Orlando Sundogs	Orlando Sundogs	Jacksonville Cyclones	6/26/1997	48		LGE	Smith, John		
+Barnes, Sebastian	Orlando Sundogs	Orlando Sundogs	Jacksonville Cyclones	6/26/1997	69		LGE			
+Lagos, Gerard	Minnesota Thunder	Minnesota Thunder	Vancouver 86ers	6/27/1997	43		LGE	Sylvester, John		
+Mobilio, Domenic	Vancouver 86ers	Minnesota Thunder	Vancouver 86ers	6/27/1997	84		LGE	Muirhead, Doug		
+Lak, Peter	Orange County Zodiac	Orange County Zodiac	Nashville Metros	6/27/1997	37		LGE	Laterza, Gerardo		
+Dahlal, Mourat	Nashville Metros	Orange County Zodiac	Nashville Metros	6/27/1997	11		LGE	Atherton, Jon		
+Mitchell, Jamal	Nashville Metros	Orange County Zodiac	Nashville Metros	6/27/1997	18		LGE	Atherton, Jon		
+Chichkanov, Oleg	Nashville Metros	Orange County Zodiac	Nashville Metros	6/27/1997	32		LGE			
+Dahlal, Mourat	Nashville Metros	Orange County Zodiac	Nashville Metros	6/27/1997	87		LGE	Cantero, Idelfonso		
+Siikala, Toni	Raleigh Flyers	Raleigh Flyers	Long Island Rough Riders	6/28/1997	5		LGE	Siegmund, Arnold		
+Hunter, Mike	Raleigh Flyers	Raleigh Flyers	Long Island Rough Riders	6/28/1997	60		LGE	Montoya, Alberto		
+Hunter, Mike	Raleigh Flyers	Raleigh Flyers	Long Island Rough Riders	6/28/1997	76		LGE	Alcerro, Ricardo		
+Martinez, Saul	Long Island Rough Riders	Raleigh Flyers	Long Island Rough Riders	6/28/1997	85		LGE			
+Szczepanski, Jon	Milwaukee Rampage	Milwaukee Rampage	Vancouver 86ers	6/29/1997	41		LGE	Gentile, Mike		
+Berdusco, Eddie	Milwaukee Rampage	Milwaukee Rampage	Vancouver 86ers	6/29/1997	59		LGE	Willan, Jason		
+Heald, Oliver	Vancouver 86ers	Milwaukee Rampage	Vancouver 86ers	6/29/1997	50		LGE	Mobilio, Domenic		
+Greenwood, Ricci	El Paso Patriots	Orlando Sundogs	El Paso Patriots	7/3/1997	31		LGE	Bautista, Arturo		
+Gentile, Gabriel	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	El Paso Patriots	7/5/1997	45		LGE	Trotman, Mickey		
+John, Stern	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	El Paso Patriots	7/5/1997	69		LGE	Owens, William (Billy)		
+Browne, Clinton	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	El Paso Patriots	7/5/1997	81		LGE			
+Delgado, Rito	El Paso Patriots	El Paso Patriots	Vancouver 86ers	7/11/1997	63		LGE	Baeza-Rojas, Eduardo		
+Stewart, David	El Paso Patriots	El Paso Patriots	Milwaukee Rampage	7/25/1997	21		LGE	Greenwood, Ricci		
+Lopez, Dino	Milwaukee Rampage	El Paso Patriots	Milwaukee Rampage	7/25/1997	49		LGE	Szczepanski, Jon		
+Willan, Jason	Milwaukee Rampage	El Paso Patriots	Milwaukee Rampage	7/25/1997	55		LGE	Szczepanski, Jon		
+Sastoque, Juan	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	El Paso Patriots	7/27/1997	4		LGE	Gentile, Gabriel		
+John, Stern	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	El Paso Patriots	7/27/1997	5		LGE	Owens, William (Billy)		
+Benjamin, Glenn	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	El Paso Patriots	7/27/1997	32		LGE	John, Stern		
+John, Stern	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	El Paso Patriots	7/27/1997	71		LGE	Benjamin, Glenn		
+Stewart, David	El Paso Patriots	New Orleans Riverboat Gamblers	El Paso Patriots	7/27/1997	50		LGE	Guardado, Steve		
+Guardado, Steve	El Paso Patriots	New Orleans Riverboat Gamblers	El Paso Patriots	7/27/1997	88		LGE			
+Baeza-Rojas, Eduardo	El Paso Patriots	El Paso Patriots	Orange County Zodiac	8/10/1997	14		LGE	Dalombo, Omar		
+Delgado, Rito	El Paso Patriots	El Paso Patriots	Orange County Zodiac	8/10/1997	83		LGE			
+Robles, Michael	Orange County Zodiac	El Paso Patriots	Orange County Zodiac	8/10/1997	7		LGE			
+Leal-Gustavo, Oscar	Orange County Zodiac	El Paso Patriots	Orange County Zodiac	8/10/1997	9		LGE	Rodriguez, Ricky		
+Leal-Gustavo, Oscar	Orange County Zodiac	El Paso Patriots	Orange County Zodiac	8/10/1997	94		LGE	Robles, Michael		
+Delgado, Rito	El Paso Patriots	El Paso Patriots	Minnesota Thunder	8/16/1997	22		LGE			
+Delgado, Rito	El Paso Patriots	El Paso Patriots	Minnesota Thunder	8/16/1997	68	Penalty	LGE			
+Lagos, Gerard	Minnesota Thunder	El Paso Patriots	Minnesota Thunder	8/16/1997	51		LGE			
+Lagos, Gerard	Minnesota Thunder	El Paso Patriots	Minnesota Thunder	8/16/1997	53		LGE	Dusosky, Todd		
+Dusosky, Todd	Minnesota Thunder	El Paso Patriots	Minnesota Thunder	8/16/1997	100		LGE			
+Delgado, Rito	El Paso Patriots	El Paso Patriots	Seattle Sounders	8/22/1997	12		LGE	Arrieta, Martin		
+Delgado, Rito	El Paso Patriots	El Paso Patriots	Seattle Sounders	8/22/1997	43		LGE	Guardado, Steve		
+Hoggan, David	Seattle Sounders	El Paso Patriots	Seattle Sounders	8/22/1997	50		LGE			
+Gutierrez, Henry	Seattle Sounders	El Paso Patriots	Seattle Sounders	8/22/1997	54		LGE			
+Gailey, Mike	Seattle Sounders	El Paso Patriots	Seattle Sounders	8/22/1997	96		LGE	Gelvezon, Paul		
+Biello, Mauro	Montreal Impact	Montreal Impact	Toronto Lynx	7/2/1997	8		LGE	Fletcher, Carl		
+MacRury, Stuart	Worcester Wildfire	Worcester Wildfire	Hershey Wildcats	7/11/1997	65		LGE	Agoos, Brad		
+Ouimet, Jake	Worcester Wildfire	Worcester Wildfire	Hershey Wildcats	7/11/1997	61		LGE	Miles, Matt		
+Tschantret, Lee	Hershey Wildcats	Worcester Wildfire	Hershey Wildcats	7/11/1997	69		LGE	Zoric, Sasa		
+Waite, Mark	Hershey Wildcats	Hershey Wildcats	Toronto Lynx	7/13/1997	84		LGE	Longenecker, Brent		
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Hershey Wildcats	7/18/1997	15		LGE	Glenn, Jimmy		
+Tanner, Thomas	Rochester Rhinos	Rochester Rhinos	Hershey Wildcats	7/18/1997	44		LGE	Koetters, Kevin		
+Zoric, Sasa	Hershey Wildcats	Rochester Rhinos	Hershey Wildcats	7/18/1997	3		LGE	Tschantret, Lee		
+Waite, Mark	Hershey Wildcats	Rochester Rhinos	Hershey Wildcats	7/18/1997	26		LGE	Longenecker, Brent		
+Zoric, Sasa	Hershey Wildcats	Rochester Rhinos	Hershey Wildcats	7/18/1997	51		LGE			
+Feniger, Mike	Hershey Wildcats	Rochester Rhinos	Hershey Wildcats	7/18/1997	79		LGE	Tschantret, Lee		
+Needham, Grant	Montreal Impact	Montreal Impact	Hershey Wildcats	7/20/1997	32		LGE	Xavier, Bruno		
+Needham, Grant	Montreal Impact	Montreal Impact	Hershey Wildcats	7/20/1997	41		LGE			
+Tschantret, Lee	Hershey Wildcats	Montreal Impact	Hershey Wildcats	7/20/1997	37		LGE	Lieb, Brandon		
+Zoric, Sasa	Hershey Wildcats	Montreal Impact	Hershey Wildcats	7/20/1997	60		LGE			
+Johnson, Rob	Hershey Wildcats	Montreal Impact	Hershey Wildcats	7/20/1997	86		LGE	Feniger, Mike		
+Ortiz, Oswaldo	Jacksonville Cyclones	Jacksonville Cyclones	Hershey Wildcats	7/25/1997	11		LGE	Gomez, Gil		
+Tschantret, Lee	Hershey Wildcats	Jacksonville Cyclones	Hershey Wildcats	7/25/1997	38		LGE	Fairchild, Nate		
+Fairchild, Nate	Hershey Wildcats	Jacksonville Cyclones	Hershey Wildcats	7/25/1997	55		LGE	Longenecker, Brent		
+Johnson, Rob	Hershey Wildcats	Jacksonville Cyclones	Hershey Wildcats	7/25/1997	83		LGE	Feniger, Mike		
+Tassy, Chris	Hershey Wildcats	Jacksonville Cyclones	Hershey Wildcats	7/25/1997	87		LGE	Longenecker, Brent		
+Magee, Amos	Minnesota Thunder	Hershey Wildcats	Minnesota Thunder	8/2/1997	104		LGE	Lagos, Gerard		
+Igel, Nick	Milwaukee Rampage	Hershey Wildcats	Milwaukee Rampage	8/15/1997	12		LGE	Willan, Jason		
+Waite, Mark	Hershey Wildcats	Hershey Wildcats	Jacksonville Cyclones	8/24/1997	12		LGE	D'Ambra, Don		
+Tschantret, Lee	Hershey Wildcats	Hershey Wildcats	Jacksonville Cyclones	8/24/1997	34		LGE	Waite, Mark		
+Waite, Mark	Hershey Wildcats	Hershey Wildcats	Jacksonville Cyclones	8/24/1997	79		LGE	Feniger, Mike		
+Penny, Christian	Hershey Wildcats	Hershey Wildcats	Jacksonville Cyclones	8/24/1997	83	Penalty	LGE			
+Heald, Mike	Jacksonville Cyclones	Hershey Wildcats	Jacksonville Cyclones	8/24/1997	43		LGE	Cerro, Diego		
+McKnight, Ben	Jacksonville Cyclones	Jacksonville Cyclones	Raleigh Flyers	7/11/1997	22		LGE			
+Siikala, Toni	Raleigh Flyers	Jacksonville Cyclones	Raleigh Flyers	7/11/1997	1		LGE			
+Alcerro, Ricardo	Raleigh Flyers	Jacksonville Cyclones	Raleigh Flyers	7/11/1997	49		LGE	Montoya, Alberto		
+Hunter, Mike	Raleigh Flyers	Jacksonville Cyclones	Raleigh Flyers	7/11/1997	53		LGE	Siegmund, Arnold		
+Seixas-Pereira, Eduardo	Raleigh Flyers	Jacksonville Cyclones	Raleigh Flyers	7/11/1997	86		LGE	Montoya, Alberto		
+Dahlal, Mourat	Nashville Metros	Nashville Metros	Jacksonville Cyclones	7/17/1997	3		LGE	Cantero, Idelfonso		
+Smith, John	Nashville Metros	Nashville Metros	Jacksonville Cyclones	7/17/1997	28		LGE	Dahlal, Mourat		
+Cantero, Idelfonso	Nashville Metros	Nashville Metros	Jacksonville Cyclones	7/17/1997	32		LGE	Berbari, Luis		
+Mitchell, Jamal	Nashville Metros	Nashville Metros	Jacksonville Cyclones	7/17/1997	84		LGE	Cantero, Idelfonso		
+Mitchell, Jamal	Nashville Metros	Nashville Metros	Jacksonville Cyclones	7/17/1997	85		LGE	Smith, John		
+John, Stern	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Jacksonville Cyclones	7/19/1997	34		LGE	Owens, William (Billy)		
+Trotman, Mickey	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Jacksonville Cyclones	7/19/1997	72		LGE	John, Stern		
+John, Stern	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Jacksonville Cyclones	7/19/1997	82		LGE	Owens, William (Billy)		
+Martinez, Saul	Long Island Rough Riders	Long Island Rough Riders	Jacksonville Cyclones	8/3/1997	1		LGE	Price, David		
+Inneh, Ernest	Long Island Rough Riders	Long Island Rough Riders	Jacksonville Cyclones	8/3/1997	8		LGE	Rooney, Jim		
+Inneh, Ernest	Long Island Rough Riders	Long Island Rough Riders	Jacksonville Cyclones	8/3/1997	17		LGE			
+Leanti, Sal	Long Island Rough Riders	Long Island Rough Riders	Jacksonville Cyclones	8/3/1997	90		LGE	Inneh, Ernest		
+Hughes, Waughn	Jacksonville Cyclones	Jacksonville Cyclones	Richmond Kickers	8/9/1997	28		LGE			
+Gomez, Gil	Jacksonville Cyclones	Jacksonville Cyclones	Richmond Kickers	8/9/1997	85		LGE	Hughes, Waughn		
+Quill, Eric	Jacksonville Cyclones	Jacksonville Cyclones	Richmond Kickers	8/9/1997	88		LGE	Hughes, Waughn		
+Garcia, Gabe	Richmond Kickers	Jacksonville Cyclones	Richmond Kickers	8/9/1997	19		LGE	McKay, Josh		
+Ukrop, Rob	Richmond Kickers	Richmond Kickers	Jacksonville Cyclones	8/22/1997	87		LGE	Adu-Gyamfi, Kwaku		
+Ukrop, Rob	Richmond Kickers	Richmond Kickers	Jacksonville Cyclones	8/22/1997	104		LGE	Echeverry, Gerson		
+Clifford, Billy	Jacksonville Cyclones	Richmond Kickers	Jacksonville Cyclones	8/22/1997	4		LGE			
+Berdusco, Eddie	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	7/4/1997	8		LGE	Gentile, Mike		
+Gelvezon, Paul	Seattle Sounders	Milwaukee Rampage	Seattle Sounders	7/4/1997	75		LGE	Gailey, Mike		
+Aunger, Geoff	Seattle Sounders	Milwaukee Rampage	Seattle Sounders	7/4/1997	92		LGE	Hoggan, David		
+Anguelov, Dian	Richmond Kickers	Toronto Lynx	Richmond Kickers	7/5/1997	9		LGE	McKay, Josh		
+Ukrop, Rob	Richmond Kickers	Toronto Lynx	Richmond Kickers	7/5/1997	22		LGE			
+Sedgewick, William (Bill)	Montreal Impact	Montreal Impact	Rochester Rhinos	7/6/1997	2		LGE	Needham, Grant		
+DeSantis, Nick	Montreal Impact	Montreal Impact	Rochester Rhinos	7/6/1997	18		LGE	Needham, Grant		
+Oliviero, Giuliano	Montreal Impact	Montreal Impact	Rochester Rhinos	7/6/1997	42		LGE	Xavier, Bruno		
+Barker, Lloyd	Montreal Impact	Montreal Impact	Rochester Rhinos	7/6/1997	66		LGE	Hooper, Lyndon		
+Oliviero, Giuliano	Montreal Impact	Montreal Impact	Rochester Rhinos	7/6/1997	69		LGE	Xavier, Bruno		
+Kolic, Darko	Montreal Impact	Montreal Impact	Rochester Rhinos	7/6/1997	77		LGE			
+Vignjevic, Nikola	Rochester Rhinos	Montreal Impact	Rochester Rhinos	7/6/1997	73		LGE			
+Dahlal, Mourat	Nashville Metros	Nashville Metros	Orange County Zodiac	7/6/1997	37		LGE	Foster, Mark		
+Galloway, Andy	Nashville Metros	Nashville Metros	Orange County Zodiac	7/6/1997	40		LGE			
+Dahlal, Mourat	Nashville Metros	Nashville Metros	Orange County Zodiac	7/6/1997	56		LGE	Raines, CW		
+Cantero, Idelfonso	Nashville Metros	Nashville Metros	Orange County Zodiac	7/6/1997	57		LGE	Dahlal, Mourat		
+Mitchell, Jamal	Nashville Metros	Nashville Metros	Orange County Zodiac	7/6/1997	73		LGE			
+Mitchell, Jamal	Nashville Metros	Nashville Metros	Orange County Zodiac	7/6/1997	88		LGE	Dahlal, Mourat		
+Macedo, Danny	Orange County Zodiac	Nashville Metros	Orange County Zodiac	7/6/1997	22		LGE	Laterza, Gerardo		
+Gramenz, Don	Minnesota Thunder	Minnesota Thunder	Seattle Sounders	7/6/1997	99		LGE			
+Ledesma, Carlos	Long Island Rough Riders	Long Island Rough Riders	Worcester Wildfire	7/6/1997	33	Penalty	LGE			
+Leon-Penaranda, Daniel	Long Island Rough Riders	Long Island Rough Riders	Worcester Wildfire	7/6/1997	73		LGE	Lips, Tom		
+Miles, Matt	Worcester Wildfire	Long Island Rough Riders	Worcester Wildfire	7/6/1997	59		LGE	Agoos, Brad		
+Lowe, Onandi	Montreal Impact	Montreal Impact	Richmond Kickers	7/9/1997	95		LGE	Biello, Mauro		
+Barnes, Sebastian	Orlando Sundogs	Orlando Sundogs	New Orleans Riverboat Gamblers	7/11/1997	29		LGE	Lewis, Dylan		
+Freeman, Steve	Orlando Sundogs	Orlando Sundogs	New Orleans Riverboat Gamblers	7/11/1997	95	Penalty	LGE			
+John, Stern	New Orleans Riverboat Gamblers	Orlando Sundogs	New Orleans Riverboat Gamblers	7/11/1997	7		LGE	Blanchard, Ricardo (Ricky)		
+Berdusco, Eddie	Milwaukee Rampage	Milwaukee Rampage	Orange County Zodiac	7/11/1997	15		LGE	Gentile, Mike		
+Timbers, Josh	Milwaukee Rampage	Milwaukee Rampage	Orange County Zodiac	7/11/1997	23		LGE	Willan, Jason		
+Macedo, Danny	Orange County Zodiac	Milwaukee Rampage	Orange County Zodiac	7/11/1997	8		LGE	Robles, Michael		
+Lekics, Paul	Richmond Kickers	Rochester Rhinos	Richmond Kickers	7/12/1997	84		LGE			
+Magee, Amos	Minnesota Thunder	Minnesota Thunder	Orange County Zodiac	7/12/1997	79		LGE	Gramenz, Don		
+Leal-Gustavo, Oscar	Orange County Zodiac	Minnesota Thunder	Orange County Zodiac	7/12/1997	22		LGE			
+Trotman, Mickey	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Orlando Sundogs	7/13/1997	62		LGE	Gentile, Gabriel		
+Benjamin, Glenn	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Orlando Sundogs	7/13/1997	64		LGE			
+Benjamin, Glenn	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Orlando Sundogs	7/13/1997	84		LGE	Gentile, Gabriel		
+Barnes, Sebastian	Orlando Sundogs	New Orleans Riverboat Gamblers	Orlando Sundogs	7/13/1997	64		LGE	Geltz, Tim		
+Wright, Hector	Long Island Rough Riders	Long Island Rough Riders	Rochester Rhinos	7/16/1997	82		LGE	Ledesma, Carlos		
+Glenn, Jimmy	Rochester Rhinos	Long Island Rough Riders	Rochester Rhinos	7/16/1997	38		LGE	Tanner, Thomas		
+Sedgewick, William (Bill)	Montreal Impact	Montreal Impact	Raleigh Flyers	7/16/1997	18		LGE	Oliviero, Giuliano		
+Barker, Lloyd	Montreal Impact	Montreal Impact	Raleigh Flyers	7/16/1997	29		LGE	Kolic, Darko		
+Biello, Mauro	Montreal Impact	Montreal Impact	Raleigh Flyers	7/16/1997	38		LGE	Barker, Lloyd		
+Biello, Mauro	Montreal Impact	Montreal Impact	Raleigh Flyers	7/16/1997	65		LGE	Hooper, Lyndon		
+Garcia, Gabe	Richmond Kickers	Richmond Kickers	Montreal Impact	7/18/1997	36		LGE	Anguelov, Dian		
+Biello, Mauro	Montreal Impact	Richmond Kickers	Montreal Impact	7/18/1997	84		LGE	Oliviero, Giuliano		
+Kolic, Darko	Montreal Impact	Richmond Kickers	Montreal Impact	7/18/1997	89		LGE	Xavier, Bruno		
+Cagle, Daniel	Raleigh Flyers	Raleigh Flyers	Toronto Lynx	7/19/1997	63		LGE	Muldrow, Wendell		
+Lagos, Gerard	Minnesota Thunder	Vancouver 86ers	Minnesota Thunder	7/20/1997	64		LGE	Menk, John		
+Dancy, Jake	Orange County Zodiac	Orange County Zodiac	Orlando Sundogs	7/20/1997	68		LGE			
+Barnes, Sebastian	Orlando Sundogs	Orange County Zodiac	Orlando Sundogs	7/20/1997	35		LGE	Mackey, David		
+Lewis, Dylan	Orlando Sundogs	Orange County Zodiac	Orlando Sundogs	7/20/1997	43		LGE	Lee, Sheldon		
+Mackey, David	Orlando Sundogs	Orange County Zodiac	Orlando Sundogs	7/20/1997	50		LGE	Lee, Sheldon		
+Da Silva, Nino	Orlando Sundogs	Orange County Zodiac	Orlando Sundogs	7/20/1997	60		LGE	Barnes, Sebastian		
+Stalteri, Paul	Toronto Lynx	Toronto Lynx	Rochester Rhinos	7/25/1997	33		LGE	Dugas, Martin		
+Glenn, Jimmy	Rochester Rhinos	Toronto Lynx	Rochester Rhinos	7/25/1997	48		LGE	Vignjevic, Nikola		
+Tilley, Darren	Montreal Impact	Montreal Impact	Long Island Rough Riders	7/25/1997	7		LGE			
+Tilley, Darren	Montreal Impact	Montreal Impact	Long Island Rough Riders	7/25/1997	45		LGE	Biello, Mauro		
+Sedgewick, William (Bill)	Montreal Impact	Montreal Impact	Long Island Rough Riders	7/25/1997	55		LGE	Biello, Mauro		
+Hooper, Lyndon	Montreal Impact	Montreal Impact	Long Island Rough Riders	7/25/1997	57		LGE			
+Rinker, Travis	Long Island Rough Riders	Montreal Impact	Long Island Rough Riders	7/25/1997	64		LGE	Wright, Hector		
+Inneh, Ernest	Long Island Rough Riders	Montreal Impact	Long Island Rough Riders	7/25/1997	73		LGE	Price, David		
+Inneh, Ernest	Long Island Rough Riders	Montreal Impact	Long Island Rough Riders	7/25/1997	83		LGE	Rooney, Jim		
+Inneh, Ernest	Long Island Rough Riders	Long Island Rough Riders	Rochester Rhinos	7/27/1997	62		LGE	Wright, Hector		
+Inneh, Ernest	Long Island Rough Riders	Long Island Rough Riders	Rochester Rhinos	7/27/1997	86		LGE	Ledesma, Carlos		
+Glenn, Jimmy	Rochester Rhinos	Long Island Rough Riders	Rochester Rhinos	7/27/1997	35		LGE	Tanner, Thomas		
+Stalteri, Paul	Toronto Lynx	Toronto Lynx	Montreal Impact	7/27/1997	9		LGE	Gong, Lei		
+Stalteri, Paul	Toronto Lynx	Toronto Lynx	Montreal Impact	7/27/1997	63		LGE	Holness, Kevin		
+Barker, Lloyd	Montreal Impact	Toronto Lynx	Montreal Impact	7/27/1997	70		LGE	Sedgewick, William (Bill)		
+Villalvazo, Adan	Orange County Zodiac	Orange County Zodiac	Minnesota Thunder	7/27/1997	49		LGE	Vasquez-Martinez, Jose		
+Gotsmanov, Sergei	Minnesota Thunder	Orange County Zodiac	Minnesota Thunder	7/27/1997	36		LGE	Foster, Tim		
+Abboud, Mark	Minnesota Thunder	Orange County Zodiac	Minnesota Thunder	7/27/1997	82		LGE			
+Kusch, Garrett	Vancouver 86ers	Vancouver 86ers	Milwaukee Rampage	8/1/1997	14		LGE	Dalrymple, Craig		
+Kusch, Garrett	Vancouver 86ers	Vancouver 86ers	Milwaukee Rampage	8/1/1997	64		LGE	Mobilio, Domenic		
+Jordan, Jason	Vancouver 86ers	Vancouver 86ers	Milwaukee Rampage	8/1/1997	83		LGE	Kusch, Garrett		
+Willan, Jason	Milwaukee Rampage	Vancouver 86ers	Milwaukee Rampage	8/1/1997	15		LGE	Roy, Travis		
+John, Stern	New Orleans Riverboat Gamblers	Richmond Kickers	New Orleans Riverboat Gamblers	8/2/1997	71		LGE	Trotman, Mickey		
+Kirmse, Michael	Rochester Rhinos	Rochester Rhinos	Raleigh Flyers	8/2/1997	37		LGE	Gutierrez, Henry		
+Siikala, Toni	Raleigh Flyers	Rochester Rhinos	Raleigh Flyers	8/2/1997	60		LGE	Cagle, Daniel		
+Adair, Chugger	Seattle Sounders	Seattle Sounders	Milwaukee Rampage	8/2/1997	56		LGE	Watson, Mark		
+Roy, Travis	Milwaukee Rampage	Seattle Sounders	Milwaukee Rampage	8/2/1997	60		LGE			
+Thomas, Elvis	Toronto Lynx	Toronto Lynx	Raleigh Flyers	8/3/1997	33		LGE	Stalteri, Paul		
+Stalteri, Paul	Toronto Lynx	Toronto Lynx	Raleigh Flyers	8/3/1997	40		LGE	Gioia, Michele		
+Thomas, Elvis	Toronto Lynx	Toronto Lynx	Raleigh Flyers	8/3/1997	66		LGE	Gioia, Michele		
+Centurione, Luca	Toronto Lynx	Toronto Lynx	Raleigh Flyers	8/3/1997	87	Penalty	LGE			
+White, Carson	Raleigh Flyers	Toronto Lynx	Raleigh Flyers	8/3/1997	8		LGE	Hunter, Mike		
+Montoya, Alberto	Raleigh Flyers	Toronto Lynx	Raleigh Flyers	8/3/1997	54		LGE	Hunter, Mike		
+Stebbins, Dan	Milwaukee Rampage	Milwaukee Rampage	Minnesota Thunder	8/6/1997	85		LGE	Gansler, Peter		
+Needham, Grant	Montreal Impact	Toronto Lynx	Montreal Impact	8/6/1997	105		LGE			
+Mobilio, Domenic	Vancouver 86ers	Vancouver 86ers	Nashville Metros	8/6/1997	24		LGE	Kusch, Garrett		
+Mobilio, Domenic	Vancouver 86ers	Vancouver 86ers	Nashville Metros	8/6/1997	38		LGE	Kusch, Garrett		
+Heald, Oliver	Vancouver 86ers	Vancouver 86ers	Nashville Metros	8/6/1997	59		LGE	Mobilio, Domenic		
+Kusch, Garrett	Vancouver 86ers	Vancouver 86ers	Nashville Metros	8/6/1997	60		LGE	Mobilio, Domenic		
+Evans, Chris	Vancouver 86ers	Vancouver 86ers	Nashville Metros	8/6/1997	67		LGE	Jordan, Jason		
+Siikala, Toni	Raleigh Flyers	Raleigh Flyers	Worcester Wildfire	8/8/1997	48		LGE	Montoya, Alberto		
+Hunter, Mike	Raleigh Flyers	Raleigh Flyers	Worcester Wildfire	8/8/1997	78		LGE	Siikala, Toni		
+Alcerro, Ricardo	Raleigh Flyers	Raleigh Flyers	Worcester Wildfire	8/8/1997	90		LGE	White, Carson		
+Miles, Matt	Worcester Wildfire	Raleigh Flyers	Worcester Wildfire	8/8/1997	76	Penalty	LGE			
+Gailey, Mike	Seattle Sounders	Seattle Sounders	Nashville Metros	8/8/1997	53		LGE	Megson, Neil		
+Hattrup, Peter	Seattle Sounders	Seattle Sounders	Nashville Metros	8/8/1997	78		LGE			
+Mohammed, Dahir	Long Island Rough Riders	Long Island Rough Riders	Montreal Impact	8/9/1997	15		LGE	Rinker, Travis		
+Willan, Jason	Milwaukee Rampage	Milwaukee Rampage	Orlando Sundogs	8/9/1997	30		LGE	Szczepanski, Jon		
+Berdusco, Eddie	Milwaukee Rampage	Milwaukee Rampage	Orlando Sundogs	8/9/1997	65		LGE	Szczepanski, Jon		
+Marshall, David	Milwaukee Rampage	Milwaukee Rampage	Orlando Sundogs	8/9/1997	86		LGE			
+Baumhoff, Billy	Minnesota Thunder	Minnesota Thunder	Orlando Sundogs	8/10/1997	58		LGE	Lagos, Gerard		
+Inneh, Ernest	Long Island Rough Riders	Montreal Impact	Long Island Rough Riders	8/13/1997	35		LGE	Rooney, Jim		
+John, Stern	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Nashville Metros	8/14/1997	22		LGE	Trotman, Mickey		
+Gentile, Gabriel	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Nashville Metros	8/14/1997	44	Penalty	LGE			
+Benjamin, Glenn	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Nashville Metros	8/14/1997	86		LGE			
+Cantero, Idelfonso	Nashville Metros	New Orleans Riverboat Gamblers	Nashville Metros	8/14/1997	24		LGE	Dahlal, Mourat		
+Smith, John	Nashville Metros	New Orleans Riverboat Gamblers	Nashville Metros	8/14/1997	26		LGE	Stoddard, Myles		
+Cantero, Idelfonso	Nashville Metros	New Orleans Riverboat Gamblers	Nashville Metros	8/14/1997	83	Penalty	LGE			
+Sullivan, Brendan	Worcester Wildfire	Worcester Wildfire	Toronto Lynx	8/15/1997	83		LGE	Berrospe, Lester		
+Sullivan, Brendan	Worcester Wildfire	Worcester Wildfire	Toronto Lynx	8/15/1997	89		LGE			
+Thomas, Elvis	Toronto Lynx	Worcester Wildfire	Toronto Lynx	8/15/1997	66		LGE			
+Hattrup, Peter	Seattle Sounders	Seattle Sounders	Orange County Zodiac	8/15/1997	14		LGE	Hoggan, David		
+Rodriguez, Esmundo	Seattle Sounders	Seattle Sounders	Orange County Zodiac	8/15/1997	48		LGE	Barton, Kieran		
+Powell, Darren	Raleigh Flyers	Raleigh Flyers	Richmond Kickers	8/16/1997	90		LGE	Pinon, Ed		
+Ukrop, Rob	Richmond Kickers	Raleigh Flyers	Richmond Kickers	8/16/1997	33		LGE	Echeverry, Gerson		
+Ukrop, Rob	Richmond Kickers	Raleigh Flyers	Richmond Kickers	8/16/1997	54		LGE	Garcia, Gabe		
+Echeverry, Gerson	Richmond Kickers	Raleigh Flyers	Richmond Kickers	8/16/1997	61		LGE	Lekics, Paul		
+Cozier, Mangea (Mac)	Richmond Kickers	Raleigh Flyers	Richmond Kickers	8/16/1997	87		LGE			
+John, Stern	New Orleans Riverboat Gamblers	New Orleans Riverboat Gamblers	Nashville Metros	8/16/1997	61		LGE	Sastoque, Juan		
+Dahlal, Mourat	Nashville Metros	New Orleans Riverboat Gamblers	Nashville Metros	8/16/1997	8		LGE	Cantero, Idelfonso		
+Berbari, Luis	Nashville Metros	New Orleans Riverboat Gamblers	Nashville Metros	8/16/1997	18		LGE	Dahlal, Mourat		
+Mitchell, Jamal	Nashville Metros	New Orleans Riverboat Gamblers	Nashville Metros	8/16/1997	60		LGE	Smith, John		
+Mitchell, Jamal	Nashville Metros	New Orleans Riverboat Gamblers	Nashville Metros	8/16/1997	76		LGE	Cantero, Idelfonso		
+Mitchell, Jamal	Nashville Metros	New Orleans Riverboat Gamblers	Nashville Metros	8/16/1997	83		LGE	Foster, Mark		
+Fresh, Kyle	Worcester Wildfire	Toronto Lynx	Worcester Wildfire	8/17/1997	90		LGE			
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Milwaukee Rampage	8/17/1997	61		LGE	Alamo, Ezekiel		
+Miller, Doug	Rochester Rhinos	Rochester Rhinos	Milwaukee Rampage	8/17/1997	65		LGE	Dauda, Fuseini		
+Lopez, Dino	Milwaukee Rampage	Rochester Rhinos	Milwaukee Rampage	8/17/1997	11		LGE	Willan, Jason		
+Szczepanski, Jon	Milwaukee Rampage	Rochester Rhinos	Milwaukee Rampage	8/17/1997	21		LGE			
+Jordan, Jason	Vancouver 86ers	Vancouver 86ers	Orange County Zodiac	8/17/1997	16		LGE	Mobilio, Domenic		
+Jordan, Jason	Vancouver 86ers	Vancouver 86ers	Orange County Zodiac	8/17/1997	24		LGE	Heald, Oliver		
+Heald, Oliver	Vancouver 86ers	Vancouver 86ers	Orange County Zodiac	8/17/1997	34		LGE	Dalrymple, Craig		
+Rodriguez, Ricky	Orange County Zodiac	Vancouver 86ers	Orange County Zodiac	8/17/1997	54		LGE			
+Ouimet, Jake	Worcester Wildfire	Worcester Wildfire	Rochester Rhinos	8/22/1997	66	Penalty	LGE			
+Vrionis, John	Worcester Wildfire	Worcester Wildfire	Rochester Rhinos	8/22/1997	88		LGE	Agoos, Brad		
+Glenn, Jimmy	Rochester Rhinos	Worcester Wildfire	Rochester Rhinos	8/22/1997	31		LGE	Koetters, Kevin		
+Miller, Doug	Rochester Rhinos	Worcester Wildfire	Rochester Rhinos	8/22/1997	85		LGE	Koetters, Kevin		
+Leventhal, Aaron	Minnesota Thunder	Minnesota Thunder	New Orleans Riverboat Gamblers	8/22/1997	49		LGE	Coughlin, John		
+Magee, Amos	Minnesota Thunder	Minnesota Thunder	New Orleans Riverboat Gamblers	8/22/1997	87		LGE	Lagos, Gerard		
+Mitchell, Jamal	Nashville Metros	Nashville Metros	Orlando Sundogs	8/23/1997	58		LGE	Stoddard, Myles		
+Igel, Nick	Milwaukee Rampage	Milwaukee Rampage	New Orleans Riverboat Gamblers	8/24/1997	45		LGE	Roy, Travis		
+Szczepanski, Jon	Milwaukee Rampage	Milwaukee Rampage	New Orleans Riverboat Gamblers	8/24/1997	90	Penalty	LGE			
+Benjamin, Glenn	New Orleans Riverboat Gamblers	Milwaukee Rampage	New Orleans Riverboat Gamblers	8/24/1997	28		LGE			
+Trotman, Mickey	New Orleans Riverboat Gamblers	Milwaukee Rampage	New Orleans Riverboat Gamblers	8/24/1997	81		LGE	John, Stern		
+John, Stern	New Orleans Riverboat Gamblers	Milwaukee Rampage	New Orleans Riverboat Gamblers	8/24/1997	96	Penalty	LGE			
+Biello, Mauro	Montreal Impact	Montreal Impact	Minnesota Thunder	8/24/1997	2		LGE	Tilley, Darren		
+Barker, Lloyd	Montreal Impact	Montreal Impact	Minnesota Thunder	8/24/1997	31		LGE	DeSantis, Nick		
+Tilley, Darren	Montreal Impact	Montreal Impact	Minnesota Thunder	8/24/1997	43		LGE	Biello, Mauro		
+Sedgewick, William (Bill)	Montreal Impact	Montreal Impact	Minnesota Thunder	8/24/1997	62		LGE	Tilley, Darren		
+Gioia, Michele	Toronto Lynx	Toronto Lynx	Long Island Rough Riders	8/24/1997	8		LGE	Stalteri, Paul		
+Gioia, Michele	Toronto Lynx	Toronto Lynx	Long Island Rough Riders	8/24/1997	23		LGE			
+Gioia, Michele	Toronto Lynx	Toronto Lynx	Long Island Rough Riders	8/24/1997	49		LGE			
+Price, David	Long Island Rough Riders	Toronto Lynx	Long Island Rough Riders	8/24/1997	7		LGE	Wright, Hector		
+Leanti, Sal	Long Island Rough Riders	Toronto Lynx	Long Island Rough Riders	8/24/1997	69		LGE	Rooney, Jim		
+Rooney, Jim	Long Island Rough Riders	Toronto Lynx	Long Island Rough Riders	8/24/1997	85		LGE	Ferri, Flavio		
+Wright, Hector	Long Island Rough Riders	Toronto Lynx	Long Island Rough Riders	8/24/1997	90		LGE	Rooney, Jim		
+Jones, John	Orange County Zodiac	Orange County Zodiac	Vancouver 86ers	8/24/1997	39		LGE	Rodriguez, Ricky		

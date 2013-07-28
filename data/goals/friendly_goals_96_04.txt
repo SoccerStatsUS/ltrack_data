@@ -1,0 +1,303 @@
+Player	Team-For	Home-Team	Away-Team	Date	Goal-Time	Goal-Type	Comp	Assist	Assist2	
+Unknown	DC United	DC United	Tottenham Hotspur - England	5/14/2003	30	Own Goal	FDLY			
+Viera, Diego	Tampa Bay Mutiny	Tampa Bay Mutiny	Feyenoord - Netherlands	5/26/1996	84		FDLY			
+Rodas, Jorge	San Jose Earthquakes	San Jose Earthquakes	Bayer Leverkusen - Germany	5/26/1996	5		FDLY			
+Bravo, Paul	San Jose Earthquakes	San Jose Earthquakes	Bayer Leverkusen - Germany	5/26/1996	26		FDLY	Rodas, Jorge		
+Iroha, Ben	San Jose Earthquakes	San Jose Earthquakes	Bayer Leverkusen - Germany	5/26/1996	45		FDLY	Espinoza, Missael		
+Maessner, John	DC United	DC United	Luis Angel Firpo - El Salvador	9/10/1996	81		FDLY			
+Unkown	DC United	DC United	Luis Angel Firpo - El Salvador	9/10/1996	28	Own Goal	FDLY			
+Warzycha, Robert	Dallas Burn	Dallas Burn	El Salvador	11/16/1996	33		FDLY			
+Lozzano, Lawrence	Dallas Burn	Dallas Burn	El Salvador	11/16/1996	45		FDLY	Iribarren, Ricardo		
+Hattrup, Petter	Dallas Burn	Dallas Burn	El Salvador	11/16/1996	49		FDLY			
+Wood, AJ	MetroStars	MetroStars	Sporting Lisbon XI - Portugal	6/5/1996	39		FDLY			
+Bravo, Paul	San Jose Earthquakes	San Jose Earthquakes	UNAM - Mexico	6/12/1996	34		FDLY	Lewis, Eddie		
+Rodas, Jorge	San Jose Earthquakes	San Jose Earthquakes	UNAM - Mexico	6/12/1996	66		FDLY			
+Fry	Seattle Sounders	Vissel Kobe - Japan	Seattle Sounders	5/10/1996	68		FDLY	Daligcon		
+Fry	Seattle Sounders	Vissel Kobe - Japan	Seattle Sounders	5/10/1996	82		FDLY			
+Henderson, Chris	San Jose Earthquakes	Sichuan Quanxing - China	San Jose Earthquakes	10/30/1996	4		FDLY			
+Corrales, Ramiro	San Jose Earthquakes	Sichuan Quanxing - China	San Jose Earthquakes	10/30/1996	20		FDLY	Schuster, Bernd		
+Bravo, Paul	San Jose Earthquakes	Sichuan Quanxing - China	San Jose Earthquakes	10/30/1996	59		FDLY	Schuster, Bernd		
+Karapetyan, Harut	Los Angeles Galaxy	Los Angeles Galaxy	Necaxa - Mexico	8/14/1996	78		FDLY			
+Vasquez, Jose	Los Angeles Galaxy	Los Angeles Galaxy	El Salvador	7/11/1996	21		FDLY	Jones, Cobi		
+Magee, Amos	Minnesota Thunder	Gamba Osaka - Japan	Minnesota Thunder	2/21/1996	72		FDLY			
+Sanneh, Tony	Minnesota Thunder	Gamba Osaka - Japan	Minnesota Thunder	2/21/1996	64		FDLY			
+Lagos, Gerard	Minnesota Thunder	Gamba Osaka - Japan	Minnesota Thunder	2/21/1996	17		FDLY			
+Lagos, Manny	Minnesota Thunder	Shimizu S-Pulse - Japan	Minnesota Thunder	2/18/1996	0		FDLY			
+Armas, Chris	Los Angeles Galaxy	Los Angeles Galaxy	Deportivo Cali - Colombia	10/27/1996	82		FDLY	Jara, Guillermo		
+Karapetyan, Harut	Los Angeles Galaxy	Los Angeles Galaxy	Deportivo Cali - Colombia	10/27/1996	80		FDLY	Onalfo, Curt		
+Savarese, Giovanni	MetroStars	Genoa - Italy	MetroStars	2/20/1997	70		FDLY			
+Olalere	New England Revolution	New England Revolution	Viborg - Denmark	2/22/1997	81		FDLY	Klein, Steve		
+Unknown	DC United	Grampus Eight - Japan	DC United	3/2/1997	35	Own Goal	FDLY			
+Renato	MetroStars	Reggiana - Italy	MetroStars	3/5/1997	23		FDLY	Guido		
+Rammel, Steve	DC United	Instant Dict - Japan	DC United	3/9/1997	84		FDLY			
+Rammel, Steve	DC United	Instant Dict - Japan	DC United	3/9/1997	73		FDLY			
+Unknown	DC United	Instant Dict - Japan	DC United	3/9/1997	52	Own Goal	FDLY			
+Moreno, Jaime	DC United	Instant Dict - Japan	DC United	3/9/1997	50		FDLY			
+Moreno, Jaime	DC United	Instant Dict - Japan	DC United	3/9/1997	36		FDLY			
+Sanneh, Tony	DC United	Instant Dict - Japan	DC United	3/9/1997	88		FDLY			
+Moreno, Jaime	DC United	Instant Dict - Japan	DC United	3/9/1997	7		FDLY			
+Medved, Shawn	San Jose Earthquakes	San Jose Earthquakes	Aston Villa - England	5/13/1997	45		FDLY	Kinnear, Dominic		
+Warzycha, Robert	Columbus Crew	Columbus Crew	Leeds United - England	5/14/1997	37		FDLY			
+Carrera, Marcelo	Columbus Crew	Columbus Crew	Leeds United - England	5/14/1997	44		FDLY	Rudman, Silvo		
+Sanneh, Tony	DC United	DC United	Leeds United - England	5/16/1997	89		FDLY	Maessner, John		
+De Avila, Antony	MetroStars	MetroStars	Sampdoria - Italy	6/7/1997	33		FDLY	Wood, AJ		
+Bartlett	MetroStars	MetroStars	Galatasaray - Turkey	7/16/1997	26		FDLY	Ramos, Tab		
+Preki	Kansas City Wizards	Kansas City Wizards	Veracruz - Mexico	9/16/1997	24		FDLY	Johnston, Mo		
+Welton	San Jose Earthquakes	San Jose Earthquakes	Atlas - Mexico	11/7/1997	67		FDLY			
+Vasquez, Jose	Los Angeles Galaxy	Los Angeles Galaxy	Atlante - Mexico	11/12/1997	58		FDLY	Armas, Chris		
+Shannon, Musa	Tampa Bay Mutiny	Tampa Bay Mutiny	Veracruz - Mexico	12/6/1997	56		FDLY	Gilmar		
+Shannon, Musa	Tampa Bay Mutiny	Tampa Bay Mutiny	IFK Gothenburg - Sweden	12/16/1997	29		FDLY	Hejduk, Frankie		
+Keegan, Paul	New England Revolution	New England Revolution	Ikast - Denmark	2/21/1998	5		FDLY	Nakhid, David		
+Jair	New England Revolution	New England Revolution	Ikast - Denmark	2/21/1998	13		FDLY	Rocha		
+Torres, Johnny	New England Revolution	Tapatio - Mexico	New England Revolution	3/12/1998	40		FDLY	Dunseth, Brian		
+Torres, Johnny	New England Revolution	Tapatio - Mexico	New England Revolution	3/12/1998	62		FDLY	Baba, Imad		
+Wise, Evans	New England Revolution	Tapatio - Mexico	New England Revolution	3/12/1998	80		FDLY			
+Diaz Arce, Raul	New England Revolution	Atlas - Mexico	New England Revolution	3/16/1998	86	Penalty	FDLY			
+Mohammad	New England Revolution	Atlas - Mexico	New England Revolution	3/16/1998	27		FDLY	Torres, Johnny		
+Gorter	New England Revolution	Atlas - Mexico	New England Revolution	3/16/1998	75		FDLY	Coye		
+Baba, Imad	New England Revolution	Tecos - Mexico	New England Revolution	3/17/1998	0		FDLY			
+Diaz Arce, Raul	New England Revolution	Tecos - Mexico	New England Revolution	3/17/1998	0		FDLY			
+Baba, Imad	New England Revolution	Univ. de Guadalajara - Mexico	New England Revolution	3/24/1998	81		FDLY	Gorter		
+Diaz Arce, Raul	New England Revolution	Univ. de Guadalajara - Mexico	New England Revolution	3/24/1998	80	Penalty	FDLY			
+Torres, Johnny	New England Revolution	Univ. de Guadalajara - Mexico	New England Revolution	3/24/1998	83		FDLY			
+Rocha	New England Revolution	New England Revolution	Benfica - Portugal	6/11/1998	53		FDLY	Gorter		
+Cerritos, Ronald	San Jose Earthquakes	San Jose Earthquakes	CD Guadalajara Chivas - Mexico	5/5/1998	36		FDLY	Lewis, Eddie		
+Kozic	Miami Fusion	Miami Fusion	Honduras	5/20/1998	85		FDLY	Vargas		
+Kelderman, Kris	Miami Fusion	Miami Fusion	Honduras	5/20/1998	68		FDLY			
+Stebbins	Miami Fusion	Miami Fusion	Honduras	5/20/1998	23		FDLY	Taylor		
+Tamashiro	Miami Fusion	Miami Fusion	Honduras	5/20/1998	6		FDLY			
+Sonora, Diego	MetroStars	MetroStars	Benfica - Portugal	6/9/1998	26	Penalty	FDLY			
+Mella	San Jose Earthquakes	San Jose Earthquakes	Morelia - Mexico	7/10/1998	62	Penalty	FDLY			
+Wynalda, Eric	San Jose Earthquakes	San Jose Earthquakes	Morelia - Mexico	7/10/1998	35	Penalty	FDLY			
+Burns, Mike	New England Revolution	New England Revolution	Modena - Italy	2/25/1999	31		FDLY			
+Podbrozny, Jerzy	Chicago Fire	Chicago Fire	Legia-Daewoo Warsaw - Poland	6/16/1999	57		FDLY	Tinsley, Ryan		
+Kubik, Lubos	Chicago Fire	Chicago Fire	Legia-Daewoo Warsaw - Poland	6/16/1999	11		FDLY			
+Marsch, Jesse	Chicago Fire	Chicago Fire	Legia-Daewoo Warsaw - Poland	6/16/1999	29		FDLY	Kosecki, Roman		
+Razov, Ante	Chicago Fire	Chicago Fire	Derby County - England	7/20/1999	24		FDLY	Podbrozny, Jerzy		
+Beasley, Jamar	New England Revolution	New England Revolution	Ajax - Netherlands	7/21/1999	56		FDLY	Gori, Mario		
+Tinsley, Ryan	San Jose Earthquakes	San Jose Earthquakes	UNAM - Mexico	8/25/1999	4		FDLY	Bower, Scott		
+Sequeira	San Jose Earthquakes	San Jose Earthquakes	UNAM - Mexico	8/25/1999	60	Penalty	FDLY			
+Clark, Jamie	UNAM - Mexico	San Jose Earthquakes	UNAM - Mexico	8/25/1999	70	Own Goal	FDLY			
+Wynalda, Eric	Miami Fusion	Miami Fusion	Haiti NT	9/22/1999	0		FDLY			
+Ramos, Mauricio	New England Revolution	Tapatio - Mexico	New England Revolution	3/9/2000	50		FDLY	Sunsing, William		
+Eyre, Adam	New England Revolution	Tapatio - Mexico	New England Revolution	3/9/2000	54		FDLY	Ramos, Mauricio		
+Heaps, Jay	Miami Fusion	Miami Fusion	Haiti NT	4/18/2000	65		FDLY	Machon, Martin		
+Serna, Diego	Miami Fusion	Miami Fusion	Haiti NT	4/18/2000	76	Penalty	FDLY			
+Wolff, Josh	Chicago Fire	Chicago Fire	Toluca - Mexico	5/10/2000	25		FDLY	Gutierrez, Diego		
+Beasley, DaMarcus	Chicago Fire	Chicago Fire	Toluca - Mexico	5/10/2000	90		FDLY	Brown, CJ		
+Wolff, Josh	Chicago Fire	Chicago Fire	Toluca - Mexico	5/10/2000	11		FDLY	Beasley, DaMarcus		
+Elcock, Ansil	Columbus Crew	Columbus Crew	Hamburg SV - Germany	5/24/2000	53		FDLY	Warzycha, Robert		
+Clark, Mike	Columbus Crew	Columbus Crew	Hamburg SV - Germany	5/24/2000	23		FDLY	McBride, Brian		
+Gori, Mario	Columbus Crew	Columbus Crew	Hamburg SV - Germany	5/24/2000	56		FDLY	Farrell, Jason		
+Washington, Dante	Columbus Crew	Columbus Crew	Hamburg SV - Germany	5/24/2000	6		FDLY			
+Wolyniec, John	Chicago Fire	Chicago Fire	Hamburg SV - Germany	5/29/2000	72		FDLY	Beasley, DaMarcus		
+Stoitchkov, Hristo	Chicago Fire	Chicago Fire	Hamburg SV - Germany	5/29/2000	2		FDLY	Soehn, Tommy		
+Whitfield, Evan	Chicago Fire	Chicago Fire	Hamburg SV - Germany	5/29/2000	20		FDLY	Sorber, Mike		
+Wolyniec, John	Chicago Fire	Chicago Fire	Hamburg SV - Germany	5/29/2000	50		FDLY	Wolff, Josh		
+Moreno, Jaime	DC United	DC United	Newcastle United - England	7/22/2000	29		FDLY	Convey, Bobby		
+Llamosa, Carlos	DC United	DC United	Newcastle United - England	7/22/2000	33		FDLY	Albright, Chris		
+Marino, Pete	DC United	DC United	Newcastle United - England	7/22/2000	50		FDLY	Convey, Bobby		
+Cunningham, Jeff	Columbus Crew	Columbus Crew	Newcastle United - England	7/26/2000	84		FDLY	Joseph, Miles		
+Joseph, Miles	Columbus Crew	Columbus Crew	Newcastle United - England	7/26/2000	67		FDLY			
+Graziani, Ariel	Dallas Burn	Dallas Burn	Atlas - Mexico	11/3/2000	68		FDLY			
+Graziani, Ariel	Dallas Burn	Dallas Burn	Atlas - Mexico	11/3/2000	52		FDLY	Rodriguez, Jorge		
+Pareja, Oscar	Dallas Burn	Dallas Burn	Bachilleres - Mexico	11/6/2000	36		FDLY	Deering, Chad		
+Califf, Danny	Los Angeles Galaxy	Los Angeles Galaxy	Puebla - Mexico	12/12/2000	46		FDLY	Jones, Cobi		
+Albright, Chris	DC United	Nacional de Tijuana - Mexico	DC United	1/11/2001	55		FDLY	Convey, Bobby		
+Lagos, Manny	Tampa Bay Mutiny	Tampa Bay Mutiny	Celtic Glasgow - Scotland	1/19/2001	31		FDLY	Valderrama, Carlos		
+Ralston, Steve	Tampa Bay Mutiny	Tampa Bay Mutiny	Celtic Glasgow - Scotland	1/19/2001	15		FDLY	Valderrama, Carlos		
+Williams, Andy	Miami Fusion	Miami Fusion	Glasgow Rangers - Scotland	1/20/2001	27		FDLY	Welton		
+Dunseth, Brian	New England Revolution	San Lorenzo - Costa Rica	New England Revolution	2/18/2001	50		FDLY	Torres, Johnny		
+Harris, Wolde	New England Revolution	San Lorenzo - Costa Rica	New England Revolution	2/18/2001	5		FDLY	Alvarez, Leonel		
+Kartes, Gus	Tampa Bay Mutiny	Millonarios - Colombia	Tampa Bay Mutiny	2/23/2001	55		FDLY	McCarty, Chad		
+Ralston, Steve	Tampa Bay Mutiny	Millonarios - Colombia	Tampa Bay Mutiny	2/23/2001	11		FDLY	Valderrama, Carlos		
+Mullan, Brian	Los Angeles Galaxy	Magallanes - Chile	Los Angeles Galaxy	2/19/2002	40		FDLY	Hendrickson, Ezra		
+Albright, Chris	Los Angeles Galaxy	Magallanes - Chile	Los Angeles Galaxy	2/19/2002	10		FDLY	Bardales, Isaias		
+Ruiz, Carlos	Los Angeles Galaxy	Magallanes - Chile	Los Angeles Galaxy	2/19/2002	41		FDLY	Victorine, Sasha		
+Albright, Chris	Los Angeles Galaxy	Colo Colo - Chile	Los Angeles Galaxy	2/21/2002	51		FDLY	Ruiz, Carlos		
+Ruiz, Carlos	Los Angeles Galaxy	Colo Colo - Chile	Los Angeles Galaxy	2/21/2002	35		FDLY	Albright, Chris		
+Albright, Chris	Los Angeles Galaxy	Universidad de Chile - Chile	Los Angeles Galaxy	2/22/2002	5		FDLY	Bengard, Alex		
+Wynalda, Eric	Los Angeles Galaxy	Universidad de Chile - Chile	Los Angeles Galaxy	2/22/2002	51	Penalty	FDLY			
+Lalas, Alexi	Los Angeles Galaxy	Universidad Catolica - Chile	Los Angeles Galaxy	2/25/2002	47		FDLY			
+Ruiz, Carlos	Los Angeles Galaxy	San Felipe - Chile	Los Angeles Galaxy	2/27/2002	75		FDLY	Hendrickson, Ezra		
+Cienfuegos, Mauricio	Los Angeles Galaxy	San Felipe - Chile	Los Angeles Galaxy	2/27/2002	23	Penalty	FDLY			
+Ruiz, Carlos	Los Angeles Galaxy	San Felipe - Chile	Los Angeles Galaxy	2/27/2002	20		FDLY	Albright, Chris		
+Elliott, Simon	Los Angeles Galaxy	Los Angeles Galaxy	Cruz Azul - Mexico	3/12/2002	32		FDLY	Cienfuegos, Mauricio		
+Cunningham, Jeff	Columbus Crew	Columbus Crew	FC Nurnberg - Germany	5/15/2002	38		FDLY	Leitch, Chris		
+Cunningham, Jeff	Columbus Crew	Columbus Crew	FC Nurnberg - Germany	5/15/2002	34		FDLY	Maisonneuve, Brian		
+Buddle, Edson	Columbus Crew	Columbus Crew	FC Nurnberg - Germany	5/15/2002	33		FDLY	Denton, Eric		
+Perez, John Wilmar	Columbus Crew	Columbus Crew	FC Nurnberg - Germany	5/15/2002	23		FDLY	Cunningham, Jeff		
+Cunningham, Jeff	Columbus Crew	Columbus Crew	FC Nurnberg - Germany	5/15/2002	1		FDLY	Perez, John Wilmar		
+Buddle, Edson	Columbus Crew	Columbus Crew	FC Nurnberg - Germany	5/15/2002	45		FDLY	Lapper, Mike		
+Washington, Dante	Columbus Crew	Columbus Crew	FC Nurnberg - Germany	5/15/2002	75		FDLY	Buddle, Edson		
+Ramos, Tab	MetroStars	MetroStars	AC Milan - Italy	5/16/2002	58		FDLY	Serna, Diego		
+Buddle, Edson	Columbus Crew	Columbus Crew	Club Tigres - Mexico	6/25/2002	44		FDLY	Warzycha, Robert		
+Washington, Dante	Dallas Burn	Dallas Burn	Viborg - Denmark	2/26/1997	0		FDLY	Hattrup, Petter		
+Eck, Ted	Dallas Burn	Dallas Burn	Viborg - Denmark	2/26/1997	55		FDLY			
+Paz, Adrian	Colorado Rapids	Atlas Academicos - Mexico	Colorado Rapids	2/25/1997	20		FDLY	Bravo, Paul		
+Baicher, Jeff	San Jose Earthquakes	Atlas - Mexico	San Jose Earthquakes	2/25/1997	70		FDLY	Medved, Shawn		
+Savarese, Giovanni	MetroStars	MetroStars	Alianza Lima - Peru	6/25/1997	79		FDLY	Lagos, Manny		
+Vasquez, Martin	Tampa Bay Mutiny	Tampa Bay Mutiny	FinnPa - Finland	3/3/1997	8		FDLY	McKinley, Ivan		
+Hejduk, Frankie	Tampa Bay Mutiny	Tampa Bay Mutiny	FinnPa - Finland	3/3/1997	12		FDLY	Ralston, Steve		
+Galderisi, Giuseppe	Tampa Bay Mutiny	Tampa Bay Mutiny	FinnPa - Finland	3/3/1997	15	Penalty	FDLY			
+Vasquez, Martin	Tampa Bay Mutiny	Tampa Bay Mutiny	FinnPa - Finland	3/3/1997	22		FDLY	Galderisi, Giuseppe		
+Bravo, Paul	Colorado Rapids	CD Guadalajara Chivas - Mexico	Colorado Rapids	2/26/1997	80		FDLY			
+Baumhoff, Billy	Colorado Rapids	Atlas - Mexico	Colorado Rapids	3/5/1997	74		FDLY	Wegerle, Roy		
+Dougherty, Mark	Tampa Bay Mutiny	El Salvador	Tampa Bay Mutiny	3/24/1997	50		FDLY			
+Ferruzzi, Marco	Tampa Bay Mutiny	El Salvador	Tampa Bay Mutiny	3/24/1997	65		FDLY			
+Armas, Chris	Los Angeles Galaxy	Los Angeles Galaxy	FAS - El Salvador	3/22/1997	18		FDLY	Karapetyan, Harut		
+Hurtado, Eduardo	Los Angeles Galaxy	Los Angeles Galaxy	FAS - El Salvador	3/22/1997	40		FDLY	Cienfuegos, Mauricio		
+Wilson, Brad	Los Angeles Galaxy	Los Angeles Galaxy	FAS - El Salvador	3/22/1997	85		FDLY			
+Ferruzzi, Marco	Tampa Bay Mutiny	Alianza - El Salvador	Tampa Bay Mutiny	3/20/1997	28		FDLY	Vargas, Nelson		
+Galderisi, Giuseppe	Tampa Bay Mutiny	Tampa Bay Mutiny	SSK Vitkovice - Czech 	1/25/1997	3		FDLY	McKinley, Ivan		
+Lozzano, Lawrence	San Jose Earthquakes	Tecos - Mexico	San Jose Earthquakes	2/28/1997	30		FDLY			
+Lozzano, Lawrence	San Jose Earthquakes	Tecos - Mexico	San Jose Earthquakes	2/28/1997	40		FDLY			
+Sullivan, Chris	San Jose Earthquakes	Tecos - Mexico	San Jose Earthquakes	2/28/1997	55		FDLY			
+Baicher, Jeff	San Jose Earthquakes	Tecos - Mexico	San Jose Earthquakes	2/28/1997	61		FDLY			
+Gaucho Silva	San Jose Earthquakes	Tecos - Mexico	San Jose Earthquakes	2/28/1997	80		FDLY			
+Donadoni, Roberto	MetroStars	Serie  C U-21 - Italy	MetroStars	2/18/1997	50	Penalty	FDLY			
+Wynalda, Eric	San Jose Earthquakes	Tapatio - Mexico	San Jose Earthquakes	3/4/1998	33		FDLY	Lozzano, Lawrence		
+Wynalda, Eric	San Jose Earthquakes	Tapatio - Mexico	San Jose Earthquakes	3/4/1998	68	Penalty	FDLY			
+Dos Santos, Marco	Colorado Rapids	Univ. de Guadalajara - Mexico	Colorado Rapids	2/19/1998	55		FDLY	Harris, Wolde		
+White, Marquis	Colorado Rapids	Univ. de Guadalajara - Mexico	Colorado Rapids	2/19/1998	75		FDLY	Nunley, Andre		
+Paule, Ross	Colorado Rapids	Tapatio - Mexico	Colorado Rapids	2/17/1998	4		FDLY	Boyce, Jason		
+Rammel, Steve	Colorado Rapids	Tapatio - Mexico	Colorado Rapids	2/17/1998	9		FDLY	Cengarle, Julio		
+Ianni, Tayt	Colorado Rapids	Tapatio - Mexico	Colorado Rapids	2/17/1998	90		FDLY	Harris, Wolde		
+Marshall, Tyrone	Colorado Rapids	Atlas - Mexico	Colorado Rapids	2/25/1998	15		FDLY			
+Marshall, Tyrone	Colorado Rapids	Atlas - Mexico	Colorado Rapids	2/25/1998	40		FDLY			
+Jolley, Steve	US Project 40	Manchester United - England	US Project 40	12/5/1998	37		FDLY			
+Cooks, Judah	US Project 40	Manchester United - England	US Project 40	12/5/1998	82		FDLY			
+Paule, Ross	US Project 40	Manchester United - England	US Project 40	12/5/1998	88		FDLY			
+Da Silva, Nino	US Project 40	Sheffield Wednesday - England	US Project 40	12/8/1998	8		FDLY			
+Jolley, Steve	US Project 40	Sheffield Wednesday - England	US Project 40	12/8/1998	71		FDLY			
+Jolley, Steve	US Project 40	Sheffield United - England	US Project 40	12/19/1998	32		FDLY			
+Vermillion, Scott	US Project 40	Sheffield United - England	US Project 40	12/19/1998	50		FDLY			
+Jolley, Steve	US Project 40	Everton - England	US Project 40	12/16/1998	55		FDLY			
+Kotschau, Ritchie	US Project 40	Everton - England	US Project 40	12/16/1998	75		FDLY			
+Moreno, Jaime	DC United	DC United	Ikast - Denmark	3/1/1998	4		FDLY	Sanneh, Tony		
+Moreno, Jaime	DC United	DC United	Ikast - Denmark	3/1/1998	64		FDLY	Wood, AJ		
+Slivinski, Mike	DC United	DC United	Ikast - Denmark	3/1/1998	78		FDLY	Sanneh, Tony		
+Sanneh, Tony	DC United	DC United	Ikast - Denmark	3/1/1998	89		FDLY			
+Paule, Ross	US Project 40	Sunderland - England	US Project 40	12/11/1998	13		FDLY			
+Nowak, Peter	Chicago Fire	Atlas - Mexico	Chicago Fire	2/26/1998	59		FDLY			
+Nowak, Peter	Chicago Fire	Atlas - Mexico	Chicago Fire	2/26/1998	68	Penalty	FDLY			
+Trittschuh, Steve	Colorado Rapids	Tecos - Mexico	Colorado Rapids	2/24/1998	38		FDLY			
+Rooney	MetroStars	AC Milan - Italy	MetroStars	3/5/1998	60		FDLY			
+Medved, Shawn	San Jose Earthquakes	Atlas - Mexico	San Jose Earthquakes	3/8/1998	55		FDLY			
+Medved, Shawn	San Jose Earthquakes	Atlas - Mexico	San Jose Earthquakes	3/8/1998	80		FDLY			
+Cienfuegos, Mauricio	Los Angeles Galaxy	Comunicaciones - Guatemala	Los Angeles Galaxy	3/4/1998	16	Penalty	FDLY			
+Hurtado, Eduardo	Los Angeles Galaxy	Comunicaciones - Guatemala	Los Angeles Galaxy	3/4/1998	17		FDLY	Machon, Martin		
+Vanney, Greg	Los Angeles Galaxy	Comunicaciones - Guatemala	Los Angeles Galaxy	3/4/1998	36		FDLY	Cienfuegos, Mauricio		
+Welton	Los Angeles Galaxy	Comunicaciones - Guatemala	Los Angeles Galaxy	3/4/1998	68		FDLY	Hurtado, Eduardo		
+Salcedo, Jorge	Chicago Fire	Bachilleres - Mexico	Chicago Fire	3/5/1998	0		FDLY			
+Lagos, Gerard	Chicago Fire	Bachilleres - Mexico	Chicago Fire	3/5/1998	0		FDLY			
+Gramenz, Don	Chicago Fire	Bachilleres - Mexico	Chicago Fire	3/5/1998	0		FDLY			
+Snow, Ken	Chicago Fire	Bachilleres - Mexico	Chicago Fire	3/5/1998	0		FDLY			
+Wood, AJ	DC United	DC United	Central American Stars	11/22/1998	45		FDLY	Olsen, Ben		
+Talley, Carey	DC United	DC United	Central American Stars	11/22/1998	82		FDLY	Agoos, Jeff		
+Coreas, Salvador	Long Island Rough Riders	Long Island Rough Riders	CD Aguila - El Salvador	8/4/1996	46		FDLY			
+Enders, Eddie	Cocoa Expos	Cocoa Expos	Tusberg Landshut - Germany	2/15/1996	0		FDLY			
+Enders, Eddie	Cocoa Expos	Cocoa Expos	Tusberg Landshut - Germany	2/15/1996	0		FDLY			
+Haig, Fitzgerald	Cocoa Expos	Cocoa Expos	Norresundby Boldklub - Denmark	2/19/1996	0		FDLY			
+Carithers, Chad	South Carolina Shamrocks	South Carolina Shamrocks	Ireland U-23	5/28/1996	0		FDLY			
+Parkinson, Keith	South Carolina Shamrocks	South Carolina Shamrocks	Ireland U-23	5/28/1996	0		FDLY			
+Wynalda, Eric	San Jose Earthquakes	UAG - Mexico	San Jose Earthquakes	3/3/1998	52		FDLY	Lewis, Eddie		
+Wynalda, Eric	San Jose Earthquakes	UAG - Mexico	San Jose Earthquakes	3/3/1998	53		FDLY	Lewis, Eddie		
+Figueroa	San Jose Earthquakes	UAG - Mexico	San Jose Earthquakes	3/3/1998	57		FDLY	Lewis, Eddie		
+Kosecki, Roman	Chicago Fire	Jaguares - Mexico	Chicago Fire	2/25/1999	12		FDLY			
+Kuhn, Tony	Chicago Fire	Jaguares - Mexico	Chicago Fire	2/25/1999	78		FDLY	Gutierrez, Diego		
+Razov, Ante	Chicago Fire	Chicago Fire	Atlas - Mexico	2/27/1999	12		FDLY			
+Razov, Ante	Chicago Fire	Univ. de Guadalajara - Mexico	Chicago Fire	3/1/1999	0		FDLY			
+Kuhn, Tony	Chicago Fire	UAG - Mexico	Chicago Fire	3/3/1999	90		FDLY			
+Kubik, Lubos	Chicago Fire	UAG - Mexico	Chicago Fire	3/3/1999	40		FDLY			
+Henderson, Josh	Chicago Fire	UAG - Mexico	Chicago Fire	3/3/1999	89		FDLY			
+Bravo, Paul	Colorado Rapids	Atlas - Mexico	Colorado Rapids	3/7/1999	56		FDLY	Bent, Jason		
+Harris, Wolde	Colorado Rapids	Tapatio - Mexico	Colorado Rapids	3/9/1999	55		FDLY	Limpar, Anders		
+Harris, Wolde	Colorado Rapids	Tapatio - Mexico	Colorado Rapids	3/9/1999	65		FDLY	Vaudreuil, David		
+Paule, Ross	Colorado Rapids	Jaguares - Mexico	Colorado Rapids	3/11/1999	10		FDLY			
+Mittendorf, Andrew	Colorado Rapids	Jaguares - Mexico	Colorado Rapids	3/11/1999	80		FDLY	Harris, Wolde		
+Harris, Wolde	Colorado Rapids	Jaguares - Mexico	Colorado Rapids	3/11/1999	60		FDLY			
+White, Marquis	Colorado Rapids	Jaguares - Mexico	Colorado Rapids	3/11/1999	73		FDLY			
+Dely Valdes, Jorge	Colorado Rapids	Univ. de Guadalajara - Mexico	Colorado Rapids	3/15/1999	35		FDLY	Limpar, Anders		
+White, Marquis	Colorado Rapids	Univ. de Guadalajara - Mexico	Colorado Rapids	3/15/1999	85		FDLY			
+Paule, Ross	Colorado Rapids	Univ. de Guadalajara - Mexico	Colorado Rapids	3/15/1999	60		FDLY	Limpar, Anders		
+Paule, Ross	Colorado Rapids	Univ. de Guadalajara - Mexico	Colorado Rapids	3/15/1999	65		FDLY	Limpar, Anders		
+Bravo, Paul	Colorado Rapids	Univ. de Guadalajara - Mexico	Colorado Rapids	3/15/1999	76		FDLY	Bent, Jason		
+Unknown	DC United	Luis Angel Firpo - El Salvador	DC United	11/3/2000	24	Own Goal	FDLY			
+Muniz, Liedson Da Silva	DC United	Alianza - El Salvador	DC United	11/5/2000	4		FDLY	Convey, Bobby		
+Diaz Arce, Raul	DC United	Aguila - El Salvador	DC United	11/1/2000	12		FDLY			
+Diaz Arce, Raul	DC United	Aguila - El Salvador	DC United	11/1/2000	36		FDLY			
+Evans	San Jose Earthquakes	Atlas - Mexico	San Jose Earthquakes	3/13/2000	22		FDLY	Doyle, John		
+Wright	San Jose Earthquakes	Atlas - Mexico	San Jose Earthquakes	3/13/2000	30		FDLY	Conteh, Abdul Thompson		
+Mulrooney, Richard	San Jose Earthquakes	Atlas - Mexico	San Jose Earthquakes	3/13/2000	62		FDLY	Brose		
+Zambrano, Henry	Colorado Rapids	Sporting Lisbon XI - Portugal	Colorado Rapids	3/8/2000	55		FDLY	Anderson, Kevin		
+Bower, Scott	San Jose Earthquakes	Oro - Mexico	San Jose Earthquakes	3/9/2000	54		FDLY	Krakowiak		
+McBride, Brian	Columbus Crew	Columbus Crew	Bayer Leverkusen - Germany	5/29/2001	39	Penalty	FDLY			
+McBride, Brian	Columbus Crew	Columbus Crew	Bayer Leverkusen - Germany	5/29/2001	46		FDLY	Oughton, Duncan		
+Perez, John Wilmar	Columbus Crew	Columbus Crew	Bayer Leverkusen - Germany	5/29/2001	76		FDLY	Cunningham, Jeff		
+Cunningham, Jeff	Columbus Crew	Columbus Crew	Bayer Leverkusen - Germany	5/29/2001	81		FDLY	Washington, Dante		
+Mathis, Clint	MetroStars	MetroStars	Bayern Munich - Germany	5/28/2001	36		FDLY			
+Comas, Alex	MetroStars	MetroStars	Bayern Munich - Germany	5/28/2001	43		FDLY	Chung, Mark		
+Convey, Bobby	DC United	DC United	Bayer Leverkusen - Germany	5/23/2001	32		FDLY			
+Talley, Carey	DC United	DC United	Bayer Leverkusen - Germany	5/23/2001	44	Penalty	FDLY			
+Albright, Chris	DC United	DC United	Bayer Leverkusen - Germany	5/23/2001	57		FDLY			
+Frye, Adam	Los Angeles Galaxy	Nacional de Tijuana - Mexico	Los Angeles Galaxy	1/7/2001	23		FDLY	Quijano, Marvin		
+Elliott, Simon	Los Angeles Galaxy	Nacional de Tijuana - Mexico	Los Angeles Galaxy	1/7/2001	81	Penalty	FDLY			
+Harris, Wolde	New England Revolution	Santa Teresita FC -Costa Rica	New England Revolution	2/10/2001	22		FDLY	Ramos, Mauricio		
+Sierra, Dario	New England Revolution	Santa Teresita FC -Costa Rica	New England Revolution	2/10/2001	59		FDLY	Beasley, Jamar		
+Graziani, Ariel	Dallas Burn	Dallas Burn	CD Guadalajara Chivas - Mexico	3/24/2001	54		FDLY	Kreis, Jason		
+Kubik, Lubos	Dallas Burn	Dallas Burn	CD Guadalajara Chivas - Mexico	3/24/2001	82		FDLY			
+Beasley, DaMarcus	Chicago Fire	Benfica - Portugal	Chicago Fire	2/20/2002	39		FDLY	Armas, Chris		
+Beasley, DaMarcus	Chicago Fire	Benfica - Portugal	Chicago Fire	2/20/2002	22	Penalty	FDLY			
+Valderrama, Carlos	Colorado Rapids	Benfica - Portugal	Colorado Rapids	3/5/2002	44		FDLY			
+Spencer, John	Colorado Rapids	Benfica - Portugal	Colorado Rapids	3/5/2002	21		FDLY			
+Carrieri, Chris	Colorado Rapids	Benfica - Portugal	Colorado Rapids	3/5/2002	17		FDLY			
+Jordan, Jason	Colorado Rapids	Benfica - Portugal	Colorado Rapids	3/5/2002	68		FDLY			
+Schmidt, Casey	Colorado Rapids	Santos - Mexico	Colorado Rapids	3/12/2003	26		FDLY	Carrieri, Chris		
+Schmidt, Casey	Colorado Rapids	Santos - Mexico	Colorado Rapids	3/12/2003	30		FDLY	Grimandi		
+Blake, Alex	Colorado Rapids	CD Guadalajara Chivas - Mexico	Colorado Rapids	3/21/2003	15		FDLY	Henderson, Chris		
+Kingsley, Zach	Colorado Rapids	UAG - Mexico	Colorado Rapids	3/26/2003	50		FDLY			
+Cunningham, Jeff	Columbus Crew	Sporting Lisbon XI - Portugal	Columbus Crew	2/20/2003	16		FDLY	Martino, Kyle		
+Kreis, Jason	Dallas Burn	Colo Colo - Chile	Dallas Burn	3/15/2003	42		FDLY			
+Kreis, Jason	Dallas Burn	Colo Colo - Chile	Dallas Burn	3/15/2003	35		FDLY			
+Kreis, Jason	Dallas Burn	Colo Colo - Chile	Dallas Burn	3/15/2003	44		FDLY			
+Rhine, Bobby	Dallas Burn	Colo Colo - Chile	Dallas Burn	3/15/2003	40		FDLY			
+Rhine, Bobby	Dallas Burn	Colo Colo - Chile	Dallas Burn	3/15/2003	63		FDLY			
+Rosenband, Andy	Dallas Burn	Universidad de Chile - Chile	Dallas Burn	3/18/2003	18		FDLY	Franca, Bruno		
+Bussey, Carl	Dallas Burn	Universidad de Chile - Chile	Dallas Burn	3/18/2003	53		FDLY			
+Gbandi, Chris	Dallas Burn	Colo Colo - Chile	Dallas Burn	3/23/2003	0		FDLY			
+Pope, Eddie	MetroStars	Boca Juniors - Argentina	MetroStars	3/19/2003	68		FDLY	Glowienka, Tim		
+Magee, Mike	MetroStars	Boca Juniors - Argentina	MetroStars	3/27/2003	24		FDLY	Williams, Richie		
+Marshall, Leonard	New England Revolution	Palmeiras - Brazil	New England Revolution	2/19/2003	73		FDLY			
+Spencer, John	Colorado Rapids	Colorado Rapids	Guatemala NT	10/15/2003	42		FDLY			
+Henderson, Chris	Colorado Rapids	Colorado Rapids	Guatemala NT	10/15/2003	82	Penalty	FDLY			
+Blake, Alex	Colorado Rapids	Colorado Rapids	Guatemala NT	10/15/2003	84		FDLY			
+Marshall, Tyrone	Los Angeles Galaxy	Los Angeles Galaxy	Necaxa - Mexico	12/3/2004	9		FDLY	Gardner, Josh		
+Vagenas, Peter	Los Angeles Galaxy	Los Angeles Galaxy	Necaxa - Mexico	12/3/2004	52		FDLY	Gordon, Alan		
+Vagenas, Peter	Los Angeles Galaxy	Los Angeles Galaxy	Necaxa - Mexico	12/3/2004	56		FDLY	Grabavoy, Ned		
+Rocha	New England Revolution	Atlas - Mexico	New England Revolution	3/20/1998	0		FDLY	Gorter		
+Moreno, Jaime	DC United	Bermuda NT	DC United	3/30/1999	18	Penalty	FDLY			
+Etcheverry, Marco	DC United	Bermuda NT	DC United	3/30/1999	80		FDLY	Aunger, Geoff		
+Wright, Mauricio	New England Revolution	Deportivo Belen - Costa Rica	New England Revolution	2/14/2001	35		FDLY	Zuniga, Fabio		
+Cienfuegos, Mauricio	Los Angeles Galaxy	CD Guadalajara Chivas - Mexico	Los Angeles Galaxy	5/1/2001	21		FDLY	Elliott, Simon		
+Ching, Brian	Los Angeles Galaxy	CD Guadalajara Chivas - Mexico	Los Angeles Galaxy	5/1/2001	88		FDLY	Caligiuri, Paul		
+Ramos, Mauricio	New England Revolution	CD Guadalajara Chivas - Mexico	New England Revolution	3/1/2000	45		FDLY			
+Zuniga, Fabio	New England Revolution	CD Guadalajara Chivas - Mexico	New England Revolution	3/1/2000	80		FDLY	Asad, Shaker		
+Baba, Imad	New England Revolution	Atlas - Mexico	New England Revolution	3/7/2000	17	Penalty	FDLY			
+Torres, Johnny	New England Revolution	Atlas - Mexico	New England Revolution	3/7/2000	32		FDLY	McKinley, Ivan		
+Harris, Wolde	New England Revolution	Atlas - Mexico	New England Revolution	3/7/2000	37		FDLY	Asad, Shaker		
+Keegan, Paul	New England Revolution	Atlas - Mexico	New England Revolution	3/7/2000	46		FDLY	Beasley, Jamar		
+Keegan, Paul	New England Revolution	Atlas - Mexico	New England Revolution	3/7/2000	59		FDLY			
+Zuniga, Fabio	New England Revolution	Atlas - Mexico	New England Revolution	3/7/2000	55		FDLY			
+Dos Santos, Paulo	New England Revolution	Atlas - Mexico	New England Revolution	3/7/2000	89		FDLY			
+Kreis, Jason	Dallas Burn	Palestino - Chile	Dallas Burn	3/25/2003	60		FDLY			
+Kreis, Jason	Dallas Burn	Palestino - Chile	Dallas Burn	3/25/2003	65	Penalty	FDLY			
+Franca, Bruno	Dallas Burn	Palestino - Chile	Dallas Burn	3/25/2003	71		FDLY			
+O'Brien, Ronnie	Dallas Burn	Palestino - Chile	Dallas Burn	3/25/2003	88		FDLY			
+Doyle, John	San Jose Earthquakes	Necaxa - Mexico	San Jose Earthquakes	12/13/2000	7		FDLY	Bower, Scott		
+Convey, Bobby	DC United	DC United	CD Aguila - El Salvador	10/26/2002	9		FDLY	Quintanilla, Elieso		
+Moreno, Jaime	DC United	DC United	CD Aguila - El Salvador	10/26/2002	61		FDLY	Quintanilla, Elieso		
+Moreno, Jaime	DC United	DC United	CD Aguila - El Salvador	10/26/2002	62		FDLY	Villegas, Petter		
+Lassiter, Roy	DC United	DC United	CD Aguila - El Salvador	10/26/2002	80		FDLY	Curtis, Ali		
+Peart, O'Neil	MetroStars	MetroStars	Fylkir - Iceland	2/17/2001	43		FDLY			
+Comas, Alex	MetroStars	MetroStars	Fylkir - Iceland	2/17/2001	57		FDLY	Ramos, Tab		

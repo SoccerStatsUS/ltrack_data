@@ -1,0 +1,1586 @@
+Player	Team-For	Home-Team	Away-Team	Date	Goal-Time	Goal-Type	Comp	Assist	Assist2	
+Juninho	Los Angeles Galaxy	Seattle Sounders	Los Angeles Galaxy	3/15/2011	58		LGE	Dunivant, Todd		
+Harris, Atiba	Vancouver Whitecaps	Vancouver Whitecaps	Toronto FC	3/19/2011	62		LGE			
+Hassli, Eric	Vancouver Whitecaps	Vancouver Whitecaps	Toronto FC	3/19/2011	15		LGE			
+Dunfield, Terry	Vancouver Whitecaps	Vancouver Whitecaps	Toronto FC	3/19/2011	26		LGE			
+Hassli, Eric	Vancouver Whitecaps	Vancouver Whitecaps	Toronto FC	3/19/2011	73		LGE			
+De Rosario, Dwayne	Toronto FC	Vancouver Whitecaps	Toronto FC	3/19/2011	20		LGE			
+Maicon Santos	Toronto FC	Vancouver Whitecaps	Toronto FC	3/19/2011	75		LGE			
+Wolff, Josh	D.C. United	D.C. United	Columbus Crew	3/19/2011	50		LGE			
+Davies, Charlie	D.C. United	D.C. United	Columbus Crew	3/19/2011	62		LGE			
+Davies, Charlie	D.C. United	D.C. United	Columbus Crew	3/19/2011	76		LGE			
+Rogers, Robbie	Columbus Crew	D.C. United	Columbus Crew	3/19/2011	78	Penalty	LGE			
+Agudelo, Juan	New York Red Bulls	New York Red Bulls	Seattle Sounders	3/19/2011	69		LGE			
+Rodriguez, Milton	FC Dallas 96	FC Dallas 96	Chicago Fire	3/19/2011	18		LGE			
+Puerari, Gaston	Chicago Fire	FC Dallas 96	Chicago Fire	3/19/2011	17		LGE			
+Califf, Danny	Philadephia Union	Houston Dynamo	Philadephia Union	3/19/2011	5		LGE			
+Larentowicz, Jeff	Colorado Rapids	Colorado Rapids	Portland Timbers	3/19/2011	7		LGE			
+Cummings, Omar	Colorado Rapids	Colorado Rapids	Portland Timbers	3/19/2011	29		LGE			
+Smith, Jamie	Colorado Rapids	Colorado Rapids	Portland Timbers	3/19/2011	30		LGE			
+Cooper, Kenny	Portland Timbers	Colorado Rapids	Portland Timbers	3/19/2011	80		LGE			
+Conrad, Jimmy	CD Chivas USA	CD Chivas USA	Sporting Kansas City	3/19/2011	55		LGE			
+Zemanski, Ben	CD Chivas USA	CD Chivas USA	Sporting Kansas City	3/19/2011	81		LGE			
+Sapong, C.J.	Sporting Kansas City	CD Chivas USA	Sporting Kansas City	3/19/2011	1		LGE			
+Bravo, Omar	Sporting Kansas City	CD Chivas USA	Sporting Kansas City	3/19/2011	45		LGE			
+Bravo, Omar	Sporting Kansas City	CD Chivas USA	Sporting Kansas City	3/19/2011	74		LGE			
+Beckerman, Kyle	Real Salt Lake	San Jose Earthquakes	Real Salt Lake	3/19/2011	64		LGE			
+Juninho	Los Angeles Galaxy	Los Angeles Galaxy	New England Revolution	3/20/2011	39		LGE			
+Joseph, Shalrie	New England Revolution	Los Angeles Galaxy	New England Revolution	3/20/2011	3		LGE	Perovic, Marko		
+Zakuani, Steve	Seattle Sounders	Seattle Sounders	Houston Dynamo	3/25/2011	80		LGE			
+Cameron, Geoff	Houston Dynamo	Seattle Sounders	Houston Dynamo	3/25/2011	42		LGE			
+Javier Martina	Toronto FC	Toronto FC	Portland Timbers	3/26/2011	14		LGE			
+Javier Martina	Toronto FC	Toronto FC	Portland Timbers	3/26/2011	70		LGE			
+Ruiz, Carlos	Philadephia Union	Philadephia Union	Vancouver Whitecaps	3/26/2011	77		LGE			
+Chaves, Diego	Chicago Fire	Chicago Fire	Sporting Kansas City	3/26/2011	33	Penalty	LGE			
+Puerari, Gaston	Chicago Fire	Chicago Fire	Sporting Kansas City	3/26/2011	39		LGE			
+Pappa, Marco	Chicago Fire	Chicago Fire	Sporting Kansas City	3/26/2011	59		LGE			
+Besler, Matt	Sporting Kansas City	Chicago Fire	Sporting Kansas City	3/26/2011	50		LGE			
+Bunbury, Teal	Sporting Kansas City	Chicago Fire	Sporting Kansas City	3/26/2011	71		LGE			
+Schilawski, Zack	New England Revolution	New England Revolution	D.C. United	3/26/2011	8		LGE			
+Joseph, Shalrie	New England Revolution	New England Revolution	D.C. United	3/26/2011	17	Penalty	LGE			
+Davies, Charlie	D.C. United	New England Revolution	D.C. United	3/26/2011	90	Penalty	LGE			
+Wondolowski, Chris	San Jose Earthquakes	FC Dallas 96	San Jose Earthquakes	3/26/2011	5		LGE	Leitch, Chris		
+Wondolowski, Chris	San Jose Earthquakes	FC Dallas 96	San Jose Earthquakes	3/26/2011	23		LGE	Gjertsen, Joey	Leitch, Chris	
+Williams, Andy	Real Salt Lake	Real Salt Lake	Los Angeles Galaxy	3/26/2011	2		LGE	Paulo Araujo Jr	Morales, Javier	
+Morales, Javier	Real Salt Lake	Real Salt Lake	Los Angeles Galaxy	3/26/2011	10	Penalty	LGE			
+Morales, Javier	Real Salt Lake	Real Salt Lake	Los Angeles Galaxy	3/26/2011	41		LGE	Wingert, Chris		
+Paulo Araujo Jr	Real Salt Lake	Real Salt Lake	Los Angeles Galaxy	3/26/2011	68		LGE	Espindola, Fabian		
+Angel, Juan Pablo	Los Angeles Galaxy	Real Salt Lake	Los Angeles Galaxy	3/26/2011	80		LGE	Beckham, David		
+Amarikwa, Quincy	Colorado Rapids	CD Chivas USA	Colorado Rapids	3/26/2011	31		LGE	Smith, Jamie		
+Nyazamba, Stanley	Richmond Kickers	Richmond Kickers	Orlando City	4/2/2011	39	Penalty	LGE			
+Delicate, Matthew	Richmond Kickers	Richmond Kickers	Orlando City	4/2/2011	83		LGE	Goerres, Sascha		
+Roushandel, Ryan	Sevilla FC Puerto Rico	Sevilla FC Puerto Rico	River Plate Puerto Rico	4/2/2011	33		LGE			
+Cardenas, Nicholas	Sevilla FC Puerto Rico	Sevilla FC Puerto Rico	River Plate Puerto Rico	4/2/2011	71		LGE			
+Villegas, Petter	River Plate Puerto Rico	Sevilla FC Puerto Rico	River Plate Puerto Rico	4/2/2011	55		LGE	Arce, Matias Sebastian		
+Perez, Yaikel	River Plate Puerto Rico	Sevilla FC Puerto Rico	River Plate Puerto Rico	4/2/2011	80		LGE	Maya-Cruz, Julio Cesar		
+Mendoza, Andres	Columbus Crew	Columbus Crew	FC Dallas 96	4/1/2011	54	Penalty	LGE			
+Gaven, Eddie	Columbus Crew	Columbus Crew	FC Dallas 96	4/1/2011	90		LGE	Rogers, Robbie		
+Gordon, Alan	Toronto FC	Toronto FC	CD Chivas USA	4/2/2011	36		LGE	Peterson, Jacob		
+Moreno, Alejandro	CD Chivas USA	Toronto FC	CD Chivas USA	4/2/2011	3		LGE			
+Harris, Atiba	Vancouver Whitecaps	Vancouver Whitecaps	Sporting Kansas City	4/2/2011	73		LGE	Khalfan, Nizar	Camilo	
+Camilo	Vancouver Whitecaps	Vancouver Whitecaps	Sporting Kansas City	4/2/2011	90		LGE	Chiumiento, Davide	Dunfield, Terry	
+Camilo	Vancouver Whitecaps	Vancouver Whitecaps	Sporting Kansas City	4/2/2011	90		LGE	Khalfan, Nizar	Harris, Atiba	
+Bunbury, Teal	Sporting Kansas City	Vancouver Whitecaps	Sporting Kansas City	4/2/2011	45		LGE	Espinoza, Roger		
+Bunbury, Teal	Sporting Kansas City	Vancouver Whitecaps	Sporting Kansas City	4/2/2011	58		LGE	Stojcev, Milos		
+Kamara, Kei	Sporting Kansas City	Vancouver Whitecaps	Sporting Kansas City	4/2/2011	62		LGE	Sapong, C.J.		
+Richards, Dane	New York Red Bulls	New York Red Bulls	Houston Dynamo	4/2/2011	47		LGE	De Rosario, Dwayne		
+Weaver, Cam	Houston Dynamo	New York Red Bulls	Houston Dynamo	4/2/2011	50		LGE	Bruin, Will	Hall, Tally	
+McCarthy, Stephen	New England Revolution	New England Revolution	Portland Timbers	4/2/2011	22		LGE			
+Jewsbury, Jack	Portland Timbers	New England Revolution	Portland Timbers	4/2/2011	38		LGE	Hall, Jeremy	Cooper, Kenny	
+Stephenson, Khari	San Jose Earthquakes	San Jose Earthquakes	Seattle Sounders	4/2/2011	52		LGE			
+Evans, Brad	Seattle Sounders	San Jose Earthquakes	Seattle Sounders	4/2/2011	17		LGE	Rosales, Mauro	Friberg, Erik	
+White, O'Brien	Seattle Sounders	San Jose Earthquakes	Seattle Sounders	4/2/2011	42		LGE	Zakuani, Steve	Alonso, Osvaldo	
+Dawkins, Simon	San Jose Earthquakes	San Jose Earthquakes	Seattle Sounders	4/2/2011	32		LGE	Johnson, Ryan	Convey, Bobby	
+Leonardo	Los Angeles Galaxy	Los Angeles Galaxy	Philadephia Union	4/2/2011	33		LGE	Beckham, David		
+Folan, Caleb	Colorado Rapids	Colorado Rapids	D.C. United	4/3/2011	39		LGE	Larentowicz, Jeff		
+Smith, Jamie	Colorado Rapids	Colorado Rapids	D.C. United	4/3/2011	71		LGE	Wallace, Anthony		
+Folan, Caleb	Colorado Rapids	Colorado Rapids	D.C. United	4/3/2011	81		LGE	Nyassi, Sanna		
+Cummings, Omar	Colorado Rapids	Colorado Rapids	D.C. United	4/3/2011	90		LGE	Mastroeni, Pablo	Amarikwa, Quincy	
+Quaranta, Santino	D.C. United	Colorado Rapids	D.C. United	4/3/2011	70		LGE	Korb, Chris		
+Hassli, Eric	Vancouver Whitecaps	Vancouver Whitecaps	New England Revolution	4/6/2011	55	Penalty	LGE			
+Stolica, Ilija	New England Revolution	Vancouver Whitecaps	New England Revolution	4/6/2011	90		LGE	Schilawski, Zack	Phelan, Pat	
+Dos Santos, Gerson P	Richmond Kickers	Richmond Kickers	Pittsburgh Riverhounds	4/9/2011	69		LGE	Vercollone, Luke		
+Delicate, Matthew	Richmond Kickers	Richmond Kickers	Pittsburgh Riverhounds	4/9/2011	87		LGE	William, Yomby		
+Horner, Benjamin	Pittsburgh Riverhounds	Richmond Kickers	Pittsburgh Riverhounds	4/9/2011	71		LGE	Severs, Chad		
+Bloom, Mark	Charleston Battery	Charleston Battery	Charlotte Eagles	4/9/2011	58	Own Goal	LGE			
+Griffin, Maxwell	Orlando City	Orlando City	FC New York	4/9/2011	43		LGE	Jorsling, Devorn		
+Alvarez, Yordany	Orlando City	Orlando City	FC New York	4/9/2011	54		LGE			
+Griffin, Maxwell	Orlando City	Orlando City	FC New York	4/9/2011	71		LGE	Neal, Lewis		
+Yamada, Takuya	Tampa Bay Rowdies	Tampa Bay Rowdies	Montreal Impact	4/9/2011	87		LGE			
+Lancaster, Martyn	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	FC Edmonton	4/9/2011	48		LGE	Coudet, Eduardo		
+Saiko, Shaun	FC Edmonton	Ft. Lauderdale Strikers	FC Edmonton	4/9/2011	55		LGE	Surprenant, Alex		
+Antoniuk, Daniel	FC Edmonton	Ft. Lauderdale Strikers	FC Edmonton	4/9/2011	67		LGE	Saiko, Shaun		
+Horth, Matt	Atlanta Silverbacks	Atlanta Silverbacks	NSC Minnesota Stars	4/9/2011	64		LGE	Perez, Mario		
+Takada, Kentaro	NSC Minnesota Stars	Atlanta Silverbacks	NSC Minnesota Stars	4/9/2011	57		LGE	Cosgriff, Jeff		
+Gotsmanov, Andrei	NSC Minnesota Stars	Atlanta Silverbacks	NSC Minnesota Stars	4/9/2011	90		LGE			
+Barbara, Etienne	Carolina RailHawks	Carolina RailHawks	Puerto Rico Islanders	4/9/2011	86		LGE			
+Hansen, Joshua	Puerto Rico Islanders	Carolina RailHawks	Puerto Rico Islanders	4/9/2011	32		LGE			
+Needham, Jay	Puerto Rico Islanders	Carolina RailHawks	Puerto Rico Islanders	4/9/2011	90		LGE	Hansen, Joshua		
+Ihemelu, Ugo	FC Dallas 96	FC Dallas 96	Colorado Rapids	4/8/2011	26		LGE	Chavez, Marvin		
+Ferreira, David	FC Dallas 96	FC Dallas 96	Colorado Rapids	4/8/2011	40		LGE	Castillo, Fabian		
+Ferreira, David	FC Dallas 96	FC Dallas 96	Colorado Rapids	4/8/2011	46		LGE	Avila, Eric	Hernandez, Daniel	
+White, O'Brien	Seattle Sounders	Seattle Sounders	Chicago Fire	4/9/2011	7		LGE	Rosales, Mauro		
+Zakuani, Steve	Seattle Sounders	Seattle Sounders	Chicago Fire	4/9/2011	25		LGE	White, O'Brien		
+Chaves, Diego	Chicago Fire	Seattle Sounders	Chicago Fire	4/9/2011	8		LGE	Nyarko, Patrick	Puerari, Gaston	
+Torres, Roger	Philadephia Union	Philadephia Union	New York Red Bulls	4/9/2011	68		LGE	Mwanga, Danny		
+Schuler, Chris	Real Salt Lake	New England Revolution	Real Salt Lake	4/9/2011	28		LGE	Warner, Collen		
+Paulo Araujo Jr	Real Salt Lake	New England Revolution	Real Salt Lake	4/9/2011	47		LGE	Warner, Collen		
+Davies, Charlie	D.C. United	D.C. United	Los Angeles Galaxy	4/9/2011	90	Penalty	LGE			
+Magee, Mike	Los Angeles Galaxy	D.C. United	Los Angeles Galaxy	4/9/2011	12		LGE	Beckham, David		
+Dawkins, Simon	San Jose Earthquakes	San Jose Earthquakes	Toronto FC	4/9/2011	38		LGE	Wondolowski, Chris		
+Gordon, Alan	Toronto FC	San Jose Earthquakes	Toronto FC	4/9/2011	27		LGE			
+Weaver, Cam	Houston Dynamo	Houston Dynamo	Vancouver Whitecaps	4/10/2011	37		LGE	Boswell, Bobby	Davis, Brad	
+Boswell, Bobby	Houston Dynamo	Houston Dynamo	Vancouver Whitecaps	4/10/2011	42		LGE	Cruz, Danny	Davis, Brad	
+Bruin, Will	Houston Dynamo	Houston Dynamo	Vancouver Whitecaps	4/10/2011	76		LGE	Davis, Brad		
+Camilo	Vancouver Whitecaps	Houston Dynamo	Vancouver Whitecaps	4/10/2011	38		LGE	Chiumiento, Davide		
+Ramos Lebron, Hector	Puerto Rico United	Puerto Rico United	Sevilla FC Puerto Rico	4/10/2011	90		LGE	Turizo Pulido, Christian Andre		
+Gustave, Alain	Sevilla FC Puerto Rico	Puerto Rico United	Sevilla FC Puerto Rico	4/10/2011	66		LGE			
+Espindola, Fabian	Real Salt Lake	Real Salt Lake	Colorado Rapids	4/13/2011	90		LGE	Paulo Araujo Jr		
+Perlaza, Jorge	Portland Timbers	Portland Timbers	Chicago Fire	4/14/2011	29		LGE	Alhassan, Kalif		
+Wallace, Rodney	Portland Timbers	Portland Timbers	Chicago Fire	4/14/2011	37		LGE			
+Perlaza, Jorge	Portland Timbers	Portland Timbers	Chicago Fire	4/14/2011	47		LGE			
+Robinson, Dasan	Portland Timbers	Portland Timbers	Chicago Fire	4/14/2011	84	Own Goal	LGE			
+Brunner, Eric	Chicago Fire	Portland Timbers	Chicago Fire	4/14/2011	65	Own Goal	LGE			
+Pappa, Marco	Chicago Fire	Portland Timbers	Chicago Fire	4/14/2011	80		LGE	Oduro, Dominic		
+Delicate, Matthew	Richmond Kickers	Richmond Kickers	Rochester Rhinos	4/15/2011	24		LGE	Nyazamba, Stanley		
+Coudet, Eduardo	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	NSC Minnesota Stars	4/15/2011	90	Penalty	LGE			
+Del Do, Devin	NSC Minnesota Stars	Ft. Lauderdale Strikers	NSC Minnesota Stars	4/15/2011	61		LGE	Gotsmanov, Andrei		
+Barbara, Etienne	Carolina RailHawks	Carolina RailHawks	Montreal Impact	4/16/2011	21		LGE			
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	Montreal Impact	4/16/2011	35		LGE	Watson, Matt		
+Hatchi, Kevin	Montreal Impact	Carolina RailHawks	Montreal Impact	4/16/2011	11		LGE			
+Valentino, Robert	Orlando City	Charlotte Eagles	Orlando City	4/16/2011	30		LGE			
+LaCrone, Kolby	Dayton Dutch Lions	Dayton Dutch Lions	Charleston Battery	4/16/2011	65		LGE	Seymour, Lucien		
+Paterson, Nicholas	Charleston Battery	Dayton Dutch Lions	Charleston Battery	4/16/2011	46		LGE	Bah, Seedy		
+Falvey, Colin	Charleston Battery	Dayton Dutch Lions	Charleston Battery	4/16/2011	58		LGE	Paterson, Nicholas		
+Mulholland, Luke A	Wilmington Hammerheads	Wilmington Hammerheads	Rochester Rhinos	4/16/2011	52		LGE			
+Gaitan, Walter	Los Angeles Blues	Sevilla FC Puerto Rico	Los Angeles Blues	4/15/2011	90		LGE	Priestley, Akeem		
+BravoBenavides, Gerardo Miguel	Los Angeles Blues	Sevilla FC Puerto Rico	Los Angeles Blues	4/15/2011	81		LGE	Gaitan, Walter		
+Samaniego, Cesar Rivera	Los Angeles Blues	Sevilla FC Puerto Rico	Los Angeles Blues	4/15/2011	50		LGE			
+Ruiz, Carlos	Philadephia Union	Philadephia Union	Seattle Sounders	4/16/2011	32		LGE			
+Fernandez, Alvaro	Seattle Sounders	Philadephia Union	Seattle Sounders	4/16/2011	90		LGE	Montero, Fredy		
+Pontius, Chris	D.C. United	Toronto FC	D.C. United	4/16/2011	5		LGE			
+Davies, Charlie	D.C. United	Toronto FC	D.C. United	4/16/2011	10		LGE			
+Pontius, Chris	D.C. United	Toronto FC	D.C. United	4/16/2011	73		LGE	Fred		
+Rodgers, Luke	New York Red Bulls	New York Red Bulls	San Jose Earthquakes	4/16/2011	2		LGE	Richards, Dane		
+Rodgers, Luke	New York Red Bulls	New York Red Bulls	San Jose Earthquakes	4/16/2011	15		LGE	Henry, Thierry		
+Henry, Thierry	New York Red Bulls	New York Red Bulls	San Jose Earthquakes	4/16/2011	87		LGE	Rodgers, Luke		
+Rogers, Robbie	Columbus Crew	Columbus Crew	Sporting Kansas City	4/16/2011	53		LGE	Duka, Dilly	Burns, Kevin	
+Oduro, Dominic	Chicago Fire	Chicago Fire	Los Angeles Galaxy	4/17/2011	89		LGE	Anibaba, Jalil		
+Barrett, Chad	Los Angeles Galaxy	Chicago Fire	Los Angeles Galaxy	4/17/2011	42		LGE	Lopez, Miguel		
+Gonzalez, Omar	Los Angeles Galaxy	Chicago Fire	Los Angeles Galaxy	4/17/2011	72		LGE	Lopez, Miguel		
+Jewsbury, Jack	Portland Timbers	Portland Timbers	FC Dallas 96	4/17/2011	13		LGE	Alhassan, Kalif		
+Cooper, Kenny	Portland Timbers	Portland Timbers	FC Dallas 96	4/17/2011	35		LGE	Jewsbury, Jack		
+Wallace, Rodney	Portland Timbers	Portland Timbers	FC Dallas 96	4/17/2011	55		LGE	Alhassan, Kalif		
+Ferreira, David	FC Dallas 96	Portland Timbers	FC Dallas 96	4/17/2011	83		LGE	Shea, Brek		
+Shea, Brek	FC Dallas 96	Portland Timbers	FC Dallas 96	4/17/2011	86		LGE	Ferreira, David		
+Freeman, Hunter	Houston Dynamo	Houston Dynamo	New England Revolution	4/17/2011	86		LGE			
+Thomas, Tamorley	Antigua Barracuda FC	Antigua Barracuda FC	Los Angeles Blues	4/17/2011	16		LGE			
+Gaitan, Walter	Los Angeles Blues	Antigua Barracuda FC	Los Angeles Blues	4/17/2011	0		LGE			
+Gaitan, Walter	Los Angeles Blues	Antigua Barracuda FC	Los Angeles Blues	4/17/2011	0		LGE			
+Fana, Jonathan	Puerto Rico Islanders	Tampa Bay Rowdies	Puerto Rico Islanders	4/17/2011	35		LGE	Foley, David		
+Fana, Jonathan	Puerto Rico Islanders	Tampa Bay Rowdies	Puerto Rico Islanders	4/17/2011	79		LGE	Richardson, Gregory		
+Surprenant, Alex	FC Edmonton	Atlanta Silverbacks	FC Edmonton	4/16/2011	11		LGE			
+Barbara, Etienne	Carolina RailHawks	Carolina RailHawks	FC Edmonton	4/20/2011	19		LGE			
+Zimmerman, Nick	Carolina RailHawks	Carolina RailHawks	FC Edmonton	4/20/2011	76		LGE			
+Ramos Lebron, Hector	Puerto Rico United	Puerto Rico United	Los Angeles Blues	4/20/2011	66		LGE	Da Silva Jr, Edivaldo(Juninho)		
+Ramos Lebron, Hector	Puerto Rico United	Puerto Rico United	Los Angeles Blues	4/20/2011	78		LGE			
+Colic, Tomislav	Los Angeles Blues	Puerto Rico United	Los Angeles Blues	4/20/2011	29		LGE	Priestley, Akeem		
+Randolph, Michael	Los Angeles Blues	Puerto Rico United	Los Angeles Blues	4/20/2011	41		LGE			
+Colic, Tomislav	Los Angeles Blues	Puerto Rico United	Los Angeles Blues	4/20/2011	59		LGE			
+Priestley, Akeem	Los Angeles Blues	Puerto Rico United	Los Angeles Blues	4/20/2011	83		LGE			
+Henry, Thierry	New York Red Bulls	D.C. United	New York Red Bulls	4/21/2011	12		LGE	Solli, Jan Gunnar	Richards, Dane	
+Henry, Thierry	New York Red Bulls	D.C. United	New York Red Bulls	4/21/2011	38		LGE	Solli, Jan Gunnar	Richards, Dane	
+Lindpere, Joel	New York Red Bulls	D.C. United	New York Red Bulls	4/21/2011	76		LGE	Henry, Thierry	Marquez, Rafael	
+Agudelo, Juan	New York Red Bulls	D.C. United	New York Red Bulls	4/21/2011	90		LGE	Solli, Jan Gunnar	Ballouchy, Mehdi	
+Montero, Fredy	Seattle Sounders	Colorado Rapids	Seattle Sounders	4/22/2011	19		LGE	Rosales, Mauro	White, O'Brien	
+Griffin, Maxwell	Orlando City	Orlando City	Puerto Rico United	4/22/2011	47		LGE			
+Griffin, Maxwell	Orlando City	Orlando City	Puerto Rico United	4/22/2011	50		LGE	Watson, Jamie		
+Da Silva Jr, Edivaldo(Juninho)	Puerto Rico United	Orlando City	Puerto Rico United	4/22/2011	30		LGE			
+Turizo Pulido, Mauricio Andres	Puerto Rico United	Orlando City	Puerto Rico United	4/22/2011	73		LGE			
+Roushandel, Ryan	Sevilla FC Puerto Rico	Antigua Barracuda FC	Sevilla FC Puerto Rico	4/21/2011	30		LGE	Acevedo Riaza, Alan Stiven		
+Bulow, David	Richmond Kickers	Richmond Kickers	Charleston Battery	4/23/2011	63		LGE	Callahan, Michael		
+Bangura, Shaka	Richmond Kickers	Richmond Kickers	Charleston Battery	4/23/2011	90		LGE	Vercollone, Luke		
+Coleman, Levi M.	Charleston Battery	Richmond Kickers	Charleston Battery	4/23/2011	15		LGE	Peverley, Cole		
+Harada, Shintaro	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Harrisburg City Islanders	4/23/2011	48		LGE	Severs, Chad		
+Davis IV, George	Dayton Dutch Lions	Dayton Dutch Lions	Rochester Rhinos	4/23/2011	8		LGE	Seymour, Lucien		
+Segebart, Kyle	Dayton Dutch Lions	Dayton Dutch Lions	Rochester Rhinos	4/23/2011	88		LGE	Tait, Joseph		
+Banks, Jimmy (JC)	Rochester Rhinos	Dayton Dutch Lions	Rochester Rhinos	4/23/2011	45		LGE			
+Motagalvan, Felix	Rochester Rhinos	Dayton Dutch Lions	Rochester Rhinos	4/23/2011	13		LGE	Tanke, Michael J		
+Hamilton, Anthony	Rochester Rhinos	Dayton Dutch Lions	Rochester Rhinos	4/23/2011	69		LGE			
+Matos Velez, Eloy J	River Plate Puerto Rico	River Plate Puerto Rico	Los Angeles Blues	4/23/2011	58		LGE			
+Samaniego, Cesar Rivera	Los Angeles Blues	River Plate Puerto Rico	Los Angeles Blues	4/23/2011	12		LGE			
+Perez, Mario	Atlanta Silverbacks	Atlanta Silverbacks	Ft. Lauderdale Strikers	4/23/2011	16		LGE			
+Nunez, Martin	Ft. Lauderdale Strikers	Atlanta Silverbacks	Ft. Lauderdale Strikers	4/23/2011	14		LGE	Wheeler, Aaron		
+Coudet, Eduardo	Ft. Lauderdale Strikers	Atlanta Silverbacks	Ft. Lauderdale Strikers	4/23/2011	90	Penalty	LGE			
+Tchani, Tony	Toronto FC	Toronto FC	Columbus Crew	4/23/2011	41		LGE	de Guzman, Julian	Gordon, Alan	
+Renteria, Emilio	Columbus Crew	Toronto FC	Columbus Crew	4/23/2011	49		LGE	Miranda, Sebastian		
+Wondolowski, Chris	San Jose Earthquakes	San Jose Earthquakes	CD Chivas USA	4/23/2011	16		LGE	Stephenson, Khari	Corrales, Ramiro	
+Moreno, Alejandro	CD Chivas USA	San Jose Earthquakes	CD Chivas USA	4/23/2011	45		LGE	Pearce, Heath		
+Trujillo, Mariano	CD Chivas USA	San Jose Earthquakes	CD Chivas USA	4/23/2011	85		LGE			
+Rochat, Alain	Vancouver Whitecaps	Vancouver Whitecaps	FC Dallas 96	4/23/2011	25		LGE	Chiumiento, Davide	Brovsky, Jeb	
+John, George	FC Dallas 96	Vancouver Whitecaps	FC Dallas 96	4/23/2011	53		LGE	Jackson Goncalves	Chavez, Marvin	
+Avila, Eric	FC Dallas 96	Vancouver Whitecaps	FC Dallas 96	4/23/2011	83		LGE	Rodriguez, Milton	Benitez, Jair	
+Perovic, Marko	New England Revolution	New England Revolution	Sporting Kansas City	4/23/2011	12		LGE	Feilhaber, Benny		
+Joseph, Shalrie	New England Revolution	New England Revolution	Sporting Kansas City	4/23/2011	72		LGE	Mansally, Kenny		
+Lekic, Rajko	New England Revolution	New England Revolution	Sporting Kansas City	4/23/2011	83		LGE	Boggs, Zak		
+Kamara, Kei	Sporting Kansas City	New England Revolution	Sporting Kansas City	4/23/2011	14		LGE	Bunbury, Teal		
+Kamara, Kei	Sporting Kansas City	New England Revolution	Sporting Kansas City	4/23/2011	69	Penalty	LGE			
+Smith, Stefan	Antigua Barracuda FC	Antigua Barracuda FC	Sevilla FC Puerto Rico	4/23/2011	19		LGE	Griffith, Quinton		
+Smith, Stefan	Antigua Barracuda FC	Antigua Barracuda FC	Sevilla FC Puerto Rico	4/23/2011	21		LGE	Griffith, Quinton		
+Gregory, Gason (Bubbla)	Antigua Barracuda FC	Antigua Barracuda FC	Sevilla FC Puerto Rico	4/23/2011	74		LGE			
+Gordley, Eli Edward Daniel	Sevilla FC Puerto Rico	Antigua Barracuda FC	Sevilla FC Puerto Rico	4/23/2011	15		LGE			
+Gustave, Alain	Sevilla FC Puerto Rico	Antigua Barracuda FC	Sevilla FC Puerto Rico	4/23/2011	83		LGE			
+Chaves, Diego	Chicago Fire	Chicago Fire	Houston Dynamo	4/23/2011	18		LGE	Pappa, Marco		
+Boswell, Bobby	Houston Dynamo	Chicago Fire	Houston Dynamo	4/23/2011	83		LGE	Davis, Brad		
+Barrett, Chad	Los Angeles Galaxy	Los Angeles Galaxy	Portland Timbers	4/23/2011	4		LGE	Donovan, Landon	Beckham, David	
+Donovan, Landon	Los Angeles Galaxy	Los Angeles Galaxy	Portland Timbers	4/23/2011	8	Penalty	LGE			
+Donovan, Landon	Los Angeles Galaxy	Los Angeles Galaxy	Portland Timbers	4/23/2011	67		LGE	Angel, Juan Pablo	Barrett, Chad	
+Christian, Ranja	Antigua Barracuda FC	Puerto Rico United	Antigua Barracuda FC	4/27/2011	78		LGE	Sterling, Newton		
+Byers, Peter	Antigua Barracuda FC	Puerto Rico United	Antigua Barracuda FC	4/27/2011	45		LGE	Griffith, Quinton		
+Byers, Peter	Antigua Barracuda FC	Puerto Rico United	Antigua Barracuda FC	4/27/2011	42		LGE			
+Mitchum, Orlando	Antigua Barracuda FC	Puerto Rico United	Antigua Barracuda FC	4/27/2011	38		LGE	Harvey, Christopher		
+Byers, Peter	Antigua Barracuda FC	Puerto Rico United	Antigua Barracuda FC	4/27/2011	26		LGE	Thomas, Tamorley		
+Byers, Peter	Antigua Barracuda FC	Puerto Rico United	Antigua Barracuda FC	4/27/2011	22		LGE	Harvey, Christopher		
+Thomas, Tamorley	Antigua Barracuda FC	Puerto Rico United	Antigua Barracuda FC	4/27/2011	7		LGE	Byers, Peter		
+Rife, Josh	Charlotte Eagles	Charlotte Eagles	Charleston Battery	4/29/2011	21		LGE	Bundu, Sallieu		
+Bah, Seedy	Charleston Battery	Charlotte Eagles	Charleston Battery	4/29/2011	33		LGE	Paterson, Nicholas		
+Paterson, Nicholas	Charleston Battery	Charlotte Eagles	Charleston Battery	4/29/2011	45		LGE			
+Budnyy, Andriy	Wilmington Hammerheads	Wilmington Hammerheads	Pittsburgh Riverhounds	4/29/2011	56		LGE	Mulholland, Luke A		
+Nicholson, Paul	Wilmington Hammerheads	Wilmington Hammerheads	Pittsburgh Riverhounds	4/29/2011	83		LGE	Grendi, Alex S.		
+Grendi, Alex S.	Wilmington Hammerheads	Wilmington Hammerheads	Pittsburgh Riverhounds	4/29/2011	90		LGE			
+Deighton, Jeremy	Pittsburgh Riverhounds	Wilmington Hammerheads	Pittsburgh Riverhounds	4/29/2011	79		LGE			
+Robinson, Lawson	Antigua Barracuda FC	River Plate Puerto Rico	Antigua Barracuda FC	4/29/2011	56		LGE			
+Gustave, Alain	Sevilla FC Puerto Rico	Sevilla FC Puerto Rico	Puerto Rico United	4/29/2011	14		LGE	Guirand, Stanley		
+Acevedo Riaza, Alan Stiven	Sevilla FC Puerto Rico	Sevilla FC Puerto Rico	Puerto Rico United	4/29/2011	60		LGE	Gustave, Alain		
+Kocic, Ljubomir (Lubo)	Puerto Rico United	Sevilla FC Puerto Rico	Puerto Rico United	4/29/2011	27		LGE			
+Turizo Pulido, Christian Andre	Puerto Rico United	Sevilla FC Puerto Rico	Puerto Rico United	4/29/2011	36		LGE			
+Turizo Pulido, Mauricio Andres	Puerto Rico United	Sevilla FC Puerto Rico	Puerto Rico United	4/29/2011	38		LGE			
+Addlery, Nicholas	Puerto Rico Islanders	Puerto Rico Islanders	NSC Minnesota Stars	4/26/2011	34		LGE			
+Fana, Jonathan	Puerto Rico Islanders	Puerto Rico Islanders	NSC Minnesota Stars	4/26/2011	39		LGE			
+Fana, Jonathan	Puerto Rico Islanders	Puerto Rico Islanders	NSC Minnesota Stars	4/26/2011	77		LGE			
+Altman, Kyle	NSC Minnesota Stars	Puerto Rico Islanders	NSC Minnesota Stars	4/26/2011	21		LGE			
+Addlery, Nicholas	Puerto Rico Islanders	Puerto Rico Islanders	Ft. Lauderdale Strikers	4/29/2011	74		LGE			
+Richardson, Gregory	Puerto Rico Islanders	Puerto Rico Islanders	Ft. Lauderdale Strikers	4/29/2011	90		LGE			
+Coudet, Eduardo	Ft. Lauderdale Strikers	Puerto Rico Islanders	Ft. Lauderdale Strikers	4/29/2011	40	Penalty	LGE			
+Gordon, Scott	Ft. Lauderdale Strikers	Puerto Rico Islanders	Ft. Lauderdale Strikers	4/29/2011	89		LGE			
+Ambersley, Mike	Tampa Bay Rowdies	Tampa Bay Rowdies	Atlanta Silverbacks	4/30/2011	74		LGE			
+Hunt, Willie	Atlanta Silverbacks	Tampa Bay Rowdies	Atlanta Silverbacks	4/30/2011	45		LGE			
+Bracalello, Simone	NSC Minnesota Stars	NSC Minnesota Stars	Carolina RailHawks	4/30/2011	66		LGE			
+Barbara, Etienne	Carolina RailHawks	NSC Minnesota Stars	Carolina RailHawks	4/30/2011	59	Penalty	LGE			
+Gerba, Ali	Montreal Impact	FC Edmonton	Montreal Impact	5/1/2011	9		LGE			
+Le Gall, Anthony	Montreal Impact	FC Edmonton	Montreal Impact	5/1/2011	31		LGE			
+Gerba, Ali	Montreal Impact	FC Edmonton	Montreal Impact	5/1/2011	36		LGE			
+Pizzolitto, Nevio	Montreal Impact	FC Edmonton	Montreal Impact	5/1/2011	85	Penalty	LGE			
+Ech Chergui, Idriss	Montreal Impact	FC Edmonton	Montreal Impact	5/1/2011	90		LGE			
+Millien, Pascal	Tampa Bay Rowdies	Tampa Bay Rowdies	Carolina RailHawks	5/7/2011	23		LGE			
+Barbara, Etienne	Carolina RailHawks	Tampa Bay Rowdies	Carolina RailHawks	5/7/2011	20		LGE			
+Farber, Brian	Carolina RailHawks	Tampa Bay Rowdies	Carolina RailHawks	5/7/2011	52		LGE			
+Barbara, Etienne	Carolina RailHawks	Tampa Bay Rowdies	Carolina RailHawks	5/7/2011	76		LGE			
+Craig, Paul	FC Edmonton	Atlanta Silverbacks	FC Edmonton	5/7/2011	69		LGE			
+Porter, Kyle	FC Edmonton	Atlanta Silverbacks	FC Edmonton	5/7/2011	76		LGE			
+Bracalello, Simone	NSC Minnesota Stars	NSC Minnesota Stars	Ft. Lauderdale Strikers	5/7/2011	88		LGE			
+Coudet, Eduardo	Ft. Lauderdale Strikers	NSC Minnesota Stars	Ft. Lauderdale Strikers	5/7/2011	35	Penalty	LGE			
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	Ft. Lauderdale Strikers	5/11/2011	18		LGE			
+Barbara, Etienne	Carolina RailHawks	Carolina RailHawks	Ft. Lauderdale Strikers	5/11/2011	27		LGE			
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	Ft. Lauderdale Strikers	5/11/2011	61		LGE			
+Russell, Allan	Carolina RailHawks	Carolina RailHawks	Ft. Lauderdale Strikers	5/11/2011	90		LGE			
+Otte, Patrick	Ft. Lauderdale Strikers	Carolina RailHawks	Ft. Lauderdale Strikers	5/11/2011	8		LGE			
+Santamaria, David	Ft. Lauderdale Strikers	Carolina RailHawks	Ft. Lauderdale Strikers	5/11/2011	90		LGE			
+Burt, Chad	Tampa Bay Rowdies	Tampa Bay Rowdies	FC Edmonton	5/11/2011	51		LGE			
+Kooy, Chris	FC Edmonton	Tampa Bay Rowdies	FC Edmonton	5/11/2011	90		LGE			
+Ech Chergui, Idriss	Montreal Impact	Montreal Impact	Carolina RailHawks	5/14/2011	84		LGE			
+Barbara, Etienne	Carolina RailHawks	Montreal Impact	Carolina RailHawks	5/14/2011	8		LGE			
+Barbara, Etienne	Carolina RailHawks	Montreal Impact	Carolina RailHawks	5/14/2011	51		LGE			
+Morrison, John Owen	FC New York	FC New York	Orlando City	4/30/2011	54		LGE			
+Olum, Lawrence	Orlando City	FC New York	Orlando City	4/30/2011	14		LGE			
+Neal, Lewis	Orlando City	FC New York	Orlando City	4/30/2011	80		LGE			
+Delicate, Matthew	Richmond Kickers	Dayton Dutch Lions	Richmond Kickers	4/30/2011	5		LGE	Goerres, Sascha		
+Elcock, Edson	Richmond Kickers	Dayton Dutch Lions	Richmond Kickers	4/30/2011	32		LGE	Nyazamba, Stanley		
+Heins, Ryan	Richmond Kickers	Dayton Dutch Lions	Richmond Kickers	4/30/2011	60		LGE	Delicate, Matthew		
+Bulow, David	Richmond Kickers	Dayton Dutch Lions	Richmond Kickers	4/30/2011	66		LGE	Delicate, Matthew		
+Bulow, David	Richmond Kickers	Dayton Dutch Lions	Richmond Kickers	4/30/2011	70	Penalty	LGE			
+Bangura, Shaka	Richmond Kickers	Dayton Dutch Lions	Richmond Kickers	4/30/2011	85		LGE	Dos Santos, Gerson P		
+Smith, Stefan	Antigua Barracuda FC	Los Angeles Blues	Antigua Barracuda FC	5/1/2011	24		LGE			
+Harvey, Christopher	Antigua Barracuda FC	Antigua Barracuda FC	River Plate Puerto Rico	5/6/2011	60		LGE	Gregory, Roy		
+Smith, Stefan	Antigua Barracuda FC	Antigua Barracuda FC	River Plate Puerto Rico	5/6/2011	77		LGE	Mitchum, Orlando		
+Dos Santos, Gerson P	Richmond Kickers	Richmond Kickers	Wilmington Hammerheads	5/7/2011	65		LGE			
+Delicate, Matthew	Richmond Kickers	Richmond Kickers	Wilmington Hammerheads	5/7/2011	80		LGE	Bangura, Shaka		
+Becerra, Jorge (Ivan)	Wilmington Hammerheads	Richmond Kickers	Wilmington Hammerheads	5/7/2011	3		LGE	Spendlove, Chris		
+Donatelli, Tony	Rochester Rhinos	Rochester Rhinos	Charleston Battery	5/7/2011	25		LGE	Kirk, Quavas		
+Griffin, Maxwell	Orlando City	Dayton Dutch Lions	Orlando City	5/7/2011	28		LGE	Watson, Jamie		
+Hoffer, Kyle	FC New York	FC New York	Harrisburg City Islanders	5/7/2011	10		LGE			
+Angulo, Jose	Harrisburg City Islanders	FC New York	Harrisburg City Islanders	5/7/2011	16		LGE	Ombiji, Brian		
+Mitchum, Orlando	Antigua Barracuda FC	Antigua Barracuda FC	River Plate Puerto Rico	5/8/2011	23		LGE			
+Angulo, Jose	Harrisburg City Islanders	Harrisburg City Islanders	Rochester Rhinos	5/10/2011	26		LGE	Becerra, Nelson		
+Randolph, Michael	Los Angeles Blues	Los Angeles Blues	Charlotte Eagles	5/12/2011	6		LGE			
+Chijindu, Chukwudi	Los Angeles Blues	Los Angeles Blues	Charlotte Eagles	5/12/2011	88		LGE	Samaniego, Cesar Rivera	Randolph, Michael	
+Toby, Darren	Charlotte Eagles	Los Angeles Blues	Charlotte Eagles	5/12/2011	83		LGE	Herrera, Jorge		
+Brito, Graciano	FC New York	Charleston Battery	FC New York	5/13/2011	35		LGE			
+Becerra, Nelson	Harrisburg City Islanders	Harrisburg City Islanders	Richmond Kickers	5/14/2011	56	Penalty	LGE			
+Bangura, Shaka	Richmond Kickers	Harrisburg City Islanders	Richmond Kickers	5/14/2011	82		LGE	Delicate, Matthew		
+Jagdeosingh, Kendall	Rochester Rhinos	Rochester Rhinos	Antigua Barracuda FC	5/14/2011	53		LGE	Banks, Jimmy (JC)		
+Rosenlund, Tyler	Rochester Rhinos	Rochester Rhinos	Antigua Barracuda FC	5/14/2011	60		LGE	Banks, Jimmy (JC)		
+Banks, Chris	Wilmington Hammerheads	Wilmington Hammerheads	FC New York	5/14/2011	15		LGE	Budnyy, Andriy		
+Banks, Chris	Wilmington Hammerheads	Wilmington Hammerheads	FC New York	5/14/2011	19		LGE			
+Noviello, Jyler	Wilmington Hammerheads	Wilmington Hammerheads	FC New York	5/14/2011	90		LGE			
+Brito, Graciano	FC New York	Wilmington Hammerheads	FC New York	5/14/2011	17		LGE			
+Molino, Kevin	Orlando City	Orlando City	Pittsburgh Riverhounds	5/14/2011	3		LGE			
+Gaitan, Walter	Los Angeles Blues	Los Angeles Blues	Charlotte Eagles	5/14/2011	75		LGE			
+Roberts, Weston Cheyne	Charlotte Eagles	Los Angeles Blues	Charlotte Eagles	5/14/2011	22		LGE	Herrera, Jorge		
+Herrera, Jorge	Charlotte Eagles	Los Angeles Blues	Charlotte Eagles	5/14/2011	90	Penalty	LGE			
+Bruin, Will	Houston Dynamo	Houston Dynamo	D.C. United	4/29/2011	5		LGE			
+Bruin, Will	Houston Dynamo	Houston Dynamo	D.C. United	4/29/2011	41		LGE			
+Bruin, Will	Houston Dynamo	Houston Dynamo	D.C. United	4/29/2011	56		LGE			
+Weaver, Cam	Houston Dynamo	Houston Dynamo	D.C. United	4/29/2011	62		LGE			
+Burch, Marc	D.C. United	Houston Dynamo	D.C. United	4/29/2011	39		LGE			
+LaBrocca, Nick	CD Chivas USA	CD Chivas USA	New England Revolution	4/30/2011	22		LGE			
+Mondaini, Marcos	CD Chivas USA	CD Chivas USA	New England Revolution	4/30/2011	45		LGE			
+Moreno, Alejandro	CD Chivas USA	CD Chivas USA	New England Revolution	4/30/2011	57		LGE			
+Akpan, Andre	Colorado Rapids	Colorado Rapids	Chicago Fire	4/30/2011	49		LGE			
+Pappa, Marco	Chicago Fire	Colorado Rapids	Chicago Fire	4/30/2011	43		LGE			
+Renteria, Emilio	Columbus Crew	Columbus Crew	Vancouver Whitecaps	4/30/2011	50	Penalty	LGE			
+Renteria, Emilio	Columbus Crew	Columbus Crew	Vancouver Whitecaps	4/30/2011	59		LGE			
+Salgado, Omar	Vancouver Whitecaps	Columbus Crew	Vancouver Whitecaps	4/30/2011	69		LGE			
+Rodgers, Luke	New York Red Bulls	New York Red Bulls	Sporting Kansas City	4/30/2011	21		LGE			
+Le Toux, Sebastien	Philadephia Union	Philadephia Union	San Jose Earthquakes	4/30/2011	76	Penalty	LGE			
+Cooper, Kenny	Portland Timbers	Portland Timbers	Real Salt Lake	4/30/2011	22		LGE			
+Fernandez, Alvaro	Seattle Sounders	Seattle Sounders	Toronto FC	4/30/2011	9		LGE			
+Evans, Brad	Seattle Sounders	Seattle Sounders	Toronto FC	4/30/2011	52		LGE			
+Evans, Brad	Seattle Sounders	Seattle Sounders	Toronto FC	4/30/2011	75		LGE			
+Cosgriff, Jeff	NSC Minnesota Stars	NSC Minnesota Stars	Atlanta Silverbacks	5/14/2011	18		LGE	Hlavaty, Neil		
+Hlavaty, Neil	NSC Minnesota Stars	NSC Minnesota Stars	Atlanta Silverbacks	5/14/2011	57	Penalty	LGE			
+Rodriguez, Lucas	NSC Minnesota Stars	NSC Minnesota Stars	Atlanta Silverbacks	5/14/2011	66		LGE	Del Do, Devin		
+LaCrone, Kolby	Dayton Dutch Lions	Dayton Dutch Lions	Los Angeles Blues	5/20/2011	60		LGE	Davis IV, George		
+Bravo, Jhonatan Jose	Los Angeles Blues	Dayton Dutch Lions	Los Angeles Blues	5/20/2011	6		LGE			
+Toby, Darren	Charlotte Eagles	Charlotte Eagles	Antigua Barracuda FC	5/20/2011	17		LGE	Bloom, Mark		
+Sanchez, Alan	Charlotte Eagles	Charlotte Eagles	Antigua Barracuda FC	5/20/2011	66		LGE	Bryant, Brady		
+Brunner, Eric	Portland Timbers	Portland Timbers	Columbus Crew	5/21/2011	46		LGE			
+Castillo, Fabian	FC Dallas 96	FC Dallas 96	Los Angeles Galaxy	5/1/2011	47		LGE	Jacobson, Andrew		
+Shea, Brek	FC Dallas 96	FC Dallas 96	Los Angeles Galaxy	5/1/2011	88		LGE	Lloyd, Zach		
+Donovan, Landon	Los Angeles Galaxy	FC Dallas 96	Los Angeles Galaxy	5/1/2011	50		LGE	Juninho		
+Davis, Justin	NSC Minnesota Stars	NSC Minnesota Stars	Puerto Rico Islanders	5/18/2011	62		LGE	Allen, Ely		
+Del Do, Devin	NSC Minnesota Stars	NSC Minnesota Stars	Puerto Rico Islanders	5/18/2011	73		LGE	Rodriguez, Lucas		
+Ukah, Warren	Tampa Bay Rowdies	Tampa Bay Rowdies	Montreal Impact	5/21/2011	40		LGE	Hayes, David		
+Ambersley, Mike	Tampa Bay Rowdies	Tampa Bay Rowdies	Montreal Impact	5/21/2011	74	Penalty	LGE			
+Yoshitake, Tsuyoshi	Tampa Bay Rowdies	Tampa Bay Rowdies	Montreal Impact	5/21/2011	84		LGE	Burt, Chad		
+Porter, Kyle	FC Edmonton	FC Edmonton	NSC Minnesota Stars	5/23/2011	26		LGE			
+Porter, Kyle	FC Edmonton	FC Edmonton	NSC Minnesota Stars	5/23/2011	65		LGE			
+Bracalello, Simone	NSC Minnesota Stars	FC Edmonton	NSC Minnesota Stars	5/23/2011	24		LGE			
+Deighton, Jeremy	Pittsburgh Riverhounds	Pittsburgh Riverhounds	FC New York	5/21/2011	30		LGE	Gray, Thomas J		
+Fondy, Matthew Ryan	Pittsburgh Riverhounds	Pittsburgh Riverhounds	FC New York	5/21/2011	48		LGE			
+Mulholland, Luke A	Wilmington Hammerheads	Wilmington Hammerheads	Charleston Battery	5/21/2011	27		LGE	Budnyy, Andriy		
+Mulholland, Luke A	Wilmington Hammerheads	Wilmington Hammerheads	Charleston Battery	5/21/2011	85		LGE	Grendi, Alex S.		
+Avesyan, Hakop	Wilmington Hammerheads	Wilmington Hammerheads	Charleston Battery	5/21/2011	90		LGE	Wolfe, Tanner		
+Basso, Stephen	Harrisburg City Islanders	Harrisburg City Islanders	Orlando City	5/22/2011	80		LGE	Angulo, Jose		
+Stewart, Demar	Orlando City	Harrisburg City Islanders	Orlando City	5/22/2011	2		LGE	Traynor, John (Jack)		
+Griffin, Maxwell	Orlando City	Harrisburg City Islanders	Orlando City	5/22/2011	90		LGE	Olum, Lawrence		
+Neal, Lewis	Orlando City	Harrisburg City Islanders	Orlando City	5/22/2011	90		LGE			
+Miranda, Edwin V	Los Angeles Blues	Pittsburgh Riverhounds	Los Angeles Blues	5/22/2011	17		LGE	Chijindu, Chukwudi		
+Chijindu, Chukwudi	Los Angeles Blues	Pittsburgh Riverhounds	Los Angeles Blues	5/22/2011	28		LGE	Gaitan, Walter		
+Chijindu, Chukwudi	Los Angeles Blues	Pittsburgh Riverhounds	Los Angeles Blues	5/22/2011	90		LGE	Bravo, Jhonatan Jose		
+Kelly, Dane	Charleston Battery	Charleston Battery	Richmond Kickers	5/24/2011	26		LGE			
+Gruenewald, Jon	Charleston Battery	Charleston Battery	Richmond Kickers	5/24/2011	86		LGE	Paterson, Nicholas		
+Delicate, Matthew	Richmond Kickers	Charleston Battery	Richmond Kickers	5/24/2011	1		LGE			
+Armstrong, Stephen	Charleston Battery	Charleston Battery	Harrisburg City Islanders	5/28/2011	61		LGE			
+Paterson, Nicholas	Charleston Battery	Charleston Battery	Harrisburg City Islanders	5/28/2011	87		LGE	Bah, Seedy		
+Angulo, Jose	Harrisburg City Islanders	Charleston Battery	Harrisburg City Islanders	5/28/2011	6		LGE	Schofield, David		
+Willie, Julius	Dayton Dutch Lions	Dayton Dutch Lions	Charlotte Eagles	5/28/2011	62	Penalty	LGE			
+Bundu, Sallieu	Charlotte Eagles	Dayton Dutch Lions	Charlotte Eagles	5/28/2011	10		LGE	Williams, Luke		
+Heins, Ryan	Richmond Kickers	Richmond Kickers	FC New York	5/28/2011	37		LGE	Goerres, Sascha		
+Nyazamba, Stanley	Richmond Kickers	Richmond Kickers	FC New York	5/28/2011	53		LGE	Elcock, Edson		
+Brito, Graciano	FC New York	Richmond Kickers	FC New York	5/28/2011	52		LGE	Terra, Tadeu Souza		
+Brito, Graciano	FC New York	Richmond Kickers	FC New York	5/28/2011	79		LGE			
+Terra, Tadeu Souza	FC New York	FC New York	Rochester Rhinos	5/30/2011	29		LGE			
+Arteaga, Jhonny	FC New York	FC New York	Rochester Rhinos	5/30/2011	45		LGE	Terra, Tadeu Souza		
+Alesci, Frank	Rochester Rhinos	FC New York	Rochester Rhinos	5/30/2011	57		LGE			
+Neal, Lewis	Orlando City	Orlando City	Richmond Kickers	5/25/2011	4		LGE	Molino, Kevin		
+Molino, Kevin	Orlando City	Orlando City	Richmond Kickers	5/25/2011	13		LGE	Boden, Luke		
+Motagalvan, Felix	Rochester Rhinos	Rochester Rhinos	Wilmington Hammerheads	5/27/2011	63		LGE	Costanzo, Richard (Rich)		
+Becerra, Jorge (Ivan)	Wilmington Hammerheads	Rochester Rhinos	Wilmington Hammerheads	5/27/2011	61		LGE	Spendlove, Chris		
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	Atlanta Silverbacks	5/28/2011	81		LGE	Barbara, Etienne		
+Russell, Allan	Carolina RailHawks	Carolina RailHawks	Atlanta Silverbacks	5/28/2011	90		LGE	Barbara, Etienne		
+Angulo, Jose	Harrisburg City Islanders	Harrisburg City Islanders	Pittsburgh Riverhounds	5/31/2011	6	Penalty	LGE			
+Langley, Morgan	Harrisburg City Islanders	Harrisburg City Islanders	Pittsburgh Riverhounds	5/31/2011	48		LGE	Hotchkin, Jason		
+Hotchkin, Jason	Harrisburg City Islanders	Harrisburg City Islanders	Pittsburgh Riverhounds	5/31/2011	55		LGE	Noone, JT		
+Touray, Sainey	Harrisburg City Islanders	Harrisburg City Islanders	Pittsburgh Riverhounds	5/31/2011	89		LGE	Ombiji, Brian		
+Yeisley, Jason	Pittsburgh Riverhounds	Harrisburg City Islanders	Pittsburgh Riverhounds	5/31/2011	64		LGE			
+Yeisley, Jason	Pittsburgh Riverhounds	Harrisburg City Islanders	Pittsburgh Riverhounds	5/31/2011	67		LGE	Khumalo, Thabiso (Boyzzz)		
+Porter, Kyle	FC Edmonton	FC Edmonton	Tampa Bay Rowdies	5/31/2011	28		LGE	Yamada, Kyle		
+Yamada, Kyle	FC Edmonton	FC Edmonton	Tampa Bay Rowdies	5/31/2011	37		LGE			
+Saiko, Shaun	FC Edmonton	FC Edmonton	Tampa Bay Rowdies	5/31/2011	85		LGE	Cox, Michael		
+Chin, Shawn	FC Edmonton	FC Edmonton	Tampa Bay Rowdies	5/31/2011	88		LGE			
+Addlery, Nicholas	Puerto Rico Islanders	Puerto Rico Islanders	NSC Minnesota Stars	6/1/2011	39		LGE	Hansen, Joshua		
+Bracalello, Simone	NSC Minnesota Stars	Puerto Rico Islanders	NSC Minnesota Stars	6/1/2011	69		LGE			
+Aquino, Michele	FC New York	FC New York	Charleston Battery	6/3/2011	45		LGE			
+Paterson, Nicholas	Charleston Battery	FC New York	Charleston Battery	6/3/2011	45		LGE			
+Burton, Randolph	Antigua Barracuda FC	Antigua Barracuda FC	Rochester Rhinos	6/3/2011	55		LGE			
+Hoxie, Andrew	Rochester Rhinos	Antigua Barracuda FC	Rochester Rhinos	6/3/2011	20		LGE			
+Hoxie, Andrew	Rochester Rhinos	Antigua Barracuda FC	Rochester Rhinos	6/3/2011	33		LGE			
+Ambersley, Mike	Tampa Bay Rowdies	Tampa Bay Rowdies	Carolina RailHawks	6/4/2011	86	Penalty	LGE			
+Barbara, Etienne	Carolina RailHawks	Tampa Bay Rowdies	Carolina RailHawks	6/4/2011	63	Penalty	LGE			
+Zimmerman, Nick	Carolina RailHawks	Tampa Bay Rowdies	Carolina RailHawks	6/4/2011	65		LGE	Steele, Jonny		
+Diouf, Mignane	Montreal Impact	Montreal Impact	FC Edmonton	6/4/2011	34		LGE			
+Billy, Philippe	Montreal Impact	Montreal Impact	FC Edmonton	6/4/2011	82		LGE			
+Del Do, Devin	NSC Minnesota Stars	Atlanta Silverbacks	NSC Minnesota Stars	6/4/2011	3		LGE	Gotsmanov, Andrei		
+Del Do, Devin	NSC Minnesota Stars	Atlanta Silverbacks	NSC Minnesota Stars	6/4/2011	64		LGE	Kallman, Brian		
+Touray, Sainey	Harrisburg City Islanders	Harrisburg City Islanders	Charleston Battery	6/4/2011	89		LGE	Noone, JT		
+Davis IV, George	Dayton Dutch Lions	Dayton Dutch Lions	Pittsburgh Riverhounds	6/4/2011	74		LGE	Seymour, Lucien		
+Davis IV, George	Dayton Dutch Lions	Dayton Dutch Lions	Pittsburgh Riverhounds	6/4/2011	79		LGE	LaCrone, Kolby		
+Yeisley, Jason	Pittsburgh Riverhounds	Dayton Dutch Lions	Pittsburgh Riverhounds	6/4/2011	37		LGE			
+Cuero, Julio (Andres)	Wilmington Hammerheads	Wilmington Hammerheads	Orlando City	6/4/2011	31		LGE			
+Banks, Chris	Wilmington Hammerheads	Wilmington Hammerheads	Orlando City	6/4/2011	44		LGE	Parratt, Tom		
+Watson, Jamie	Orlando City	Wilmington Hammerheads	Orlando City	6/4/2011	41		LGE	Molino, Kevin		
+Watson, Jamie	Orlando City	Wilmington Hammerheads	Orlando City	6/4/2011	52		LGE			
+Stewart, Demar	Orlando City	Wilmington Hammerheads	Orlando City	6/4/2011	64		LGE			
+Griffin, Maxwell	Orlando City	Wilmington Hammerheads	Orlando City	6/4/2011	90		LGE			
+Thompson, Abe	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Puerto Rico Islanders	6/4/2011	11		LGE			
+Arrieta, Cristian	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Puerto Rico Islanders	6/4/2011	81		LGE	Coudet, Eduardo		
+Peguero, Jean Phillipe	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Puerto Rico Islanders	6/4/2011	88		LGE	Santamaria, David		
+Addlery, Nicholas	Puerto Rico Islanders	Ft. Lauderdale Strikers	Puerto Rico Islanders	6/4/2011	64		LGE			
+Fana, Jonathan	Puerto Rico Islanders	Ft. Lauderdale Strikers	Puerto Rico Islanders	6/4/2011	67		LGE	Foley, David		
+Harvey, Christopher	Antigua Barracuda FC	Antigua Barracuda FC	Rochester Rhinos	6/5/2011	2		LGE	Griffith, Quinton		
+Burton, Randolph	Antigua Barracuda FC	Antigua Barracuda FC	Rochester Rhinos	6/5/2011	71		LGE	Christian, Ranja		
+Donatelli, Tony	Rochester Rhinos	Antigua Barracuda FC	Rochester Rhinos	6/5/2011	64		LGE	Kirk, Quavas		
+Kitson, Neal	Rochester Rhinos	Antigua Barracuda FC	Rochester Rhinos	6/5/2011	90		LGE			
+Pitchkolan, Aaron	Puerto Rico Islanders	Puerto Rico Islanders	Montreal Impact	6/12/2011	23		LGE			
+Addlery, Nicholas	Puerto Rico Islanders	Puerto Rico Islanders	Montreal Impact	6/12/2011	37		LGE			
+Lowery, Amir	Montreal Impact	Puerto Rico Islanders	Montreal Impact	6/12/2011	35		LGE			
+Ambersley, Mike	Tampa Bay Rowdies	Tampa Bay Rowdies	Atlanta Silverbacks	6/12/2011	31		LGE			
+Ambersley, Mike	Tampa Bay Rowdies	Tampa Bay Rowdies	Atlanta Silverbacks	6/12/2011	54		LGE			
+King, Aaron	Tampa Bay Rowdies	Tampa Bay Rowdies	Atlanta Silverbacks	6/12/2011	86		LGE			
+Hunt, Willie	Atlanta Silverbacks	Tampa Bay Rowdies	Atlanta Silverbacks	6/12/2011	34		LGE			
+Davis, Jordan	Atlanta Silverbacks	Tampa Bay Rowdies	Atlanta Silverbacks	6/12/2011	64		LGE			
+Granado, Yorimar	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	NSC Minnesota Stars	6/11/2011	55		LGE			
+Shriver, Brian	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	NSC Minnesota Stars	6/11/2011	65		LGE			
+Shriver, Brian	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	NSC Minnesota Stars	6/11/2011	87		LGE			
+Watson, Matt	Carolina RailHawks	FC Edmonton	Carolina RailHawks	6/10/2011	53		LGE			
+Cox, Jon	Atlanta Silverbacks	Atlanta Silverbacks	Montreal Impact	6/8/2011	13		LGE			
+Perez, Mario	Atlanta Silverbacks	Atlanta Silverbacks	Montreal Impact	6/8/2011	34		LGE			
+Diouf, Mignane	Montreal Impact	Atlanta Silverbacks	Montreal Impact	6/8/2011	43		LGE			
+Angulo, Jose	Harrisburg City Islanders	Harrisburg City Islanders	Dayton Dutch Lions	6/8/2011	5		LGE	Tuttle, Philip		
+Ombiji, Brian	Harrisburg City Islanders	Harrisburg City Islanders	Dayton Dutch Lions	6/8/2011	31		LGE	Schofield, David		
+Ombiji, Brian	Harrisburg City Islanders	Harrisburg City Islanders	Dayton Dutch Lions	6/8/2011	33		LGE	Pelletier, Jason		
+Angulo, Jose	Harrisburg City Islanders	Harrisburg City Islanders	Dayton Dutch Lions	6/8/2011	34		LGE			
+Davis IV, George	Dayton Dutch Lions	Harrisburg City Islanders	Dayton Dutch Lions	6/8/2011	50		LGE			
+Cole, Troy	FC New York	FC New York	Dayton Dutch Lions	6/10/2011	3		LGE	Terra, Tadeu Souza		
+Arteaga, Jhonny	FC New York	FC New York	Dayton Dutch Lions	6/10/2011	29		LGE	Cole, Troy		
+Boughton, Gary D	FC New York	FC New York	Dayton Dutch Lions	6/10/2011	81		LGE	Terra, Tadeu Souza		
+Budnyy, Andriy	Wilmington Hammerheads	Wilmington Hammerheads	Pittsburgh Riverhounds	6/10/2011	28		LGE	Parratt, Tom		
+Banks, Chris	Wilmington Hammerheads	Wilmington Hammerheads	Pittsburgh Riverhounds	6/10/2011	55		LGE			
+Mulholland, Luke A	Wilmington Hammerheads	Wilmington Hammerheads	Pittsburgh Riverhounds	6/10/2011	59		LGE	Cuero, Julio (Andres)		
+Fondy, Matthew Ryan	Pittsburgh Riverhounds	Wilmington Hammerheads	Pittsburgh Riverhounds	6/10/2011	14		LGE	Gray, Thomas J		
+Griffin, Maxwell	Orlando City	Orlando City	Antigua Barracuda FC	6/10/2011	59		LGE	Watson, Jamie		
+Smith, Stefan	Antigua Barracuda FC	Orlando City	Antigua Barracuda FC	6/10/2011	48		LGE			
+Burton, Randolph	Antigua Barracuda FC	Orlando City	Antigua Barracuda FC	6/10/2011	54		LGE			
+Jagdeosingh, Kendall	Rochester Rhinos	Rochester Rhinos	Harrisburg City Islanders	6/11/2011	65		LGE			
+Roberts, Weston Cheyne	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	6/11/2011	11		LGE	Rife, Josh		
+Roberts, Weston Cheyne	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	6/11/2011	40		LGE	Herrera, Jorge		
+Martins, Diego Jose	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	6/11/2011	72		LGE	Herrera, Jorge		
+Elcock, Edson	Richmond Kickers	FC New York	Richmond Kickers	6/12/2011	45		LGE	Goerres, Sascha		
+Delicate, Matthew	Richmond Kickers	FC New York	Richmond Kickers	6/12/2011	45		LGE			
+Chin, Shawn	FC Edmonton	FC Edmonton	Puerto Rico Islanders	6/15/2011	9		LGE			
+Antoniuk, Daniel	FC Edmonton	FC Edmonton	Puerto Rico Islanders	6/15/2011	35		LGE			
+Saiko, Shaun	FC Edmonton	FC Edmonton	Puerto Rico Islanders	6/15/2011	57		LGE			
+Watson, Matt	Carolina RailHawks	Carolina RailHawks	Tampa Bay Rowdies	6/18/2011	36		LGE	Barbara, Etienne		
+Barbara, Etienne	Carolina RailHawks	Carolina RailHawks	Tampa Bay Rowdies	6/18/2011	69		LGE			
+Russell, Allan	Carolina RailHawks	Carolina RailHawks	Tampa Bay Rowdies	6/18/2011	90		LGE	Barbara, Etienne		
+Ukah, Warren	Tampa Bay Rowdies	Carolina RailHawks	Tampa Bay Rowdies	6/18/2011	18		LGE			
+Hlavaty, Neil	NSC Minnesota Stars	NSC Minnesota Stars	FC Edmonton	6/18/2011	55	Penalty	LGE			
+Saiko, Shaun	FC Edmonton	NSC Minnesota Stars	FC Edmonton	6/18/2011	14		LGE			
+Hotchkin, Jason	Harrisburg City Islanders	Richmond Kickers	Harrisburg City Islanders	6/17/2011	45		LGE	Angulo, Jose		
+Coleman, Levi M.	Charleston Battery	Charleston Battery	Dayton Dutch Lions	6/17/2011	77		LGE	Taylor, Evan		
+Costanzo, Richard (Rich)	Rochester Rhinos	Pittsburgh Riverhounds	Rochester Rhinos	6/17/2011	8		LGE	Hoxie, Andrew		
+Hoxie, Andrew	Rochester Rhinos	Pittsburgh Riverhounds	Rochester Rhinos	6/17/2011	17		LGE			
+Cost, Andrew	Rochester Rhinos	Pittsburgh Riverhounds	Rochester Rhinos	6/17/2011	43		LGE	Donatelli, Tony		
+Jorsling, Devorn	Orlando City	Orlando City	Wilmington Hammerheads	6/18/2011	54		LGE			
+Budnyy, Andriy	Wilmington Hammerheads	Orlando City	Wilmington Hammerheads	6/18/2011	84		LGE	Mulholland, Luke A		
+Toby, Darren	Charlotte Eagles	Charlotte Eagles	Dayton Dutch Lions	6/18/2011	10		LGE	Roberts, Weston Cheyne		
+Bundu, Sallieu	Charlotte Eagles	Charlotte Eagles	Dayton Dutch Lions	6/18/2011	80		LGE	Bryant, Brady		
+Foley, David	Puerto Rico Islanders	Puerto Rico Islanders	Atlanta Silverbacks	6/19/2011	90		LGE	Bouraree, Matt		
+Hansen, Joshua	Puerto Rico Islanders	Puerto Rico Islanders	Atlanta Silverbacks	6/19/2011	80		LGE	Pitchkolan, Aaron		
+Fana, Jonathan	Puerto Rico Islanders	Puerto Rico Islanders	Atlanta Silverbacks	6/19/2011	1		LGE	Foley, David		
+Paulini, Lucas	Atlanta Silverbacks	Puerto Rico Islanders	Atlanta Silverbacks	6/19/2011	45	Penalty	LGE			
+Horth, Matt	Atlanta Silverbacks	Atlanta Silverbacks	Carolina RailHawks	6/25/2011	10		LGE	Chinn, Conor		
+Barbara, Etienne	Carolina RailHawks	Atlanta Silverbacks	Carolina RailHawks	6/25/2011	21		LGE	Watson, Matt		
+Zimmerman, Nick	Carolina RailHawks	Atlanta Silverbacks	Carolina RailHawks	6/25/2011	29		LGE	Franks, Floyd		
+Nurse, Chris	Carolina RailHawks	Atlanta Silverbacks	Carolina RailHawks	6/25/2011	36		LGE	Steele, Jonny		
+Rusin, Brad	Carolina RailHawks	Atlanta Silverbacks	Carolina RailHawks	6/25/2011	88		LGE	Russell, Allan		
+Zimmerman, Nick	Carolina RailHawks	Atlanta Silverbacks	Carolina RailHawks	6/25/2011	63		LGE	Nurse, Chris		
+Nunez, Martin	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Puerto Rico Islanders	6/25/2011	75		LGE	Arrieta, Cristian		
+Fana, Jonathan	Puerto Rico Islanders	Ft. Lauderdale Strikers	Puerto Rico Islanders	6/25/2011	65		LGE	Emory, Logan		
+Porter, Kyle	FC Edmonton	FC Edmonton	Montreal Impact	6/26/2011	5		LGE			
+Bundu, Sallieu	Charlotte Eagles	Charlotte Eagles	Pittsburgh Riverhounds	6/24/2011	15		LGE	Page, Benjamin		
+Bundu, Sallieu	Charlotte Eagles	Charlotte Eagles	Pittsburgh Riverhounds	6/24/2011	24		LGE	Dalby, Gregory		
+Bah, Seedy	Charleston Battery	Wilmington Hammerheads	Charleston Battery	6/24/2011	30		LGE	Prince, Zach		
+Kelly, Dane	Charleston Battery	Wilmington Hammerheads	Charleston Battery	6/24/2011	67		LGE	Falvey, Colin		
+Mitchum, Orlando	Antigua Barracuda FC	Antigua Barracuda FC	Orlando City	6/24/2011	25		LGE	Burton, Randolph		
+Griffin, Maxwell	Orlando City	Antigua Barracuda FC	Orlando City	6/24/2011	22		LGE	Ustruck, Erik		
+Boden, Luke	Orlando City	Antigua Barracuda FC	Orlando City	6/24/2011	61		LGE	Neal, Lewis		
+Tudela, Josh	Los Angeles Blues	Los Angeles Blues	Harrisburg City Islanders	6/24/2011	59		LGE	Chijindu, Chukwudi		
+Welker, Andrew	Harrisburg City Islanders	Los Angeles Blues	Harrisburg City Islanders	6/24/2011	53		LGE	Angulo, Jose		
+Banks, Jimmy (JC)	Rochester Rhinos	Rochester Rhinos	Dayton Dutch Lions	6/25/2011	90		LGE	Kitson, Neal		
+Tuttle, Matt	Pittsburgh Riverhounds	Charleston Battery	Pittsburgh Riverhounds	6/25/2011	6		LGE			
+Harada, Shintaro	Pittsburgh Riverhounds	Charleston Battery	Pittsburgh Riverhounds	6/25/2011	68		LGE			
+Christian, Ranja	Antigua Barracuda FC	Antigua Barracuda FC	Orlando City	6/26/2011	51		LGE	Gregory, Roy		
+Jorsling, Devorn	Orlando City	Antigua Barracuda FC	Orlando City	6/26/2011	13		LGE			
+Jorsling, Devorn	Orlando City	Antigua Barracuda FC	Orlando City	6/26/2011	26		LGE			
+Sesay, Israel	Los Angeles Blues	Los Angeles Blues	Harrisburg City Islanders	6/26/2011	82		LGE	Priestley, Akeem		
+Touray, Sainey	Harrisburg City Islanders	Los Angeles Blues	Harrisburg City Islanders	6/26/2011	45		LGE	Thayer, Jeritt		
+Welker, Andrew	Harrisburg City Islanders	Los Angeles Blues	Harrisburg City Islanders	6/26/2011	64		LGE	Touray, Sainey		
+Ambersley, Mike	Tampa Bay Rowdies	Tampa Bay Rowdies	Ft. Lauderdale Strikers	7/4/2011	68		LGE	Yoshitake, Tsuyoshi		
+Coudet, Eduardo	Ft. Lauderdale Strikers	Tampa Bay Rowdies	Ft. Lauderdale Strikers	7/4/2011	90		LGE			
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	Montreal Impact	7/3/2011	30		LGE			
+Zimmerman, Nick	Carolina RailHawks	Carolina RailHawks	Montreal Impact	7/3/2011	34		LGE			
+O'Brien, Ciaran	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	7/4/2011	32	Penalty	LGE			
+O'Brien, Ciaran	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	7/4/2011	56	Penalty	LGE			
+Sandoval, Junior	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	7/4/2011	59		LGE			
+Pitchkolan, Aaron	Puerto Rico Islanders	Atlanta Silverbacks	Puerto Rico Islanders	7/4/2011	27		LGE			
+Bouraree, Matt	Puerto Rico Islanders	Atlanta Silverbacks	Puerto Rico Islanders	7/4/2011	38		LGE			
+Foley, David	Puerto Rico Islanders	Atlanta Silverbacks	Puerto Rico Islanders	7/4/2011	66	Penalty	LGE			
+Fana, Jonathan	Puerto Rico Islanders	Atlanta Silverbacks	Puerto Rico Islanders	7/4/2011	90		LGE			
+Del Do, Devin	NSC Minnesota Stars	NSC Minnesota Stars	FC Edmonton	7/4/2011	85		LGE			
+Surprenant, Alex	FC Edmonton	NSC Minnesota Stars	FC Edmonton	7/4/2011	63		LGE			
+Thompson, Abe	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Atlanta Silverbacks	7/9/2011	8		LGE			
+Arquez, Bryan	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Atlanta Silverbacks	7/9/2011	74		LGE			
+Paulini, Lucas	Atlanta Silverbacks	Ft. Lauderdale Strikers	Atlanta Silverbacks	7/9/2011	17		LGE			
+O'Brien, Ciaran	Atlanta Silverbacks	Ft. Lauderdale Strikers	Atlanta Silverbacks	7/9/2011	32		LGE			
+Horth, Matt	Atlanta Silverbacks	Ft. Lauderdale Strikers	Atlanta Silverbacks	7/9/2011	53		LGE			
+Foley, David	Puerto Rico Islanders	Puerto Rico Islanders	Tampa Bay Rowdies	7/9/2011	82		LGE			
+King, Aaron	Tampa Bay Rowdies	Puerto Rico Islanders	Tampa Bay Rowdies	7/9/2011	18		LGE			
+Walker, Amani	NSC Minnesota Stars	NSC Minnesota Stars	Carolina RailHawks	7/9/2011	90		LGE			
+Arteaga, Jhonny	FC New York	FC New York	Antigua Barracuda FC	7/1/2011	15		LGE	Morrison, John Owen		
+Arteaga, Jhonny	FC New York	FC New York	Antigua Barracuda FC	7/1/2011	40		LGE			
+Kissi, Isaac	Rochester Rhinos	Rochester Rhinos	Richmond Kickers	7/1/2011	47		LGE			
+Jagdeosingh, Kendall	Rochester Rhinos	Rochester Rhinos	Richmond Kickers	7/1/2011	72		LGE	Hoxie, Andrew		
+Bellamy, Tyler	Richmond Kickers	Rochester Rhinos	Richmond Kickers	7/1/2011	56	Own Goal	LGE			
+Welker, Andrew	Harrisburg City Islanders	Harrisburg City Islanders	Charlotte Eagles	7/2/2011	45		LGE	Ombiji, Brian		
+Welker, Andrew	Harrisburg City Islanders	Harrisburg City Islanders	Charlotte Eagles	7/2/2011	65		LGE	Ombiji, Brian		
+Touray, Sainey	Harrisburg City Islanders	Harrisburg City Islanders	Charlotte Eagles	7/2/2011	74		LGE			
+Touray, Sainey	Harrisburg City Islanders	Harrisburg City Islanders	Charlotte Eagles	7/2/2011	88		LGE	Hotchkin, Jason		
+Budnyy, Andriy	Wilmington Hammerheads	Wilmington Hammerheads	Los Angeles Blues	7/2/2011	1		LGE	Avesyan, Hakop		
+Banks, Chris	Wilmington Hammerheads	Wilmington Hammerheads	Los Angeles Blues	7/2/2011	66		LGE	Parratt, Tom		
+Becerra, Jorge (Ivan)	Wilmington Hammerheads	Wilmington Hammerheads	Los Angeles Blues	7/2/2011	71		LGE	Banks, Chris		
+Murray, Christopher	Wilmington Hammerheads	Wilmington Hammerheads	Los Angeles Blues	7/2/2011	81		LGE	Banks, Chris		
+Samaniego, Cesar Rivera	Los Angeles Blues	Wilmington Hammerheads	Los Angeles Blues	7/2/2011	23		LGE			
+Priestley, Akeem	Los Angeles Blues	Wilmington Hammerheads	Los Angeles Blues	7/2/2011	88		LGE			
+Yeisley, Jason	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Antigua Barracuda FC	7/3/2011	45	Penalty	LGE			
+Deighton, Jeremy	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Antigua Barracuda FC	7/3/2011	80		LGE	Gray, Thomas J		
+Watson, Jamie	Orlando City	Rochester Rhinos	Orlando City	7/3/2011	17		LGE			
+Heins, Ryan	Richmond Kickers	Richmond Kickers	Dayton Dutch Lions	7/4/2011	30		LGE	Bulow, David		
+Bulow, David	Richmond Kickers	Richmond Kickers	Dayton Dutch Lions	7/4/2011	53	Penalty	LGE			
+Elcock, Edson	Richmond Kickers	Richmond Kickers	Dayton Dutch Lions	7/4/2011	74		LGE	Nyazamba, Stanley		
+Tait, Joseph	Dayton Dutch Lions	Richmond Kickers	Dayton Dutch Lions	7/4/2011	13	Penalty	LGE			
+Arteaga, Jhonny	FC New York	FC New York	Charlotte Eagles	7/4/2011	84		LGE	Tavernese, Joseph		
+Herrera, Jorge	Charlotte Eagles	FC New York	Charlotte Eagles	7/4/2011	9		LGE			
+Sanchez, Alan	Charlotte Eagles	FC New York	Charlotte Eagles	7/4/2011	22		LGE	Herrera, Jorge		
+Reed, David C	Charlotte Eagles	FC New York	Charlotte Eagles	7/4/2011	34	Own Goal	LGE			
+Ferdinand, Max	Rochester Rhinos	Rochester Rhinos	FC New York	7/8/2011	4		LGE	Jagdeosingh, Kendall		
+Jagdeosingh, Kendall	Rochester Rhinos	Rochester Rhinos	FC New York	7/8/2011	13		LGE	Ferdinand, Max		
+Rosenlund, Tyler	Rochester Rhinos	Rochester Rhinos	FC New York	7/8/2011	40		LGE			
+Hoffer, Kyle	FC New York	Rochester Rhinos	FC New York	7/8/2011	44		LGE			
+Mulholland, Luke A	Wilmington Hammerheads	Antigua Barracuda FC	Wilmington Hammerheads	7/8/2011	69		LGE			
+Bundu, Sallieu	Charlotte Eagles	Richmond Kickers	Charlotte Eagles	7/8/2011	69		LGE	Bloom, Mark		
+Bryant, Brady	Charlotte Eagles	Richmond Kickers	Charlotte Eagles	7/8/2011	90		LGE	Herrera, Jorge		
+William, Yomby	Richmond Kickers	Richmond Kickers	Charlotte Eagles	7/8/2011	38		LGE	Vercollone, Luke		
+Toby, Darren	Charlotte Eagles	Charlotte Eagles	Richmond Kickers	7/9/2011	88		LGE	Martins, Diego Jose		
+Vercollone, Luke	Richmond Kickers	Charlotte Eagles	Richmond Kickers	7/9/2011	46		LGE	Bangura, Shaka		
+Elcock, Edson	Richmond Kickers	Charlotte Eagles	Richmond Kickers	7/9/2011	72		LGE	Bulow, David		
+Caskey, Alex A	Charleston Battery	Charleston Battery	Orlando City	7/9/2011	62		LGE	Zaher, Michael R.		
+Flunder, Sterling	Pittsburgh Riverhounds	Pittsburgh Riverhounds	FC New York	7/9/2011	59		LGE			
+Lundberg, Stefan	Pittsburgh Riverhounds	Pittsburgh Riverhounds	FC New York	7/9/2011	83		LGE			
+Arteaga, Jhonny	FC New York	Pittsburgh Riverhounds	FC New York	7/9/2011	85		LGE			
+Becerra, Nelson	Harrisburg City Islanders	Harrisburg City Islanders	Dayton Dutch Lions	7/10/2011	27		LGE			
+Welker, Andrew	Harrisburg City Islanders	Harrisburg City Islanders	Dayton Dutch Lions	7/10/2011	90		LGE	Noone, JT		
+Kissinger, Eric	Dayton Dutch Lions	Harrisburg City Islanders	Dayton Dutch Lions	7/10/2011	17		LGE			
+Copier, Mettin	Dayton Dutch Lions	Harrisburg City Islanders	Dayton Dutch Lions	7/10/2011	79		LGE			
+Robinson, Lawson	Antigua Barracuda FC	Antigua Barracuda FC	Wilmington Hammerheads	7/10/2011	48		LGE			
+Harvey, Christopher	Antigua Barracuda FC	Antigua Barracuda FC	Wilmington Hammerheads	7/10/2011	55		LGE			
+Parratt, Tom	Wilmington Hammerheads	Antigua Barracuda FC	Wilmington Hammerheads	7/10/2011	28		LGE			
+Guzman, Emanuel	Wilmington Hammerheads	Antigua Barracuda FC	Wilmington Hammerheads	7/10/2011	42		LGE			
+Cuero, Julio (Andres)	Wilmington Hammerheads	Antigua Barracuda FC	Wilmington Hammerheads	7/10/2011	75		LGE			
+Massie, Brandon	Charleston Battery	Charleston Battery	Wilmington Hammerheads	7/14/2011	81		LGE			
+Kelly, Dane	Charleston Battery	Charleston Battery	Wilmington Hammerheads	7/14/2011	90		LGE	Falvey, Colin		
+Guzman, Emanuel	Wilmington Hammerheads	Charleston Battery	Wilmington Hammerheads	7/14/2011	76		LGE	Spendlove, Chris		
+Camara, Hassoun	Montreal Impact	Montreal Impact	Ft. Lauderdale Strikers	7/13/2011	53		LGE			
+Laing, Lance	Ft. Lauderdale Strikers	Montreal Impact	Ft. Lauderdale Strikers	7/13/2011	55		LGE			
+Saiko, Shaun	FC Edmonton	FC Edmonton	Carolina RailHawks	7/13/2011	77	Penalty	LGE			
+Farber, Brian	Carolina RailHawks	FC Edmonton	Carolina RailHawks	7/13/2011	3		LGE			
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Atlanta Silverbacks	7/17/2011	42		LGE			
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Atlanta Silverbacks	7/17/2011	90		LGE			
+Horth, Matt	Atlanta Silverbacks	Montreal Impact	Atlanta Silverbacks	7/17/2011	17		LGE			
+Horth, Matt	Atlanta Silverbacks	Montreal Impact	Atlanta Silverbacks	7/17/2011	64		LGE			
+Porter, Kyle	FC Edmonton	FC Edmonton	Tampa Bay Rowdies	7/17/2011	19		LGE			
+King, Aaron	Tampa Bay Rowdies	FC Edmonton	Tampa Bay Rowdies	7/17/2011	30		LGE			
+Ambersley, Mike	Tampa Bay Rowdies	FC Edmonton	Tampa Bay Rowdies	7/17/2011	70		LGE			
+vanSchaik, Jarad	Puerto Rico Islanders	NSC Minnesota Stars	Puerto Rico Islanders	7/17/2011	76		LGE			
+Williams, Luke	Charlotte Eagles	Charlotte Eagles	Harrisburg City Islanders	7/15/2011	69		LGE			
+Becerra, Nelson	Harrisburg City Islanders	Charlotte Eagles	Harrisburg City Islanders	7/15/2011	1		LGE			
+Samaniego, Cesar Rivera	Los Angeles Blues	Los Angeles Blues	Dayton Dutch Lions	7/15/2011	90	Penalty	LGE			
+Davis IV, George	Dayton Dutch Lions	Los Angeles Blues	Dayton Dutch Lions	7/15/2011	8		LGE			
+Holder, Quame	FC New York	FC New York	Pittsburgh Riverhounds	7/16/2011	21		LGE			
+Shaffer, Neil	Pittsburgh Riverhounds	FC New York	Pittsburgh Riverhounds	7/16/2011	30		LGE			
+Luzunaris, Matthew	Orlando City	Orlando City	Rochester Rhinos	7/16/2011	38		LGE			
+Neal, Lewis	Orlando City	Orlando City	Rochester Rhinos	7/16/2011	42		LGE			
+Donatelli, Tony	Rochester Rhinos	Orlando City	Rochester Rhinos	7/16/2011	15		LGE			
+Bangura, Shaka	Richmond Kickers	Richmond Kickers	Antigua Barracuda FC	7/16/2011	3		LGE			
+Cuero, Julio (Andres)	Wilmington Hammerheads	Wilmington Hammerheads	Harrisburg City Islanders	7/16/2011	65		LGE			
+Mulholland, Luke A	Wilmington Hammerheads	Wilmington Hammerheads	Harrisburg City Islanders	7/16/2011	77		LGE			
+Jata, Richard	Wilmington Hammerheads	Wilmington Hammerheads	Harrisburg City Islanders	7/16/2011	83		LGE			
+Murray, Christopher	Harrisburg City Islanders	Wilmington Hammerheads	Harrisburg City Islanders	7/16/2011	33	Own Goal	LGE			
+Samaniego, Cesar Rivera	Los Angeles Blues	Los Angeles Blues	Dayton Dutch Lions	7/17/2011	32		LGE			
+Samaniego, Cesar Rivera	Los Angeles Blues	Los Angeles Blues	Dayton Dutch Lions	7/17/2011	42	Penalty	LGE			
+Momeni Azandaryani, Mehrshad	Los Angeles Blues	Los Angeles Blues	Dayton Dutch Lions	7/17/2011	49		LGE			
+BravoBenavides, Gerardo Miguel	Los Angeles Blues	Los Angeles Blues	Dayton Dutch Lions	7/17/2011	73		LGE			
+Kissinger, Eric	Dayton Dutch Lions	Los Angeles Blues	Dayton Dutch Lions	7/17/2011	13		LGE			
+vanSchaik, Jarad	Puerto Rico Islanders	Puerto Rico Islanders	Ft. Lauderdale Strikers	7/20/2011	45		LGE			
+Foley, David	Puerto Rico Islanders	Puerto Rico Islanders	Ft. Lauderdale Strikers	7/20/2011	72	Penalty	LGE			
+Delgado, Noah	Puerto Rico Islanders	Puerto Rico Islanders	Ft. Lauderdale Strikers	7/20/2011	76		LGE			
+vanSchaik, Jarad	Ft. Lauderdale Strikers	Puerto Rico Islanders	Ft. Lauderdale Strikers	7/20/2011	18	Own Goal	LGE			
+Hlavaty, Neil	NSC Minnesota Stars	NSC Minnesota Stars	Montreal Impact	7/22/2011	18	Penalty	LGE			
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	FC Edmonton	7/23/2011	36		LGE			
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	FC Edmonton	7/23/2011	68		LGE			
+Barbara, Etienne	Carolina RailHawks	Carolina RailHawks	FC Edmonton	7/23/2011	86		LGE			
+Hamilton, Paul	Carolina RailHawks	Carolina RailHawks	FC Edmonton	7/23/2011	81	Own Goal	LGE			
+Saiko, Shaun	FC Edmonton	Carolina RailHawks	FC Edmonton	7/23/2011	84		LGE			
+Sandoval, Junior	Atlanta Silverbacks	Atlanta Silverbacks	Tampa Bay Rowdies	7/23/2011	7		LGE			
+O'Brien, Ciaran	Atlanta Silverbacks	Atlanta Silverbacks	Tampa Bay Rowdies	7/23/2011	40		LGE			
+King, Aaron	Tampa Bay Rowdies	Atlanta Silverbacks	Tampa Bay Rowdies	7/23/2011	43		LGE			
+King, Aaron	Tampa Bay Rowdies	Tampa Bay Rowdies	FC Edmonton	7/27/2011	6		LGE			
+Hill, Shane	Tampa Bay Rowdies	Tampa Bay Rowdies	FC Edmonton	7/27/2011	59		LGE			
+Millien, Pascal	Tampa Bay Rowdies	Tampa Bay Rowdies	FC Edmonton	7/27/2011	84		LGE			
+Semenets, Alex	FC Edmonton	Tampa Bay Rowdies	FC Edmonton	7/27/2011	28		LGE			
+Welker, Andrew	Harrisburg City Islanders	Harrisburg City Islanders	FC New York	7/20/2011	10		LGE			
+Welker, Andrew	Harrisburg City Islanders	Harrisburg City Islanders	FC New York	7/20/2011	24		LGE			
+Welker, Andrew	Harrisburg City Islanders	Harrisburg City Islanders	FC New York	7/20/2011	45		LGE			
+Touray, Sainey	Harrisburg City Islanders	Harrisburg City Islanders	FC New York	7/20/2011	54		LGE			
+Angulo, Jose	Harrisburg City Islanders	Harrisburg City Islanders	FC New York	7/20/2011	80		LGE			
+Arteaga, Jhonny	FC New York	Harrisburg City Islanders	FC New York	7/20/2011	63	Penalty	LGE			
+Deighton, Jeremy	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Dayton Dutch Lions	7/20/2011	22		LGE			
+Yeisley, Jason	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Dayton Dutch Lions	7/20/2011	41		LGE			
+Severs, Chad	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Dayton Dutch Lions	7/20/2011	68		LGE			
+van der Pluijm, Marvin	Dayton Dutch Lions	Pittsburgh Riverhounds	Dayton Dutch Lions	7/20/2011	10		LGE			
+Goerres, Sascha	Richmond Kickers	Richmond Kickers	Los Angeles Blues	7/22/2011	69	Penalty	LGE			
+DeLeon Ochoa, Jonathan Horacio	Los Angeles Blues	Richmond Kickers	Los Angeles Blues	7/22/2011	4		LGE			
+DeLeon Ochoa, Jonathan Horacio	Los Angeles Blues	Richmond Kickers	Los Angeles Blues	7/22/2011	44		LGE			
+Moore, Walter Andre	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	7/22/2011	11		LGE			
+Kissi, Isaac	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	7/22/2011	24		LGE			
+Tobin, Connor	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	7/22/2011	35		LGE			
+Hoxie, Andrew	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	7/22/2011	90	Penalty	LGE			
+Pelletier, Jason	Harrisburg City Islanders	Harrisburg City Islanders	Los Angeles Blues	7/23/2011	19		LGE			
+Samaniego, Cesar Rivera	Los Angeles Blues	Harrisburg City Islanders	Los Angeles Blues	7/23/2011	43		LGE			
+Mulholland, Luke A	Wilmington Hammerheads	Wilmington Hammerheads	Charlotte Eagles	7/23/2011	8		LGE			
+Budnyy, Andriy	Wilmington Hammerheads	Wilmington Hammerheads	Charlotte Eagles	7/23/2011	31		LGE			
+Wolfe, Tanner	Wilmington Hammerheads	Wilmington Hammerheads	Charlotte Eagles	7/23/2011	47		LGE			
+Davis IV, George	Dayton Dutch Lions	Dayton Dutch Lions	Charleston Battery	7/23/2011	18		LGE			
+Hall, Happy	Dayton Dutch Lions	Dayton Dutch Lions	Charleston Battery	7/23/2011	45		LGE			
+Paterson, Nicholas	Charleston Battery	Dayton Dutch Lions	Charleston Battery	7/23/2011	13		LGE			
+Paterson, Nicholas	Charleston Battery	Dayton Dutch Lions	Charleston Battery	7/23/2011	40		LGE			
+Kissinger, Eric	Dayton Dutch Lions	Dayton Dutch Lions	Harrisburg City Islanders	7/27/2011	6		LGE			
+LaCrone, Kolby	Dayton Dutch Lions	Dayton Dutch Lions	Harrisburg City Islanders	7/27/2011	29		LGE			
+Touray, Sainey	Harrisburg City Islanders	Dayton Dutch Lions	Harrisburg City Islanders	7/27/2011	44		LGE			
+Hotchkin, Jason	Harrisburg City Islanders	Dayton Dutch Lions	Harrisburg City Islanders	7/27/2011	89		LGE			
+Langley, Morgan	Harrisburg City Islanders	Dayton Dutch Lions	Harrisburg City Islanders	7/27/2011	90		LGE			
+Barbara, Etienne	Carolina RailHawks	Carolina RailHawks	Atlanta Silverbacks	7/30/2011	8		LGE			
+Shriver, Brian	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	FC Edmonton	7/30/2011	14		LGE			
+Thompson, Abe	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	FC Edmonton	7/30/2011	29		LGE			
+Shriver, Brian	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	FC Edmonton	7/30/2011	76		LGE			
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Puerto Rico Islanders	7/31/2011	74		LGE			
+Herrera, Jorge	Charlotte Eagles	Charlotte Eagles	Rochester Rhinos	7/29/2011	78		LGE			
+Salvaggione, Chris	Charlotte Eagles	Charlotte Eagles	Rochester Rhinos	7/29/2011	89		LGE			
+Jagdeosingh, Kendall	Rochester Rhinos	Charlotte Eagles	Rochester Rhinos	7/29/2011	22		LGE			
+Hoxie, Andrew	Rochester Rhinos	Charlotte Eagles	Rochester Rhinos	7/29/2011	75		LGE			
+Arteaga, Jhonny	FC New York	FC New York	Wilmington Hammerheads	7/29/2011	56	Penalty	LGE			
+Budnyy, Andriy	Wilmington Hammerheads	FC New York	Wilmington Hammerheads	7/29/2011	29		LGE			
+Mulholland, Luke A	Wilmington Hammerheads	FC New York	Wilmington Hammerheads	7/29/2011	52		LGE			
+Mulholland, Luke A	Wilmington Hammerheads	FC New York	Wilmington Hammerheads	7/29/2011	62		LGE			
+Chijindu, Chukwudi	Los Angeles Blues	Los Angeles Blues	Antigua Barracuda FC	7/29/2011	21		LGE			
+Dublin, George	Antigua Barracuda FC	Los Angeles Blues	Antigua Barracuda FC	7/29/2011	2		LGE			
+Christian, Ranja	Antigua Barracuda FC	Los Angeles Blues	Antigua Barracuda FC	7/29/2011	66		LGE			
+Cost, Andrew	Rochester Rhinos	Charleston Battery	Rochester Rhinos	7/30/2011	68		LGE			
+Angulo, Jose	Harrisburg City Islanders	Harrisburg City Islanders	Wilmington Hammerheads	7/30/2011	18		LGE			
+Budnyy, Andriy	Wilmington Hammerheads	Harrisburg City Islanders	Wilmington Hammerheads	7/30/2011	29		LGE			
+Banks, Chris	Wilmington Hammerheads	Harrisburg City Islanders	Wilmington Hammerheads	7/30/2011	60	Penalty	LGE			
+Harada, Shintaro	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Richmond Kickers	7/30/2011	33		LGE			
+Deighton, Jeremy	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Richmond Kickers	7/30/2011	82		LGE			
+Priestley, Akeem	Los Angeles Blues	Los Angeles Blues	Antigua Barracuda FC	7/31/2011	34		LGE			
+Byers, Peter	Los Angeles Blues	Los Angeles Blues	Antigua Barracuda FC	7/31/2011	39		LGE			
+Cochrane, Justin	Antigua Barracuda FC	Los Angeles Blues	Antigua Barracuda FC	7/31/2011	90		LGE			
+Davis IV, George	Dayton Dutch Lions	Dayton Dutch Lions	FC New York	7/31/2011	3		LGE			
+Seymour, Lucien	Dayton Dutch Lions	Dayton Dutch Lions	FC New York	7/31/2011	71		LGE			
+Byers, Peter	Los Angeles Blues	Los Angeles Blues	Antigua Barracuda FC	8/2/2011	23		LGE			
+Thomas, Elvis	Antigua Barracuda FC	Los Angeles Blues	Antigua Barracuda FC	8/2/2011	8		LGE			
+Watson, Jamie	Orlando City	Orlando City	Charleston Battery	8/3/2011	16		LGE			
+Ilcu, Mircea	Montreal Impact	Montreal Impact	Atlanta Silverbacks	8/14/2011	4		LGE			
+Camara, Hassoun	Montreal Impact	Montreal Impact	Atlanta Silverbacks	8/14/2011	8		LGE			
+Ubiparipovic, Sinisa	Montreal Impact	Montreal Impact	Atlanta Silverbacks	8/14/2011	35		LGE			
+Diouf, Mignane	Montreal Impact	Montreal Impact	Atlanta Silverbacks	8/14/2011	80		LGE			
+Hamilton, Paul	FC Edmonton	FC Edmonton	Ft. Lauderdale Strikers	8/14/2011	30		LGE			
+Santamaria, David	Ft. Lauderdale Strikers	FC Edmonton	Ft. Lauderdale Strikers	8/14/2011	78		LGE			
+Foley, David	Puerto Rico Islanders	Puerto Rico Islanders	Carolina RailHawks	8/13/2011	36	Penalty	LGE			
+Villegas, Petter	Puerto Rico Islanders	Puerto Rico Islanders	Carolina RailHawks	8/13/2011	87		LGE			
+Millien, Pascal	Tampa Bay Rowdies	Tampa Bay Rowdies	NSC Minnesota Stars	8/13/2011	45		LGE			
+Sanfilippo, Frankie	Tampa Bay Rowdies	Tampa Bay Rowdies	NSC Minnesota Stars	8/13/2011	67		LGE			
+Nunez, Martin	Ft. Lauderdale Strikers	NSC Minnesota Stars	Ft. Lauderdale Strikers	8/10/2011	67		LGE			
+Foley, David	Puerto Rico Islanders	Puerto Rico Islanders	Atlanta Silverbacks	8/10/2011	25		LGE			
+Villaroel, Kevon	Puerto Rico Islanders	Puerto Rico Islanders	Atlanta Silverbacks	8/10/2011	67		LGE			
+Restrepo Uribe, Walter	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Carolina RailHawks	8/6/2011	38		LGE			
+Nunez, Martin	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Carolina RailHawks	8/6/2011	90		LGE			
+Krause, John	Carolina RailHawks	Ft. Lauderdale Strikers	Carolina RailHawks	8/6/2011	72		LGE			
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Tampa Bay Rowdies	8/10/2011	49		LGE			
+Westlake, Ian	Montreal Impact	Montreal Impact	Tampa Bay Rowdies	8/10/2011	54		LGE			
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Tampa Bay Rowdies	8/10/2011	75		LGE			
+Hill, Shane	Tampa Bay Rowdies	Montreal Impact	Tampa Bay Rowdies	8/10/2011	38		LGE			
+King, Aaron	Tampa Bay Rowdies	Montreal Impact	Tampa Bay Rowdies	8/10/2011	85		LGE			
+Gyorio, Mozzi	Tampa Bay Rowdies	Montreal Impact	Tampa Bay Rowdies	8/10/2011	90		LGE			
+Savage, Keith	Tampa Bay Rowdies	Atlanta Silverbacks	Tampa Bay Rowdies	8/6/2011	28		LGE			
+Ambersley, Mike	Tampa Bay Rowdies	Atlanta Silverbacks	Tampa Bay Rowdies	8/6/2011	33		LGE			
+Savage, Keith	Tampa Bay Rowdies	Atlanta Silverbacks	Tampa Bay Rowdies	8/6/2011	60		LGE			
+Clare, Matt	Tampa Bay Rowdies	Atlanta Silverbacks	Tampa Bay Rowdies	8/6/2011	82		LGE			
+Westlake, Ian	Montreal Impact	Montreal Impact	NSC Minnesota Stars	8/6/2011	22		LGE			
+Hlavaty, Neil	NSC Minnesota Stars	Montreal Impact	NSC Minnesota Stars	8/6/2011	17	Penalty	LGE			
+Bracalello, Simone	NSC Minnesota Stars	Montreal Impact	NSC Minnesota Stars	8/6/2011	75		LGE			
+Bracalello, Simone	NSC Minnesota Stars	Montreal Impact	NSC Minnesota Stars	8/6/2011	90		LGE			
+Pitchkolan, Aaron	Puerto Rico Islanders	FC Edmonton	Puerto Rico Islanders	8/6/2011	90		LGE			
+Guzman, Emanuel	Wilmington Hammerheads	Wilmington Hammerheads	Los Angeles Blues	8/5/2011	31		LGE			
+Budnyy, Andriy	Wilmington Hammerheads	Wilmington Hammerheads	Los Angeles Blues	8/5/2011	77		LGE			
+Byers, Peter	Los Angeles Blues	Wilmington Hammerheads	Los Angeles Blues	8/5/2011	62		LGE			
+Bundu, Sallieu	Charlotte Eagles	Rochester Rhinos	Charlotte Eagles	8/5/2011	20		LGE			
+Toby, Darren	Charlotte Eagles	Rochester Rhinos	Charlotte Eagles	8/5/2011	46		LGE			
+Martins, Diego Jose	Charlotte Eagles	Rochester Rhinos	Charlotte Eagles	8/5/2011	80		LGE			
+William, Yomby	Richmond Kickers	Richmond Kickers	Dayton Dutch Lions	8/6/2011	24		LGE			
+Delicate, Matthew	Richmond Kickers	Richmond Kickers	Dayton Dutch Lions	8/6/2011	30		LGE			
+Delicate, Matthew	Richmond Kickers	Richmond Kickers	Dayton Dutch Lions	8/6/2011	54	Penalty	LGE			
+Deighton, Jeremy	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Charlotte Eagles	8/6/2011	13		LGE			
+Gray, Thomas J	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Charlotte Eagles	8/6/2011	78		LGE			
+Bloom, Mark	Charlotte Eagles	Pittsburgh Riverhounds	Charlotte Eagles	8/6/2011	39		LGE			
+Toby, Darren	Charlotte Eagles	Pittsburgh Riverhounds	Charlotte Eagles	8/6/2011	56		LGE			
+Watson, Jamie	Orlando City	Orlando City	Charleston Battery	8/6/2011	65		LGE			
+Alvarez, Yordany	Orlando City	Orlando City	Charleston Battery	8/6/2011	72		LGE			
+Kelly, Dane	Charleston Battery	Orlando City	Charleston Battery	8/6/2011	84		LGE			
+Arteaga, Jhonny	FC New York	FC New York	Rochester Rhinos	8/7/2011	17		LGE			
+Turizo Pulido, Christian Andre	FC New York	FC New York	Rochester Rhinos	8/7/2011	43		LGE			
+Kissi, Isaac	Rochester Rhinos	FC New York	Rochester Rhinos	8/7/2011	71		LGE			
+Christian, Ranja	Antigua Barracuda FC	Antigua Barracuda FC	Los Angeles Blues	8/7/2011	52		LGE			
+Christian, Ranja	Antigua Barracuda FC	Antigua Barracuda FC	Los Angeles Blues	8/7/2011	64		LGE			
+Thomas, Tamorley	Antigua Barracuda FC	Antigua Barracuda FC	Los Angeles Blues	8/7/2011	78		LGE			
+Angulo, Jose	Harrisburg City Islanders	Charlotte Eagles	Harrisburg City Islanders	8/10/2011	87		LGE			
+Heins, Ryan	Richmond Kickers	Wilmington Hammerheads	Richmond Kickers	8/10/2011	18		LGE			
+Delicate, Matthew	Richmond Kickers	Wilmington Hammerheads	Richmond Kickers	8/10/2011	74		LGE			
+Arteaga, Jhonny	FC New York	Dayton Dutch Lions	FC New York	8/10/2011	16		LGE			
+Cole, Troy	FC New York	Dayton Dutch Lions	FC New York	8/10/2011	61		LGE			
+Arteaga, Jhonny	FC New York	Dayton Dutch Lions	FC New York	8/10/2011	69		LGE			
+Arteaga, Jhonny	FC New York	Dayton Dutch Lions	FC New York	8/10/2011	86		LGE			
+Arteaga, Jhonny	FC New York	Dayton Dutch Lions	FC New York	8/10/2011	88		LGE			
+Chin, Dennis	Orlando City	Orlando City	Harrisburg City Islanders	8/12/2011	22		LGE			
+Watson, Jamie	Orlando City	Orlando City	Harrisburg City Islanders	8/12/2011	55	Penalty	LGE			
+Watson, Jamie	Orlando City	Orlando City	Harrisburg City Islanders	8/12/2011	79		LGE			
+Watson, Jamie	Orlando City	Orlando City	Harrisburg City Islanders	8/12/2011	85		LGE			
+Prince, Zach	Charleston Battery	Charleston Battery	Charlotte Eagles	8/12/2011	5		LGE			
+Zaher, Michael R.	Charleston Battery	Charleston Battery	Charlotte Eagles	8/12/2011	7		LGE			
+Zaher, Michael R.	Charleston Battery	Charleston Battery	Charlotte Eagles	8/12/2011	31		LGE			
+Kelly, Dane	Charleston Battery	Charleston Battery	Charlotte Eagles	8/12/2011	61		LGE			
+Herrera, Jorge	Charlotte Eagles	Charleston Battery	Charlotte Eagles	8/12/2011	45		LGE			
+Bundu, Sallieu	Charlotte Eagles	Charleston Battery	Charlotte Eagles	8/12/2011	90		LGE			
+Ferrer, Miguel	Charlotte Eagles	Charleston Battery	Charlotte Eagles	8/12/2011	90		LGE			
+Costanzo, Richard (Rich)	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	8/13/2011	63		LGE			
+Kissinger, Eric	Dayton Dutch Lions	Dayton Dutch Lions	Wilmington Hammerheads	8/13/2011	58		LGE			
+Avesyan, Hakop	Wilmington Hammerheads	Dayton Dutch Lions	Wilmington Hammerheads	8/13/2011	21		LGE			
+Banks, Chris	Wilmington Hammerheads	Dayton Dutch Lions	Wilmington Hammerheads	8/13/2011	61		LGE			
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	NSC Minnesota Stars	8/17/2011	48		LGE			
+Rodriguez, Lucas	NSC Minnesota Stars	Carolina RailHawks	NSC Minnesota Stars	8/17/2011	55		LGE			
+Pore, Ryan	Montreal Impact	Montreal Impact	NSC Minnesota Stars	8/20/2011	45		LGE			
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	NSC Minnesota Stars	8/20/2011	83		LGE			
+Barbara, Etienne	Carolina RailHawks	Carolina RailHawks	Ft. Lauderdale Strikers	8/20/2011	31	Penalty	LGE			
+Watson, Matt	Carolina RailHawks	Carolina RailHawks	Ft. Lauderdale Strikers	8/20/2011	57		LGE			
+Ambersley, Mike	Tampa Bay Rowdies	Tampa Bay Rowdies	Puerto Rico Islanders	8/20/2011	30		LGE			
+Addlery, Nicholas	Puerto Rico Islanders	Tampa Bay Rowdies	Puerto Rico Islanders	8/20/2011	33		LGE			
+Foley, David	Puerto Rico Islanders	Tampa Bay Rowdies	Puerto Rico Islanders	8/20/2011	75		LGE			
+Saiko, Shaun	FC Edmonton	FC Edmonton	Atlanta Silverbacks	8/21/2011	62		LGE			
+Cox, Michael	FC Edmonton	FC Edmonton	Atlanta Silverbacks	8/21/2011	71		LGE			
+Cox, Michael	FC Edmonton	FC Edmonton	Atlanta Silverbacks	8/21/2011	76		LGE			
+Coudet, Eduardo	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Tampa Bay Rowdies	6/29/2011	5		LGE			
+Ambersley, Mike	Tampa Bay Rowdies	Ft. Lauderdale Strikers	Tampa Bay Rowdies	6/29/2011	6		LGE	Yoshitake, Tsuyoshi		
+King, Aaron	Tampa Bay Rowdies	Ft. Lauderdale Strikers	Tampa Bay Rowdies	8/27/2011	9		LGE			
+Ambersley, Mike	Tampa Bay Rowdies	Ft. Lauderdale Strikers	Tampa Bay Rowdies	8/27/2011	78		LGE			
+Hunt, Willie	Atlanta Silverbacks	Atlanta Silverbacks	Carolina RailHawks	8/27/2011	26		LGE			
+Cox, Raphael	Atlanta Silverbacks	Atlanta Silverbacks	Carolina RailHawks	8/27/2011	76		LGE			
+Barbara, Etienne	Carolina RailHawks	Atlanta Silverbacks	Carolina RailHawks	8/27/2011	28		LGE			
+McManus, Anthony	Carolina RailHawks	Atlanta Silverbacks	Carolina RailHawks	8/27/2011	31		LGE			
+Barbara, Etienne	Carolina RailHawks	Atlanta Silverbacks	Carolina RailHawks	8/27/2011	80	Penalty	LGE			
+Barbara, Etienne	Carolina RailHawks	Atlanta Silverbacks	Carolina RailHawks	8/27/2011	88	Penalty	LGE			
+Addlery, Nicholas	Puerto Rico Islanders	Puerto Rico Islanders	FC Edmonton	8/27/2011	40		LGE			
+Fana, Jonathan	Puerto Rico Islanders	Puerto Rico Islanders	FC Edmonton	8/27/2011	43		LGE			
+Needham, Jay	Puerto Rico Islanders	Puerto Rico Islanders	FC Edmonton	8/27/2011	90		LGE			
+Saiko, Shaun	FC Edmonton	Puerto Rico Islanders	FC Edmonton	8/27/2011	27		LGE			
+Porter, Kyle	FC Edmonton	Puerto Rico Islanders	FC Edmonton	8/27/2011	90		LGE			
+Ubiparipovic, Sinisa	Montreal Impact	NSC Minnesota Stars	Montreal Impact	8/27/2011	5		LGE			
+Ubiparipovic, Sinisa	Montreal Impact	NSC Minnesota Stars	Montreal Impact	8/27/2011	72		LGE			
+Fana, Jonathan	Puerto Rico Islanders	Puerto Rico Islanders	FC Edmonton	8/30/2011	52		LGE			
+Cox, Michael	FC Edmonton	Puerto Rico Islanders	FC Edmonton	8/30/2011	47		LGE			
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	Tampa Bay Rowdies	9/3/2011	19		LGE			
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	Tampa Bay Rowdies	9/3/2011	38		LGE			
+Horth, Matt	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	9/3/2011	28		LGE			
+Horth, Matt	Atlanta Silverbacks	Atlanta Silverbacks	Puerto Rico Islanders	9/3/2011	30		LGE			
+Mayen, Gerson	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Montreal Impact	9/3/2011	70		LGE			
+Yamada, Kyle	FC Edmonton	FC Edmonton	NSC Minnesota Stars	9/3/2011	56		LGE			
+Saiko, Shaun	FC Edmonton	FC Edmonton	NSC Minnesota Stars	9/3/2011	69		LGE			
+Antoniuk, Daniel	FC Edmonton	FC Edmonton	NSC Minnesota Stars	9/3/2011	90		LGE			
+Cvilikas, Brian	NSC Minnesota Stars	FC Edmonton	NSC Minnesota Stars	9/3/2011	44		LGE			
+Kallman, Brian	NSC Minnesota Stars	NSC Minnesota Stars	Tampa Bay Rowdies	9/6/2011	51		LGE			
+Savage, Keith	Tampa Bay Rowdies	NSC Minnesota Stars	Tampa Bay Rowdies	9/6/2011	22		LGE			
+Gyorio, Mozzi	Tampa Bay Rowdies	NSC Minnesota Stars	Tampa Bay Rowdies	9/6/2011	76		LGE			
+Pore, Ryan	Montreal Impact	Atlanta Silverbacks	Montreal Impact	9/24/2011	7		LGE			
+Montano, Miguel	Montreal Impact	Atlanta Silverbacks	Montreal Impact	9/24/2011	18		LGE			
+Pore, Ryan	Montreal Impact	Atlanta Silverbacks	Montreal Impact	9/24/2011	30		LGE			
+Pore, Ryan	Montreal Impact	Atlanta Silverbacks	Montreal Impact	9/24/2011	53	Penalty	LGE			
+Campos, Pablo	Carolina RailHawks	Carolina RailHawks	NSC Minnesota Stars	9/24/2011	50		LGE			
+Altman, Kyle	NSC Minnesota Stars	Carolina RailHawks	NSC Minnesota Stars	9/24/2011	48	Penalty	LGE			
+Cvilikas, Brian	NSC Minnesota Stars	Carolina RailHawks	NSC Minnesota Stars	9/24/2011	52		LGE			
+Savage, Keith	Tampa Bay Rowdies	Tampa Bay Rowdies	Ft. Lauderdale Strikers	9/24/2011	68		LGE			
+Clare, Matt	Tampa Bay Rowdies	Tampa Bay Rowdies	Ft. Lauderdale Strikers	9/24/2011	90		LGE			
+Fana, Jonathan	Puerto Rico Islanders	Puerto Rico Islanders	Montreal Impact	9/7/2011	90	Penalty	LGE			
+Pore, Ryan	Montreal Impact	Puerto Rico Islanders	Montreal Impact	9/7/2011	88		LGE			
+Thompson, Abe	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Carolina RailHawks	9/7/2011	52		LGE			
+Yamada, Kyle	FC Edmonton	FC Edmonton	Atlanta Silverbacks	9/7/2011	52		LGE			
+Craig, Paul	FC Edmonton	FC Edmonton	Atlanta Silverbacks	9/7/2011	90		LGE			
+Ruthven, Tyler	Atlanta Silverbacks	FC Edmonton	Atlanta Silverbacks	9/7/2011	75		LGE			
+Cosgriff, Jeff	NSC Minnesota Stars	NSC Minnesota Stars	Atlanta Silverbacks	9/10/2011	12		LGE			
+Altman, Kyle	NSC Minnesota Stars	NSC Minnesota Stars	Atlanta Silverbacks	9/10/2011	84	Penalty	LGE			
+Kreamalmeyer, Luke	Montreal Impact	Montreal Impact	Carolina RailHawks	9/11/2011	40		LGE			
+Jonke, John	FC Edmonton	FC Edmonton	Ft. Lauderdale Strikers	9/11/2011	44		LGE			
+Hamilton, Paul	Ft. Lauderdale Strikers	FC Edmonton	Ft. Lauderdale Strikers	9/11/2011	69	Own Goal	LGE			
+Shriver, Brian	Ft. Lauderdale Strikers	FC Edmonton	Ft. Lauderdale Strikers	9/11/2011	90		LGE			
+King, Aaron	Tampa Bay Rowdies	Tampa Bay Rowdies	NSC Minnesota Stars	9/17/2011	59		LGE			
+Cvilikas, Brian	NSC Minnesota Stars	Tampa Bay Rowdies	NSC Minnesota Stars	9/17/2011	54		LGE			
+Villegas, Petter	Puerto Rico Islanders	Puerto Rico Islanders	Carolina RailHawks	9/17/2011	57		LGE			
+Shriver, Brian	Ft. Lauderdale Strikers	Ft. Lauderdale Strikers	Atlanta Silverbacks	9/17/2011	90		LGE			
+Colaluca, Nico	Atlanta Silverbacks	Ft. Lauderdale Strikers	Atlanta Silverbacks	9/17/2011	90		LGE			
+Pore, Ryan	Montreal Impact	Montreal Impact	FC Edmonton	9/17/2011	12		LGE			
+Pore, Ryan	Montreal Impact	Montreal Impact	FC Edmonton	9/17/2011	79		LGE			
+Perez, Yaikel	Puerto Rico Islanders	Puerto Rico Islanders	Tampa Bay Rowdies	9/21/2011	5		LGE			
+Wolff, Josh	D.C. United	D.C. United	Seattle Sounders	5/4/2011	31		LGE	Davies, Charlie	Najar, Andy	
+Davies, Charlie	D.C. United	D.C. United	Seattle Sounders	5/4/2011	52		LGE	Wolff, Josh	Najar, Andy	
+Evans, Brad	Seattle Sounders	D.C. United	Seattle Sounders	5/4/2011	71	Penalty	LGE			
+Clark, Colin	Houston Dynamo	Houston Dynamo	Colorado Rapids	5/4/2011	71		LGE	Watson, Je-Vaughn		
+Smith, Jamie	Colorado Rapids	Houston Dynamo	Colorado Rapids	5/4/2011	73		LGE			
+Palguta, Scott	Colorado Rapids	Houston Dynamo	Colorado Rapids	5/4/2011	84		LGE	Folan, Caleb		
+Johnson, Will	Real Salt Lake	Real Salt Lake	CD Chivas USA	5/7/2011	87		LGE	Borchers, Nat		
+Maicon Santos	Toronto FC	Toronto FC	Houston Dynamo	5/7/2011	81		LGE	Joao Plata	Soolsma, Nick	
+Joao Plata	Toronto FC	Toronto FC	Houston Dynamo	5/7/2011	50		LGE			
+Palmer, Lovel	Houston Dynamo	Toronto FC	Houston Dynamo	5/7/2011	87		LGE	Watson, Je-Vaughn		
+Renteria, Emilio	Columbus Crew	Columbus Crew	Seattle Sounders	5/7/2011	67	Penalty	LGE			
+Montero, Fredy	Seattle Sounders	Columbus Crew	Seattle Sounders	5/7/2011	7		LGE	Friberg, Erik		
+Donovan, Landon	Los Angeles Galaxy	Los Angeles Galaxy	New York Red Bulls	5/7/2011	41		LGE	Beckham, David		
+Henry, Thierry	New York Red Bulls	Los Angeles Galaxy	New York Red Bulls	5/7/2011	4		LGE	Richards, Dane		
+Mwanga, Danny	Philadephia Union	Philadephia Union	Los Angeles Galaxy	5/11/2011	83		LGE			
+Donovan, Landon	Los Angeles Galaxy	Philadephia Union	Los Angeles Galaxy	5/11/2011	24		LGE			
+Hernandez, Daniel	FC Dallas 96	FC Dallas 96	Toronto FC	5/11/2011	45	Penalty	LGE			
+Chiumiento, Davide	Vancouver Whitecaps	Vancouver Whitecaps	San Jose Earthquakes	5/11/2011	90		LGE	Dunfield, Terry		
+Wondolowski, Chris	San Jose Earthquakes	Vancouver Whitecaps	San Jose Earthquakes	5/11/2011	39		LGE	Johnson, Ryan		
+Joao Plata	Toronto FC	Toronto FC	Chicago Fire	5/14/2011	9		LGE	Soolsma, Nick		
+Maicon Santos	Toronto FC	Toronto FC	Chicago Fire	5/14/2011	47		LGE	Joao Plata		
+Barouch, Orr	Chicago Fire	Toronto FC	Chicago Fire	5/14/2011	76		LGE	Bone, Corben		
+Pappa, Marco	Chicago Fire	Toronto FC	Chicago Fire	5/14/2011	63		LGE			
+Joseph, Shalrie	New England Revolution	New England Revolution	Vancouver Whitecaps	5/14/2011	49	Penalty	LGE			
+Pontius, Chris	D.C. United	D.C. United	Colorado Rapids	5/14/2011	62		LGE			
+Moor, Drew	Colorado Rapids	D.C. United	Colorado Rapids	5/14/2011	23		LGE			
+Shea, Brek	FC Dallas 96	FC Dallas 96	Philadephia Union	5/14/2011	29		LGE	Castillo, Fabian		
+Castillo, Fabian	FC Dallas 96	FC Dallas 96	Philadephia Union	5/14/2011	43		LGE	Jackson Goncalves	Chavez, Marvin	
+Stephenson, Khari	San Jose Earthquakes	San Jose Earthquakes	Columbus Crew	5/14/2011	62		LGE	Convey, Bobby		
+Wondolowski, Chris	San Jose Earthquakes	San Jose Earthquakes	Columbus Crew	5/14/2011	50		LGE	Johnson, Ryan	Ring, Brad	
+McDonald, Brandon	San Jose Earthquakes	San Jose Earthquakes	Columbus Crew	5/14/2011	59		LGE	Lenhart, Steven	Gjertsen, Joey	
+Angel, Juan Pablo	Los Angeles Galaxy	Los Angeles Galaxy	Sporting Kansas City	5/14/2011	64		LGE	Barrett, Chad		
+Donovan, Landon	Los Angeles Galaxy	Los Angeles Galaxy	Sporting Kansas City	5/14/2011	44	Penalty	LGE			
+Donovan, Landon	Los Angeles Galaxy	Los Angeles Galaxy	Sporting Kansas City	5/14/2011	46		LGE	Barrett, Chad		
+Beckham, David	Los Angeles Galaxy	Los Angeles Galaxy	Sporting Kansas City	5/14/2011	87		LGE			
+Gonzalez, Omar	Sporting Kansas City	Los Angeles Galaxy	Sporting Kansas City	5/14/2011	39	Own Goal	LGE			
+Fernandez, Alvaro	Seattle Sounders	Seattle Sounders	Portland Timbers	5/14/2011	52		LGE	Montero, Fredy	Levesque, Roger	
+Danso, Mamadou	Portland Timbers	Seattle Sounders	Portland Timbers	5/14/2011	65		LGE	Jewsbury, Jack		
+Henry, Thierry	New York Red Bulls	New York Red Bulls	CD Chivas USA	5/15/2011	21		LGE	Marquez, Rafael		
+De Rosario, Dwayne	New York Red Bulls	New York Red Bulls	CD Chivas USA	5/15/2011	35	Penalty	LGE			
+Braun, Justin	CD Chivas USA	New York Red Bulls	CD Chivas USA	5/15/2011	6		LGE			
+Braun, Justin	CD Chivas USA	New York Red Bulls	CD Chivas USA	5/15/2011	56		LGE			
+Braun, Justin	CD Chivas USA	New York Red Bulls	CD Chivas USA	5/15/2011	31		LGE	Jazic, Ante	Pearce, Heath	
+Farfan, Michael	Philadephia Union	Philadephia Union	Chicago Fire	5/21/2011	64		LGE	Nakazawa, Kyle		
+Ruiz, Carlos	Philadephia Union	Philadephia Union	Chicago Fire	5/21/2011	74		LGE			
+Oduro, Dominic	Chicago Fire	Philadephia Union	Chicago Fire	5/21/2011	68		LGE	Segares, Gonzalo		
+Davis, Brad	Houston Dynamo	Houston Dynamo	New York Red Bulls	5/21/2011	12	Penalty	LGE			
+Kroke	Houston Dynamo	Houston Dynamo	New York Red Bulls	5/21/2011	82		LGE			
+Ballouchy, Mehdi	New York Red Bulls	Houston Dynamo	New York Red Bulls	5/21/2011	90		LGE	Lindpere, Joel		
+Richards, Dane	New York Red Bulls	Houston Dynamo	New York Red Bulls	5/21/2011	1		LGE	Rodgers, Luke		
+Parke, Jeff	Seattle Sounders	Seattle Sounders	Sporting Kansas City	5/21/2011	90		LGE	Wahl, Tyson		
+Barrett, Chad	Los Angeles Galaxy	CD Chivas USA	Los Angeles Galaxy	5/21/2011	26		LGE	Beckham, David		
+McLoughlin, Ellis	San Jose Earthquakes	San Jose Earthquakes	New England Revolution	5/21/2011	71		LGE	Wondolowski, Chris		
+Convey, Bobby	San Jose Earthquakes	San Jose Earthquakes	New England Revolution	5/21/2011	83		LGE			
+Tierney, Chris	New England Revolution	San Jose Earthquakes	New England Revolution	5/21/2011	86		LGE			
+Henry, Thierry	New York Red Bulls	New York Red Bulls	Colorado Rapids	5/25/2011	29		LGE	De Rosario, Dwayne	Lindpere, Joel	
+Rodgers, Luke	New York Red Bulls	New York Red Bulls	Colorado Rapids	5/25/2011	33		LGE	Miller, Roy		
+Larentowicz, Jeff	Colorado Rapids	New York Red Bulls	Colorado Rapids	5/25/2011	27		LGE			
+Larentowicz, Jeff	Colorado Rapids	New York Red Bulls	Colorado Rapids	5/25/2011	32		LGE	Mastroeni, Pablo		
+Shea, Brek	FC Dallas 96	Seattle Sounders	FC Dallas 96	5/25/2011	18		LGE	Jacobson, Andrew		
+Donovan, Landon	Los Angeles Galaxy	Los Angeles Galaxy	Houston Dynamo	5/25/2011	45	Penalty	LGE			
+Jewsbury, Jack	Portland Timbers	Portland Timbers	D.C. United	5/29/2011	67	Penalty	LGE			
+Perlaza, Jorge	Portland Timbers	Portland Timbers	D.C. United	5/29/2011	88		LGE	Hall, Jeremy		
+Wolff, Josh	D.C. United	Portland Timbers	D.C. United	5/29/2011	85		LGE	Brettschneider, Blake		
+Kitchen, Perry	D.C. United	Portland Timbers	D.C. United	5/29/2011	13		LGE	Pontius, Chris	Brettschneider, Blake	
+Pontius, Chris	D.C. United	Portland Timbers	D.C. United	5/29/2011	75	Penalty	LGE			
+Maicon Santos	Toronto FC	Toronto FC	Philadephia Union	5/28/2011	59		LGE	Borman, Danleigh		
+Maicon Santos	Toronto FC	Toronto FC	Philadephia Union	5/28/2011	50		LGE	Borman, Danleigh		
+Farfan, Gabriel	Philadephia Union	Toronto FC	Philadephia Union	5/28/2011	2		LGE	Harvey, Jordan		
+Mwanga, Danny	Philadephia Union	Toronto FC	Philadephia Union	5/28/2011	89		LGE			
+Mapp, Justin	Philadephia Union	Toronto FC	Philadephia Union	5/28/2011	11		LGE	Nakazawa, Kyle		
+Nakazawa, Kyle	Philadephia Union	Toronto FC	Philadephia Union	5/28/2011	44		LGE	Mwanga, Danny	Le Toux, Sebastien	
+Mapp, Justin	Philadephia Union	Toronto FC	Philadephia Union	5/28/2011	62		LGE			
+Mwanga, Danny	Philadephia Union	Toronto FC	Philadephia Union	5/28/2011	72		LGE	Le Toux, Sebastien		
+Hassli, Eric	Vancouver Whitecaps	Vancouver Whitecaps	New York Red Bulls	5/28/2011	24	Penalty	LGE			
+Rodgers, Luke	New York Red Bulls	Vancouver Whitecaps	New York Red Bulls	5/28/2011	34		LGE	Solli, Jan Gunnar	Miller, Roy	
+Lopez, Miguel	Los Angeles Galaxy	New England Revolution	Los Angeles Galaxy	5/28/2011	69		LGE	Beckham, David		
+Gibbs, Cory	Chicago Fire	Chicago Fire	San Jose Earthquakes	5/28/2011	80		LGE	Husidic, Baggio		
+Oduro, Dominic	Chicago Fire	Chicago Fire	San Jose Earthquakes	5/28/2011	57		LGE	Nazarit, Cristian		
+Corrales, Ramiro	San Jose Earthquakes	Chicago Fire	San Jose Earthquakes	5/28/2011	49		LGE	Ampaipitkakwong, Anthony		
+Wondolowski, Chris	San Jose Earthquakes	Chicago Fire	San Jose Earthquakes	5/28/2011	74		LGE	Ampaipitkakwong, Anthony	Corrales, Ramiro	
+Weaver, Cam	Houston Dynamo	Houston Dynamo	FC Dallas 96	5/28/2011	42		LGE	Davis, Brad		
+Clark, Colin	Houston Dynamo	Houston Dynamo	FC Dallas 96	5/28/2011	87		LGE	Davis, Brad	Weaver, Cam	
+Jacobson, Andrew	FC Dallas 96	Houston Dynamo	FC Dallas 96	5/28/2011	27		LGE			
+Ihemelu, Ugo	FC Dallas 96	Houston Dynamo	FC Dallas 96	5/28/2011	70		LGE	Chavez, Marvin		
+Gonzalez, Nelson	Real Salt Lake	Real Salt Lake	Seattle Sounders	5/28/2011	88		LGE			
+Neagle, Lamar	Seattle Sounders	Real Salt Lake	Seattle Sounders	5/28/2011	84		LGE	Wahl, Tyson		
+Ianni, Patrick	Seattle Sounders	Real Salt Lake	Seattle Sounders	5/28/2011	71		LGE	Montero, Fredy	Jaqua, Nate	
+LaBrocca, Nick	CD Chivas USA	CD Chivas USA	Vancouver Whitecaps	6/1/2011	46		LGE			
+Camilo	Vancouver Whitecaps	CD Chivas USA	Vancouver Whitecaps	6/1/2011	48		LGE			
+Ballouchy, Mehdi	New York Red Bulls	New York Red Bulls	Columbus Crew	6/4/2011	9		LGE	Rodgers, Luke		
+Balchan, Rich	Columbus Crew	New York Red Bulls	Columbus Crew	6/4/2011	90		LGE	Meram, Justin		
+Chavez, Marvin	FC Dallas 96	FC Dallas 96	New England Revolution	6/4/2011	69		LGE	Castillo, Fabian		
+Espindola, Fabian	Real Salt Lake	Real Salt Lake	Vancouver Whitecaps	6/4/2011	79		LGE	Alexandre, Jean		
+Alexandre, Jean	Real Salt Lake	Real Salt Lake	Vancouver Whitecaps	6/4/2011	32		LGE	Beckerman, Kyle		
+Casey, Conor	Colorado Rapids	Colorado Rapids	Philadephia Union	6/4/2011	63	Penalty	LGE			
+Mwanga, Danny	Philadephia Union	Colorado Rapids	Philadephia Union	6/4/2011	66		LGE	Le Toux, Sebastien		
+Dawkins, Simon	San Jose Earthquakes	San Jose Earthquakes	Houston Dynamo	6/4/2011	90		LGE	Cronin, Sam		
+Lenhart, Steven	San Jose Earthquakes	San Jose Earthquakes	Houston Dynamo	6/4/2011	69		LGE	Beitashour, Steven		
+Mondaini, Marcos	CD Chivas USA	CD Chivas USA	Portland Timbers	6/4/2011	70		LGE	Nagamura, Paulo	Cortez, Chris	
+Mendoza, Andres	Columbus Crew	Columbus Crew	Real Salt Lake	6/8/2011	76	Penalty	LGE			
+Gardner, Josh	Columbus Crew	Columbus Crew	Real Salt Lake	6/8/2011	82		LGE	Mendoza, Andres		
+Olave, Jamison	Real Salt Lake	Columbus Crew	Real Salt Lake	6/8/2011	7		LGE	Gonzalez, Nelson		
+Cochrane, Ryan	New York Red Bulls	New York Red Bulls	New England Revolution	6/10/2011	37	Own Goal	LGE			
+Henry, Thierry	New York Red Bulls	New York Red Bulls	New England Revolution	6/10/2011	50		LGE	Keel, Stephen		
+Boggs, Zak	New England Revolution	New York Red Bulls	New England Revolution	6/10/2011	54		LGE	Tierney, Chris	Domi, Didier	
+Daniel, Keon	Philadephia Union	Philadephia Union	Real Salt Lake	6/11/2011	24		LGE	Farfan, Michael	Williams, Sheanon	
+Espindola, Fabian	Real Salt Lake	Philadephia Union	Real Salt Lake	6/11/2011	53		LGE	Alexandre, Jean		
+Najar, Andy	D.C. United	D.C. United	San Jose Earthquakes	6/11/2011	13		LGE	Wolff, Josh	Simms, Clyde	
+Brettschneider, Blake	D.C. United	D.C. United	San Jose Earthquakes	6/11/2011	34		LGE	Korb, Chris		
+Lenhart, Steven	San Jose Earthquakes	D.C. United	San Jose Earthquakes	6/11/2011	22		LGE			
+Dawkins, Simon	San Jose Earthquakes	D.C. United	San Jose Earthquakes	6/11/2011	49		LGE	Lenhart, Steven		
+Lenhart, Steven	San Jose Earthquakes	D.C. United	San Jose Earthquakes	6/11/2011	60		LGE	Beitashour, Steven		
+Lenhart, Steven	San Jose Earthquakes	D.C. United	San Jose Earthquakes	6/11/2011	15		LGE	Stephenson, Khari	Cronin, Sam	
+Pearce, Heath	Houston Dynamo	Houston Dynamo	CD Chivas USA	6/11/2011	56	Own Goal	LGE			
+Cameron, Geoff	Houston Dynamo	Houston Dynamo	CD Chivas USA	6/11/2011	29		LGE	Davis, Brad		
+Mondaini, Marcos	CD Chivas USA	Houston Dynamo	CD Chivas USA	6/11/2011	7		LGE			
+Rosales, Mauro	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	6/11/2011	81		LGE			
+Alonso, Osvaldo	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	6/11/2011	84		LGE			
+Hassli, Eric	Vancouver Whitecaps	Seattle Sounders	Vancouver Whitecaps	6/11/2011	85		LGE			
+Hassli, Eric	Vancouver Whitecaps	Seattle Sounders	Vancouver Whitecaps	6/11/2011	29	Penalty	LGE			
+Moor, Drew	Colorado Rapids	Portland Timbers	Colorado Rapids	6/11/2011	90		LGE	Folan, Caleb		
+Birchall, Chris	Los Angeles Galaxy	Los Angeles Galaxy	Toronto FC	6/11/2011	2		LGE	Lopez, Miguel	Dunivant, Todd	
+Angel, Juan Pablo	Los Angeles Galaxy	Los Angeles Galaxy	Toronto FC	6/11/2011	90		LGE			
+Gordon, Alan	Toronto FC	Los Angeles Galaxy	Toronto FC	6/11/2011	68		LGE	Borman, Danleigh		
+Gordon, Alan	Toronto FC	Los Angeles Galaxy	Toronto FC	6/11/2011	90		LGE	Maicon Santos		
+Shea, Brek	FC Dallas 96	FC Dallas 96	Sporting Kansas City	6/12/2011	32		LGE			
+Sassano, Luke	Sporting Kansas City	FC Dallas 96	Sporting Kansas City	6/12/2011	78		LGE	Diop, Birahim		
+Zusi, Graham	Sporting Kansas City	FC Dallas 96	Sporting Kansas City	6/12/2011	55		LGE			
+Zusi, Graham	Sporting Kansas City	FC Dallas 96	Sporting Kansas City	6/12/2011	28		LGE	Arnaud, Davy		
+Collin, Aurelian	Sporting Kansas City	FC Dallas 96	Sporting Kansas City	6/12/2011	49		LGE	Sapong, C.J.	Zusi, Graham	
+Sapong, C.J.	Sporting Kansas City	Sporting Kansas City	San Jose Earthquakes	6/17/2011	31		LGE	Zusi, Graham		
+Montero, Fredy	Seattle Sounders	Toronto FC	Seattle Sounders	6/18/2011	90		LGE			
+Lekic, Rajko	New England Revolution	New England Revolution	Chicago Fire	6/18/2011	48		LGE	Phelan, Pat		
+Oduro, Dominic	Chicago Fire	New England Revolution	Chicago Fire	6/18/2011	32		LGE	Nyarko, Patrick		
+Anor, Bernardo	Columbus Crew	Houston Dynamo	Columbus Crew	6/18/2011	77		LGE	Meram, Justin		
+Mendoza, Andres	Columbus Crew	Houston Dynamo	Columbus Crew	6/18/2011	41		LGE	Anor, Bernardo		
+Espindola, Fabian	Real Salt Lake	Real Salt Lake	D.C. United	6/18/2011	38	Penalty	LGE			
+Davies, Charlie	D.C. United	Real Salt Lake	D.C. United	6/18/2011	85	Penalty	LGE			
+Casey, Conor	Colorado Rapids	Colorado Rapids	Los Angeles Galaxy	6/18/2011	64		LGE	Cummings, Omar		
+Barrett, Chad	Los Angeles Galaxy	Colorado Rapids	Los Angeles Galaxy	6/18/2011	80		LGE	Dunivant, Todd	Juninho	
+Juninho	Los Angeles Galaxy	Colorado Rapids	Los Angeles Galaxy	6/18/2011	42		LGE			
+Moor, Drew	Los Angeles Galaxy	Colorado Rapids	Los Angeles Galaxy	6/18/2011	25	Own Goal	LGE			
+Rochat, Alain	Vancouver Whitecaps	Vancouver Whitecaps	Philadephia Union	6/18/2011	12		LGE	Chiumiento, Davide		
+Lahoud, Michael	CD Chivas USA	CD Chivas USA	FC Dallas 96	6/18/2011	71		LGE			
+Shea, Brek	FC Dallas 96	CD Chivas USA	FC Dallas 96	6/18/2011	22		LGE	Jacobson, Andrew		
+Jackson Goncalves	FC Dallas 96	CD Chivas USA	FC Dallas 96	6/18/2011	85		LGE	Jacobson, Andrew		
+Jewsbury, Jack	Portland Timbers	Portland Timbers	New York Red Bulls	6/19/2011	48		LGE			
+Goldthwaite, Kevin	Portland Timbers	Portland Timbers	New York Red Bulls	6/19/2011	49		LGE	Brunner, Eric	Jewsbury, Jack	
+Keel, Stephen	Portland Timbers	Portland Timbers	New York Red Bulls	6/19/2011	68	Own Goal	LGE			
+De Rosario, Dwayne	New York Red Bulls	Portland Timbers	New York Red Bulls	6/19/2011	90	Penalty	LGE			
+Da Luz, Austin	New York Red Bulls	Portland Timbers	New York Red Bulls	6/19/2011	5		LGE	De Rosario, Dwayne	Henry, Thierry	
+Henry, Thierry	New York Red Bulls	Portland Timbers	New York Red Bulls	6/19/2011	73		LGE	Da Luz, Austin		
+Levesque, Roger	Seattle Sounders	Seattle Sounders	New York Red Bulls	6/23/2011	67		LGE	Gonzalez, Leo		
+Alonso, Osvaldo	Seattle Sounders	Seattle Sounders	New York Red Bulls	6/23/2011	12		LGE			
+Friberg, Erik	Seattle Sounders	Seattle Sounders	New York Red Bulls	6/23/2011	11		LGE			
+Levesque, Roger	Seattle Sounders	Seattle Sounders	New York Red Bulls	6/23/2011	78		LGE			
+Scott, Zach	New York Red Bulls	Seattle Sounders	New York Red Bulls	6/23/2011	58	Own Goal	LGE			
+Richards, Dane	New York Red Bulls	Seattle Sounders	New York Red Bulls	6/23/2011	31		LGE	Lindpere, Joel		
+Soolsma, Nick	Toronto FC	Toronto FC	Vancouver Whitecaps	6/29/2011	54	Penalty	LGE			
+Pappa, Marco	Chicago Fire	Chicago Fire	New York Red Bulls	6/26/2011	58		LGE			
+Lindpere, Joel	New York Red Bulls	Chicago Fire	New York Red Bulls	6/26/2011	40		LGE			
+Wahl, Tyson	Seattle Sounders	Seattle Sounders	New England Revolution	6/26/2011	34		LGE			
+Fernandez, Alvaro	Seattle Sounders	Seattle Sounders	New England Revolution	6/26/2011	40		LGE	Levesque, Roger	Rosales, Mauro	
+Nyassi, Sainey	New England Revolution	Seattle Sounders	New England Revolution	6/26/2011	3		LGE	Feilhaber, Benny		
+Pontius, Chris	D.C. United	D.C. United	Houston Dynamo	6/25/2011	31		LGE	Wolff, Josh	McCarty, Dax	
+Davies, Charlie	D.C. United	D.C. United	Houston Dynamo	6/25/2011	73		LGE			
+Ching, Brian	Houston Dynamo	D.C. United	Houston Dynamo	6/25/2011	89		LGE	Clark, Colin	Cameron, Geoff	
+Davis, Brad	Houston Dynamo	D.C. United	Houston Dynamo	6/25/2011	41	Penalty	LGE			
+Mwanga, Danny	Philadephia Union	Philadephia Union	CD Chivas USA	6/25/2011	82		LGE	Le Toux, Sebastien		
+Paunovic, Veljko	Philadephia Union	Philadephia Union	CD Chivas USA	6/25/2011	48		LGE	Mapp, Justin		
+Ruiz, Carlos	Philadephia Union	Philadephia Union	CD Chivas USA	6/25/2011	69		LGE			
+Braun, Justin	CD Chivas USA	Philadephia Union	CD Chivas USA	6/25/2011	77		LGE			
+Umana, Michael	CD Chivas USA	Philadephia Union	CD Chivas USA	6/25/2011	28		LGE	Zemanski, Ben		
+Bravo, Omar	Sporting Kansas City	Sporting Kansas City	Vancouver Whitecaps	6/25/2011	32	Penalty	LGE			
+Julio Cesar	Sporting Kansas City	Sporting Kansas City	Vancouver Whitecaps	6/25/2011	40		LGE	Zusi, Graham	Bravo, Omar	
+Camilo	Vancouver Whitecaps	Sporting Kansas City	Vancouver Whitecaps	6/25/2011	15		LGE	Chiumiento, Davide		
+Shea, Brek	FC Dallas 96	FC Dallas 96	Portland Timbers	6/25/2011	58		LGE			
+Luna, Ruben	FC Dallas 96	FC Dallas 96	Portland Timbers	6/25/2011	85		LGE			
+John, George	FC Dallas 96	FC Dallas 96	Portland Timbers	6/25/2011	38		LGE	Hernandez, Daniel		
+Lloyd, Zach	FC Dallas 96	FC Dallas 96	Portland Timbers	6/25/2011	33		LGE	Hernandez, Daniel		
+Borchers, Nat	Real Salt Lake	Real Salt Lake	Toronto FC	6/25/2011	39		LGE	Beckerman, Kyle		
+Saborio, Alvaro	Real Salt Lake	Real Salt Lake	Toronto FC	6/25/2011	42		LGE	Russell, Robbie	Beckerman, Kyle	
+Saborio, Alvaro	Real Salt Lake	Real Salt Lake	Toronto FC	6/25/2011	60		LGE	Russell, Robbie		
+Maicon Santos	Toronto FC	Real Salt Lake	Toronto FC	6/25/2011	66		LGE	Soolsma, Nick		
+Wolff, Josh	D.C. United	D.C. United	Philadephia Union	7/2/2011	44		LGE	De Rosario, Dwayne	Najar, Andy	
+Najar, Andy	D.C. United	D.C. United	Philadephia Union	7/2/2011	58		LGE			
+Kitchen, Perry	Philadephia Union	D.C. United	Philadephia Union	7/2/2011	49	Own Goal	LGE			
+Ruiz, Carlos	Philadephia Union	D.C. United	Philadephia Union	7/2/2011	84		LGE	Williams, Sheanon	Le Toux, Sebastien	
+Shea, Brek	FC Dallas 96	FC Dallas 96	Columbus Crew	7/2/2011	58		LGE			
+Jackson Goncalves	FC Dallas 96	FC Dallas 96	Columbus Crew	7/2/2011	76		LGE	Jacobson, Andrew		
+Stephenson, Khari	San Jose Earthquakes	San Jose Earthquakes	New York Red Bulls	7/2/2011	37		LGE			
+Lenhart, Steven	San Jose Earthquakes	San Jose Earthquakes	New York Red Bulls	7/2/2011	68		LGE	Beitashour, Steven		
+Lindpere, Joel	New York Red Bulls	San Jose Earthquakes	New York Red Bulls	7/2/2011	85		LGE	Ballouchy, Mehdi		
+Lindpere, Joel	New York Red Bulls	San Jose Earthquakes	New York Red Bulls	7/2/2011	7		LGE	Miller, Roy	Tainio, Teemu	
+Nagbe, Darlington	Portland Timbers	Portland Timbers	Sporting Kansas City	7/2/2011	45		LGE			
+Collin, Aurelian	Sporting Kansas City	Portland Timbers	Sporting Kansas City	7/2/2011	19		LGE	Besler, Matt	Sapong, C.J.	
+Sapong, C.J.	Sporting Kansas City	Portland Timbers	Sporting Kansas City	7/2/2011	15		LGE	Bravo, Omar		
+Saborio, Alvaro	Real Salt Lake	Real Salt Lake	New England Revolution	7/4/2011	56	Penalty	LGE			
+Espindola, Fabian	Real Salt Lake	Real Salt Lake	New England Revolution	7/4/2011	83		LGE	Saborio, Alvaro	Olave, Jamison	
+Johnson, Will	Real Salt Lake	Real Salt Lake	New England Revolution	7/4/2011	24		LGE			
+Lekic, Rajko	New England Revolution	Real Salt Lake	New England Revolution	7/4/2011	4	Penalty	LGE			
+Joseph, Shalrie	New England Revolution	Real Salt Lake	New England Revolution	7/4/2011	63		LGE	Feilhaber, Benny		
+Tierney, Chris	New England Revolution	Real Salt Lake	New England Revolution	7/4/2011	16		LGE			
+Henry, Thierry	New York Red Bulls	New York Red Bulls	Toronto FC	7/6/2011	33		LGE	Solli, Jan Gunnar		
+Rodgers, Luke	New York Red Bulls	New York Red Bulls	Toronto FC	7/6/2011	38		LGE	Solli, Jan Gunnar		
+Agudelo, Juan	New York Red Bulls	New York Red Bulls	Toronto FC	7/6/2011	89		LGE	Lindpere, Joel		
+Agudelo, Juan	New York Red Bulls	New York Red Bulls	Toronto FC	7/6/2011	66		LGE	Lindpere, Joel		
+Lindpere, Joel	New York Red Bulls	New York Red Bulls	Toronto FC	7/6/2011	52		LGE	Richards, Dane		
+Zusi, Graham	Sporting Kansas City	Sporting Kansas City	Colorado Rapids	7/6/2011	62		LGE			
+Casey, Conor	Colorado Rapids	Sporting Kansas City	Colorado Rapids	7/6/2011	32		LGE	Marshall, Tyrone		
+Cunningham, Jeff	Columbus Crew	Vancouver Whitecaps	Columbus Crew	7/6/2011	90		LGE	Gardner, Josh		
+LaBrocca, Nick	CD Chivas USA	CD Chivas USA	San Jose Earthquakes	7/6/2011	84		LGE	Mendoza, Francisco		
+Zemanski, Ben	CD Chivas USA	CD Chivas USA	San Jose Earthquakes	7/6/2011	64		LGE	Braun, Justin		
+De Rosario, Dwayne	D.C. United	New York Red Bulls	D.C. United	7/9/2011	61		LGE	Wolff, Josh		
+Cameron, Geoff	Houston Dynamo	Houston Dynamo	Toronto FC	7/9/2011	81		LGE			
+Cruz, Danny	Houston Dynamo	Houston Dynamo	Toronto FC	7/9/2011	50		LGE	Ching, Brian		
+Espindola, Fabian	Real Salt Lake	Real Salt Lake	FC Dallas 96	7/9/2011	90		LGE	Johnson, Will		
+Williams, Andy	Real Salt Lake	Real Salt Lake	FC Dallas 96	7/9/2011	47		LGE	Beckerman, Kyle		
+Casey, Conor	Colorado Rapids	Colorado Rapids	Vancouver Whitecaps	7/9/2011	25		LGE	Smith, Jamie	Wynne, Marvell	
+Palguta, Scott	Colorado Rapids	Colorado Rapids	Vancouver Whitecaps	7/9/2011	68		LGE			
+Camilo	Vancouver Whitecaps	Colorado Rapids	Vancouver Whitecaps	7/9/2011	77		LGE	Khalfan, Nizar	Tan, Long	
+Donovan, Landon	Los Angeles Galaxy	Los Angeles Galaxy	Chicago Fire	7/9/2011	58		LGE	Beckham, David		
+Beckham, David	Los Angeles Galaxy	Los Angeles Galaxy	Chicago Fire	7/9/2011	65		LGE			
+Nazarit, Cristian	Chicago Fire	Los Angeles Galaxy	Chicago Fire	7/9/2011	62		LGE	Nyarko, Patrick		
+Perlaza, Jorge	Portland Timbers	Portland Timbers	Seattle Sounders	7/10/2011	69		LGE	Chara, Diego		
+Parke, Jeff	Portland Timbers	Portland Timbers	Seattle Sounders	7/10/2011	46	Own Goal	LGE			
+Alonso, Osvaldo	Seattle Sounders	Portland Timbers	Seattle Sounders	7/10/2011	83	Penalty	LGE			
+Montero, Fredy	Seattle Sounders	Portland Timbers	Seattle Sounders	7/10/2011	74		LGE	Rosales, Mauro	Neagle, Lamar	
+Montero, Fredy	Seattle Sounders	Portland Timbers	Seattle Sounders	7/10/2011	57		LGE			
+Montero, Fredy	Seattle Sounders	Seattle Sounders	Colorado Rapids	7/16/2011	82		LGE			
+Levesque, Roger	Seattle Sounders	Seattle Sounders	Colorado Rapids	7/16/2011	48		LGE	Rosales, Mauro	Alonso, Osvaldo	
+Rosales, Mauro	Seattle Sounders	Seattle Sounders	Colorado Rapids	7/16/2011	84		LGE	Montero, Fredy		
+Fernandez, Alvaro	Seattle Sounders	Seattle Sounders	Colorado Rapids	7/16/2011	7		LGE	Alonso, Osvaldo		
+Larentowicz, Jeff	Colorado Rapids	Seattle Sounders	Colorado Rapids	7/16/2011	42		LGE	Thompson, Wells	Cummings, Omar	
+Thompson, Wells	Colorado Rapids	Seattle Sounders	Colorado Rapids	7/16/2011	1		LGE			
+Folan, Caleb	Colorado Rapids	Seattle Sounders	Colorado Rapids	7/16/2011	89		LGE			
+Jewsbury, Jack	Portland Timbers	Chicago Fire	Portland Timbers	7/16/2011	25	Penalty	LGE			
+Davis, Brad	Houston Dynamo	Houston Dynamo	Sporting Kansas City	7/16/2011	8		LGE			
+Collin, Aurelian	Sporting Kansas City	Houston Dynamo	Sporting Kansas City	7/16/2011	90		LGE	Espinoza, Roger		
+Ruiz, Carlos	Philadephia Union	New England Revolution	Philadephia Union	7/17/2011	12		LGE	Daniel, Keon	Mapp, Justin	
+Williams, Sheanon	Philadephia Union	New England Revolution	Philadephia Union	7/17/2011	90		LGE	Mwanga, Danny		
+Valdes, Carlos	Philadephia Union	New England Revolution	Philadephia Union	7/17/2011	24		LGE	Le Toux, Sebastien	Nakazawa, Kyle	
+McCarthy, Stephen	New England Revolution	D.C. United	New England Revolution	7/20/2011	73		LGE	Tierney, Chris		
+Shea, Brek	FC Dallas 96	Toronto FC	FC Dallas 96	7/20/2011	48		LGE			
+Nyassi, Sanna	Colorado Rapids	Colorado Rapids	New York Red Bulls	7/20/2011	30		LGE	Cummings, Omar	Moor, Drew	
+Nyassi, Sanna	Colorado Rapids	Colorado Rapids	New York Red Bulls	7/20/2011	2		LGE	Cummings, Omar		
+Nyassi, Sanna	Colorado Rapids	Colorado Rapids	New York Red Bulls	7/20/2011	61		LGE	Cummings, Omar	Wynne, Marvell	
+Thompson, Wells	Colorado Rapids	Colorado Rapids	New York Red Bulls	7/20/2011	26		LGE	Nyassi, Sanna		
+Henry, Thierry	New York Red Bulls	Colorado Rapids	New York Red Bulls	7/20/2011	67		LGE	Agudelo, Juan		
+Wondolowski, Chris	San Jose Earthquakes	San Jose Earthquakes	Vancouver Whitecaps	7/20/2011	3		LGE	Dawkins, Simon	Lenhart, Steven	
+Wondolowski, Chris	San Jose Earthquakes	San Jose Earthquakes	Vancouver Whitecaps	7/20/2011	54		LGE	Peterson, Jacob		
+Hassli, Eric	Vancouver Whitecaps	San Jose Earthquakes	Vancouver Whitecaps	7/20/2011	61		LGE	Salinas, Shea	Chiumiento, Davide	
+Hassli, Eric	Vancouver Whitecaps	San Jose Earthquakes	Vancouver Whitecaps	7/20/2011	42		LGE	Salinas, Shea		
+Franklin, Sean	Los Angeles Galaxy	Los Angeles Galaxy	Columbus Crew	7/20/2011	70		LGE			
+Henry, Thierry	New York Red Bulls	New York Red Bulls	FC Dallas 96	7/23/2011	85		LGE	McCarty, Dax		
+Agudelo, Juan	New York Red Bulls	New York Red Bulls	FC Dallas 96	7/23/2011	39		LGE	Richards, Dane		
+Chavez, Marvin	FC Dallas 96	New York Red Bulls	FC Dallas 96	7/23/2011	51		LGE	Villar, Ricardo	Bruno Guarda	
+Chavez, Marvin	FC Dallas 96	New York Red Bulls	FC Dallas 96	7/23/2011	78		LGE	John, George	Benitez, Jair	
+Gaven, Eddie	Columbus Crew	Columbus Crew	Portland Timbers	7/23/2011	79		LGE			
+Kamara, Kei	Sporting Kansas City	Sporting Kansas City	Toronto FC	7/23/2011	28		LGE			
+Bravo, Omar	Sporting Kansas City	Sporting Kansas City	Toronto FC	7/23/2011	64		LGE	Myers, Chance	Zusi, Graham	
+Kamara, Kei	Sporting Kansas City	Sporting Kansas City	Toronto FC	7/23/2011	34		LGE	Espinoza, Roger	Sapong, C.J.	
+Bravo, Omar	Sporting Kansas City	Sporting Kansas City	Toronto FC	7/23/2011	37		LGE	Jeferson		
+Johnson, Ryan	Toronto FC	Sporting Kansas City	Toronto FC	7/23/2011	72		LGE			
+Koevermans, Danny	Toronto FC	Sporting Kansas City	Toronto FC	7/23/2011	50		LGE	Johnson, Ryan		
+Kimura, Kosuke	Colorado Rapids	Colorado Rapids	New England Revolution	7/23/2011	82		LGE	Pickens, Matt		
+Folan, Caleb	Colorado Rapids	Colorado Rapids	New England Revolution	7/23/2011	65	Penalty	LGE			
+Feilhaber, Benny	New England Revolution	Colorado Rapids	New England Revolution	7/23/2011	25		LGE	McCarthy, Stephen	Alston, Kevin	
+Joseph, Shalrie	New England Revolution	Colorado Rapids	New England Revolution	7/23/2011	90	Penalty	LGE			
+Saborio, Alvaro	Real Salt Lake	Real Salt Lake	San Jose Earthquakes	7/23/2011	8		LGE			
+Saborio, Alvaro	Real Salt Lake	Real Salt Lake	San Jose Earthquakes	7/23/2011	63	Penalty	LGE			
+Olave, Jamison	Real Salt Lake	Real Salt Lake	San Jose Earthquakes	7/23/2011	83		LGE	Alvarez, Arturo	Beckerman, Kyle	
+Beckerman, Kyle	Real Salt Lake	Real Salt Lake	San Jose Earthquakes	7/23/2011	78		LGE			
+Torres, Roger	Philadephia Union	Philadephia Union	Colorado Rapids	7/29/2011	90		LGE			
+Mastroeni, Pablo	Colorado Rapids	Philadephia Union	Colorado Rapids	7/29/2011	35		LGE			
+Nyassi, Sanna	Colorado Rapids	Philadephia Union	Colorado Rapids	7/29/2011	45		LGE	Cummings, Omar		
+Chavez, Marvin	FC Dallas 96	FC Dallas 96	CD Chivas USA	7/31/2011	26		LGE	Luna, Ruben		
+Donovan, Landon	Los Angeles Galaxy	Vancouver Whitecaps	Los Angeles Galaxy	7/30/2011	61		LGE	Franklin, Sean		
+Donovan, Landon	Los Angeles Galaxy	Vancouver Whitecaps	Los Angeles Galaxy	7/30/2011	75	Penalty	LGE			
+Franklin, Sean	Los Angeles Galaxy	Vancouver Whitecaps	Los Angeles Galaxy	7/30/2011	80		LGE	Donovan, Landon		
+Cristman, Adam	Los Angeles Galaxy	Vancouver Whitecaps	Los Angeles Galaxy	7/30/2011	90		LGE			
+Bunbury, Teal	Sporting Kansas City	Sporting Kansas City	New England Revolution	7/30/2011	89		LGE			
+Lekic, Rajko	New England Revolution	Sporting Kansas City	New England Revolution	7/30/2011	38		LGE	Reis, Matt		
+Clark, Colin	Houston Dynamo	Houston Dynamo	Seattle Sounders	7/30/2011	7		LGE			
+Ching, Brian	Houston Dynamo	Houston Dynamo	Seattle Sounders	7/30/2011	23		LGE	Cameron, Geoff	Davis, Brad	
+Ching, Brian	Houston Dynamo	Houston Dynamo	Seattle Sounders	7/30/2011	71		LGE	Clark, Colin	Freeman, Hunter	
+Fernandez, Alvaro	Seattle Sounders	Houston Dynamo	Seattle Sounders	7/30/2011	36	Penalty	LGE			
+De Rosario, Dwayne	D.C. United	San Jose Earthquakes	D.C. United	7/30/2011	57		LGE	Najar, Andy		
+De Rosario, Dwayne	D.C. United	San Jose Earthquakes	D.C. United	7/30/2011	66		LGE	Pontius, Chris		
+Espinoza, Roger	Sporting Kansas City	Sporting Kansas City	Real Salt Lake	8/3/2011	29		LGE			
+Bunbury, Teal	Sporting Kansas City	Sporting Kansas City	Real Salt Lake	8/3/2011	34		LGE			
+Pardo, Pavel	Chicago Fire	Chicago Fire	Philadephia Union	8/3/2011	54		LGE			
+Paunovic, Veljko	Philadephia Union	Chicago Fire	Philadephia Union	8/3/2011	34		LGE			
+Brunner, Eric	Portland Timbers	Portland Timbers	Los Angeles Galaxy	8/3/2011	68		LGE	Zizzo, Sal		
+Perlaza, Jorge	Portland Timbers	Portland Timbers	Los Angeles Galaxy	8/3/2011	33		LGE	Chara, Diego	Cooper, Kenny	
+Chabala, Mike	Portland Timbers	Portland Timbers	Los Angeles Galaxy	8/3/2011	26		LGE	Nagbe, Darlington		
+De Rosario, Dwayne	D.C. United	D.C. United	Toronto FC	8/6/2011	19		LGE	Quaranta, Santino		
+De Rosario, Dwayne	D.C. United	D.C. United	Toronto FC	8/6/2011	64		LGE	Pontius, Chris		
+De Rosario, Dwayne	D.C. United	D.C. United	Toronto FC	8/6/2011	88	Penalty	LGE			
+Koevermans, Danny	Toronto FC	D.C. United	Toronto FC	8/6/2011	86		LGE	Joao Plata		
+Marosevic, Perica (Peri)	Toronto FC	D.C. United	Toronto FC	8/6/2011	52		LGE			
+de Guzman, Julian	Toronto FC	D.C. United	Toronto FC	8/6/2011	69		LGE	Morgan, Ashtone		
+Joseph, Shalrie	New England Revolution	New England Revolution	CD Chivas USA	8/6/2011	69	Penalty	LGE			
+Fagundez, Diego	New England Revolution	New England Revolution	CD Chivas USA	8/6/2011	86		LGE	Alston, Kevin		
+Moreno, Alejandro	CD Chivas USA	New England Revolution	CD Chivas USA	8/6/2011	31		LGE	LaBrocca, Nick	Elliott, Simon	
+Moreno, Alejandro	CD Chivas USA	New England Revolution	CD Chivas USA	8/6/2011	80		LGE	Jazic, Ante	Braun, Justin	
+LaBrocca, Nick	CD Chivas USA	New England Revolution	CD Chivas USA	8/6/2011	59		LGE			
+McInerney, Jack	Philadephia Union	Philadephia Union	Houston Dynamo	8/6/2011	15		LGE	Le Toux, Sebastien		
+Cameron, Geoff	Houston Dynamo	Philadephia Union	Houston Dynamo	8/6/2011	84		LGE			
+Kamara, Kei	Sporting Kansas City	Sporting Kansas City	Seattle Sounders	8/6/2011	20		LGE	Besler, Matt		
+Rosales, Mauro	Seattle Sounders	Sporting Kansas City	Seattle Sounders	8/6/2011	90		LGE			
+Neagle, Lamar	Seattle Sounders	Sporting Kansas City	Seattle Sounders	8/6/2011	90		LGE	Fucito, Michael		
+Saborio, Alvaro	Real Salt Lake	Real Salt Lake	New York Red Bulls	8/6/2011	77	Penalty	LGE			
+Borchers, Nat	Real Salt Lake	Real Salt Lake	New York Red Bulls	8/6/2011	13		LGE	Beckerman, Kyle		
+Gil, Luis	Real Salt Lake	Real Salt Lake	New York Red Bulls	8/6/2011	44		LGE	Beckerman, Kyle		
+Gordon, Alan	San Jose Earthquakes	San Jose Earthquakes	Portland Timbers	8/6/2011	67		LGE	Beitashour, Steven		
+Cooper, Kenny	Portland Timbers	San Jose Earthquakes	Portland Timbers	8/6/2011	23		LGE	Perlaza, Jorge	Zizzo, Sal	
+Juninho	Los Angeles Galaxy	Los Angeles Galaxy	FC Dallas 96	8/6/2011	62		LGE	Berhalter, Gregg	Beckham, David	
+Gonzalez, Omar	Los Angeles Galaxy	Los Angeles Galaxy	FC Dallas 96	8/6/2011	32		LGE			
+Magee, Mike	Los Angeles Galaxy	Los Angeles Galaxy	FC Dallas 96	8/6/2011	81		LGE	Beckham, David		
+Chavez, Marvin	FC Dallas 96	Los Angeles Galaxy	FC Dallas 96	8/6/2011	9		LGE	Maicon Santos	Lloyd, Zach	
+Camilo	Vancouver Whitecaps	Vancouver Whitecaps	Chicago Fire	8/7/2011	48		LGE	Salinas, Shea	Harvey, Jordan	
+Hassli, Eric	Vancouver Whitecaps	Vancouver Whitecaps	Chicago Fire	8/7/2011	72		LGE			
+Koffie, Gershon	Vancouver Whitecaps	Vancouver Whitecaps	Chicago Fire	8/7/2011	24		LGE	Hassli, Eric		
+Hassli, Eric	Vancouver Whitecaps	Vancouver Whitecaps	Chicago Fire	8/7/2011	2		LGE	Harvey, Jordan		
+Barouch, Orr	Chicago Fire	Vancouver Whitecaps	Chicago Fire	8/7/2011	80		LGE	Nyarko, Patrick		
+Oduro, Dominic	Chicago Fire	Vancouver Whitecaps	Chicago Fire	8/7/2011	23		LGE	Grazzini, Sebastian		
+Joao Plata	Toronto FC	Toronto FC	Real Salt Lake	8/13/2011	77		LGE	Stinson, Matt		
+Henry, Thierry	New York Red Bulls	New York Red Bulls	Chicago Fire	8/13/2011	9		LGE	Richards, Dane	McCarty, Dax	
+Lindpere, Joel	New York Red Bulls	New York Red Bulls	Chicago Fire	8/13/2011	63		LGE	Richards, Dane		
+Oduro, Dominic	Chicago Fire	New York Red Bulls	Chicago Fire	8/13/2011	16		LGE	Nyarko, Patrick		
+Grazzini, Sebastian	Chicago Fire	New York Red Bulls	Chicago Fire	8/13/2011	24		LGE			
+King, Stephen	D.C. United	D.C. United	Vancouver Whitecaps	8/13/2011	81		LGE	De Rosario, Dwayne		
+Pontius, Chris	D.C. United	D.C. United	Vancouver Whitecaps	8/13/2011	70		LGE			
+Najar, Andy	D.C. United	D.C. United	Vancouver Whitecaps	8/13/2011	48		LGE	Quaranta, Santino		
+Pontius, Chris	D.C. United	D.C. United	Vancouver Whitecaps	8/13/2011	45		LGE	De Rosario, Dwayne		
+Renteria, Emilio	Columbus Crew	Columbus Crew	New England Revolution	8/13/2011	81		LGE	Rogers, Robbie	Duka, Dilly	
+James, Julius	Columbus Crew	Columbus Crew	New England Revolution	8/13/2011	75		LGE	Gardner, Josh		
+Alston, Kevin	Columbus Crew	Columbus Crew	New England Revolution	8/13/2011	54	Own Goal	LGE			
+Feilhaber, Benny	New England Revolution	Columbus Crew	New England Revolution	8/13/2011	45		LGE	Phelan, Pat		
+Le Toux, Sebastien	Philadephia Union	Philadephia Union	FC Dallas 96	8/13/2011	84	Penalty	LGE			
+Le Toux, Sebastien	Philadephia Union	Philadephia Union	FC Dallas 96	8/13/2011	33	Penalty	LGE			
+Shea, Brek	FC Dallas 96	Philadephia Union	FC Dallas 96	8/13/2011	45		LGE			
+Maicon Santos	FC Dallas 96	Philadephia Union	FC Dallas 96	8/13/2011	16		LGE			
+Gjertsen, Joey	San Jose Earthquakes	San Jose Earthquakes	Colorado Rapids	8/13/2011	22		LGE			
+Larentowicz, Jeff	Colorado Rapids	San Jose Earthquakes	Colorado Rapids	8/13/2011	72		LGE	Thompson, Wells	Mastroeni, Pablo	
+Folan, Caleb	Colorado Rapids	San Jose Earthquakes	Colorado Rapids	8/13/2011	39	Penalty	LGE			
+Moffat, Adam	Houston Dynamo	Houston Dynamo	Portland Timbers	8/14/2011	17		LGE			
+Ching, Brian	Houston Dynamo	Houston Dynamo	Portland Timbers	8/14/2011	27		LGE	Clark, Colin	Davis, Brad	
+Jewsbury, Jack	Portland Timbers	Houston Dynamo	Portland Timbers	8/14/2011	56		LGE	Nagbe, Darlington	Zizzo, Sal	
+Cochrane, Ryan	New England Revolution	New England Revolution	Houston Dynamo	8/17/2011	4		LGE			
+Boswell, Bobby	Houston Dynamo	New England Revolution	Houston Dynamo	8/17/2011	90		LGE			
+Zusi, Graham	Sporting Kansas City	Sporting Kansas City	Portland Timbers	8/17/2011	40		LGE			
+Saad, Soony	Sporting Kansas City	Sporting Kansas City	Portland Timbers	8/17/2011	72		LGE			
+Zusi, Graham	Sporting Kansas City	Sporting Kansas City	Portland Timbers	8/17/2011	25		LGE			
+Dike, Bright	Portland Timbers	Sporting Kansas City	Portland Timbers	8/17/2011	81		LGE	Wallace, Rodney	Jewsbury, Jack	
+Grazzini, Sebastian	Chicago Fire	Chicago Fire	D.C. United	8/18/2011	59		LGE			
+Wolff, Josh	D.C. United	Chicago Fire	D.C. United	8/18/2011	73		LGE	Quaranta, Santino		
+Caraglio, Milton	New England Revolution	New England Revolution	New York Red Bulls	8/20/2011	37		LGE	Mansally, Kenny		
+Caraglio, Milton	New England Revolution	New England Revolution	New York Red Bulls	8/20/2011	15		LGE			
+Richards, Dane	New York Red Bulls	New England Revolution	New York Red Bulls	8/20/2011	53		LGE	Ream, Tim		
+Richards, Dane	New York Red Bulls	New England Revolution	New York Red Bulls	8/20/2011	87		LGE	Lindpere, Joel	Marquez, Rafael	
+Renteria, Emilio	Columbus Crew	Columbus Crew	Philadephia Union	8/20/2011	37		LGE	Rogers, Robbie	Mendoza, Andres	
+Mendoza, Andres	Columbus Crew	Columbus Crew	Philadephia Union	8/20/2011	51	Penalty	LGE			
+Paunovic, Veljko	Philadephia Union	Columbus Crew	Philadephia Union	8/20/2011	42		LGE	Daniel, Keon		
+Ching, Brian	Houston Dynamo	Houston Dynamo	Real Salt Lake	8/20/2011	47		LGE	Davis, Brad	Costly, Carlo	
+Boswell, Bobby	Houston Dynamo	Houston Dynamo	Real Salt Lake	8/20/2011	69		LGE	Davis, Brad		
+Dixon, Alex	Houston Dynamo	Houston Dynamo	Real Salt Lake	8/20/2011	90		LGE			
+Espindola, Fabian	Real Salt Lake	Houston Dynamo	Real Salt Lake	8/20/2011	28		LGE	Warner, Collen		
+Gil, Luis	Real Salt Lake	Houston Dynamo	Real Salt Lake	8/20/2011	60		LGE	Espindola, Fabian		
+Rosales, Mauro	Seattle Sounders	FC Dallas 96	Seattle Sounders	8/20/2011	15		LGE	Montero, Fredy		
+Chara, Diego	Portland Timbers	Portland Timbers	Vancouver Whitecaps	8/20/2011	2		LGE	Perlaza, Jorge	Jewsbury, Jack	
+Perlaza, Jorge	Portland Timbers	Portland Timbers	Vancouver Whitecaps	8/20/2011	33		LGE			
+Camilo	Vancouver Whitecaps	Portland Timbers	Vancouver Whitecaps	8/20/2011	88		LGE	Harvey, Jordan		
+Keane, Robbie	Los Angeles Galaxy	Los Angeles Galaxy	San Jose Earthquakes	8/20/2011	21		LGE	Beckham, David		
+Magee, Mike	Los Angeles Galaxy	Los Angeles Galaxy	San Jose Earthquakes	8/20/2011	90		LGE	Franklin, Sean	Donovan, Landon	
+Gargan, Dan	Chicago Fire	Chicago Fire	Toronto FC	8/21/2011	69		LGE	Pardo, Pavel		
+Oduro, Dominic	Chicago Fire	Chicago Fire	Toronto FC	8/21/2011	16		LGE	Segares, Gonzalo		
+Kamara, Kei	Sporting Kansas City	Sporting Kansas City	D.C. United	8/21/2011	19		LGE			
+Brunner, Eric	Portland Timbers	Portland Timbers	CD Chivas USA	8/24/2011	44		LGE	Chabala, Mike		
+Rosales, Mauro	Seattle Sounders	Seattle Sounders	Columbus Crew	8/27/2011	16	Penalty	LGE			
+Neagle, Lamar	Seattle Sounders	Seattle Sounders	Columbus Crew	8/27/2011	21		LGE	Riley, James	Rosales, Mauro	
+Neagle, Lamar	Seattle Sounders	Seattle Sounders	Columbus Crew	8/27/2011	4		LGE	Fucito, Michael		
+Fucito, Michael	Seattle Sounders	Seattle Sounders	Columbus Crew	8/27/2011	40		LGE	Rosales, Mauro	Montero, Fredy	
+Neagle, Lamar	Seattle Sounders	Seattle Sounders	Columbus Crew	8/27/2011	70		LGE	Alonso, Osvaldo		
+Gardner, Josh	Seattle Sounders	Seattle Sounders	Columbus Crew	8/27/2011	74	Own Goal	LGE			
+Cunningham, Jeff	Columbus Crew	Seattle Sounders	Columbus Crew	8/27/2011	59	Penalty	LGE			
+Gardner, Josh	Columbus Crew	Seattle Sounders	Columbus Crew	8/27/2011	73		LGE			
+Salinas, Shea	Vancouver Whitecaps	Vancouver Whitecaps	Houston Dynamo	8/27/2011	86		LGE	Tan, Long		
+Avila, Eric	Toronto FC	Toronto FC	San Jose Earthquakes	8/27/2011	33		LGE			
+Wondolowski, Chris	San Jose Earthquakes	Toronto FC	San Jose Earthquakes	8/27/2011	87		LGE	Burling, Bobby		
+Kamara, Kei	Sporting Kansas City	Sporting Kansas City	FC Dallas 96	8/27/2011	22		LGE			
+Bravo, Omar	Sporting Kansas City	Sporting Kansas City	FC Dallas 96	8/27/2011	68		LGE	Bunbury, Teal		
+Maicon Santos	FC Dallas 96	Sporting Kansas City	FC Dallas 96	8/27/2011	89		LGE	Shea, Brek		
+Hernandez, Daniel	FC Dallas 96	Sporting Kansas City	FC Dallas 96	8/27/2011	70		LGE			
+Warshaw, Bobby	FC Dallas 96	Sporting Kansas City	FC Dallas 96	8/27/2011	90		LGE	Shea, Brek		
+Saborio, Alvaro	Real Salt Lake	CD Chivas USA	Real Salt Lake	8/27/2011	11		LGE			
+Beckerman, Kyle	Real Salt Lake	Real Salt Lake	Philadephia Union	9/3/2011	18		LGE	Paulo Araujo Jr		
+Schuler, Chris	Real Salt Lake	Real Salt Lake	Philadephia Union	9/3/2011	26		LGE	Beckerman, Kyle		
+Le Toux, Sebastien	Philadephia Union	Real Salt Lake	Philadephia Union	9/3/2011	30		LGE	Mapp, Justin		
+Julio Cesar	Sporting Kansas City	Sporting Kansas City	Los Angeles Galaxy	9/5/2011	72		LGE			
+Bravo, Omar	Sporting Kansas City	Sporting Kansas City	Los Angeles Galaxy	9/5/2011	72		LGE			
+Franklin, Sean	Los Angeles Galaxy	Sporting Kansas City	Los Angeles Galaxy	9/5/2011	25		LGE	Gonzalez, Omar		
+Franklin, Sean	Los Angeles Galaxy	Sporting Kansas City	Los Angeles Galaxy	9/5/2011	74		LGE	Beckham, David		
+Adu, Freddy	Philadephia Union	Philadephia Union	New England Revolution	9/7/2011	54		LGE	Mwanga, Danny	Paunovic, Veljko	
+Le Toux, Sebastien	Philadephia Union	Philadephia Union	New England Revolution	9/7/2011	90		LGE	Paunovic, Veljko		
+Le Toux, Sebastien	Philadephia Union	Philadephia Union	New England Revolution	9/7/2011	79	Penalty	LGE			
+Torres, Roger	Philadephia Union	Philadephia Union	New England Revolution	9/7/2011	28		LGE	Williams, Sheanon		
+Lekic, Rajko	New England Revolution	Philadephia Union	New England Revolution	9/7/2011	21	Penalty	LGE			
+Zerka, Monsef	New England Revolution	Philadephia Union	New England Revolution	9/7/2011	25		LGE	Tierney, Chris		
+Feilhaber, Benny	New England Revolution	Philadephia Union	New England Revolution	9/7/2011	33		LGE	Lekic, Rajko		
+Soares, A.J.	New England Revolution	Philadephia Union	New England Revolution	9/7/2011	9		LGE	Tierney, Chris		
+Donovan, Landon	Los Angeles Galaxy	Los Angeles Galaxy	Colorado Rapids	9/9/2011	36		LGE	Franklin, Sean	Barrett, Chad	
+Montero, Fredy	Seattle Sounders	Seattle Sounders	Real Salt Lake	9/10/2011	45		LGE	Rosales, Mauro		
+Saborio, Alvaro	Real Salt Lake	Seattle Sounders	Real Salt Lake	9/10/2011	56		LGE			
+Keller, Kasey	Real Salt Lake	Seattle Sounders	Real Salt Lake	9/10/2011	13	Own Goal	LGE			
+Sapong, C.J.	Sporting Kansas City	Sporting Kansas City	Houston Dynamo	9/10/2011	79		LGE	Kamara, Kei	Zusi, Graham	
+Bunbury, Teal	Sporting Kansas City	Sporting Kansas City	Houston Dynamo	9/10/2011	9		LGE	Zusi, Graham		
+Bunbury, Teal	Sporting Kansas City	Sporting Kansas City	Houston Dynamo	9/10/2011	73		LGE	Julio Cesar		
+Mendoza, Andres	Columbus Crew	Columbus Crew	Toronto FC	9/10/2011	87		LGE	Heinemann, Tommy	Cunningham, Jeff	
+Heinemann, Tommy	Columbus Crew	Columbus Crew	Toronto FC	9/10/2011	67		LGE	Rogers, Robbie	Ekpo, Emmanuel	
+Koevermans, Danny	Toronto FC	Columbus Crew	Toronto FC	9/10/2011	90		LGE	de Guzman, Julian		
+Soolsma, Nick	Toronto FC	Columbus Crew	Toronto FC	9/10/2011	21		LGE	Frings, Torsten		
+Johnson, Ryan	Toronto FC	Columbus Crew	Toronto FC	9/10/2011	42		LGE	Joao Plata	de Guzman, Julian	
+de Guzman, Julian	Toronto FC	Columbus Crew	Toronto FC	9/10/2011	83		LGE			
+Agudelo, Juan	New York Red Bulls	New York Red Bulls	Vancouver Whitecaps	9/10/2011	68		LGE	Marquez, Rafael		
+Chiumiento, Davide	Vancouver Whitecaps	New York Red Bulls	Vancouver Whitecaps	9/10/2011	23		LGE	Camilo		
+Joseph, Shalrie	New England Revolution	New England Revolution	FC Dallas 96	9/10/2011	14		LGE	Zerka, Monsef	Caraglio, Milton	
+Lekic, Rajko	New England Revolution	New England Revolution	FC Dallas 96	9/10/2011	84		LGE	Cochrane, Ryan	Feilhaber, Benny	
+Wondolowski, Chris	San Jose Earthquakes	San Jose Earthquakes	Chicago Fire	9/10/2011	10		LGE	Baca, Rafael		
+Corrales, Ramiro	San Jose Earthquakes	San Jose Earthquakes	Chicago Fire	9/10/2011	69		LGE	Wondolowski, Chris	Stephenson, Khari	
+Davies, Charlie	D.C. United	CD Chivas USA	D.C. United	9/10/2011	14		LGE	Pontius, Chris		
+Davies, Charlie	D.C. United	CD Chivas USA	D.C. United	9/10/2011	11		LGE	Pontius, Chris	De Rosario, Dwayne	
+Davies, Charlie	D.C. United	CD Chivas USA	D.C. United	9/10/2011	66		LGE	Pontius, Chris	De Rosario, Dwayne	
+Mendoza, Andres	Columbus Crew	Columbus Crew	Houston Dynamo	9/14/2011	76	Penalty	LGE			
+Mendoza, Andres	Columbus Crew	Columbus Crew	Houston Dynamo	9/14/2011	64	Penalty	LGE			
+Watson, Je-Vaughn	Houston Dynamo	Columbus Crew	Houston Dynamo	9/14/2011	34		LGE	Taylor, Jermaine	Moffat, Adam	
+Carr, Calen	Houston Dynamo	Columbus Crew	Houston Dynamo	9/14/2011	86		LGE	Cameron, Geoff	Cruz, Danny	
+Chara, Diego	Portland Timbers	Portland Timbers	New England Revolution	9/16/2011	9		LGE	Palmer, Lovel		
+Cooper, Kenny	Portland Timbers	Portland Timbers	New England Revolution	9/16/2011	32		LGE	Chabala, Mike		
+Nagbe, Darlington	Portland Timbers	Portland Timbers	New England Revolution	9/16/2011	66		LGE	Alhassan, Kalif		
+Koevermans, Danny	Toronto FC	Toronto FC	Colorado Rapids	9/17/2011	52		LGE	Morgan, Ashtone		
+Koevermans, Danny	Toronto FC	Toronto FC	Colorado Rapids	9/17/2011	60		LGE	Soolsma, Nick	Eckersley, Richard	
+Nyassi, Sanna	Colorado Rapids	Toronto FC	Colorado Rapids	9/17/2011	70		LGE			
+Le Toux, Sebastien	Philadephia Union	Philadephia Union	Columbus Crew	9/17/2011	32		LGE	Torres, Roger		
+Rodgers, Luke	New York Red Bulls	FC Dallas 96	New York Red Bulls	9/17/2011	36		LGE	Agudelo, Juan	Keel, Stephen	
+Davis, Brad	Houston Dynamo	Houston Dynamo	San Jose Earthquakes	9/17/2011	48	Penalty	LGE			
+Bruin, Will	Houston Dynamo	Houston Dynamo	San Jose Earthquakes	9/17/2011	80		LGE	Camargo, Luiz	Cruz, Danny	
+Stephenson, Khari	San Jose Earthquakes	Houston Dynamo	San Jose Earthquakes	9/17/2011	40		LGE	Beitashour, Steven	Gjertsen, Joey	
+Fucito, Michael	Seattle Sounders	Seattle Sounders	D.C. United	9/17/2011	35		LGE	Rosales, Mauro	Evans, Brad	
+Fernandez, Alvaro	Seattle Sounders	Seattle Sounders	D.C. United	9/17/2011	60		LGE			
+Fernandez, Alvaro	Seattle Sounders	Seattle Sounders	D.C. United	9/17/2011	45		LGE	Rosales, Mauro	Montero, Fredy	
+Borchers, Nat	Real Salt Lake	Real Salt Lake	Sporting Kansas City	9/17/2011	54		LGE	Beckerman, Kyle		
+Magee, Mike	Los Angeles Galaxy	Los Angeles Galaxy	Vancouver Whitecaps	9/17/2011	75		LGE	Jordan, Bryan	Beckham, David	
+Keane, Robbie	Los Angeles Galaxy	Los Angeles Galaxy	Vancouver Whitecaps	9/17/2011	64		LGE	Jordan, Bryan		
+Magee, Mike	Los Angeles Galaxy	Los Angeles Galaxy	Vancouver Whitecaps	9/17/2011	40		LGE	Keane, Robbie	Beckham, David	
+White, Ethan	D.C. United	D.C. United	CD Chivas USA	9/21/2011	47		LGE			
+De Rosario, Dwayne	D.C. United	D.C. United	CD Chivas USA	9/21/2011	39		LGE	Najar, Andy		
+Angel, Juan Pablo	CD Chivas USA	D.C. United	CD Chivas USA	9/21/2011	69		LGE	Jazic, Ante		
+Angel, Juan Pablo	CD Chivas USA	D.C. United	CD Chivas USA	9/21/2011	57		LGE	LaBrocca, Nick		
+Lindpere, Joel	New York Red Bulls	New York Red Bulls	Real Salt Lake	9/21/2011	69		LGE	Marquez, Rafael		
+Saborio, Alvaro	Real Salt Lake	New York Red Bulls	Real Salt Lake	9/21/2011	7		LGE	Williams, Andy		
+Espindola, Fabian	Real Salt Lake	New York Red Bulls	Real Salt Lake	9/21/2011	11		LGE			
+Espindola, Fabian	Real Salt Lake	New York Red Bulls	Real Salt Lake	9/21/2011	21		LGE	Warner, Collen	Saborio, Alvaro	
+Cooper, Kenny	Portland Timbers	Portland Timbers	San Jose Earthquakes	9/21/2011	9		LGE	Nagbe, Darlington		
+Stephenson, Khari	San Jose Earthquakes	Portland Timbers	San Jose Earthquakes	9/21/2011	70		LGE	Baca, Rafael		
+Bravo, Omar	Sporting Kansas City	Sporting Kansas City	Philadephia Union	9/23/2011	56		LGE	Kamara, Kei		
+Le Toux, Sebastien	Philadephia Union	Sporting Kansas City	Philadephia Union	9/23/2011	63		LGE	Farfan, Michael		
+Cameron, Geoff	Houston Dynamo	FC Dallas 96	Houston Dynamo	9/24/2011	87		LGE	Davis, Brad		
+Najar, Andy	D.C. United	D.C. United	Real Salt Lake	9/24/2011	13		LGE	De Rosario, Dwayne		
+De Rosario, Dwayne	D.C. United	D.C. United	Real Salt Lake	9/24/2011	22		LGE	Najar, Andy		
+De Rosario, Dwayne	D.C. United	D.C. United	Real Salt Lake	9/24/2011	31		LGE			
+De Rosario, Dwayne	D.C. United	D.C. United	Real Salt Lake	9/24/2011	27		LGE	Wolff, Josh		
+Saborio, Alvaro	Real Salt Lake	D.C. United	Real Salt Lake	9/24/2011	86		LGE	Paulo Araujo Jr		
+Richards, Dane	New York Red Bulls	New York Red Bulls	Portland Timbers	9/24/2011	21		LGE			
+Rodgers, Luke	New York Red Bulls	New York Red Bulls	Portland Timbers	9/24/2011	66	Penalty	LGE			
+Moor, Drew	Colorado Rapids	Colorado Rapids	San Jose Earthquakes	9/24/2011	71		LGE			
+Wondolowski, Chris	San Jose Earthquakes	Colorado Rapids	San Jose Earthquakes	9/24/2011	19		LGE			
+Camilo	Vancouver Whitecaps	Vancouver Whitecaps	Seattle Sounders	9/24/2011	22		LGE	Chiumiento, Davide	Hassli, Eric	
+Montero, Fredy	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	9/24/2011	64		LGE			
+Evans, Brad	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	9/24/2011	33	Penalty	LGE			
+Montero, Fredy	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	9/24/2011	67		LGE	Evans, Brad	Gonzalez, Leo	
+Angel, Juan Pablo	CD Chivas USA	CD Chivas USA	Toronto FC	9/24/2011	12		LGE	Jazic, Ante	Braun, Justin	
+Angel, Juan Pablo	CD Chivas USA	CD Chivas USA	Toronto FC	9/24/2011	77		LGE	Zemanski, Ben	Mondaini, Marcos	
+Braun, Justin	CD Chivas USA	CD Chivas USA	Toronto FC	9/24/2011	71		LGE	Umana, Michael		
+Nyarko, Patrick	Chicago Fire	Chicago Fire	New England Revolution	9/25/2011	30		LGE			
+Oduro, Dominic	Chicago Fire	Chicago Fire	New England Revolution	9/25/2011	9		LGE	Grazzini, Sebastian	Pause, Logan	
+Grazzini, Sebastian	Chicago Fire	Chicago Fire	New England Revolution	9/25/2011	5	Penalty	LGE			
+Guy, Ryan	New England Revolution	Chicago Fire	New England Revolution	9/25/2011	90		LGE			
+Guy, Ryan	New England Revolution	Chicago Fire	New England Revolution	9/25/2011	90		LGE	Caraglio, Milton	Fagundez, Diego	
+James, Julius	Sporting Kansas City	Sporting Kansas City	Columbus Crew	9/28/2011	74	Own Goal	LGE			
+Kamara, Kei	Sporting Kansas City	Sporting Kansas City	Columbus Crew	9/28/2011	15	Penalty	LGE			
+Renteria, Emilio	Columbus Crew	Sporting Kansas City	Columbus Crew	9/28/2011	34		LGE	Rogers, Robbie		
+Pappa, Marco	Chicago Fire	Real Salt Lake	Chicago Fire	9/28/2011	36		LGE	Pardo, Pavel		
+Pappa, Marco	Chicago Fire	Real Salt Lake	Chicago Fire	9/28/2011	9		LGE	Paladini, Daniel	Nyarko, Patrick	
+Pappa, Marco	Chicago Fire	Real Salt Lake	Chicago Fire	9/28/2011	75		LGE			
+Wondolowski, Chris	San Jose Earthquakes	San Jose Earthquakes	Sporting Kansas City	10/1/2011	85		LGE	Beitashour, Steven	Dawkins, Simon	
+Bunbury, Teal	Sporting Kansas City	San Jose Earthquakes	Sporting Kansas City	10/1/2011	86		LGE	Sapong, C.J.		
+Sapong, C.J.	Sporting Kansas City	Sporting Kansas City	New York Red Bulls	10/15/2011	74		LGE	Besler, Matt	Zusi, Graham	
+Bunbury, Teal	Sporting Kansas City	Sporting Kansas City	New York Red Bulls	10/15/2011	57		LGE	Julio Cesar		
+Besler, Matt	Sporting Kansas City	D.C. United	Sporting Kansas City	10/22/2011	54		LGE			
+Bravo, Omar	Sporting Kansas City	Sporting Kansas City	CD Chivas USA	7/9/2011	90		LGE			
+LaBrocca, Nick	CD Chivas USA	Sporting Kansas City	CD Chivas USA	7/9/2011	30		LGE	Braun, Justin	Gavin, Blair	
+Angel, Juan Pablo	CD Chivas USA	CD Chivas USA	Philadephia Union	10/2/2011	90		LGE	Lahoud, Michael	Gavin, Blair	
+Mapp, Justin	Philadephia Union	CD Chivas USA	Philadephia Union	10/2/2011	59		LGE			
+Barrett, Chad	Los Angeles Galaxy	Los Angeles Galaxy	CD Chivas USA	10/16/2011	53		LGE	Cristman, Adam		
+Estupinan, Victor	CD Chivas USA	CD Chivas USA	Seattle Sounders	10/22/2011	83		LGE	Boyens, Andrew	Trujillo, Mariano	
+Boyens, Andrew	Seattle Sounders	CD Chivas USA	Seattle Sounders	10/22/2011	53	Own Goal	LGE			
+Fernandez, Alvaro	Seattle Sounders	CD Chivas USA	Seattle Sounders	10/22/2011	68		LGE	Evans, Brad		
+Ochoa, Sammy	Seattle Sounders	CD Chivas USA	Seattle Sounders	10/22/2011	73		LGE	Montero, Fredy	Levesque, Roger	
+LaBrocca, Nick	CD Chivas USA	CD Chivas USA	Chicago Fire	7/2/2011	46		LGE	Lahoud, Michael		
+Oduro, Dominic	Chicago Fire	CD Chivas USA	Chicago Fire	7/2/2011	26		LGE	Nyarko, Patrick		
+Gibbs, Cory	Chicago Fire	Chicago Fire	CD Chivas USA	9/17/2011	2		LGE	Grazzini, Sebastian		
+Angel, Juan Pablo	Chicago Fire	Chicago Fire	CD Chivas USA	9/17/2011	26	Own Goal	LGE			
+Oduro, Dominic	Chicago Fire	Chicago Fire	CD Chivas USA	9/17/2011	85		LGE	Nyarko, Patrick	Chaves, Diego	
+Angel, Juan Pablo	CD Chivas USA	Chicago Fire	CD Chivas USA	9/17/2011	61		LGE	Trujillo, Mariano		
+LaBrocca, Nick	CD Chivas USA	Chicago Fire	CD Chivas USA	9/17/2011	63		LGE	Valentin, Zarek		
+Clark, Colin	Houston Dynamo	Houston Dynamo	Chicago Fire	10/1/2011	33		LGE			
+Oduro, Dominic	Chicago Fire	Houston Dynamo	Chicago Fire	10/1/2011	43		LGE	Husidic, Baggio		
+Grazzini, Sebastian	Chicago Fire	Chicago Fire	FC Dallas 96	10/12/2011	85		LGE	Barouch, Orr		
+Jackson Goncalves	FC Dallas 96	Chicago Fire	FC Dallas 96	10/12/2011	41		LGE	Ihemelu, Ugo		
+Cruz, Daniel	FC Dallas 96	Chicago Fire	FC Dallas 96	10/12/2011	52		LGE	Lloyd, Zach	Villar, Ricardo	
+De Rosario, Dwayne	D.C. United	D.C. United	Chicago Fire	10/15/2011	90	Penalty	LGE			
+Grazzini, Sebastian	Chicago Fire	D.C. United	Chicago Fire	10/15/2011	90		LGE	Segares, Gonzalo		
+Chaves, Diego	Chicago Fire	D.C. United	Chicago Fire	10/15/2011	90		LGE	Segares, Gonzalo	Barouch, Orr	
+Casey, Conor	Colorado Rapids	Colorado Rapids	Sporting Kansas City	5/28/2011	13		LGE			
+Smith, Ryan	Sporting Kansas City	Colorado Rapids	Sporting Kansas City	5/28/2011	75		LGE	Bunbury, Teal		
+Folan, Caleb	Colorado Rapids	Colorado Rapids	CD Chivas USA	8/20/2011	13		LGE	Mastroeni, Pablo	Kimura, Kosuke	
+Larentowicz, Jeff	Colorado Rapids	Colorado Rapids	CD Chivas USA	8/20/2011	69		LGE			
+Angel, Juan Pablo	CD Chivas USA	Colorado Rapids	CD Chivas USA	8/20/2011	36		LGE	LaBrocca, Nick		
+Courtois, Laurent	CD Chivas USA	Colorado Rapids	CD Chivas USA	8/20/2011	86		LGE	Lahoud, Michael		
+Oduro, Dominic	Chicago Fire	Chicago Fire	Colorado Rapids	8/27/2011	17		LGE	Pardo, Pavel		
+Gibbs, Cory	Chicago Fire	Chicago Fire	Colorado Rapids	8/27/2011	36		LGE	Grazzini, Sebastian	Pardo, Pavel	
+Moor, Drew	Colorado Rapids	Colorado Rapids	FC Dallas 96	10/1/2011	25		LGE	Nyassi, Sanna		
+Rochat, Alain	Vancouver Whitecaps	Vancouver Whitecaps	Colorado Rapids	10/22/2011	49		LGE			
+Larentowicz, Jeff	Colorado Rapids	Vancouver Whitecaps	Colorado Rapids	10/22/2011	59		LGE	Smith, Jamie	Nyassi, Sanna	
+Thompson, Wells	Colorado Rapids	Vancouver Whitecaps	Colorado Rapids	10/22/2011	84		LGE			
+Mendoza, Andres	Columbus Crew	Columbus Crew	CD Chivas USA	5/28/2011	17		LGE	Ekpo, Emmanuel		
+Mendoza, Andres	Columbus Crew	Columbus Crew	CD Chivas USA	5/28/2011	52		LGE			
+Ekpo, Emmanuel	Columbus Crew	Columbus Crew	CD Chivas USA	5/28/2011	64		LGE			
+LaBrocca, Nick	CD Chivas USA	Columbus Crew	CD Chivas USA	5/28/2011	4		LGE	Braun, Justin	Elliott, Simon	
+Boyens, Andrew	CD Chivas USA	Columbus Crew	CD Chivas USA	5/28/2011	37		LGE	Pearce, Heath		
+Flores, Jorge	CD Chivas USA	Columbus Crew	CD Chivas USA	5/28/2011	57		LGE	Zemanski, Ben	Jazic, Ante	
+Nazarit, Cristian	Chicago Fire	Columbus Crew	Chicago Fire	6/12/2011	90		LGE			
+Gaven, Eddie	Columbus Crew	Columbus Crew	Colorado Rapids	6/26/2011	12		LGE			
+Mendoza, Andres	Columbus Crew	Columbus Crew	Colorado Rapids	6/26/2011	18		LGE			
+Mendoza, Andres	Columbus Crew	Columbus Crew	Colorado Rapids	6/26/2011	48		LGE	Marshall, Chad		
+Heinemann, Tommy	Columbus Crew	Columbus Crew	Colorado Rapids	6/26/2011	57		LGE			
+Casey, Conor	Colorado Rapids	Columbus Crew	Colorado Rapids	6/26/2011	5		LGE	Smith, Jamie		
+Mullan, Brian	Colorado Rapids	Colorado Rapids	Columbus Crew	8/5/2011	55		LGE	Thompson, Wells		
+Cummings, Omar	Colorado Rapids	Colorado Rapids	Columbus Crew	8/5/2011	79		LGE	Nyassi, Sanna		
+Anibaba, Jalil	Chicago Fire	Chicago Fire	Columbus Crew	10/22/2011	11		LGE	Pardo, Pavel		
+Anibaba, Jalil	Chicago Fire	Chicago Fire	Columbus Crew	10/22/2011	30		LGE	Gibbs, Cory		
+Chaves, Diego	Chicago Fire	Chicago Fire	Columbus Crew	10/22/2011	80		LGE			
+Renteria, Emilio	Columbus Crew	Chicago Fire	Columbus Crew	10/22/2011	73		LGE	Gaven, Eddie	Ekpo, Emmanuel	
+Duka, Dilly	Columbus Crew	Chicago Fire	Columbus Crew	10/22/2011	79		LGE			
+Gaven, Eddie	Columbus Crew	Columbus Crew	D.C. United	10/2/2011	60		LGE	Miranda, Sebastian		
+Woolard, Daniel	Columbus Crew	Columbus Crew	D.C. United	10/2/2011	48	Own Goal	LGE			
+Woolard, Daniel	D.C. United	Columbus Crew	D.C. United	10/2/2011	37		LGE	De Rosario, Dwayne		
+Mendoza, Andres	Columbus Crew	New England Revolution	Columbus Crew	10/15/2011	31		LGE	Renteria, Emilio		
+Duka, Dilly	Columbus Crew	New England Revolution	Columbus Crew	10/15/2011	59		LGE			
+Mendoza, Andres	Columbus Crew	New England Revolution	Columbus Crew	10/15/2011	63		LGE	Renteria, Emilio		
+Danso, Mamadou	Portland Timbers	Portland Timbers	Philadephia Union	5/6/2011	72		LGE	Jewsbury, Jack		
+Moffat, Adam	Houston Dynamo	Houston Dynamo	Los Angeles Galaxy	10/23/2011	27		LGE			
+Boswell, Bobby	Houston Dynamo	Houston Dynamo	Los Angeles Galaxy	10/23/2011	48		LGE	Moffat, Adam		
+Costly, Carlo	Houston Dynamo	Houston Dynamo	Los Angeles Galaxy	10/23/2011	74		LGE	Davis, Brad		
+McBean, Jack	Los Angeles Galaxy	Houston Dynamo	Los Angeles Galaxy	10/23/2011	88		LGE	Barrett, Chad		
+Saborio, Alvaro	Real Salt Lake	Real Salt Lake	Portland Timbers	10/22/2011	45		LGE	Espindola, Fabian		
+Danso, Mamadou	Portland Timbers	Real Salt Lake	Portland Timbers	10/22/2011	90		LGE	Umony, Brian		
+Dawkins, Simon	San Jose Earthquakes	San Jose Earthquakes	FC Dallas 96	10/22/2011	26		LGE			
+Baca, Rafael	San Jose Earthquakes	San Jose Earthquakes	FC Dallas 96	10/22/2011	27		LGE	Beitashour, Steven	Stephenson, Khari	
+Wondolowski, Chris	San Jose Earthquakes	San Jose Earthquakes	FC Dallas 96	10/22/2011	34	Penalty	LGE			
+Dawkins, Simon	San Jose Earthquakes	San Jose Earthquakes	FC Dallas 96	10/22/2011	38		LGE			
+John, George	FC Dallas 96	San Jose Earthquakes	FC Dallas 96	10/22/2011	45		LGE	Stewart, Jack	Cruz, Daniel	
+Luna, Ruben	FC Dallas 96	San Jose Earthquakes	FC Dallas 96	10/22/2011	90		LGE	Bruno Guarda	Benitez, Jair	
+Soolsma, Nick	Toronto FC	Toronto FC	New England Revolution	10/22/2011	20		LGE	Koevermans, Danny	de Guzman, Julian	
+Koevermans, Danny	Toronto FC	Toronto FC	New England Revolution	10/22/2011	83		LGE	Avila, Eric	Frings, Torsten	
+Zerka, Monsef	New England Revolution	Toronto FC	New England Revolution	10/22/2011	41		LGE	Feilhaber, Benny		
+Caraglio, Milton	New England Revolution	Toronto FC	New England Revolution	10/22/2011	46		LGE	Feilhaber, Benny		
+Richards, Dane	New York Red Bulls	New York Red Bulls	Philadephia Union	10/20/2011	8		LGE	Solli, Jan Gunnar	McCarty, Dax	
+De Rosario, Dwayne	D.C. United	D.C. United	Portland Timbers	10/19/2011	73		LGE	Wolff, Josh		
+Cooper, Kenny	Portland Timbers	D.C. United	Portland Timbers	10/19/2011	24		LGE	Wallace, Rodney		
+Braun, Justin	CD Chivas USA	CD Chivas USA	Houston Dynamo	7/23/2011	5		LGE	Jazic, Ante		
+Braun, Justin	CD Chivas USA	CD Chivas USA	Houston Dynamo	7/23/2011	40		LGE	Gavin, Blair		
+Braun, Justin	CD Chivas USA	CD Chivas USA	Houston Dynamo	7/23/2011	86		LGE	Jazic, Ante	Mendoza, Francisco	
+Cruz, Danny	Houston Dynamo	Portland Timbers	Houston Dynamo	10/14/2011	59		LGE	Camargo, Luiz		
+Hainault, Andre	Houston Dynamo	Portland Timbers	Houston Dynamo	10/14/2011	36		LGE	Davis, Brad		
+Rodgers, Luke	New York Red Bulls	New York Red Bulls	Los Angeles Galaxy	10/4/2011	32		LGE			
+Henry, Thierry	New York Red Bulls	New York Red Bulls	Los Angeles Galaxy	10/4/2011	59		LGE	Marquez, Rafael		
+Le Toux, Sebastien	Philadephia Union	Philadephia Union	D.C. United	9/29/2011	4		LGE			
+Le Toux, Sebastien	Philadephia Union	Philadephia Union	D.C. United	9/29/2011	15		LGE	Farfan, Michael		
+Farfan, Michael	Philadephia Union	Philadephia Union	D.C. United	9/29/2011	57		LGE			
+De Rosario, Dwayne	D.C. United	Philadephia Union	D.C. United	9/29/2011	21		LGE	Da Luz, Austin		
+Najar, Andy	D.C. United	Philadephia Union	D.C. United	9/29/2011	30		LGE			
+Gaven, Eddie	Columbus Crew	Real Salt Lake	Columbus Crew	7/30/2011	5		LGE	Rogers, Robbie		
+Heinemann, Tommy	Columbus Crew	Real Salt Lake	Columbus Crew	7/30/2011	10		LGE	Rogers, Robbie	Rusmir, Dejan	
+Barrett, Chad	Los Angeles Galaxy	Los Angeles Galaxy	Real Salt Lake	10/1/2011	59		LGE	Beckham, David		
+Borchers, Nat	Los Angeles Galaxy	Los Angeles Galaxy	Real Salt Lake	10/1/2011	72	Own Goal	LGE			
+Espindola, Fabian	Real Salt Lake	Los Angeles Galaxy	Real Salt Lake	10/1/2011	45		LGE	Morales, Javier		
+Fagundez, Diego	New England Revolution	New England Revolution	Seattle Sounders	10/1/2011	35		LGE	Feilhaber, Benny		
+Montero, Fredy	Seattle Sounders	New England Revolution	Seattle Sounders	10/1/2011	36		LGE			
+Montero, Fredy	Seattle Sounders	New England Revolution	Seattle Sounders	10/1/2011	48		LGE	Jaqua, Nate		
+Adu, Freddy	Philadephia Union	Seattle Sounders	Philadephia Union	10/8/2011	60		LGE	Farfan, Gabriel		
+Carroll, Brian	Philadephia Union	Seattle Sounders	Philadephia Union	10/8/2011	70		LGE	Le Toux, Sebastien		
+Ochoa, Sammy	Seattle Sounders	Seattle Sounders	San Jose Earthquakes	10/15/2011	82		LGE	Rosales, Mauro		
+Montero, Fredy	Seattle Sounders	Seattle Sounders	San Jose Earthquakes	10/15/2011	87		LGE	Neagle, Lamar	Evans, Brad	
+Wondolowski, Chris	San Jose Earthquakes	Seattle Sounders	San Jose Earthquakes	10/15/2011	24		LGE	Baca, Rafael		
+Jewsbury, Jack	Portland Timbers	Portland Timbers	Toronto FC	7/30/2011	57	Penalty	LGE			
+Johnson, Eddie	Portland Timbers	Portland Timbers	Toronto FC	7/30/2011	23		LGE	Chara, Diego	Zizzo, Sal	
+Marosevic, Perica (Peri)	Toronto FC	Portland Timbers	Toronto FC	7/30/2011	71		LGE	Koevermans, Danny	Joao Plata	
+Koevermans, Danny	Toronto FC	Portland Timbers	Toronto FC	7/30/2011	81		LGE	Joao Plata		
+Koevermans, Danny	Toronto FC	Toronto FC	New York Red Bulls	10/1/2011	50		LGE	Johnson, Ryan		
+Henry, Thierry	New York Red Bulls	Toronto FC	New York Red Bulls	10/1/2011	88		LGE	McCarty, Dax		
+Le Toux, Sebastien	Philadephia Union	Philadephia Union	Toronto FC	10/15/2011	42		LGE	Mapp, Justin		
+Johnson, Ryan	Toronto FC	Philadephia Union	Toronto FC	10/15/2011	57		LGE	Soolsma, Nick		
+Cooper, Kenny	Portland Timbers	Vancouver Whitecaps	Portland Timbers	10/2/2011	25		LGE	Chara, Diego		
+Camilo	Vancouver Whitecaps	Vancouver Whitecaps	Real Salt Lake	10/6/2011	44	Penalty	LGE			
+Camilo	Vancouver Whitecaps	Vancouver Whitecaps	Real Salt Lake	10/6/2011	53	Penalty	LGE			
+Khalfan, Nizar	Vancouver Whitecaps	Vancouver Whitecaps	Real Salt Lake	10/6/2011	88		LGE	Salgado, Omar	Cannon, Joe	
+Camilo	Vancouver Whitecaps	Vancouver Whitecaps	D.C. United	10/12/2011	1		LGE	Harvey, Jordan	Khalfan, Nizar	
+Tan, Long	Vancouver Whitecaps	Vancouver Whitecaps	D.C. United	10/12/2011	46		LGE	Rochat, Alain	Harvey, Jordan	
+McDonald, Brandon	D.C. United	Vancouver Whitecaps	D.C. United	10/12/2011	58		LGE	Quaranta, Santino		
+Chavez, Marvin	FC Dallas 96	FC Dallas 96	Vancouver Whitecaps	10/15/2011	35		LGE	Shea, Brek	Hartman, Kevin	
+Shea, Brek	FC Dallas 96	FC Dallas 96	Vancouver Whitecaps	10/15/2011	54		LGE			
+Barrett, Chad	Los Angeles Galaxy	Columbus Crew	Los Angeles Galaxy	9/24/2011	90		LGE			
+Estridge, Chris	Chicago Fire Premier	Akron Summit Assault	Chicago Fire Premier	5/14/2011	10		LGE	Portillo, Josey		
+Portillo, Josey	Chicago Fire Premier	Akron Summit Assault	Chicago Fire Premier	5/14/2011	53		LGE	Walker, Kenneth		
+Konchar, Alex	Cincinnati Kings	Cincinnati Kings	Akron Summit Assault	5/17/2011	50		LGE	Thomas, Ben		
+Thomas, Ben	Cincinnati Kings	Cincinnati Kings	Akron Summit Assault	5/17/2011	66		LGE	Stelmak, Branden		
+O'Neill, Michael	Akron Summit Assault	Cincinnati Kings	Akron Summit Assault	5/17/2011	63		LGE			
+Campbell, Ashton	Akron Summit Assault	Cincinnati Kings	Akron Summit Assault	5/17/2011	65		LGE			
+Balogun, Michael	Akron Summit Assault	Akron Summit Assault	Indiana Invaders	5/22/2011	21		LGE			
+Minick, Ryan	Akron Summit Assault	Akron Summit Assault	Cincinnati Kings	6/4/2011	40		LGE	Campbell, Ashton		
+Campbell, Ashton	Akron Summit Assault	Akron Summit Assault	Cincinnati Kings	6/4/2011	54		LGE			
+Thomas, Ben	Cincinnati Kings	Cincinnati Kings	Akron Summit Assault	6/7/2011	71		LGE	Stelmak, Branden		
+Shelton Shamar	Cincinnati Kings	Cincinnati Kings	Akron Summit Assault	6/7/2011	87		LGE			
+Campbell, Ashton	Akron Summit Assault	Cincinnati Kings	Akron Summit Assault	6/7/2011	36		LGE	Minick, Ryan		
+Quinn, Aodhan	Akron Summit Assault	Cincinnati Kings	Akron Summit Assault	6/7/2011	42		LGE	Minick, Ryan		
+Quinn, Aodhan	Akron Summit Assault	Akron Summit Assault	River City Rovers	6/18/2011	49		LGE			
+Truax, Ben	Akron Summit Assault	Akron Summit Assault	River City Rovers	6/18/2011	60		LGE			
+Caldwell, Scott	Akron Summit Assault	Akron Summit Assault	River City Rovers	6/18/2011	90		LGE	Truax, Ben		
+Uzoigwe, Kenny	Michigan Bucks	Michigan Bucks	Akron Summit Assault	6/22/2011	10		LGE	Catalano, Thomas		
+Givens, Stewart	Michigan Bucks	Michigan Bucks	Akron Summit Assault	6/22/2011	31		LGE	Walls, Tony		
+Campbell, Ashton	Akron Summit Assault	Akron Summit Assault	River City Rovers	6/26/2011	80		LGE			
+Minick, Ryan	Akron Summit Assault	Akron Summit Assault	River City Rovers	6/26/2011	89		LGE	Campbell, Ashton		
+Campbell, Ashton	Akron Summit Assault	Akron Summit Assault	River City Rovers	6/26/2011	90		LGE	Spurrier, Vaughn		
+McClure, Jeff	River City Rovers	Akron Summit Assault	River City Rovers	6/26/2011	42		LGE			
+Quinn, Aodhan	Akron Summit Assault	Akron Summit Assault	Michigan Bucks	6/29/2011	17		LGE			
+Schmitt, Thomas	Akron Summit Assault	Akron Summit Assault	Michigan Bucks	6/29/2011	26		LGE			
+Campbell, Ashton	Akron Summit Assault	Akron Summit Assault	Michigan Bucks	6/29/2011	30		LGE			
+Catalano, Thomas	Michigan Bucks	Akron Summit Assault	Michigan Bucks	6/29/2011	23		LGE	Mkosana, Luckmore		
+Mkosana, Luckmore	Michigan Bucks	Akron Summit Assault	Michigan Bucks	6/29/2011	24		LGE	Holmes, Luke		
+Catalano, Thomas	Michigan Bucks	Akron Summit Assault	Michigan Bucks	6/29/2011	33		LGE	Harris, Sebastian		
+Givens, Stewart	Michigan Bucks	Akron Summit Assault	Michigan Bucks	6/29/2011	60		LGE			
+Portillo, Josey	Chicago Fire Premier	Akron Summit Assault	Chicago Fire Premier	7/2/2011	60		LGE			
+McCoubrey, Scott	Hamilton FC Rage	Hamilton FC Rage	Akron Summit Assault	7/6/2011	26		LGE	Collins, Liam		
+McCoubrey, Scott	Hamilton FC Rage	Hamilton FC Rage	Akron Summit Assault	7/6/2011	45		LGE	Wynter, Tevin		
+Schmitt, Thomas	Akron Summit Assault	Hamilton FC Rage	Akron Summit Assault	7/6/2011	90		LGE	O'Neill, Michael		
+Haworth, Carl	Forest City London	Forest City London	Akron Summit Assault	7/8/2011	51		LGE	Ogilvie, Gary		
+Bibby, Scott	Forest City London	Forest City London	Akron Summit Assault	7/8/2011	78		LGE	Rutledge, Todd		
+Cordoba, Jonattan	Forest City London	Forest City London	Akron Summit Assault	7/8/2011	85		LGE	Haworth, Carl		
+Moyo, Daniel	Indiana Invaders	Indiana Invaders	Akron Summit Assault	7/12/2011	31		LGE	Takeda, Hideaki		
+Takeda, Hideaki	Indiana Invaders	Indiana Invaders	Akron Summit Assault	7/12/2011	38		LGE	Kamara, Alhaji Musa		
+Asante, Gideon	Indiana Invaders	Indiana Invaders	Akron Summit Assault	7/12/2011	47		LGE			
+Murray, Patrick	Akron Summit Assault	Indiana Invaders	Akron Summit Assault	7/12/2011	34		LGE	O'Neill, Michael		
+Campbell, Ashton	Akron Summit Assault	Akron Summit Assault	Hamilton FC Rage	7/16/2011	17		LGE			
+Campbell, Ashton	Akron Summit Assault	Akron Summit Assault	Hamilton FC Rage	7/16/2011	50		LGE	Balogun, Michael		
+Campbell, Ashton	Akron Summit Assault	Akron Summit Assault	Hamilton FC Rage	7/16/2011	65		LGE	Balogun, Michael		
+Truax, Ben	Akron Summit Assault	Akron Summit Assault	Hamilton FC Rage	7/16/2011	78		LGE	Spurrier, Vaughn		
+Ellis, Khody	Hamilton FC Rage	Akron Summit Assault	Hamilton FC Rage	7/16/2011	29		LGE			
+Boyd, Aaron	Hamilton FC Rage	Akron Summit Assault	Hamilton FC Rage	7/16/2011	54		LGE	Pike, Sean		
+Vaz, Paulo	Chicago Fire Premier	Chicago Fire Premier	Akron Summit Assault	7/24/2011	17		LGE			
+Russell, Drew	Chicago Fire Premier	Chicago Fire Premier	Akron Summit Assault	7/24/2011	41		LGE	Mallace, Callum		
+Craven, Andy	Chicago Fire Premier	Chicago Fire Premier	Akron Summit Assault	7/24/2011	82		LGE	Paul, Davis		
+Paul, Davis	Chicago Fire Premier	Chicago Fire Premier	Akron Summit Assault	7/24/2011	86		LGE			
+O'Neill, Michael	Akron Summit Assault	Chicago Fire Premier	Akron Summit Assault	7/24/2011	63		LGE			
+Morfaw, Alexandre	Vancouver Whitecaps Residency	Vancouver Whitecaps Residency	Abbotsford Mariners	5/13/2011	16		LGE	Stewart, Cornelius		
+Morfaw, Alexandre	Vancouver Whitecaps Residency	Vancouver Whitecaps Residency	Abbotsford Mariners	5/13/2011	49		LGE			
+McQuade, Mark	Abbotsford Mariners	Vancouver Whitecaps Residency	Abbotsford Mariners	5/13/2011	90		LGE	Lowen, Daniel		
+Fisk Routledge, Benjamin	Vancouver Whitecaps Residency	Abbotsford Mariners	Vancouver Whitecaps Residency	5/29/2011	39		LGE	Nachoff, Michael		
+Plavsic, Sasa	Abbotsford Mariners	Abbotsford Mariners	North Sound SeaWolves	6/4/2011	85		LGE			
+Aman, Abdulwali	North Sound SeaWolves	Abbotsford Mariners	North Sound SeaWolves	6/4/2011	14		LGE	Lind, Raymond		
+Mora Perea, Juan Pablo	Abbotsford Mariners	Abbotsford Mariners	Tacoma Tide	6/5/2011	1		LGE			
+Negri, Adriano	Abbotsford Mariners	Abbotsford Mariners	Tacoma Tide	6/5/2011	3		LGE	Kekec, Adrian		
+Plavsic, Sasa	Abbotsford Mariners	Abbotsford Mariners	Tacoma Tide	6/5/2011	34		LGE	Parker, Danfi		
+Sanders, Christopher	Tacoma Tide	Abbotsford Mariners	Tacoma Tide	6/5/2011	29		LGE	Uyehara, Michael		
+Uyehara, Michael	Tacoma Tide	Abbotsford Mariners	Tacoma Tide	6/5/2011	32		LGE	Vickers, Cameron		
+Sanders, Christopher	Tacoma Tide	Abbotsford Mariners	Tacoma Tide	6/5/2011	52		LGE	Vickers, Cameron		
+Gray, Daniel	Tacoma Tide	Abbotsford Mariners	Tacoma Tide	6/5/2011	75		LGE			
+Plavsic, Sasa	Abbotsford Mariners	Abbotsford Mariners	Portland Timbers U23	6/11/2011	40		LGE	Parker, Danfi		
+Burke, Bryan	Kitsap Pumas	Kitsap Pumas	Abbotsford Mariners	6/17/2011	57		LGE	Friesen, Matt		
+Besagno, Nikolas	Kitsap Pumas	Kitsap Pumas	Abbotsford Mariners	6/17/2011	76		LGE	Silva, Warlen		
+Friesen, Matt	Kitsap Pumas	Kitsap Pumas	Abbotsford Mariners	6/17/2011	87		LGE			
+Plavsic, Sasa	Abbotsford Mariners	Kitsap Pumas	Abbotsford Mariners	6/17/2011	75		LGE			
+Wallenius, Todd	North Sound SeaWolves	North Sound SeaWolves	Abbotsford Mariners	6/18/2011	86		LGE	Ballew, Brady		
+Parker, Danfi	Abbotsford Mariners	North Sound SeaWolves	Abbotsford Mariners	6/18/2011	2		LGE	Lowen, Daniel		
+Strelau, Cody	Abbotsford Mariners	North Sound SeaWolves	Abbotsford Mariners	6/18/2011	90		LGE			
+Burbeary, Ashley	Victoria Highlanders	Victoria Highlanders	Abbotsford Mariners	6/25/2011	62		LGE			
+Plavsic, Sasa	Abbotsford Mariners	Abbotsford Mariners	Washington Crossfire	6/29/2011	10		LGE			
+Plavsic, Sasa	Abbotsford Mariners	Abbotsford Mariners	Washington Crossfire	6/29/2011	25		LGE			
+Mora Perea, Juan Pablo	Abbotsford Mariners	Abbotsford Mariners	Washington Crossfire	6/29/2011	33		LGE	Plavsic, Sasa		
+Plavsic, Sasa	Abbotsford Mariners	Abbotsford Mariners	Washington Crossfire	6/29/2011	85		LGE			
+Wilson, Cullen	Washington Crossfire	Abbotsford Mariners	Washington Crossfire	6/29/2011	59		LGE			
+Negri, Adriano	Abbotsford Mariners	Abbotsford Mariners	Vancouver Whitecaps Residency	7/4/2011	61		LGE	Lowen, Daniel		
+Hyde, Taylor	Kitsap Pumas	Abbotsford Mariners	Kitsap Pumas	7/5/2011	10		LGE	Gray, David		
+Burke, Bryan	Kitsap Pumas	Abbotsford Mariners	Kitsap Pumas	7/5/2011	20		LGE	Gray, David		
+Friesen, Matt	Kitsap Pumas	Abbotsford Mariners	Kitsap Pumas	7/5/2011	30		LGE			
+Perdido, Tye	Kitsap Pumas	Abbotsford Mariners	Kitsap Pumas	7/5/2011	80		LGE	McFayden, Kendell		
+Richards, Brent	Portland Timbers U23	Portland Timbers U23	Abbotsford Mariners	7/8/2011	38		LGE			
+Mora Perea, Juan Pablo	Abbotsford Mariners	Portland Timbers U23	Abbotsford Mariners	7/8/2011	19		LGE	O'Neill, Colton		
+Parker, Danfi	Abbotsford Mariners	Portland Timbers U23	Abbotsford Mariners	7/8/2011	45		LGE	O'Neill, Colton		
+Brown, Kellan	Tacoma Tide	Tacoma Tide	Abbotsford Mariners	7/10/2011	5		LGE	Vickers, Cameron		
+Kekec, Adrian	Abbotsford Mariners	Tacoma Tide	Abbotsford Mariners	7/10/2011	76		LGE	MacKinnon, Spencer		
+Rigby, Colin	Washington Crossfire	Washington Crossfire	Abbotsford Mariners	7/15/2011	22		LGE	Sackeyfio, Nathan		
+Sackeyfio, Nathan	Washington Crossfire	Washington Crossfire	Abbotsford Mariners	7/15/2011	65		LGE	Rigby, Colin		
+Lowen, Daniel	Abbotsford Mariners	Washington Crossfire	Abbotsford Mariners	7/15/2011	8		LGE			
+Parker, Danfi	Abbotsford Mariners	Washington Crossfire	Abbotsford Mariners	7/15/2011	17		LGE	Lowen, Daniel		
+Lowen, Daniel	Abbotsford Mariners	Washington Crossfire	Abbotsford Mariners	7/15/2011	76		LGE			
+Kekec, Adrian	Abbotsford Mariners	Washington Crossfire	Abbotsford Mariners	7/15/2011	80		LGE			
+Marousek, Michael	Victoria Highlanders	Victoria Highlanders	Abbotsford Mariners	7/24/2011	5		LGE	Burbeary, Ashley		
+Hughes, Jordie	Victoria Highlanders	Victoria Highlanders	Abbotsford Mariners	7/24/2011	27		LGE	Burbeary, Ashley		
+Marousek, Michael	Victoria Highlanders	Victoria Highlanders	Abbotsford Mariners	7/24/2011	31		LGE	Gray, Andrew		
+Parker, Danfi	Abbotsford Mariners	Victoria Highlanders	Abbotsford Mariners	7/24/2011	29		LGE	Aziz, Mohammad		
+Furness, Dominic	West Texas United Sockers	West Texas United Sockers	Baton Rouge Capitals	5/19/2011	60		LGE			
+Guillen, Ulises	West Texas United Sockers	West Texas United Sockers	Baton Rouge Capitals	5/19/2011	73		LGE	Everson, Ben		
+Morris, Steven	Baton Rouge Capitals	West Texas United Sockers	Baton Rouge Capitals	5/19/2011	78		LGE			
+Morin, Rodrigo	Chivas El Paso Patriots	Chivas El Paso Patriots	Baton Rouge Capitals	5/21/2011	19		LGE	Olivares Garcia, Victor		
+Navarro, Francois	Baton Rouge Capitals	Baton Rouge Capitals	Rio Grande Valley Grandes FC	5/27/2011	49		LGE	Chagnard, Brandon		
+Garcia, Felix	Laredo Heat	Baton Rouge Capitals	Laredo Heat	5/29/2011	83		LGE			
+Jackson, Jonathan	Nashville Metros	Baton Rouge Capitals	Nashville Metros	6/5/2011	31		LGE			
+Chagnard, Brandon	Baton Rouge Capitals	Laredo Heat	Baton Rouge Capitals	6/9/2011	90		LGE			
+Navarro, Francois	Baton Rouge Capitals	Rio Grande Valley Grandes FC	Baton Rouge Capitals	6/11/2011	30		LGE	Campion, Achille		
+Callon, Ben	Baton Rouge Capitals	Baton Rouge Capitals	Mississippi Brilla	6/16/2011	38		LGE	Brandao, Guilherme		
+Campion, Achille	Baton Rouge Capitals	Baton Rouge Capitals	Mississippi Brilla	6/16/2011	75		LGE	Brandao, Guilherme		
+Sheekey, Luke	Baton Rouge Capitals	Baton Rouge Capitals	Mississippi Brilla	6/16/2011	90		LGE	Campion, Achille		
+De Mare, Joey	Mississippi Brilla	Baton Rouge Capitals	Mississippi Brilla	6/16/2011	31		LGE	Palmer, David		
+Chagnard, Brandon	Baton Rouge Capitals	Baton Rouge Capitals	Chivas El Paso Patriots	6/19/2011	81		LGE	Sheekey, Luke		
+Callon, Ben	Baton Rouge Capitals	Baton Rouge Capitals	Chivas El Paso Patriots	6/19/2011	86		LGE			
+Griego, Michael	Chivas El Paso Patriots	Baton Rouge Capitals	Chivas El Paso Patriots	6/19/2011	42		LGE			
+De Anda, Francisco	Chivas El Paso Patriots	Baton Rouge Capitals	Chivas El Paso Patriots	6/19/2011	44		LGE			
+Simmons, Paris	New Orleans Jesters	New Orleans Jesters	Baton Rouge Capitals	6/25/2011	47		LGE	Mullins, Patrick		
+Mullins, Patrick	New Orleans Jesters	New Orleans Jesters	Baton Rouge Capitals	6/25/2011	87		LGE	Yamson, Emmanuel		
+Campion, Achille	Baton Rouge Capitals	New Orleans Jesters	Baton Rouge Capitals	6/25/2011	66		LGE			
+Campion, Achille	Baton Rouge Capitals	Baton Rouge Capitals	New Orleans Jesters	6/29/2011	42		LGE			
+Campion, Achille	Baton Rouge Capitals	Nashville Metros	Baton Rouge Capitals	7/2/2011	58		LGE	Callon, Ben		

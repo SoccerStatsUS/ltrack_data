@@ -1,0 +1,150 @@
+Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Referee	Awarded	Round	Period	
+11/6/1991	Brooklyn Italians	CD Guadalajara -- Mexico	0	3	0	Recopa CONCACAF	RC			As Scored	0	0	
+11/13/1991	CD Guadalajara -- Mexico	Brooklyn Italians	3	1	0	Recopa CONCACAF	RC			As Scored	0	0	
+7/7/1993	San Jose Oaks	Monterrey - Mexico	1	4	0	Recopa CONCACAF	RC			As Scored	0	0	
+7/14/1993	Monterrey - Mexico	San Jose Oaks	6	0	0	Recopa CONCACAF	RC			As Scored	0	0	
+7/14/1994	CD Mexico	Necaxa -- Mexico	1	5	0	Recopa CONCACAF	RC			As Scored	0	0	
+6/17/1997	Seattle Sounders	SV Transvaal -- Suriname	10	0	2,153	CONCACAF Champions Cup	CCC	Gelvezon, Crother, Barton 1A, Jenkins2A, Aunger3A		As Scored	0	0	
+7/6/1997	Los Angeles Galaxy	CD Guadalajara -- Mexico	0	0	27,103	Independence Cup	INDC	Los Angeles wins 4-2 on PK's		Home Win	0	0	
+7/15/1997	CSD Comunicaciones-- Guatemala	Seattle Sounders	2	0	25,000	CONCACAF Champions Cup	CCC			As Scored	0	0	
+7/17/1997	Necaxa -- Mexico	Seattle Sounders	4	1	100	CONCACAF Champions Cup	CCC			As Scored	0	0	
+7/20/1997	Cruz Azul -- Mexico	Seattle Sounders	11	0	100	CONCACAF Champions Cup	CCC			As Scored	0	0	
+7/30/1997	Los Angeles Galaxy	Santos -- Mexico	4	1	10,271	CONCACAF Champions Cup	CCC			As Scored	0	0	
+8/11/1997	DC United	United Petrotrin -- T & T	1	0	10,063	CONCACAF Champions Cup	CCC			As Scored	0	0	
+8/12/1997	Luis Angel Firpo-- El Salvador	Los Angeles Galaxy	0	2	10,063	CONCACAF Champions Cup	CCC			As Scored	0	0	
+8/22/1997	DC United	Los Angeles Galaxy	0	1	16,568	CONCACAF Champions Cup	CCC			As Scored	0	0	
+8/24/1997	DC United	CD Guadalajara -- Mexico	2	2	8,282	CONCACAF Champions Cup	CCC			As Scored	0	0	
+8/24/1997	Cruz Azul -- Mexico	Los Angeles Galaxy	5	3	8,282	CONCACAF Champions Cup	CCC			As Scored	0	0	
+3/4/1998	Dallas Burn/FC Dallas 96	Necaxa -- Mexico	1	4	10,926	CONCACAF Cup Winners Cup	CCWC			As Scored	0	0	
+3/8/1998	Dallas Burn/FC Dallas 96	Cruz Azul -- Mexico	1	2	9,015	CONCACAF Cup Winners Cup	CCWC			As Scored	0	0	
+6/28/1998	Colorado Rapids	Leon -- Mexico	1	0	7,442	CONCACAF Champions Cup	CCC	Paz 1 Ast		As Scored	0	0	
+7/15/1998	Leon -- Mexico	Colorado Rapids	4	2	100	CONCACAF Champions Cup	CCC			As Scored	0	0	
+8/11/1998	DC United	Joe Public -- T & T	8	0	7,117	CONCACAF Champions Cup	CCC	Williams,Talley,Etch,Agoos,Wood,Pope 1, Olsen 2Ast		As Scored	0	0	
+8/14/1998	DC United	Leon -- Mexico	2	0	10,526	CONCACAF Champions Cup	CCC	Moreno, Harkes 1 Ast		As Scored	0	0	
+8/16/1998	DC United	Toluca -- Mexico	1	0	12,607	CONCACAF Champions Cup	CCC	Etcheverry 1 Ast		As Scored	0	0	
+11/14/1998	DC United	Vasco da Gama -- Brazil	0	1	26,216	Interamerican Cup	IAC			As Scored	0	0	
+12/5/1998	Vasco da Gama -- Brazil	DC United	0	2	7,283	Interamerican Cup	IAC	Agoos, Etcheverry 1 Ast		As Scored	0	0	
+8/18/1999	Los Angeles Galaxy	Necaxa -- Mexico	1	1	10,019	CONCACAF Champions Cup	CCC	Vanney 1 Ast		Away Win	0	0	
+9/29/1999	Chicago Fire	Joe Public -- T & T	2	0	6,521	CONCACAF Champions Cup	CCC	Nowak, Dougherty 1 Ast		As Scored	0	0	
+9/29/1999	DC United	Olimpia -- Honduras	1	0	7,127	CONCACAF Champions Cup	CCC	Talley 1 Ast		As Scored	0	0	
+10/1/1999	Alajuela -- Costa Rica	Chicago Fire	1	1	8,183	CONCACAF Champions Cup	CCC			Home Win	0	0	
+10/1/1999	Necaxa -- Mexico	DC United	3	1	8,183	CONCACAF Champions Cup	CCC	Olsen 1 Ast		As Scored	0	0	
+10/3/1999	Chicago Fire	DC United	2	2	9,763	CONCACAF Champions Cup	CCC	Albright, Razov 1 Ast		As Scored	0	0	
+1/17/2001	DC United	LD Alajuelense-- Costa Rica	2	1	5,153	CONCACAF Champions Cup	CCC	Convey, Etcheverry 1 Ast		As Scored	0	0	
+1/17/2001	Los Angeles Galaxy	Real Espana-- Honduras	0	0	5,153	CONCACAF Champions Cup	CCC	Los Angeles 5-3 on PK's		Home Win	0	0	
+1/19/2001	Los Angeles Galaxy	DC United	1	1	100	CONCACAF Champions Cup	CCC			Home Win	0	0	
+1/21/2001	DC United	Pachuca-- Mexico	1	2	100	CONCACAF Champions Cup	CCC			As Scored	0	0	
+1/21/2001	Los Angeles Galaxy	CD Olympia-- Honduras	3	2	100	CONCACAF Champions Cup	CCC	Vagenas,Cienfuegos 1Ast, Lalas 2Ast		As Scored	0	0	
+4/5/2001	Arnett Gardens-- Jamaica	DC United	0	3	4,500	Giants Cup	GC	Convey, Nelson 1 Ast, Etcheverrey 2 Ast		As Scored	0	0	
+4/5/2001	CD Saprissa-- Costa Rica	Columbus Crew	2	0	100	Giants Cup	GC			As Scored	0	0	
+4/11/2001	Columbus Crew	CD Saprissa-- Costa Rica	1	1	100	Giants Cup	GC	Warzycha 1 Ast		As Scored	0	0	
+4/11/2001	DC United	Arnett Gardens-- Jamaica	2	1	9,117	Giants Cup	GC	Quaranta, Namoff 1 Ast		As Scored	0	0	
+8/1/2001	Kansas City Wizards	Sporting Cristal -- Peru	1	2	100	Merconorte Cup	MerC			As Scored	0	0	
+8/3/2001	DC United	CSD Comunicaciones-- Guatemala	2	1	100	Giants Cup	GC	Etcheverry, Conteh, Moreno 1 Ast		As Scored	0	0	
+8/5/2001	DC United	Club America -- Mexico	0	2	3,127	Giants Cup	GC			As Scored	0	0	
+8/8/2001	MetroStars	Italchacao -- Venezuela	2	0	7,426	Merconorte Cup	MerC	Chung, Hernandez, M.Klinger 1 Ast		As Scored	0	0	
+8/8/2001	Santos -- Mexico	Kansas City Wizards	4	2	16,000	Merconorte Cup	MerC	Klein, Gomez 1 Ast		As Scored	0	0	
+8/30/2001	Barcelona -- Ecuador	Kansas City Wizards	2	3	100	Merconorte Cup	MerC	Klein, McKeon 1 Ast		As Scored	0	0	
+8/30/2001	Millionarios -- Colombia	MetroStars	2	1	100	Merconorte Cup	MerC			As Scored	0	0	
+9/12/2001	Sporting Cristal -- Peru	Kansas City Wizards	2	1	5,000	Merconorte Cup	MerC			As Scored	0	0	
+10/17/2001	Kansas City Wizards	Barcelona -- Ecuador	1	1	6,051	Merconorte Cup	MerC			As Scored	0	0	
+10/17/2001	MetroStars	Chivas -- Mexico	2	0	100	Merconorte Cup	MerC	Chivas Forfeits		As Scored	0	0	
+10/24/2001	Italchacao -- Venezuela	MetroStars	2	1	100	Merconorte Cup	MerC			As Scored	0	0	
+10/31/2001	MetroStars	Millionarios -- Colombia	0	1	7,221	Merconorte Cup	MerC			As Scored	0	0	
+11/21/2001	Kansas City Wizards	Santos -- Mexico	0	1	9,352	Merconorte Cup	MerC			As Scored	0	0	
+11/21/2001	Chivas -- Mexico	MetroStars	0	2	100	Merconorte Cup	MerC	Chivas Forfeits		As Scored	0	0	
+3/3/2002	W. Connection -- Jamaica	Kansas City Wizards	0	1	9,000	CONCACAF Champions Cup	CCC	Glasgow 1 Ast		As Scored	0	0	
+3/6/2002	CSD Comunicaciones-- Guatemala	DC United	4	0	100	CONCACAF Champions Cup	CCC			As Scored	0	0	
+3/13/2002	DC United	CSD Comunicaciones-- Guatemala	2	1	13,378	CONCACAF Champions Cup	CCC	Etcheverry, Quaranta 1 Ast		As Scored	0	0	
+3/13/2002	CD Olympia-- Honduras	San Jose Earthquakes	0	1	4,318	CONCACAF Champions Cup	CCC	Lagos 1 Ast		As Scored	0	0	
+3/16/2002	Kansas City Wizards	W. Connection -- Jamaica	2	0	4,360	CONCACAF Champions Cup	CCC	Glasgow, Preki 1 Ast		As Scored	0	0	
+3/16/2002	San Jose Earthquakes	CD Olympia-- Honduras	3	1	3,300	CONCACAF Champions Cup	CCC	Lagos, Donovan 1 Ast		As Scored	0	0	
+3/16/2002	CSD Municipal -- Guatemala	Chicago Fire	0	1	25,000	CONCACAF Champions Cup	CCC	D. Beasley 1 Ast		As Scored	0	0	
+3/20/2002	Chicago Fire	CSD Municipal -- Guatemala	2	0	4,844	CONCACAF Champions Cup	CCC	Wolff 1 Ast		As Scored	0	0	
+4/10/2002	Santos -- Mexico	Kansas City Wizards	2	1	13,000	CONCACAF Champions Cup	CCC	Gomez 1 Ast		As Scored	0	0	
+4/17/2002	Pachuca-- Mexico	San Jose Earthquakes	3	0	15,000	CONCACAF Champions Cup	CCC			As Scored	0	0	
+4/24/2002	Kansas City Wizards	Santos -- Mexico	2	0	8,086	CONCACAF Champions Cup	CCC			As Scored	0	0	
+4/24/2002	San Jose Earthquakes	Pachuca-- Mexico	1	0	6,213	CONCACAF Champions Cup	CCC			As Scored	0	0	
+6/30/2002	Morelia -- Mexico	Chicago Fire	2	0	8,000	CONCACAF Champions Cup	CCC			As Scored	0	0	
+7/10/2002	Chicago Fire	Morelia -- Mexico	2	1	11,170	CONCACAF Champions Cup	CCC	Wolff 1 Ast		As Scored	0	0	
+8/7/2002	Morelia -- Mexico	Kansas City Wizards	6	1	15,000	CONCACAF Champions Cup	CCC	Armstrong 1 Ast		As Scored	0	0	
+8/28/2002	Kansas City Wizards	Morelia -- Mexico	1	1	100	CONCACAF Champions Cup	CCC	Arnaud 1 Ast		As Scored	0	0	
+2/17/2003	Rosenborg Trondheim -- Norway	San Jose Earthquakes	2	0	400	La Manga Cup	LMC			As Scored	0	0	
+2/18/2003	Lyn Oslo -- Norway	Los Angeles Galaxy	0	5	100	La Manga Cup	LMC		DiHetsen, Jonny	As Scored	0	0	
+2/20/2003	Rubin Kazan -- Russia	San Jose Earthquakes	1	1	100	La Manga Cup	LMC			As Scored	0	0	
+2/21/2003	Torpedo Moscow -- Russia	Los Angeles Galaxy	0	3	100	La Manga Cup	LMC		Shjeruer, Tommig	As Scored	0	0	
+2/24/2003	Viking Stavangar -- Norway	San Jose Earthquakes	3	1	100	La Manga Cup	LMC			As Scored	0	0	
+2/24/2003	Odd Grenland -- Norway	Los Angeles Galaxy	1	0	100	La Manga Cup	LMC		Ingvarsson, M	As Scored	0	0	
+2/27/2003	Lyn Oslo -- Norway	San Jose Earthquakes	1	3	100	La Manga Cup	LMC			As Scored	0	0	
+2/28/2003	Viking Stavangar -- Norway	Los Angeles Galaxy	0	3	100	La Manga Cup	LMC		Hansson, Marin	As Scored	0	0	
+3/2/2003	Viking Stavangar -- Norway	San Jose Earthquakes	1	1	100	La Manga Cup	LMC	San Jose loses 5-3 on PK's		As Scored	0	0	
+3/16/2003	CSD Municipal -- Guatemala	San Jose Earthquakes	4	2	12,000	CONCACAF Champions Cup	CCC		Rodriguez, Marco	As Scored	0	0	
+3/16/2003	Motagua -- Honduras	Los Angeles Galaxy	2	2	20,000	CONCACAF Champions Cup	CCC		De Leon, Carlos	As Scored	0	0	
+3/16/2003	Deportivo Arabe Unido --Panama	Columbus Crew	2	1	100	CONCACAF Champions Cup	CCC		Recinos, Neftali	As Scored	0	0	
+3/23/2003	Columbus Crew	Deportivo Arabe Unido --Panama	3	0	100	CONCACAF Champions Cup	CCC		Gasso, Jorge	As Scored	0	0	
+3/23/2003	Los Angeles Galaxy	Motagua -- Honduras	1	0	8,000	CONCACAF Champions Cup	CCC		Navarro, Mauricio	As Scored	0	0	
+3/23/2003	LD Alajuelense-- Costa Rica	New England Revolution	4	0	100	CONCACAF Champions Cup	CCC		Batres, Carlos	As Scored	0	0	
+3/26/2003	San Jose Earthquakes	CSD Municipal -- Guatemala	2	1	4,594	CONCACAF Champions Cup	CCC		Seifert, Mike	As Scored	0	0	
+3/26/2003	LD Alajuelense-- Costa Rica	New England Revolution	1	3	100	CONCACAF Champions Cup	CCC		Sibrian, Rodolfo	As Scored	0	0	
+4/9/2003	Los Angeles Galaxy	Necaxa -- Mexico	1	4	3,814	CONCACAF Champions Cup	CCC		Seifert, Mike	As Scored	0	0	
+4/9/2003	Morelia -- Mexico	Columbus Crew	6	0	100	CONCACAF Champions Cup	CCC		Aguilar, Joel	As Scored	0	0	
+4/16/2003	Columbus Crew	Morelia -- Mexico	2	0	3,358	CONCACAF Champions Cup	CCC			As Scored	0	0	
+4/16/2003	Necaxa -- Mexico	Los Angeles Galaxy	2	1	3,000	CONCACAF Champions Cup	CCC			As Scored	0	0	
+7/13/2003	Nacional -- Uruguay	Los Angeles Galaxy	0	0	23,000	Peace Cup Korea	PCK			As Scored	0	0	
+7/18/2003	1860 Munchen -- Germany	Los Angeles Galaxy	0	0	23,000	Peace Cup Korea	PCK			As Scored	0	0	
+7/20/2003	PSV Eindhoven -- Netherlands	Los Angeles Galaxy	4	1	23,000	Peace Cup Korea	PCK			As Scored	0	0	
+2/25/2004	Viking Stavangar -- Norway	MetroStars	1	0	0	La Manga Cup	LMC			As Scored	0	0	
+2/25/2004	Gif Sundsvall -- Sweden	San Jose Earthquakes	1	3	100	La Manga Cup	LMC			As Scored	0	0	
+2/26/2004	Odd Grenland -- Norway	Dallas Burn/FC Dallas 96	2	1	0	La Manga Cup	LMC			As Scored	0	0	
+2/28/2004	Stabaek -- Norway	San Jose Earthquakes	1	2	100	La Manga Cup	LMC			As Scored	0	0	
+2/28/2004	Bodo/Glimt -- Norway	MetroStars	1	3	0	La Manga Cup	LMC			As Scored	0	0	
+2/28/2004	Dynamo Kiev -- Ukraine	Dallas Burn/FC Dallas 96	2	2	0	La Manga Cup	LMC			As Scored	0	0	
+3/1/2004	Stabaek -- Norway	Dallas Burn/FC Dallas 96	1	2	0	La Manga Cup	LMC			As Scored	0	0	
+3/4/2004	Bodo/Glimt -- Norway	Dallas Burn/FC Dallas 96	3	1	0	La Manga Cup	LMC			As Scored	0	0	
+3/5/2004	Viking Stavangar -- Norway	MetroStars	0	1	0	La Manga Cup	LMC			As Scored	0	0	
+3/5/2004	Dynamo Kiev -- Ukraine	San Jose Earthquakes	1	1	0	La Manga Cup	LMC			As Scored	0	0	
+3/17/2004	San Jose Earthquakes	Alajuela -- Costa Rica	0	3	100	CONCACAF Champions Cup	CCC		Pineda, Jose	As Scored	0	0	
+3/17/2004	San Juan Jabloteh -- T & T	Chicago Fire	5	2	5,083	CONCACAF Champions Cup	CCC		Prendergast, Peter	As Scored	0	0	
+3/24/2004	Chicago Fire	San Juan Jabloteh -- T & T	4	0	6,143	CONCACAF Champions Cup	CCC		Mejia, Olger	As Scored	0	0	
+3/24/2004	San Jose Earthquakes	Alajuela -- Costa Rica	1	0	5,130	CONCACAF Champions Cup	CCC		Alcala, Gilberto	As Scored	0	0	
+4/15/2004	CD Saprissa-- Costa Rica	Chicago Fire	2	0	4,126	CONCACAF Champions Cup	CCC		Batres, Carlos	As Scored	0	0	
+4/21/2004	Chicago Fire	CD Saprissa-- Costa Rica	2	1	7,126	CONCACAF Champions Cup	CCC		Alcala, Gilberto	As Scored	0	0	
+3/9/2005	DC United	Harbour View FC -- Jamaica	2	1	3,825	CONCACAF Champions Cup	CCC		Quesada, Walter	As Scored	0	0	
+3/9/2005	Kansas City Wizards	Deportivo Saprissa -Costa Rica	0	0	1,207	CONCACAF Champions Cup	CCC		Alcala, Gilberto	As Scored	0	0	
+3/16/2005	Harbour View FC -- Jamaica	DC United	1	2	100	CONCACAF Champions Cup	CCC		Brizan, Neal	As Scored	0	0	
+3/17/2005	Deportivo Saprissa -Costa Rica	Kansas City Wizards	2	1	100	CONCACAF Champions Cup	CCC		Moreno, Roberto	As Scored	0	0	
+4/6/2005	DC United	UNAM -- Mexico	1	1	21,185	CONCACAF Champions Cup	CCC		Navarro, Mauricio	As Scored	0	0	
+4/13/2005	UNAM -- Mexico	DC United	5	0	21,000	CONCACAF Champions Cup	CCC		Pineda, Jose	As Scored	0	0	
+2/22/2006	New England Revolution	LD Alajuelense-- Costa Rica	0	0	1,500	CONCACAF Champions Cup	CCC		Liu, Hu	As Scored	0	0	
+2/23/2006	Los Angeles Galaxy	Deportivo Saprissa -Costa Rica	0	0	8,103	CONCACAF Champions Cup	CCC		Rodriguez, Marco	As Scored	0	0	
+3/8/2006	LD Alajuelense-- Costa Rica	New England Revolution	1	0	100	CONCACAF Champions Cup	CCC		Prendergast, Peter	As Scored	0	0	
+3/8/2006	CD Saprissa-- Costa Rica	Los Angeles Galaxy	3	2	10,000	CONCACAF Champions Cup	CCC		Archundia, Benito	As Scored	0	0	
+12/9/2006	Puerto Rico Islanders - USL	Hoppers FC - Antigua	3	1	3,800	Caribbean Qualification	CQ		Morales, Mauricio	As Scored	0	0	
+12/13/2006	Puerto Rico Islanders - USL	W. Connection -- Jamaica	0	1	4,000	Caribbean Qualification	CQ		Arredondo, German	As Scored	0	0	
+2/21/2007	CD Olympia-- Honduras	DC United	1	4	100	CONCACAF Champions Cup	CCC		Gasso, Jorge	As Scored	0	0	
+2/21/2007	Puntarenas FC - Costa Rica	Houston Dynamo	1	0	100	CONCACAF Champions Cup	CCC		Arredondo, German	As Scored	0	0	
+3/1/2007	DC United	CD Olympia-- Honduras	3	2	8,181	CONCACAF Champions Cup	CCC		Navarro, Mauricio	As Scored	0	0	
+3/1/2007	Houston Dynamo	Puntarenas FC - Costa Rica	2	0	4,200	CONCACAF Champions Cup	CCC		Archundia, Benito	As Scored	0	0	
+3/15/2007	DC United	CD Guadalajara -- Mexico	1	1	26,528	CONCACAF Champions Cup	CCC		Petrescu, Silviu	As Scored	0	0	
+3/15/2007	Houston Dynamo	Pachuca-- Mexico	2	0	100	CONCACAF Champions Cup	CCC		Brizan, Neal	As Scored	0	0	
+4/3/2007	CD Guadalajara -- Mexico	DC United	2	1	21,000	CONCACAF Champions Cup	CCC		Moreno, Roberto	As Scored	0	0	
+4/5/2007	Pachuca-- Mexico	Houston Dynamo	5	2	32,000	CONCACAF Champions Cup	CCC		Navarro, Mauricio	As Scored	0	0	
+11/4/2007	Harbour View FC -- Jamaica	Puerto Rico Islanders - USL	2	2	100	Caribbean Qualification	CQ		Bedeau, Valman	As Scored	0	0	
+11/6/2007	HitachiCentre SAP FC - Antigua	Puerto Rico Islanders - USL	0	10	100	Caribbean Qualification	CQ		Small, Royon	As Scored	0	0	
+11/8/2007	Inter Moengotapoe - Surinam	Puerto Rico Islanders - USL	2	5	4,000	Caribbean Qualification	CQ		Moreno, Roberto	As Scored	0	0	
+11/11/2007	SV Leo Victor - Surinam	Puerto Rico Islanders - USL	1	7	500	Caribbean Qualification	CQ		Brizan, Neal	As Scored	0	0	
+11/14/2007	Joe Public -- T & T	Puerto Rico Islanders - USL	1	0	100	Caribbean Qualification	CQ		Wijngaarde, Enrico	As Scored	0	0	
+2/20/2008	Houston Dynamo	Sydney FC - Australia	3	0	15,128	Pan Pacific Championship	PPC		Prus, Alex	As Scored	0	0	
+2/20/2008	Los Angeles Galaxy	Gamba Osaka - Japan	0	1	15,128	Pan Pacific Championship	PPC		Toledo, Baldomero	As Scored	0	0	
+2/23/2008	Houston Dynamo	Gamba Osaka - Japan	1	6	23,087	Pan Pacific Championship	PPC		Stott, Kevin	As Scored	0	0	
+2/23/2008	Los Angeles Galaxy	Sydney FC - Australia	2	1	23,087	Pan Pacific Championship	PPC		Hall, Brian	As Scored	0	0	
+3/12/2008	CSD Municipal -- Guatemala	Houston Dynamo	0	0	100	CONCACAF Champions Cup	CCC		Rodriguez, Edgar	As Scored	0	0	
+3/12/2008	Harbour View FC -- Jamaica	DC United	1	1	100	CONCACAF Champions Cup	CCC			As Scored	0	0	
+3/18/2008	DC United	Harbour View FC -- Jamaica	5	0	12,394	CONCACAF Champions Cup	CCC		Arredondo, German	As Scored	0	0	
+3/19/2008	Houston Dynamo	CSD Municipal -- Guatemala	3	1	14,348	CONCACAF Champions Cup	CCC		Morales, Mauricio	As Scored	0	0	
+4/1/2008	Pachuca-- Mexico	DC United	2	0	100	CONCACAF Champions Cup	CCC			As Scored	0	0	
+4/2/2008	Houston Dynamo	Deportivo Saprissa -Costa Rica	0	0	10,260	CONCACAF Champions Cup	CCC			As Scored	0	0	
+4/9/2008	DC United	Pachuca-- Mexico	2	1	17,329	CONCACAF Champions Cup	CCC		Aguilar, Joel	As Scored	0	0	
+4/9/2008	Deportivo Saprissa -Costa Rica	Houston Dynamo	3	0	20,500	CONCACAF Champions Cup	CCC		Rodriguez, Marco	As Scored	0	0	
+5/9/2008	Puerto Rico Islanders - USL	San Juan Jabloteh -- T & T	1	0	100	Caribbean Qualification	CQ			As Scored	0	0	
+5/25/2008	San Juan Jabloteh -- T & T	Puerto Rico Islanders - USL	0	0	100	CONCACAF Champions Cup	CCC	Puerto Rico wins 1-0 on agg. 	Wijngaarde, Enrico	As Scored	0	0	

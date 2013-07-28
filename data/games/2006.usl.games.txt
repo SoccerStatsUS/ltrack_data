@@ -1,0 +1,731 @@
+Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Referee	Awarded	Round	Period	
+4/21/2006	Charlotte Eagles	Cincinnati Kings	1	0	1,523	League Game	LGE			As Scored	0	0	
+4/21/2006	Puerto Rico Islanders	Atlanta Silverbacks	3	1	7,044	League Game	LGE			As Scored	0	0	
+4/22/2006	Vancouver Whitecaps	Portland Timbers	1	0	5,722	League Game	LGE			As Scored	0	0	
+4/22/2006	Virginia Beach Mariners	Toronto Lynx	2	0	2,044	League Game	LGE			As Scored	0	0	
+4/23/2006	Miami FC	Montreal Impact	0	0	3,243	League Game	LGE			As Scored	0	0	
+4/23/2006	Minnesota Thunder	Seattle Sounders	4	0	4,811	League Game	LGE			As Scored	0	0	
+4/23/2006	Puerto Rico Islanders	Atlanta Silverbacks	1	1	5,182	League Game	LGE			As Scored	0	0	
+4/23/2006	Richmond Kickers	Cincinnati Kings	0	1	1,327	League Game	LGE			As Scored	0	0	
+4/28/2006	Charlotte Eagles	Western Mass Pioneers	0	0	1,051	League Game	LGE			As Scored	0	0	
+4/29/2006	Charleston Battery	Virginia Beach Mariners	3	0	4,265	League Game	LGE			As Scored	0	0	
+4/29/2006	Fresno Fuego	San Diego Gauchos	5	2	463	League Game	LGE			As Scored	0	0	
+4/29/2006	Harrisburg City Islanders	Cincinnati Kings	0	2	3,189	League Game	LGE			As Scored	0	0	
+4/29/2006	Laredo Heat	Austin Lighting	4	3	100	League Game	LGE			As Scored	0	0	
+4/29/2006	Long Island Rough Riders	New Hampshire Phantoms	0	1	1,725	League Game	LGE			As Scored	0	0	
+4/29/2006	Vancouver Whitecaps	Toronto Lynx	2	0	4,555	League Game	LGE			As Scored	0	0	
+4/29/2006	Wilmington Hammerheads	Western Mass Pioneers	0	1	4,132	League Game	LGE			As Scored	0	0	
+4/30/2006	Puerto Rico Islanders	Montreal Impact	0	1	4,816	League Game	LGE			As Scored	0	0	
+5/5/2006	Carolina Dynamo	Nashville Metros	6	1	1,104	League Game	LGE			As Scored	0	0	
+5/5/2006	Charlotte Eagles	Wilmington Hammerheads	1	1	813	League Game	LGE			As Scored	0	0	
+5/5/2006	Cincinnati Kings	Western Mass Pioneers	1	0	1,247	League Game	LGE			As Scored	0	0	
+5/5/2006	Miami FC	Rochester Rhinos	0	3	3,341	League Game	LGE			As Scored	0	0	
+5/5/2006	Orange County Blue Star	California Gold	3	1	102	League Game	LGE			As Scored	0	0	
+5/5/2006	Pittsburgh Riverhounds	Harrisburg City Islanders	2	2	3,111	League Game	LGE			As Scored	0	0	
+5/5/2006	Portland Timbers	Vancouver Whitecaps	1	1	5,448	League Game	LGE			As Scored	0	0	
+5/5/2006	Virginia Beach Mariners	Atlanta Silverbacks	1	0	2,387	League Game	LGE			As Scored	0	0	
+5/6/2006	Ajax Orlando Prospects	Bradenton Academics	2	3	59	League Game	LGE			As Scored	0	0	
+5/6/2006	Carolina Dynamo	Atlanta Silverbacks U-23's	1	0	2,745	League Game	LGE			As Scored	0	0	
+5/6/2006	Central Florida Kraze	Palm Beach Pumas	0	1	150	League Game	LGE			As Scored	0	0	
+5/6/2006	Fresno Fuego	San Francisco Seals	2	3	100	League Game	LGE			As Scored	0	0	
+5/6/2006	Laredo Heat	New Orleans Shell Shockers	4	2	738	League Game	LGE			As Scored	0	0	
+5/6/2006	Pittsburgh Riverhounds	Western Mass Pioneers	2	1	2,307	League Game	LGE			As Scored	0	0	
+5/6/2006	Portland Timbers	Minnesota Thunder	2	1	4,449	League Game	LGE			As Scored	0	0	
+5/6/2006	Raleigh CASL Elite	Nashville Metros	0	0	234	League Game	LGE			As Scored	0	0	
+5/6/2006	Richmond Kickers	Long Island Rough Riders	5	0	1,919	League Game	LGE			As Scored	0	0	
+5/6/2006	San Fernando Quakes	Los Angeles Storm	1	1	400	League Game	LGE			As Scored	0	0	
+5/6/2006	Southern California Seahorses	California Gold	4	0	263	League Game	LGE			As Scored	0	0	
+5/6/2006	Westchester Flames	Rhode Island Stingrays	3	1	225	League Game	LGE			As Scored	0	0	
+5/6/2006	Yakima Reds	Cascade Surge	2	1	425	League Game	LGE			As Scored	0	0	
+5/7/2006	Charleston Battery	Miami FC	1	1	2,631	League Game	LGE			As Scored	0	0	
+5/7/2006	Puerto Rico Islanders	Rochester Rhinos	0	1	5,125	League Game	LGE			As Scored	0	0	
+5/7/2006	San Diego Gauchos	Bakersfield Brigade	1	3	100	League Game	LGE			As Scored	0	0	
+5/9/2006	Ajax Orlando Prospects	Central Florida Kraze	0	1	100	League Game	LGE			As Scored	0	0	
+5/11/2006	Bradenton Academics	Carolina Dynamo	2	3	175	League Game	LGE			As Scored	0	0	
+5/12/2006	Albany Admirals	Virginia Beach Submariners	1	3	75	League Game	LGE			As Scored	0	0	
+5/12/2006	Austin Lighting	DFW Tornados	3	2	119	League Game	LGE			As Scored	0	0	
+5/12/2006	Charlotte Eagles	Richmond Kickers	2	4	1,472	League Game	LGE			As Scored	0	0	
+5/12/2006	El Paso Patriots	New Orleans Shell Shockers	2	0	630	League Game	LGE			As Scored	0	0	
+5/12/2006	Los Angeles Storm	Fresno Fuego	4	0	875	League Game	LGE			As Scored	0	0	
+5/12/2006	Miami FC	Portland Timbers	3	2	2,433	League Game	LGE			As Scored	0	0	
+5/12/2006	Reading Rage	Williamsburg Legacy	0	2	272	League Game	LGE			As Scored	0	0	
+5/12/2006	Tacoma FC	Abbotsford Rangers	0	0	96	League Game	LGE			As Scored	0	0	
+5/13/2006	Brooklyn Knights	Rhode Island Stingrays	0	1	235	League Game	LGE	att. 235		As Scored	0	0	
+5/13/2006	Central Florida Kraze	Carolina Dynamo	0	2	100	League Game	LGE			As Scored	0	0	
+5/13/2006	Charleston Battery	Montreal Impact	3	1	3,124	League Game	LGE			As Scored	0	0	
+5/13/2006	Cincinnati Kings	Pittsburgh Riverhounds	0	0	1,139	League Game	LGE			As Scored	0	0	
+5/13/2006	Cocoa Expos	Palm Beach Pumas	4	0	100	League Game	LGE			As Scored	0	0	
+5/13/2006	El Paso Patriots	New Orleans Shell Shockers	3	1	350	League Game	LGE	att. 350		As Scored	0	0	
+5/13/2006	Ft. Wayne Fever	West Michigan Edge	1	2	175	League Game	LGE	att. 175		As Scored	0	0	
+5/13/2006	Kalamazoo Kingdom	Indiana Invaders	0	3	116	League Game	LGE			As Scored	0	0	
+5/13/2006	Kansas City Brass	Sioux Falls SpitFire	2	1	168	League Game	LGE			As Scored	0	0	
+5/13/2006	Laredo Heat	DFW Tornados	3	0	783	League Game	LGE			As Scored	0	0	
+5/13/2006	Nashville Metros	Atlanta Silverbacks U-23's	2	2	281	League Game	LGE			As Scored	0	0	
+5/13/2006	New Hampshire Phantoms	Wilmington Hammerheads	1	1	100	League Game	LGE			As Scored	0	0	
+5/13/2006	Northern Virginia Royals	West Virginia Chaos	3	1	100	League Game	LGE			As Scored	0	0	
+5/13/2006	Ocean City Barons	Williamsburg Legacy	1	1	527	League Game	LGE	att 527		As Scored	0	0	
+5/13/2006	Ogden Outlaws	BYU Cougars	0	1	513	League Game	LGE	att 513		As Scored	0	0	
+5/13/2006	San Diego Gauchos	Fresno Fuego	0	4	269	League Game	LGE			As Scored	0	0	
+5/13/2006	San Fernando Quakes	Orange County Blue Star	3	4	100	League Game	LGE			As Scored	0	0	
+5/13/2006	San Francisco Seals	California Gold	3	1	150	League Game	LGE			As Scored	0	0	
+5/13/2006	Seattle Sounders	Minnesota Thunder	1	1	8,966	League Game	LGE			As Scored	0	0	
+5/13/2006	Southern California Seahorses	Bakersfield Brigade	0	0	331	League Game	LGE			As Scored	0	0	
+5/13/2006	Tacoma FC	Cascade Surge	0	0	121	League Game	LGE			As Scored	0	0	
+5/13/2006	St. Louis Lions	Des Moines Menace	0	2	285	League Game	LGE	att 285		As Scored	0	0	
+5/13/2006	Toronto Lynx	Rochester Rhinos	0	2	2,129	League Game	LGE			As Scored	0	0	
+5/13/2006	Yakima Reds	Abbotsford Rangers	1	3	350	League Game	LGE			As Scored	0	0	
+5/14/2006	Brooklyn Knights	Virginia Beach Submariners	2	3	42	League Game	LGE			As Scored	0	0	
+5/14/2006	Kansas City Brass	Des Moines Menace	1	0	98	League Game	LGE			As Scored	0	0	
+5/14/2006	Miami FC	Atlanta Silverbacks	1	0	2,125	League Game	LGE			As Scored	0	0	
+5/14/2006	Puerto Rico Islanders	Portland Timbers	3	1	2,975	League Game	LGE			As Scored	0	0	
+5/14/2006	Richmond Kickers	Harrisburg City Islanders	5	2	894	League Game	LGE			As Scored	0	0	
+5/14/2006	St. Louis Lions	Sioux Falls SpitFire	3	2	135	League Game	LGE			As Scored	0	0	
+5/14/2006	Vancouver Whitecaps	Minnesota Thunder	3	0	4,556	League Game	LGE			As Scored	0	0	
+5/16/2006	Ajax Orlando Prospects	Central Florida Kraze	0	1	32	League Game	LGE			As Scored	0	0	
+5/17/2006	Chicago Fire Premier	West Michigan Edge	1	0	2,000	League Game	LGE	att 2000		As Scored	0	0	
+5/17/2006	Michigan Bucks	Ft. Wayne Fever	4	1	300	League Game	LGE	att 300		As Scored	0	0	
+5/17/2006	Orange County Blue Star	Southern California Seahorses	0	3	120	League Game	LGE	att 120		As Scored	0	0	
+5/17/2006	Seattle Sounders	Rochester Rhinos	1	2	2,017	League Game	LGE			As Scored	0	0	
+5/18/2006	San Francisco Seals	San Diego Gauchos	0	1	100	League Game	LGE			As Scored	0	0	
+5/19/2006	Albany Admirals	Richmond Kickers Future	0	1	100	League Game	LGE			As Scored	0	0	
+5/19/2006	Atlanta Silverbacks U-23's	Ajax Orlando Prospects	3	0	225	League Game	LGE			As Scored	0	0	
+5/19/2006	Augusta Fireball United	Cocoa Expos	2	2	494	League Game	LGE			As Scored	0	0	
+5/19/2006	California Gold	San Fernando Quakes	1	2	300	League Game	LGE			As Scored	0	0	
+5/19/2006	Cape Cod Crusaders	Westchester Flames	4	0	326	League Game	LGE			As Scored	0	0	
+5/19/2006	Cascade Surge	BYU Cougars	2	0	409	League Game	LGE			As Scored	0	0	
+5/19/2006	Delaware Dynasty	Vermont Voltage	5	1	100	League Game	LGE			As Scored	0	0	
+5/19/2006	Des Moines Menace	Colorado Springs Blizzard	3	0	3,943	League Game	LGE			As Scored	0	0	
+5/19/2006	Kalamazoo Kingdom	Cleveland Internationals	2	1	278	League Game	LGE			As Scored	0	0	
+5/19/2006	Portland Timbers	Rochester Rhinos	0	1	3,875	League Game	LGE			As Scored	0	0	
+5/19/2006	Sioux Falls SpitFire	Boulder Rapids Reserve	0	2	1,169	League Game	LGE			As Scored	0	0	
+5/19/2006	West Virginia Chaos	Ocean City Barons	0	0	412	League Game	LGE			As Scored	0	0	
+5/20/2006	Abbotsford Rangers	Ogden Outlaws	4	1	317	League Game	LGE			As Scored	0	0	
+5/20/2006	Atlanta Silverbacks U-23's	Cocoa Expos	1	1	237	League Game	LGE			As Scored	0	0	
+5/20/2006	Bakersfield Brigade	Los Angeles Storm	0	1	750	League Game	LGE			As Scored	0	0	
+5/20/2006	California Gold	San Diego Gauchos	1	3	400	League Game	LGE			As Scored	0	0	
+5/20/2006	Charleston Battery	Puerto Rico Islanders	0	1	3,055	League Game	LGE			As Scored	0	0	
+5/20/2006	Des Moines Menace	Boulder Rapids Reserve	2	1	4,423	League Game	LGE			As Scored	0	0	
+5/20/2006	El Paso Patriots	Laredo Heat	2	3	1,862	League Game	LGE			As Scored	0	0	
+5/20/2006	Harrisburg City Islanders	Western Mass Pioneers	2	3	1,142	League Game	LGE			As Scored	0	0	
+5/20/2006	Nashville Metros	Carolina Dynamo	1	2	274	League Game	LGE			As Scored	0	0	
+5/20/2006	New Hampshire Phantoms	Long Island Rough Riders	3	1	625	League Game	LGE			As Scored	0	0	
+5/20/2006	New Orleans Shell Shockers	DFW Tornados	1	2	100	League Game	LGE			As Scored	0	0	
+5/20/2006	Palm Beach Pumas	Bradenton Academics	2	1	150	League Game	LGE			As Scored	0	0	
+5/20/2006	Rhode Island Stingrays	Northern Virginia Royals	2	0	148	League Game	LGE			As Scored	0	0	
+5/20/2006	Richmond Kickers	Pittsburgh Riverhounds	1	0	2,745	League Game	LGE			As Scored	0	0	
+5/20/2006	Seattle Sounders	Toronto Lynx	2	0	3,051	League Game	LGE			As Scored	0	0	
+5/20/2006	Sioux Falls SpitFire	Colorado Springs Blizzard	2	0	1,811	League Game	LGE			As Scored	0	0	
+5/20/2006	Tacoma FC	Yakima Reds	1	1	70	League Game	LGE	att. 70		As Scored	0	0	
+5/20/2006	West Michigan Edge	Michigan Bucks	1	2	250	League Game	LGE			As Scored	0	0	
+5/20/2006	Westchester Flames	Richmond Kickers Future	2	1	165	League Game	LGE			As Scored	0	0	
+5/20/2006	Wilmington Hammerheads	Charlotte Eagles	3	3	3,865	League Game	LGE			As Scored	0	0	
+5/21/2006	Augusta Fireball United	Ajax Orlando Prospects	3	2	275	League Game	LGE			As Scored	0	0	
+5/21/2006	Cape Cod Crusaders	Northern Virginia Royals	3	0	150	League Game	LGE			As Scored	0	0	
+5/21/2006	Cascade Surge	Ogden Outlaws	1	3	611	League Game	LGE			As Scored	0	0	
+5/21/2006	Chicago Fire Premier	Kalamazoo Kingdom	0	2	100	League Game	LGE			As Scored	0	0	
+5/21/2006	Indiana Invaders	Cleveland Internationals	4	1	395	League Game	LGE			As Scored	0	0	
+5/21/2006	Miami FC	Virginia Beach Mariners	0	1	1,852	League Game	LGE			As Scored	0	0	
+5/21/2006	Montreal Impact	Minnesota Thunder	4	0	8,821	League Game	LGE			As Scored	0	0	
+5/21/2006	Portland Timbers	Toronto Lynx	2	1	3,369	League Game	LGE			As Scored	0	0	
+5/21/2006	Reading Rage	Vermont Voltage	1	1	207	League Game	LGE			As Scored	0	0	
+5/21/2006	San Francisco Seals	San Fernando Quakes	2	1	200	League Game	LGE			As Scored	0	0	
+5/21/2006	St. Louis Lions	Kansas City Brass	1	2	307	League Game	LGE			As Scored	0	0	
+5/21/2006	Virginia Beach Submariners	Ocean City Barons	3	0	257	League Game	LGE			As Scored	0	0	
+5/21/2006	Williamsburg Legacy	West Virginia Chaos	1	0	298	League Game	LGE			As Scored	0	0	
+5/22/2006	Abbotsford Rangers	BYU Cougars	0	1	209	League Game	LGE			As Scored	0	0	
+5/22/2006	Vancouver Whitecaps	Rochester Rhinos	0	0	4,839	League Game	LGE			As Scored	0	0	
+5/24/2006	Cleveland Internationals	Michigan Bucks	0	4	88	League Game	LGE			As Scored	0	0	
+5/24/2006	Ft. Wayne Fever	Chicago Fire Premier	0	2	100	League Game	LGE			As Scored	0	0	
+5/24/2006	New Orleans Shell Shockers	Austin Lighting	3	1	500	League Game	LGE			As Scored	0	0	
+5/24/2006	Raleigh CASL Elite	Augusta Fireball United	1	2	156	League Game	LGE			As Scored	0	0	
+5/24/2006	Southern California Seahorses	Orange County Blue Star	2	1	232	League Game	LGE			As Scored	0	0	
+5/24/2006	Vermont Voltage	Cape Cod Crusaders	1	1	250	League Game	LGE			As Scored	0	0	
+5/25/2006	Delaware Dynasty	Albany Admirals	1	2	250	League Game	LGE	att. 250		As Scored	0	0	
+5/26/2006	Austin Lighting	El Paso Patriots	3	2	147	League Game	LGE			As Scored	0	0	
+5/26/2006	Bradenton Academics	Central Florida Kraze	1	3	100	League Game	LGE			As Scored	0	0	
+5/26/2006	BYU Cougars	Tacoma FC	3	0	100	League Game	LGE			As Scored	0	0	
+5/26/2006	Cocoa Expos	Raleigh CASL Elite	1	3	75	League Game	LGE			As Scored	0	0	
+5/26/2006	Ft. Wayne Fever	Kalamazoo Kingdom	1	2	325	League Game	LGE			As Scored	0	0	
+5/26/2006	Los Angeles Storm	Orange County Blue Star	0	2	430	League Game	LGE			As Scored	0	0	
+5/26/2006	Ocean City Barons	Albany Admirals	2	0	150	League Game	LGE			As Scored	0	0	
+5/26/2006	Ogden Outlaws	Yakima Reds	1	0	375	League Game	LGE			As Scored	0	0	
+5/26/2006	Rhode Island Stingrays	Cape Cod Crusaders	2	3	172	League Game	LGE			As Scored	0	0	
+5/26/2006	Toronto Lynx	Miami FC	0	1	2,832	League Game	LGE			As Scored	0	0	
+5/26/2006	Vancouver Whitecaps	Seattle Sounders	2	2	4,658	League Game	LGE			As Scored	0	0	
+5/26/2006	West Virginia Chaos	Reading Rage	3	2	50	League Game	LGE			As Scored	0	0	
+5/26/2006	Western Mass Pioneers	Charlotte Eagles	1	2	1,012	League Game	LGE			As Scored	0	0	
+5/27/2006	Bakersfield Brigade	San Francisco Seals	1	2	702	League Game	LGE			As Scored	0	0	
+5/27/2006	Boulder Rapids Reserve	St. Louis Lions	2	0	100	League Game	LGE			As Scored	0	0	
+5/27/2006	BYU Cougars	Yakima Reds	3	1	325	League Game	LGE			As Scored	0	0	
+5/27/2006	Charleston Battery	Atlanta Silverbacks	0	0	4,612	League Game	LGE			As Scored	0	0	
+5/27/2006	Colorado Springs Blizzard	Kansas City Brass	2	2	311	League Game	LGE			As Scored	0	0	
+5/27/2006	Des Moines Menace	Sioux Falls SpitFire	5	1	3,553	League Game	LGE			As Scored	0	0	
+5/27/2006	DFW Tornados	El Paso Patriots	4	1	391	League Game	LGE			As Scored	0	0	
+5/27/2006	Fresno Fuego	Southern California Seahorses	2	1	278	League Game	LGE			As Scored	0	0	
+5/27/2006	Harrisburg City Islanders	Pittsburgh Riverhounds	0	0	1,088	League Game	LGE			As Scored	0	0	
+5/27/2006	Indiana Invaders	Chicago Fire Premier	0	4	981	League Game	LGE			As Scored	0	0	
+5/27/2006	Long Island Rough Riders	Richmond Kickers	0	0	1,802	League Game	LGE			As Scored	0	0	
+5/27/2006	Minnesota Thunder	Portland Timbers	0	1	3,571	League Game	LGE			As Scored	0	0	
+5/27/2006	Nashville Metros	Augusta Fireball United	2	4	250	League Game	LGE			As Scored	0	0	
+5/27/2006	New Hampshire Phantoms	Charlotte Eagles	0	2	1,450	League Game	LGE			As Scored	0	0	
+5/27/2006	Northern Virginia Royals	Reading Rage	4	2	624	League Game	LGE			As Scored	0	0	
+5/27/2006	Ogden Outlaws	Tacoma FC	3	0	108	League Game	LGE			As Scored	0	0	
+5/27/2006	Palm Beach Pumas	Raleigh CASL Elite	2	1	200	League Game	LGE			As Scored	0	0	
+5/27/2006	Richmond Kickers Future	Delaware Dynasty	0	1	101	League Game	LGE			As Scored	0	0	
+5/27/2006	Seattle Sounders	Vancouver Whitecaps	1	0	2,998	League Game	LGE			As Scored	0	0	
+5/27/2006	Vermont Voltage	Westchester Flames	0	5	500	League Game	LGE			As Scored	0	0	
+5/27/2006	Virginia Beach Mariners	Rochester Rhinos	0	0	2,438	League Game	LGE			As Scored	0	0	
+5/27/2006	Williamsburg Legacy	Brooklyn Knights	0	0	290	League Game	LGE			As Scored	0	0	
+5/27/2006	Wilmington Hammerheads	Cincinnati Kings	4	0	3,189	League Game	LGE			As Scored	0	0	
+5/28/2006	Boulder Rapids Reserve	Kansas City Brass	2	0	250	League Game	LGE			As Scored	0	0	
+5/28/2006	Cleveland Internationals	West Michigan Edge	2	2	40	League Game	LGE			As Scored	0	0	
+5/28/2006	Colorado Springs Blizzard	St. Louis Lions	0	0	200	League Game	LGE			As Scored	0	0	
+5/28/2006	DFW Tornados	Laredo Heat	0	1	251	League Game	LGE			As Scored	0	0	
+5/28/2006	Montreal Impact	Miami FC	0	0	12,142	League Game	LGE			As Scored	0	0	
+5/28/2006	Ottawa Fury	Westchester Flames	2	2	200	League Game	LGE			As Scored	0	0	
+5/28/2006	Richmond Kickers Future	Brooklyn Knights	2	3	100	League Game	LGE			As Scored	0	0	
+5/28/2006	Virginia Beach Submariners	Delaware Dynasty	2	0	100	League Game	LGE			As Scored	0	0	
+5/29/2006	Michigan Bucks	Indiana Invaders	2	1	300	League Game	LGE			As Scored	0	0	
+5/29/2006	San Francisco Seals	Southern California Seahorses	0	2	200	League Game	LGE			As Scored	0	0	
+5/30/2006	Virginia Beach Submariners	Williamsburg Legacy	1	2	175	League Game	LGE			As Scored	0	0	
+5/31/2006	Raleigh CASL Elite	Carolina Dynamo	1	5	312	League Game	LGE			As Scored	0	0	
+6/1/2006	Atlanta Silverbacks U-23's	Palm Beach Pumas	1	0	98	League Game	LGE			As Scored	0	0	
+6/2/2006	Abbotsford Rangers	Yakima Reds	1	2	126	League Game	LGE			As Scored	0	0	
+6/2/2006	Albany Admirals	Vermont Voltage	1	0	150	League Game	LGE			As Scored	0	0	
+6/2/2006	Bakersfield Brigade	Southern California Seahorses	3	1	702	League Game	LGE			As Scored	0	0	
+6/2/2006	Cascade Surge	Tacoma FC	0	4	415	League Game	LGE			As Scored	0	0	
+6/2/2006	Cocoa Expos	Central Florida Kraze	1	3	150	League Game	LGE			As Scored	0	0	
+6/2/2006	Des Moines Menace	Thunder Bay Chill	2	0	3,667	League Game	LGE			As Scored	0	0	
+6/2/2006	Fresno Fuego	Los Angeles Storm	2	2	264	League Game	LGE			As Scored	0	0	
+6/2/2006	Ft. Wayne Fever	Cleveland Internationals	2	0	412	League Game	LGE			As Scored	0	0	
+6/2/2006	Pittsburgh Riverhounds	Richmond Kickers	1	1	1,138	League Game	LGE	Game called at halftime		As Scored	0	0	
+6/2/2006	Reading Rage	Delaware Dynasty	1	0	99	League Game	LGE			As Scored	0	0	
+6/2/2006	San Diego Gauchos	Orange County Blue Star	1	1	713	League Game	LGE			As Scored	0	0	
+6/2/2006	Seattle Sounders	Portland Timbers	0	0	2,251	League Game	LGE			As Scored	0	0	
+6/2/2006	Wilmington Hammerheads	New Hampshire Phantoms	0	1	2,873	League Game	LGE			As Scored	0	0	
+6/3/2006	Abbotsford Rangers	Cascade Surge	4	2	187	League Game	LGE			As Scored	0	0	
+6/3/2006	Atlanta Silverbacks	Charleston Battery	3	2	3,217	League Game	LGE			As Scored	0	0	
+6/3/2006	Augusta Fireball United	Palm Beach Pumas	3	1	10	League Game	LGE			As Scored	0	0	
+6/3/2006	Boulder Rapids Reserve	Sioux Falls SpitFire	3	1	2,000	League Game	LGE			As Scored	0	0	
+6/3/2006	Brooklyn Knights	Westchester Flames	0	1	89	League Game	LGE			As Scored	0	0	
+6/3/2006	California Gold	Los Angeles Storm	1	3	160	League Game	LGE			As Scored	0	0	
+6/3/2006	Charlotte Eagles	New Hampshire Phantoms	1	0	1,350	League Game	LGE			As Scored	0	0	
+6/3/2006	Chicago Fire Premier	Michigan Bucks	2	1	10	League Game	LGE			As Scored	0	0	
+6/3/2006	Cincinnati Kings	Richmond Kickers	0	1	1,263	League Game	LGE			As Scored	0	0	
+6/3/2006	Cocoa Expos	Bradenton Academics	1	3	300	League Game	LGE			As Scored	0	0	
+6/3/2006	Des Moines Menace	Thunder Bay Chill	4	1	3,825	League Game	LGE			As Scored	0	0	
+6/3/2006	Harrisburg City Islanders	Long Island Rough Riders	3	0	2,046	League Game	LGE			As Scored	0	0	
+6/3/2006	Indiana Invaders	Kalamazoo Kingdom	2	1	483	League Game	LGE			As Scored	0	0	
+6/3/2006	Kansas City Brass	West Michigan Edge	1	0	93	League Game	LGE			As Scored	0	0	
+6/3/2006	Laredo Heat	Austin Lighting	3	1	915	League Game	LGE			As Scored	0	0	
+6/3/2006	Minnesota Thunder	Vancouver Whitecaps	1	1	1,808	League Game	LGE			As Scored	0	0	
+6/3/2006	New Orleans Shell Shockers	DFW Tornados	1	3	700	League Game	LGE			As Scored	0	0	
+6/3/2006	Northern Virginia Royals	West Virginia Chaos	0	4	215	League Game	LGE			As Scored	0	0	
+6/3/2006	Ogden Outlaws	BYU Cougars	0	1	733	League Game	LGE			As Scored	0	0	
+6/3/2006	Portland Timbers	Seattle Sounders	3	1	6,149	League Game	LGE			As Scored	0	0	
+6/3/2006	Rhode Island Stingrays	Delaware Dynasty	7	2	135	League Game	LGE			As Scored	0	0	
+6/3/2006	Rochester Rhinos	Virginia Beach Mariners	2	2	13,768	League Game	LGE			As Scored	0	0	
+6/3/2006	San Fernando Quakes	Bakersfield Brigade	2	1	10	League Game	LGE			As Scored	0	0	
+6/3/2006	San Francisco Seals	Fresno Fuego	4	1	125	League Game	LGE			As Scored	0	0	
+6/3/2006	Virginia Beach Submariners	Richmond Kickers Future	2	1	104	League Game	LGE			As Scored	0	0	
+6/4/2006	Cleveland Internationals	Kalamazoo Kingdom	1	2	111	League Game	LGE			As Scored	0	0	
+6/4/2006	Montreal Impact	Puerto Rico Islanders	1	0	9,809	League Game	LGE			As Scored	0	0	
+6/4/2006	St. Louis Lions	West Michigan Edge	2	2	210	League Game	LGE			As Scored	0	0	
+6/4/2006	Toronto Lynx	Virginia Beach Mariners	0	0	810	League Game	LGE			As Scored	0	0	
+6/4/2006	Westchester Flames	Ocean City Barons	1	2	105	League Game	LGE			As Scored	0	0	
+6/7/2006	Brooklyn Knights	Ocean City Barons	0	0	100	League Game	LGE			As Scored	0	0	
+6/7/2006	Kansas City Brass	St. Louis Lions	1	2	118	League Game	LGE			As Scored	0	0	
+6/7/2006	Ottawa Fury	Vermont Voltage	1	0	500	League Game	LGE			As Scored	0	0	
+6/8/2006	Boulder Rapids Reserve	Colorado Springs Blizzard	3	1	100	League Game	LGE			As Scored	0	0	
+6/8/2006	Carolina Dynamo	Richmond Kickers Future	3	1	2,011	League Game	LGE			As Scored	0	0	
+6/8/2006	Charleston Battery	Seattle Sounders	2	0	3,006	League Game	LGE			As Scored	0	0	
+6/9/2006	Bradenton Academics	Ajax Orlando Prospects	4	1	50	League Game	LGE			As Scored	0	0	
+6/9/2006	BYU Cougars	Abbotsford Rangers	0	1	238	League Game	LGE			As Scored	0	0	
+6/9/2006	Central Florida Kraze	Cocoa Expos	1	1	425	League Game	LGE			As Scored	0	0	
+6/9/2006	DFW Tornados	New Orleans Shell Shockers	1	0	10	League Game	LGE			As Scored	0	0	
+6/9/2006	Ft. Wayne Fever	Michigan Bucks	3	3	587	League Game	LGE			As Scored	0	0	
+6/9/2006	Kalamazoo Kingdom	West Michigan Edge	0	2	10	League Game	LGE			As Scored	0	0	
+6/9/2006	Los Angeles Storm	San Fernando Quakes	0	1	244	League Game	LGE			As Scored	0	0	
+6/9/2006	New Hampshire Phantoms	Harrisburg City Islanders	2	1	315	League Game	LGE			As Scored	0	0	
+6/9/2006	Ogden Outlaws	Cascade Surge	4	0	187	League Game	LGE			As Scored	0	0	
+6/9/2006	San Diego Gauchos	Southern California Seahorses	1	2	741	League Game	LGE			As Scored	0	0	
+6/9/2006	Thunder Bay Chill	Indiana Invaders	2	2	846	League Game	LGE			As Scored	0	0	
+6/9/2006	Vancouver Whitecaps	Miami FC	2	2	5,722	League Game	LGE			As Scored	0	0	
+6/9/2006	Virginia Beach Mariners	Rochester Rhinos	0	0	2,676	League Game	LGE			As Scored	0	0	
+6/10/2006	Ajax Orlando Prospects	Central Florida Kraze	0	1	1	League Game	LGE			As Scored	0	0	
+6/10/2006	Atlanta Silverbacks	Seattle Sounders	3	1	2,743	League Game	LGE			As Scored	0	0	
+6/10/2006	Austin Lighting	New Orleans Shell Shockers	1	3	108	League Game	LGE			As Scored	0	0	
+6/10/2006	Bakersfield Brigade	Orange County Blue Star	3	4	740	League Game	LGE			As Scored	0	0	
+6/10/2006	BYU Cougars	Cascade Surge	4	0	355	League Game	LGE			As Scored	0	0	
+6/10/2006	Cape Cod Crusaders	Vermont Voltage	1	1	259	League Game	LGE			As Scored	0	0	
+6/10/2006	Carolina Dynamo	Raleigh CASL Elite	3	1	1,644	League Game	LGE			As Scored	0	0	
+6/10/2006	Cleveland Internationals	Chicago Fire Premier	0	3	346	League Game	LGE			As Scored	0	0	
+6/10/2006	Colorado Springs Blizzard	Boulder Rapids Reserve	1	3	210	League Game	LGE			As Scored	0	0	
+6/10/2006	Delaware Dynasty	Westchester Flames	3	2	500	League Game	LGE			As Scored	0	0	
+6/10/2006	Laredo Heat	El Paso Patriots	2	1	712	League Game	LGE			As Scored	0	0	
+6/10/2006	Long Island Rough Riders	Wilmington Hammerheads	0	3	1,703	League Game	LGE			As Scored	0	0	
+6/10/2006	Nashville Metros	Augusta Fireball United	1	2	287	League Game	LGE			As Scored	0	0	
+6/10/2006	Northern Virginia Royals	Williamsburg Legacy	2	1	511	League Game	LGE			As Scored	0	0	
+6/10/2006	Ogden Outlaws	Abbotsford Rangers	2	2	387	League Game	LGE			As Scored	0	0	
+6/10/2006	Ottawa Fury	Albany Admirals	1	1	200	League Game	LGE			As Scored	0	0	
+6/10/2006	Palm Beach Pumas	Cocoa Expos	4	3	10	League Game	LGE			As Scored	0	0	
+6/10/2006	Pittsburgh Riverhounds	Cincinnati Kings	2	2	10	League Game	LGE			As Scored	0	0	
+6/10/2006	Portland Timbers	Vancouver Whitecaps	0	0	6,298	League Game	LGE			As Scored	0	0	
+6/10/2006	Puerto Rico Islanders	Charleston Battery	2	1	3,675	League Game	LGE			As Scored	0	0	
+6/10/2006	Reading Rage	Brooklyn Knights	2	1	10	League Game	LGE			As Scored	0	0	
+6/10/2006	Richmond Kickers	Charlotte Eagles	2	0	3,076	League Game	LGE			As Scored	0	0	
+6/10/2006	Richmond Kickers Future	West Virginia Chaos	2	1	350	League Game	LGE			As Scored	0	0	
+6/10/2006	San Fernando Quakes	California Gold	5	1	10	League Game	LGE			As Scored	0	0	
+6/10/2006	Sioux Falls SpitFire	Des Moines Menace	3	1	10	League Game	LGE			As Scored	0	0	
+6/10/2006	Southern California Seahorses	Fresno Fuego	1	0	273	League Game	LGE			As Scored	0	0	
+6/10/2006	Tacoma FC	San Francisco Seals	2	2	115	League Game	LGE			As Scored	0	0	
+6/10/2006	Thunder Bay Chill	Indiana Invaders	1	2	10	League Game	LGE			As Scored	0	0	
+6/10/2006	Western Mass Pioneers	Harrisburg City Islanders	0	1	10	League Game	LGE			As Scored	0	0	
+6/11/2006	Michigan Bucks	Kalamazoo Kingdom	1	1	10	League Game	LGE			As Scored	0	0	
+6/11/2006	Minnesota Thunder	Miami FC	4	1	2,383	League Game	LGE			As Scored	0	0	
+6/11/2006	Puerto Rico Islanders	Charleston Battery	0	0	4,395	League Game	LGE			As Scored	0	0	
+6/11/2006	Reading Rage	Ocean City Barons	0	4	10	League Game	LGE			As Scored	0	0	
+6/11/2006	Toronto Lynx	Montreal Impact	0	1	1,885	League Game	LGE			As Scored	0	0	
+6/11/2006	Western Mass Pioneers	Wilmington Hammerheads	2	1	989	League Game	LGE			As Scored	0	0	
+6/11/2006	Williamsburg Legacy	West Virginia Chaos	2	2	75	League Game	LGE			As Scored	0	0	
+6/11/2006	Yakima Reds	San Francisco Seals	1	2	156	League Game	LGE			As Scored	0	0	
+6/14/2006	Long Island Rough Riders	Western Mass Pioneers	0	0	2,571	League Game	LGE			As Scored	0	0	
+6/14/2006	Montreal Impact	Atlanta Silverbacks	4	1	12,215	League Game	LGE			As Scored	0	0	
+6/14/2006	Palm Beach Pumas	Bradenton Academics	2	0	10	League Game	LGE			As Scored	0	0	
+6/14/2006	Rhode Island Stingrays	Vermont Voltage	2	2	235	League Game	LGE			As Scored	0	0	
+6/14/2006	Southern California Seahorses	San Fernando Quakes	2	0	10	League Game	LGE			As Scored	0	0	
+6/15/2006	Atlanta Silverbacks U-23's	Augusta Fireball United	0	3	182	League Game	LGE			As Scored	0	0	
+6/15/2006	Miami FC	Toronto Lynx	2	2	1,315	League Game	LGE			As Scored	0	0	
+6/15/2006	Minnesota Thunder	Portland Timbers	1	2	1,609	League Game	LGE			As Scored	0	0	
+6/15/2006	Virginia Beach Mariners	Vancouver Whitecaps	1	2	1,404	League Game	LGE			As Scored	0	0	
+6/16/2006	Albany Admirals	Ottawa Fury	2	1	150	League Game	LGE			As Scored	0	0	
+6/16/2006	Austin Lighting	Laredo Heat	0	3	261	League Game	LGE			As Scored	0	0	
+6/16/2006	California Gold	Bakersfield Brigade	0	3	60	League Game	LGE			As Scored	0	0	
+6/16/2006	Colorado Springs Blizzard	Sioux Falls SpitFire	3	0	115	League Game	LGE			As Scored	0	0	
+6/16/2006	El Paso Patriots	DFW Tornados	2	0	823	League Game	LGE			As Scored	0	0	
+6/16/2006	Kalamazoo Kingdom	Chicago Fire Premier	2	3	215	League Game	LGE			As Scored	0	0	
+6/16/2006	Kansas City Brass	Thunder Bay Chill	3	0	67	League Game	LGE			As Scored	0	0	
+6/16/2006	Puerto Rico Islanders	Seattle Sounders	4	1	3,048	League Game	LGE			As Scored	0	0	
+6/16/2006	San Diego Gauchos	Los Angeles Storm	1	0	10	League Game	LGE			As Scored	0	0	
+6/16/2006	Tacoma FC	BYU Cougars	0	0	210	League Game	LGE			As Scored	0	0	
+6/16/2006	West Michigan Edge	Cleveland Internationals	2	1	120	League Game	LGE			As Scored	0	0	
+6/16/2006	West Virginia Chaos	Richmond Kickers Future	3	1	1,100	League Game	LGE			As Scored	0	0	
+6/16/2006	Williamsburg Legacy	Carolina Dynamo	0	1	215	League Game	LGE			As Scored	0	0	
+6/17/2006	Atlanta Silverbacks	Vancouver Whitecaps	2	2	2,167	League Game	LGE			As Scored	0	0	
+6/17/2006	Atlanta Silverbacks U-23's	Raleigh CASL Elite	4	3	108	League Game	LGE			As Scored	0	0	
+6/17/2006	Austin Lighting	Laredo Heat	1	4	121	League Game	LGE			As Scored	0	0	
+6/17/2006	Boulder Rapids Reserve	Des Moines Menace	4	3	1,250	League Game	LGE			As Scored	0	0	
+6/17/2006	California Gold	Fresno Fuego	1	4	45	League Game	LGE			As Scored	0	0	
+6/17/2006	Cape Cod Crusaders	Ottawa Fury	4	2	142	League Game	LGE			As Scored	0	0	
+6/17/2006	Cascade Surge	Abbotsford Rangers	1	1	243	League Game	LGE			As Scored	0	0	
+6/17/2006	Cincinnati Kings	Charlotte Eagles	3	3	1,107	League Game	LGE			As Scored	0	0	
+6/17/2006	Cocoa Expos	Bradenton Academics	6	2	200	League Game	LGE			As Scored	0	0	
+6/17/2006	Delaware Dynasty	Ocean City Barons	2	2	567	League Game	LGE			As Scored	0	0	
+6/17/2006	El Paso Patriots	DFW Tornados	1	2	916	League Game	LGE			As Scored	0	0	
+6/17/2006	Ft. Wayne Fever	Kalamazoo Kingdom	0	1	263	League Game	LGE			As Scored	0	0	
+6/17/2006	Los Angeles Storm	Southern California Seahorses	0	4	190	League Game	LGE			As Scored	0	0	
+6/17/2006	Minnesota Thunder	Virginia Beach Mariners	1	2	1,480	League Game	LGE			As Scored	0	0	
+6/17/2006	New Orleans Shell Shockers	Nashville Metros	1	3	450	League Game	LGE			As Scored	0	0	
+6/17/2006	Palm Beach Pumas	Central Florida Kraze	2	3	20	League Game	LGE			As Scored	0	0	
+6/17/2006	Rochester Rhinos	Portland Timbers	2	2	9,174	League Game	LGE			As Scored	0	0	
+6/17/2006	St. Louis Lions	Thunder Bay Chill	1	0	412	League Game	LGE			As Scored	0	0	
+6/17/2006	Virginia Beach Submariners	Carolina Dynamo	1	3	182	League Game	LGE			As Scored	0	0	
+6/17/2006	West Virginia Chaos	Northern Virginia Royals	1	2	290	League Game	LGE			As Scored	0	0	
+6/17/2006	Westchester Flames	Reading Rage	2	0	100	League Game	LGE			As Scored	0	0	
+6/17/2006	Western Mass Pioneers	Long Island Rough Riders	2	2	1,080	League Game	LGE			As Scored	0	0	
+6/17/2006	Yakima Reds	BYU Cougars	0	2	426	League Game	LGE			As Scored	0	0	
+6/18/2006	Augusta Fireball United	Raleigh CASL Elite	2	0	351	League Game	LGE			As Scored	0	0	
+6/18/2006	Brooklyn Knights	Westchester Flames	3	5	47	League Game	LGE			As Scored	0	0	
+6/18/2006	Charleston Battery	Vancouver Whitecaps	1	0	3,283	League Game	LGE			As Scored	0	0	
+6/18/2006	Chicago Fire Premier	Indiana Invaders	4	3	115	League Game	LGE			As Scored	0	0	
+6/18/2006	Colorado Springs Blizzard	Des Moines Menace	1	4	175	League Game	LGE			As Scored	0	0	
+6/18/2006	Harrisburg City Islanders	Wilmington Hammerheads	2	2	822	League Game	LGE			As Scored	0	0	
+6/18/2006	Kansas City Brass	Sioux Falls SpitFire	1	1	114	League Game	LGE			As Scored	0	0	
+6/18/2006	Miami FC	Seattle Sounders	5	3	1,625	League Game	LGE			As Scored	0	0	
+6/18/2006	Michigan Bucks	Cleveland Internationals	3	0	73	League Game	LGE			As Scored	0	0	
+6/18/2006	Montreal Impact	Portland Timbers	0	0	9,273	League Game	LGE			As Scored	0	0	
+6/18/2006	Puerto Rico Islanders	Toronto Lynx	2	1	3,102	League Game	LGE			As Scored	0	0	
+6/18/2006	San Francisco Seals	Bakersfield Brigade	0	1	175	League Game	LGE			As Scored	0	0	
+6/18/2006	West Virginia Chaos	Northern Virginia Royals	2	1	100	League Game	LGE			As Scored	0	0	
+6/20/2006	Ajax Orlando Prospects	Palm Beach Pumas	2	3	112	League Game	LGE			As Scored	0	0	
+6/20/2006	Carolina Dynamo	West Virginia Chaos	1	1	10	League Game	LGE			As Scored	0	0	
+6/20/2006	Williamsburg Legacy	Northern Virginia Royals	4	0	220	League Game	LGE			As Scored	0	0	
+6/21/2006	Brooklyn Knights	Reading Rage	0	1	62	League Game	LGE			As Scored	0	0	
+6/21/2006	Cleveland Internationals	Ft. Wayne Fever	2	2	156	League Game	LGE			As Scored	0	0	
+6/21/2006	Harrisburg City Islanders	Charlotte Eagles	3	1	1,247	League Game	LGE			As Scored	0	0	
+6/21/2006	Indiana Invaders	Michigan Bucks	3	0	328	League Game	LGE			As Scored	0	0	
+6/21/2006	New Hampshire Phantoms	Long Island Rough Riders	3	1	375	League Game	LGE			As Scored	0	0	
+6/21/2006	Pittsburgh Riverhounds	Wilmington Hammerheads	2	1	1,718	League Game	LGE			As Scored	0	0	
+6/21/2006	Raleigh CASL Elite	West Virginia Chaos	5	2	179	League Game	LGE			As Scored	0	0	
+6/22/2006	Bradenton Academics	Augusta Fireball United	4	2	105	League Game	LGE			As Scored	0	0	
+6/22/2006	Virginia Beach Mariners	Seattle Sounders	0	1	1,662	League Game	LGE			As Scored	0	0	
+6/23/2006	Boulder Rapids Reserve	BYU Cougars	3	1	287	League Game	LGE			As Scored	0	0	
+6/23/2006	Cascade Surge	Abbotsford Rangers	0	4	303	League Game	LGE			As Scored	0	0	
+6/23/2006	Charleston Battery	Atlanta Silverbacks	0	1	5,017	League Game	LGE			As Scored	0	0	
+6/23/2006	Colorado Springs Blizzard	Ogden Outlaws	1	1	254	League Game	LGE			As Scored	0	0	
+6/23/2006	Delaware Dynasty	Rhode Island Stingrays	3	2	250	League Game	LGE			As Scored	0	0	
+6/23/2006	DFW Tornados	Laredo Heat	2	1	412	League Game	LGE			As Scored	0	0	
+6/23/2006	New Orleans Shell Shockers	El Paso Patriots	0	3	650	League Game	LGE			As Scored	0	0	
+6/23/2006	Ocean City Barons	Albany Admirals	0	0	100	League Game	LGE			As Scored	0	0	
+6/23/2006	San Diego Gauchos	California Gold	2	0	200	League Game	LGE			As Scored	0	0	
+6/23/2006	Thunder Bay Chill	Sioux Falls SpitFire	0	0	966	League Game	LGE			As Scored	0	0	
+6/23/2006	Vermont Voltage	Cape Cod Crusaders	0	3	10	League Game	LGE			As Scored	0	0	
+6/23/2006	West Michigan Edge	St. Louis Lions	0	3	235	League Game	LGE			As Scored	0	0	
+6/23/2006	Yakima Reds	Tacoma FC	3	0	243	League Game	LGE			As Scored	0	0	
+6/24/2006	Ajax Orlando Prospects	Cocoa Expos	2	5	100	League Game	LGE			As Scored	0	0	
+6/24/2006	Bakersfield Brigade	San Fernando Quakes	2	3	440	League Game	LGE			As Scored	0	0	
+6/24/2006	Boulder Rapids Reserve	Ogden Outlaws	2	0	206	League Game	LGE			As Scored	0	0	
+6/24/2006	Central Florida Kraze	Augusta Fireball United	1	1	275	League Game	LGE			As Scored	0	0	
+6/24/2006	Charlotte Eagles	Pittsburgh Riverhounds	1	0	1,472	League Game	LGE			As Scored	0	0	
+6/24/2006	Cincinnati Kings	Wilmington Hammerheads	3	0	1,135	League Game	LGE			As Scored	0	0	
+6/24/2006	Colorado Springs Blizzard	BYU Cougars	2	3	211	League Game	LGE			As Scored	0	0	
+6/24/2006	Indiana Invaders	Ft. Wayne Fever	2	1	381	League Game	LGE			As Scored	0	0	
+6/24/2006	Kalamazoo Kingdom	St. Louis Lions	2	2	197	League Game	LGE			As Scored	0	0	
+6/24/2006	Long Island Rough Riders	Harrisburg City Islanders	0	1	1,947	League Game	LGE			As Scored	0	0	
+6/24/2006	Los Angeles Storm	San Francisco Seals	2	2	105	League Game	LGE			As Scored	0	0	
+6/24/2006	Minnesota Thunder	Seattle Sounders	2	2	1,119	League Game	LGE			As Scored	0	0	
+6/24/2006	Nashville Metros	Raleigh CASL Elite	3	3	943	League Game	LGE			As Scored	0	0	
+6/24/2006	New Hampshire Phantoms	Richmond Kickers	2	4	1,573	League Game	LGE			As Scored	0	0	
+6/24/2006	New Orleans Shell Shockers	El Paso Patriots	2	1	100	League Game	LGE			As Scored	0	0	
+6/24/2006	Ottawa Fury	Cape Cod Crusaders	0	1	300	League Game	LGE			As Scored	0	0	
+6/24/2006	Reading Rage	Rhode Island Stingrays	2	1	312	League Game	LGE			As Scored	0	0	
+6/24/2006	Rochester Rhinos	Montreal Impact	0	0	10,043	League Game	LGE			As Scored	0	0	
+6/24/2006	San Diego Gauchos	California Gold	6	0	357	League Game	LGE			As Scored	0	0	
+6/24/2006	Thunder Bay Chill	Sioux Falls SpitFire	2	1	929	League Game	LGE			As Scored	0	0	
+6/24/2006	Virginia Beach Submariners	Atlanta Silverbacks U-23's	2	1	317	League Game	LGE			As Scored	0	0	
+6/24/2006	Westchester Flames	Brooklyn Knights	3	1	55	League Game	LGE			As Scored	0	0	
+6/24/2006	Yakima Reds	Cascade Surge	1	1	525	League Game	LGE			As Scored	0	0	
+6/25/2006	Bradenton Academics	Ajax Orlando Prospects	2	1	50	League Game	LGE	Game called at half due to weather.		As Scored	0	0	
+6/25/2006	DFW Tornados	Austin Lighting	3	2	441	League Game	LGE			As Scored	0	0	
+6/25/2006	San Fernando Quakes	San Francisco Seals	2	1	100	League Game	LGE			As Scored	0	0	
+6/25/2006	Vancouver Whitecaps	Puerto Rico Islanders	1	0	5,722	League Game	LGE			As Scored	0	0	
+6/25/2006	West Virginia Chaos	Atlanta Silverbacks U-23's	0	6	120	League Game	LGE			As Scored	0	0	
+6/25/2006	Western Mass Pioneers	Richmond Kickers	0	2	676	League Game	LGE			As Scored	0	0	
+6/25/2006	Williamsburg Legacy	Virginia Beach Submariners	0	3	265	League Game	LGE			As Scored	0	0	
+6/28/2006	Chicago Fire Premier	Ft. Wayne Fever	3	1	914	League Game	LGE			As Scored	0	0	
+6/28/2006	Kansas City Brass	St. Louis Lions	0	0	278	League Game	LGE			As Scored	0	0	
+6/28/2006	Montreal Impact	Rochester Rhinos	1	0	11,369	League Game	LGE			As Scored	0	0	
+6/28/2006	Orange County Blue Star	San Diego Gauchos	0	2	100	League Game	LGE			As Scored	0	0	
+6/28/2006	Seattle Sounders	Puerto Rico Islanders	2	1	2,611	League Game	LGE			As Scored	0	0	
+6/28/2006	Vermont Voltage	Albany Admirals	4	1	600	League Game	LGE			As Scored	0	0	
+6/30/2006	Abbotsford Rangers	Tacoma FC	1	0	127	League Game	LGE			As Scored	0	0	
+6/30/2006	Albany Admirals	Reading Rage	1	1	100	League Game	LGE			As Scored	0	0	
+6/30/2006	Atlanta Silverbacks	Charleston Battery	1	0	2,013	League Game	LGE			As Scored	0	0	
+6/30/2006	Austin Lighting	El Paso Patriots	0	0	123	League Game	LGE			As Scored	0	0	
+6/30/2006	Cape Cod Crusaders	Ottawa Fury	2	0	386	League Game	LGE			As Scored	0	0	
+6/30/2006	Cascade Surge	Yakima Reds	0	4	325	League Game	LGE			As Scored	0	0	
+6/30/2006	Chicago Fire Premier	Thunder Bay Chill	2	1	45	League Game	LGE			As Scored	0	0	
+6/30/2006	Cocoa Expos	Ajax Orlando Prospects	3	3	100	League Game	LGE			As Scored	0	0	
+6/30/2006	Delaware Dynasty	Brooklyn Knights	0	2	200	League Game	LGE			As Scored	0	0	
+6/30/2006	Ft. Wayne Fever	Michigan Bucks	2	4	531	League Game	LGE			As Scored	0	0	
+6/30/2006	New Hampshire Phantoms	Western Mass Pioneers	2	0	525	League Game	LGE			As Scored	0	0	
+6/30/2006	Orange County Blue Star	Los Angeles Storm	3	0	100	League Game	LGE			As Scored	0	0	
+6/30/2006	Pittsburgh Riverhounds	Harrisburg City Islanders	2	0	2,058	League Game	LGE			As Scored	0	0	
+6/30/2006	Raleigh CASL Elite	Nashville Metros	2	3	158	League Game	LGE			As Scored	0	0	
+6/30/2006	Richmond Kickers	Wilmington Hammerheads	1	0	3,892	League Game	LGE			As Scored	0	0	
+6/30/2006	Richmond Kickers Future	Bradenton Academics	2	2	352	League Game	LGE			As Scored	0	0	
+6/30/2006	Vancouver Whitecaps	Portland Timbers	3	0	4,540	League Game	LGE			As Scored	0	0	
+6/30/2006	Virginia Beach Mariners	Minnesota Thunder	1	1	2,106	League Game	LGE			As Scored	0	0	
+6/30/2006	Virginia Beach Submariners	Northern Virginia Royals	6	0	178	League Game	LGE			As Scored	0	0	
+6/30/2006	West Michigan Edge	Indiana Invaders	2	2	236	League Game	LGE			As Scored	0	0	
+7/1/2006	Bakersfield Brigade	Fresno Fuego	0	2	1,350	League Game	LGE			As Scored	0	0	
+7/1/2006	BYU Cougars	Ogden Outlaws	2	0	100	League Game	LGE			As Scored	0	0	
+7/1/2006	Carolina Dynamo	Nashville Metros	3	0	951	League Game	LGE			As Scored	0	0	
+7/1/2006	Central Florida Kraze	Ajax Orlando Prospects	1	4	185	League Game	LGE			As Scored	0	0	
+7/1/2006	Charleston Battery	Minnesota Thunder	2	2	3,166	League Game	LGE			As Scored	0	0	
+7/1/2006	Chicago Fire Premier	Cleveland Internationals	5	0	235	League Game	LGE			As Scored	0	0	
+7/1/2006	Des Moines Menace	Boulder Rapids Reserve	2	5	3,641	League Game	LGE			As Scored	0	0	
+7/1/2006	DFW Tornados	El Paso Patriots	0	0	389	League Game	LGE			As Scored	0	0	
+7/1/2006	Indiana Invaders	Thunder Bay Chill	1	5	472	League Game	LGE			As Scored	0	0	
+7/1/2006	Laredo Heat	Austin Lighting	3	1	276	League Game	LGE			As Scored	0	0	
+7/1/2006	Long Island Rough Riders	Charlotte Eagles	1	2	1,429	League Game	LGE			As Scored	0	0	
+7/1/2006	Northern Virginia Royals	Bradenton Academics	2	4	100	League Game	LGE			As Scored	0	0	
+7/1/2006	Orange County Blue Star	San Francisco Seals	1	1	88	League Game	LGE			As Scored	0	0	
+7/1/2006	Palm Beach Pumas	Cocoa Expos	3	1	200	League Game	LGE			As Scored	0	0	
+7/1/2006	Pittsburgh Riverhounds	Cincinnati Kings	2	0	2,003	League Game	LGE			As Scored	0	0	
+7/1/2006	Rhode Island Stingrays	Ottawa Fury	4	4	475	League Game	LGE			As Scored	0	0	
+7/1/2006	Richmond Kickers Future	Virginia Beach Submariners	0	0	100	League Game	LGE			As Scored	0	0	
+7/1/2006	San Fernando Quakes	San Diego Gauchos	3	1	254	League Game	LGE			As Scored	0	0	
+7/1/2006	Seattle Sounders	Miami FC	2	1	3,006	League Game	LGE			As Scored	0	0	
+7/1/2006	Sioux Falls SpitFire	Kansas City Brass	1	2	879	League Game	LGE			As Scored	0	0	
+7/1/2006	Southern California Seahorses	Los Angeles Storm	1	0	306	League Game	LGE			As Scored	0	0	
+7/1/2006	Vermont Voltage	Ocean City Barons	1	4	500	League Game	LGE			As Scored	0	0	
+7/1/2006	Westchester Flames	Delaware Dynasty	3	0	150	League Game	LGE			As Scored	0	0	
+7/1/2006	Wilmington Hammerheads	Richmond Kickers	3	0	4,136	League Game	LGE			As Scored	0	0	
+7/2/2006	Abbotsford Rangers	Yakima Reds	1	2	138	League Game	LGE			As Scored	0	0	
+7/2/2006	Augusta Fireball United	Nashville Metros	2	0	428	League Game	LGE			As Scored	0	0	
+7/2/2006	Cape Cod Crusaders	Ocean City Barons	3	2	429	League Game	LGE			As Scored	0	0	
+7/2/2006	Cincinnati Kings	Harrisburg City Islanders	1	5	961	League Game	LGE			As Scored	0	0	
+7/2/2006	Des Moines Menace	Kansas City Brass	2	0	3,536	League Game	LGE			As Scored	0	0	
+7/2/2006	Portland Timbers	Miami FC	0	1	6,116	League Game	LGE			As Scored	0	0	
+7/2/2006	Reading Rage	Delaware Dynasty	3	1	221	League Game	LGE			As Scored	0	0	
+7/2/2006	Rhode Island Stingrays	Vermont Voltage	6	0	370	League Game	LGE			As Scored	0	0	
+7/2/2006	St. Louis Lions	Boulder Rapids Reserve	1	0	346	League Game	LGE			As Scored	0	0	
+7/2/2006	Virginia Beach Mariners	Toronto Lynx	3	1	1,243	League Game	LGE			As Scored	0	0	
+7/3/2006	Rochester Rhinos	Vancouver Whitecaps	2	0	11,119	League Game	LGE			As Scored	0	0	
+7/3/2006	West Michigan Edge	Michigan Bucks	2	0	864	League Game	LGE			As Scored	0	0	
+7/4/2006	Atlanta Silverbacks	Minnesota Thunder	2	0	2,006	League Game	LGE			As Scored	0	0	
+7/4/2006	Kalamazoo Kingdom	Ft. Wayne Fever	0	0	1,200	League Game	LGE			As Scored	0	0	
+7/4/2006	Miami FC	Charleston Battery	0	1	2,932	League Game	LGE			As Scored	0	0	
+7/5/2006	Bradenton Academics	Palm Beach Pumas	6	0	150	League Game	LGE			As Scored	0	0	
+7/5/2006	Ottawa Fury	Vermont Voltage	1	0	224	League Game	LGE			As Scored	0	0	
+7/5/2006	Raleigh CASL Elite	Richmond Kickers Future	2	2	116	League Game	LGE			As Scored	0	0	
+7/5/2006	Toronto Lynx	Vancouver Whitecaps	2	1	2,235	League Game	LGE			As Scored	0	0	
+7/6/2006	Atlanta Silverbacks U-23's	Carolina Dynamo	1	4	112	League Game	LGE			As Scored	0	0	
+7/6/2006	Los Angeles Storm	San Diego Gauchos	2	0	150	League Game	LGE			As Scored	0	0	
+7/7/2006	Ajax Orlando Prospects	Williamsburg Legacy	1	4	100	League Game	LGE			As Scored	0	0	
+7/7/2006	Albany Admirals	Cape Cod Crusaders	0	2	200	League Game	LGE			As Scored	0	0	
+7/7/2006	Atlanta Silverbacks U-23's	Virginia Beach Submariners	2	1	177	League Game	LGE			As Scored	0	0	
+7/7/2006	BYU Cougars	Boulder Rapids Reserve	0	2	530	League Game	LGE			As Scored	0	0	
+7/7/2006	California Gold	Southern California Seahorses	0	4	100	League Game	LGE			As Scored	0	0	
+7/7/2006	Cincinnati Kings	New Hampshire Phantoms	2	0	1,082	League Game	LGE			As Scored	0	0	
+7/7/2006	El Paso Patriots	Austin Lighting	5	0	550	League Game	LGE			As Scored	0	0	
+7/7/2006	Montreal Impact	Vancouver Whitecaps	1	1	12,435	League Game	LGE			As Scored	0	0	
+7/7/2006	New Orleans Shell Shockers	Laredo Heat	1	2	832	League Game	LGE			As Scored	0	0	
+7/7/2006	Ogden Outlaws	Colorado Springs Blizzard	3	4	570	League Game	LGE			As Scored	0	0	
+7/7/2006	Raleigh CASL Elite	Augusta Fireball United	0	0	228	League Game	LGE			As Scored	0	0	
+7/7/2006	Tacoma FC	Yakima Reds	3	1	65	League Game	LGE			As Scored	0	0	
+7/7/2006	Thunder Bay Chill	Des Moines Menace	2	3	1,038	League Game	LGE			As Scored	0	0	
+7/7/2006	Virginia Beach Mariners	Puerto Rico Islanders	2	2	2,233	League Game	LGE			As Scored	0	0	
+7/7/2006	West Michigan Edge	Kalamazoo Kingdom	1	3	276	League Game	LGE			As Scored	0	0	
+7/7/2006	Westchester Flames	Ottawa Fury	4	3	120	League Game	LGE			As Scored	0	0	
+7/8/2006	Atlanta Silverbacks	Virginia Beach Mariners	1	0	2,046	League Game	LGE			As Scored	0	0	
+7/8/2006	Bakersfield Brigade	San Diego Gauchos	3	0	425	League Game	LGE			As Scored	0	0	
+7/8/2006	Bradenton Academics	Cocoa Expos	2	1	100	League Game	LGE			As Scored	0	0	
+7/8/2006	BYU Cougars	Colorado Springs Blizzard	0	2	477	League Game	LGE			As Scored	0	0	
+7/8/2006	California Gold	Orange County Blue Star	2	4	100	League Game	LGE			As Scored	0	0	
+7/8/2006	Central Florida Kraze	Williamsburg Legacy	1	2	175	League Game	LGE			As Scored	0	0	
+7/8/2006	Delaware Dynasty	Reading Rage	3	1	150	League Game	LGE			As Scored	0	0	
+7/8/2006	El Paso Patriots	Austin Lighting	2	0	694	League Game	LGE			As Scored	0	0	
+7/8/2006	Fresno Fuego	San Fernando Quakes	5	0	385	League Game	LGE			As Scored	0	0	
+7/8/2006	Ft. Wayne Fever	Indiana Invaders	1	1	185	League Game	LGE			As Scored	0	0	
+7/8/2006	Harrisburg City Islanders	Richmond Kickers	0	5	1,237	League Game	LGE			As Scored	0	0	
+7/8/2006	Kansas City Brass	Cleveland Internationals	4	0	236	League Game	LGE			As Scored	0	0	
+7/8/2006	Michigan Bucks	Chicago Fire Premier	0	2	204	League Game	LGE			As Scored	0	0	
+7/8/2006	Nashville Metros	Virginia Beach Submariners	1	2	247	League Game	LGE			As Scored	0	0	
+7/8/2006	New Orleans Shell Shockers	Laredo Heat	2	3	100	League Game	LGE			As Scored	0	0	
+7/8/2006	Ogden Outlaws	Boulder Rapids Reserve	0	2	887	League Game	LGE			As Scored	0	0	
+7/8/2006	Pittsburgh Riverhounds	New Hampshire Phantoms	2	0	2,279	League Game	LGE			As Scored	0	0	
+7/8/2006	Richmond Kickers Future	Northern Virginia Royals	4	1	180	League Game	LGE			As Scored	0	0	
+7/8/2006	Rochester Rhinos	Charleston Battery	1	2	8,397	League Game	LGE			As Scored	0	0	
+7/8/2006	Tacoma FC	Cascade Surge	5	2	100	League Game	LGE			As Scored	0	0	
+7/8/2006	Thunder Bay Chill	Des Moines Menace	2	4	1,024	League Game	LGE			As Scored	0	0	
+7/8/2006	Vermont Voltage	Rhode Island Stingrays	0	2	500	League Game	LGE			As Scored	0	0	
+7/8/2006	Western Mass Pioneers	Long Island Rough Riders	2	1	1,566	League Game	LGE			As Scored	0	0	
+7/8/2006	Wilmington Hammerheads	Charlotte Eagles	2	2	3,394	League Game	LGE			As Scored	0	0	
+7/9/2006	Augusta Fireball United	Atlanta Silverbacks U-23's	3	0	468	League Game	LGE			As Scored	0	0	
+7/9/2006	Cape Cod Crusaders	Albany Admirals	2	0	320	League Game	LGE			As Scored	0	0	
+7/9/2006	Cocoa Expos	Palm Beach Pumas	3	3	100	League Game	LGE			As Scored	0	0	
+7/9/2006	Ocean City Barons	Brooklyn Knights	6	1	525	League Game	LGE			As Scored	0	0	
+7/9/2006	Ottawa Fury	Rhode Island Stingrays	3	0	100	League Game	LGE			As Scored	0	0	
+7/9/2006	San Francisco Seals	Orange County Blue Star	0	1	100	League Game	LGE			As Scored	0	0	
+7/9/2006	St. Louis Lions	Cleveland Internationals	5	1	378	League Game	LGE			As Scored	0	0	
+7/9/2006	Toronto Lynx	Charleston Battery	1	0	1,835	League Game	LGE			As Scored	0	0	
+7/11/2006	Montreal Impact	Toronto Lynx	2	0	13,367	League Game	LGE			As Scored	0	0	
+7/11/2006	Northern Virginia Royals	Richmond Kickers Future	1	3	100	League Game	LGE			As Scored	0	0	
+7/12/2006	Augusta Fireball United	Nashville Metros	1	1	488	League Game	LGE			As Scored	0	0	
+7/12/2006	Brooklyn Knights	Reading Rage	6	1	100	League Game	LGE			As Scored	0	0	
+7/12/2006	Cleveland Internationals	Ft. Wayne Fever	1	1	156	League Game	LGE			As Scored	0	0	
+7/12/2006	Fresno Fuego	Orange County Blue Star	2	3	100	League Game	LGE			As Scored	0	0	
+7/12/2006	Long Island Rough Riders	Pittsburgh Riverhounds	1	1	1,804	League Game	LGE			As Scored	0	0	
+7/12/2006	Ocean City Barons	Delaware Dynasty	2	2	100	League Game	LGE			As Scored	0	0	
+7/12/2006	Vermont Voltage	Ottawa Fury	2	0	500	League Game	LGE			As Scored	0	0	
+7/13/2006	San Diego Gauchos	San Fernando Quakes	4	7	100	League Game	LGE			As Scored	0	0	
+7/14/2006	Albany Admirals	Brooklyn Knights	1	2	100	League Game	LGE			As Scored	0	0	
+7/14/2006	Austin Lighting	DFW Tornados	1	0	126	League Game	LGE			As Scored	0	0	
+7/14/2006	Carolina Dynamo	Atlanta Silverbacks U-23's	1	1	767	League Game	LGE			As Scored	0	0	
+7/14/2006	Cascade Surge	Yakima Reds	1	3	331	League Game	LGE			As Scored	0	0	
+7/14/2006	Central Florida Kraze	Cocoa Expos	2	4	115	League Game	LGE			As Scored	0	0	
+7/14/2006	Charleston Battery	Portland Timbers	3	2	3,371	League Game	LGE			As Scored	0	0	
+7/14/2006	Laredo Heat	El Paso Patriots	1	0	688	League Game	LGE			As Scored	0	0	
+7/14/2006	Los Angeles Storm	Ogden Outlaws	2	1	420	League Game	LGE			As Scored	0	0	
+7/14/2006	Minnesota Thunder	Vancouver Whitecaps	1	2	3,412	League Game	LGE			As Scored	0	0	
+7/14/2006	Orange County Blue Star	Fresno Fuego	3	0	50	League Game	LGE			As Scored	0	0	
+7/14/2006	Rochester Rhinos	Miami FC	5	4	10,098	League Game	LGE			As Scored	0	0	
+7/14/2006	Sioux Falls SpitFire	Thunder Bay Chill	3	3	967	League Game	LGE			As Scored	0	0	
+7/14/2006	Tacoma FC	Abbotsford Rangers	1	2	87	League Game	LGE			As Scored	0	0	
+7/14/2006	West Michigan Edge	Ft. Wayne Fever	3	2	223	League Game	LGE			As Scored	0	0	
+7/14/2006	Western Mass Pioneers	New Hampshire Phantoms	6	0	1,540	League Game	LGE			As Scored	0	0	
+7/14/2006	Williamsburg Legacy	Richmond Kickers Future	2	0	258	League Game	LGE			As Scored	0	0	
+7/15/2006	Atlanta Silverbacks	Portland Timbers	4	0	2,281	League Game	LGE			As Scored	0	0	
+7/15/2006	California Gold	San Francisco Seals	1	8	100	League Game	LGE			As Scored	0	0	
+7/15/2006	Cascade Surge	Tacoma FC	2	1	517	League Game	LGE			As Scored	0	0	
+7/15/2006	Central Florida Kraze	Bradenton Academics	1	2	100	League Game	LGE			As Scored	0	0	
+7/15/2006	Charlotte Eagles	Richmond Kickers	1	1	1,822	League Game	LGE			As Scored	0	0	
+7/15/2006	Chicago Fire Premier	Kansas City Brass	3	1	276	League Game	LGE			As Scored	0	0	
+7/15/2006	Cleveland Internationals	Indiana Invaders	0	1	74	League Game	LGE			As Scored	0	0	
+7/15/2006	Colorado Springs Blizzard	Boulder Rapids Reserve	1	6	100	League Game	LGE			As Scored	0	0	
+7/15/2006	Delaware Dynasty	Ottawa Fury	1	2	100	League Game	LGE			As Scored	0	0	
+7/15/2006	Harrisburg City Islanders	Pittsburgh Riverhounds	2	0	2,033	League Game	LGE			As Scored	0	0	
+7/15/2006	Kalamazoo Kingdom	Michigan Bucks	1	4	100	League Game	LGE			As Scored	0	0	
+7/15/2006	Laredo Heat	DFW Tornados	1	0	803	League Game	LGE			As Scored	0	0	
+7/15/2006	Long Island Rough Riders	New Hampshire Phantoms	1	0	1,331	League Game	LGE			As Scored	0	0	
+7/15/2006	Los Angeles Storm	Bakersfield Brigade	5	0	245	League Game	LGE			As Scored	0	0	
+7/15/2006	Nashville Metros	New Orleans Shell Shockers	2	0	302	League Game	LGE			As Scored	0	0	
+7/15/2006	Palm Beach Pumas	Ajax Orlando Prospects	1	1	211	League Game	LGE			As Scored	0	0	
+7/15/2006	Raleigh CASL Elite	Atlanta Silverbacks U-23's	2	0	116	League Game	LGE			As Scored	0	0	
+7/15/2006	Rhode Island Stingrays	Albany Admirals	1	2	675	League Game	LGE			As Scored	0	0	
+7/15/2006	Richmond Kickers Future	Northern Virginia Royals	1	2	101	League Game	LGE			As Scored	0	0	
+7/15/2006	San Fernando Quakes	Fresno Fuego	3	2	203	League Game	LGE			As Scored	0	0	
+7/15/2006	Seattle Sounders	Montreal Impact	1	2	3,504	League Game	LGE			As Scored	0	0	
+7/15/2006	Sioux Falls SpitFire	Thunder Bay Chill	2	1	841	League Game	LGE			As Scored	0	0	
+7/15/2006	Southern California Seahorses	Ogden Outlaws	2	0	306	League Game	LGE			As Scored	0	0	
+7/15/2006	St. Louis Lions	Des Moines Menace	2	2	611	League Game	LGE			As Scored	0	0	
+7/15/2006	Westchester Flames	Cape Cod Crusaders	1	3	105	League Game	LGE			As Scored	0	0	
+7/15/2006	Yakima Reds	Abbotsford Rangers	4	0	279	League Game	LGE			As Scored	0	0	
+7/16/2006	Augusta Fireball United	Carolina Dynamo	1	2	475	League Game	LGE			As Scored	0	0	
+7/16/2006	Boulder Rapids Reserve	Colorado Springs Blizzard	2	1	252	League Game	LGE			As Scored	0	0	
+7/16/2006	Brooklyn Knights	Cape Cod Crusaders	0	2	100	League Game	LGE			As Scored	0	0	
+7/16/2006	Indiana Invaders	Kansas City Brass	2	2	322	League Game	LGE			As Scored	0	0	
+7/16/2006	Ocean City Barons	Ottawa Fury	1	2	350	League Game	LGE			As Scored	0	0	
+7/16/2006	Orange County Blue Star	Bakersfield Brigade	2	1	100	League Game	LGE			As Scored	0	0	
+7/16/2006	Puerto Rico Islanders	Virginia Beach Mariners	2	1	7,817	League Game	LGE			As Scored	0	0	
+7/16/2006	Toronto Lynx	Atlanta Silverbacks	1	0	1,949	League Game	LGE			As Scored	0	0	
+7/16/2006	Vancouver Whitecaps	Montreal Impact	0	1	5,417	League Game	LGE			As Scored	0	0	
+7/16/2006	West Virginia Chaos	Williamsburg Legacy	3	1	150	League Game	LGE			As Scored	0	0	
+7/18/2006	Palm Beach Pumas	Central Florida Kraze	3	4	575	League Game	LGE			As Scored	0	0	
+7/18/2006	West Michigan Edge	Chicago Fire Premier	3	1	80	League Game	LGE			As Scored	0	0	
+7/19/2006	Kalamazoo Kingdom	Michigan Bucks	1	1	100	League Game	LGE			As Scored	0	0	
+7/19/2006	New Hampshire Phantoms	Western Mass Pioneers	3	1	100	League Game	LGE			As Scored	0	0	
+7/19/2006	Ocean City Barons	Reading Rage	3	1	100	League Game	LGE			As Scored	0	0	
+7/19/2006	Rhode Island Stingrays	Cape Cod Crusaders	0	2	375	League Game	LGE			As Scored	0	0	
+7/19/2006	Southern California Seahorses	San Diego Gauchos	3	0	100	League Game	LGE			As Scored	0	0	
+7/19/2006	Virginia Beach Submariners	West Virginia Chaos	4	0	231	League Game	LGE			As Scored	0	0	
+7/20/2006	Atlanta Silverbacks U-23's	Nashville Metros	3	2	128	League Game	LGE			As Scored	0	0	
+7/20/2006	Pittsburgh Riverhounds	Charlotte Eagles	1	2	2,262	League Game	LGE			As Scored	0	0	
+7/21/2006	Albany Admirals	Rhode Island Stingrays	0	1	100	League Game	LGE			As Scored	0	0	
+7/21/2006	Austin Lighting	New Orleans Shell Shockers	2	2	102	League Game	LGE			As Scored	0	0	
+7/21/2006	Bakersfield Brigade	California Gold	5	2	465	League Game	LGE			As Scored	0	0	
+7/21/2006	Cincinnati Kings	Long Island Rough Riders	4	1	568	League Game	LGE			As Scored	0	0	
+7/21/2006	Cocoa Expos	Ajax Orlando Prospects	2	1	452	League Game	LGE			As Scored	0	0	
+7/21/2006	Minnesota Thunder	Montreal Impact	2	1	3,505	League Game	LGE			As Scored	0	0	
+7/21/2006	Northern Virginia Royals	Virginia Beach Submariners	3	1	500	League Game	LGE			As Scored	0	0	
+7/21/2006	Orange County Blue Star	San Fernando Quakes	0	2	110	League Game	LGE			As Scored	0	0	
+7/21/2006	Portland Timbers	Seattle Sounders	1	2	6,215	League Game	LGE			As Scored	0	0	
+7/21/2006	Rochester Rhinos	Toronto Lynx	1	1	9,232	League Game	LGE			As Scored	0	0	
+7/21/2006	Thunder Bay Chill	Chicago Fire Premier	1	2	1,038	League Game	LGE			As Scored	0	0	
+7/21/2006	Williamsburg Legacy	Raleigh CASL Elite	3	3	310	League Game	LGE			As Scored	0	0	
+7/21/2006	Yakima Reds	Tacoma FC	2	4	562	League Game	LGE			As Scored	0	0	
+7/22/2006	Abbotsford Rangers	Cascade Surge	4	0	250	League Game	LGE			As Scored	0	0	
+7/22/2006	Ajax Orlando Prospects	Palm Beach Pumas	2	1	100	League Game	LGE			As Scored	0	0	
+7/22/2006	Atlanta Silverbacks	Puerto Rico Islanders	1	1	2,016	League Game	LGE			As Scored	0	0	
+7/22/2006	Bradenton Academics	Central Florida Kraze	4	1	90	League Game	LGE			As Scored	0	0	
+7/22/2006	BYU Cougars	Ogden Outlaws	1	2	372	League Game	LGE			As Scored	0	0	
+7/22/2006	Cape Cod Crusaders	Rhode Island Stingrays	3	1	319	League Game	LGE			As Scored	0	0	
+7/22/2006	Charleston Battery	Miami FC	2	0	3,171	League Game	LGE			As Scored	0	0	
+7/22/2006	Charlotte Eagles	Wilmington Hammerheads	1	1	1,522	League Game	LGE	Game called 79th min. b/c of lightning		As Scored	0	0	
+7/22/2006	Cleveland Internationals	Kalamazoo Kingdom	4	2	53	League Game	LGE			As Scored	0	0	
+7/22/2006	Des Moines Menace	St. Louis Lions	2	2	4,827	League Game	LGE			As Scored	0	0	
+7/22/2006	DFW Tornados	New Orleans Shell Shockers	0	3	438	League Game	LGE			As Scored	0	0	
+7/22/2006	El Paso Patriots	Laredo Heat	3	0	100	League Game	LGE			As Scored	0	0	
+7/22/2006	Fresno Fuego	California Gold	12	1	100	League Game	LGE			As Scored	0	0	
+7/22/2006	Indiana Invaders	West Michigan Edge	2	0	378	League Game	LGE			As Scored	0	0	
+7/22/2006	Michigan Bucks	Ft. Wayne Fever	3	0	100	League Game	LGE			As Scored	0	0	
+7/22/2006	Nashville Metros	Atlanta Silverbacks U-23's	2	2	100	League Game	LGE			As Scored	0	0	
+7/22/2006	Northern Virginia Royals	Raleigh CASL Elite	0	2	250	League Game	LGE			As Scored	0	0	
+7/22/2006	Ottawa Fury	Albany Admirals	2	0	250	League Game	LGE			As Scored	0	0	
+7/22/2006	Pittsburgh Riverhounds	Long Island Rough Riders	4	1	2,331	League Game	LGE			As Scored	0	0	
+7/22/2006	Reading Rage	Westchester Flames	2	0	654	League Game	LGE			As Scored	0	0	
+7/22/2006	Richmond Kickers	Western Mass Pioneers	5	3	2,137	League Game	LGE			As Scored	0	0	
+7/22/2006	San Fernando Quakes	Southern California Seahorses	0	1	400	League Game	LGE			As Scored	0	0	
+7/22/2006	San Francisco Seals	Los Angeles Storm	2	2	100	League Game	LGE			As Scored	0	0	
+7/22/2006	Seattle Sounders	Portland Timbers	3	1	2,993	League Game	LGE			As Scored	0	0	
+7/22/2006	Sioux Falls SpitFire	Colorado Springs Blizzard	3	1	1,001	League Game	LGE			As Scored	0	0	
+7/22/2006	Thunder Bay Chill	Chicago Fire Premier	0	4	1,072	League Game	LGE			As Scored	0	0	
+7/22/2006	Vermont Voltage	Delaware Dynasty	3	2	510	League Game	LGE			As Scored	0	0	
+7/22/2006	West Virginia Chaos	Virginia Beach Submariners	3	2	200	League Game	LGE			As Scored	0	0	
+7/23/2006	Abbotsford Rangers	Tacoma FC	3	0	100	League Game	LGE			As Scored	0	0	
+7/23/2006	Carolina Dynamo	Augusta Fireball United	1	0	1	League Game	LGE	Carolina awarded forfeit victory		Home Win	0	0	
+7/23/2006	Cincinnati Kings	Harrisburg City Islanders	3	2	1,262	League Game	LGE			As Scored	0	0	
+7/23/2006	DFW Tornados	Austin Lighting	6	0	100	League Game	LGE			As Scored	0	0	
+7/23/2006	Fresno Fuego	Bakersfield Brigade	3	3	100	League Game	LGE			As Scored	0	0	
+7/23/2006	Kansas City Brass	Colorado Springs Blizzard	1	0	109	League Game	LGE			As Scored	0	0	
+7/23/2006	Michigan Bucks	West Michigan Edge	6	1	200	League Game	LGE			As Scored	0	0	
+7/23/2006	Ocean City Barons	Westchester Flames	2	3	100	League Game	LGE			As Scored	0	0	
+7/23/2006	Ottawa Fury	Brooklyn Knights	1	0	243	League Game	LGE			As Scored	0	0	
+7/23/2006	Richmond Kickers Future	Williamsburg Legacy	2	6	102	League Game	LGE			As Scored	0	0	
+7/23/2006	Sioux Falls SpitFire	St. Louis Lions	0	1	1,500	League Game	LGE			As Scored	0	0	
+7/26/2006	Long Island Rough Riders	Cincinnati Kings	0	4	2,123	League Game	LGE			As Scored	0	0	
+7/26/2006	Montreal Impact	Seattle Sounders	1	0	13,397	League Game	LGE			As Scored	0	0	
+7/26/2006	Richmond Kickers	Wilmington Hammerheads	1	2	1,984	League Game	LGE			As Scored	0	0	
+7/27/2006	Minnesota Thunder	Charleston Battery	0	1	5,276	League Game	LGE			As Scored	0	0	
+7/27/2006	Virginia Beach Mariners	Portland Timbers	3	1	2,183	League Game	LGE			As Scored	0	0	
+7/28/2006	Atlanta Silverbacks	Montreal Impact	1	2	1,907	League Game	LGE			As Scored	0	0	
+7/28/2006	Miami FC	Puerto Rico Islanders	3	2	2,815	League Game	LGE			As Scored	0	0	
+7/28/2006	Rochester Rhinos	Seattle Sounders	2	1	10,403	League Game	LGE			As Scored	0	0	
+7/28/2006	Western Mass Pioneers	Pittsburgh Riverhounds	2	0	100	League Game	LGE			As Scored	0	0	
+7/28/2006	Wilmington Hammerheads	Harrisburg City Islanders	1	2	3,275	League Game	LGE			As Scored	0	0	
+7/29/2006	Charlotte Eagles	Harrisburg City Islanders	3	2	847	League Game	LGE			As Scored	0	0	
+7/29/2006	New Hampshire Phantoms	Pittsburgh Riverhounds	2	1	1,767	League Game	LGE			As Scored	0	0	
+7/29/2006	Toronto Lynx	Portland Timbers	0	0	1,089	League Game	LGE			As Scored	0	0	
+7/29/2006	Virginia Beach Mariners	Charleston Battery	2	0	2,895	League Game	LGE			As Scored	0	0	
+7/30/2006	Miami FC	Puerto Rico Islanders	0	1	2,480	League Game	LGE			As Scored	0	0	
+7/30/2006	Minnesota Thunder	Atlanta Silverbacks	2	3	1,590	League Game	LGE			As Scored	0	0	
+7/30/2006	Toronto Lynx	Seattle Sounders	4	2	1,366	League Game	LGE			As Scored	0	0	
+8/2/2006	New Hampshire Phantoms	Cincinnati Kings	3	1	2,076	League Game	LGE			As Scored	0	0	
+8/4/2006	Atlanta Silverbacks	Toronto Lynx	2	4	1,939	League Game	LGE			As Scored	0	0	
+8/4/2006	Portland Timbers	Minnesota Thunder	0	1	5,568	League Game	LGE			As Scored	0	0	
+8/4/2006	Puerto Rico Islanders	Vancouver Whitecaps	1	3	4,354	League Game	LGE			As Scored	0	0	
+8/4/2006	Virginia Beach Mariners	Montreal Impact	1	1	1,863	League Game	LGE			As Scored	0	0	
+8/5/2006	Charleston Battery	Toronto Lynx	2	1	3,894	League Game	LGE			As Scored	0	0	
+8/5/2006	Harrisburg City Islanders	Cincinnati Kings	0	1	2,483	League Game	LGE			As Scored	0	0	
+8/5/2006	Long Island Rough Riders	Western Mass Pioneers	2	0	1,376	League Game	LGE			As Scored	0	0	
+8/5/2006	Richmond Kickers	Charlotte Eagles	2	1	2,043	League Game	LGE			As Scored	0	0	
+8/5/2006	Rochester Rhinos	Atlanta Silverbacks	1	0	9,686	League Game	LGE			As Scored	0	0	
+8/5/2006	Wilmington Hammerheads	Pittsburgh Riverhounds	1	3	2,153	League Game	LGE			As Scored	0	0	
+8/6/2006	Miami FC	Vancouver Whitecaps	2	3	1,425	League Game	LGE			As Scored	0	0	
+8/6/2006	Virginia Beach Mariners	Montreal Impact	1	1	1,670	League Game	LGE			As Scored	0	0	
+8/8/2006	Western Mass Pioneers	New Hampshire Phantoms	6	2	1,628	League Game	LGE			As Scored	0	0	
+8/9/2006	Charleston Battery	Puerto Rico Islanders	2	2	3,885	League Game	LGE			As Scored	0	0	
+8/9/2006	Montreal Impact	Rochester Rhinos	2	0	13,450	League Game	LGE			As Scored	0	0	
+8/9/2006	Wilmington Hammerheads	Richmond Kickers	2	2	1,453	League Game	LGE			As Scored	0	0	
+8/10/2006	Minnesota Thunder	Toronto Lynx	3	0	2,802	League Game	LGE			As Scored	0	0	
+8/10/2006	Portland Timbers	Virginia Beach Mariners	1	0	6,167	League Game	LGE			As Scored	0	0	
+8/11/2006	Charlotte Eagles	Long Island Rough Riders	0	0	2,014	League Game	LGE			As Scored	0	0	
+8/11/2006	Harrisburg City Islanders	New Hampshire Phantoms	4	2	2,522	League Game	LGE			As Scored	0	0	
+8/11/2006	Rochester Rhinos	Montreal Impact	1	0	11,069	League Game	LGE			As Scored	0	0	
+8/11/2006	Seattle Sounders	Virginia Beach Mariners	5	1	2,502	League Game	LGE			As Scored	0	0	
+8/12/2006	Atlanta Silverbacks	Puerto Rico Islanders	1	1	1,787	League Game	LGE			As Scored	0	0	
+8/12/2006	Cincinnati Kings	Pittsburgh Riverhounds	0	2	1,776	League Game	LGE			As Scored	0	0	
+8/12/2006	Richmond Kickers	New Hampshire Phantoms	8	0	2,603	League Game	LGE			As Scored	0	0	
+8/12/2006	Wilmington Hammerheads	Long Island Rough Riders	2	3	2,246	League Game	LGE			As Scored	0	0	
+8/13/2006	Miami FC	Charleston Battery	2	0	1,120	League Game	LGE			As Scored	0	0	
+8/13/2006	Minnesota Thunder	Rochester Rhinos	1	0	2,133	League Game	LGE			As Scored	0	0	
+8/13/2006	Vancouver Whitecaps	Virginia Beach Mariners	3	0	5,380	League Game	LGE			As Scored	0	0	
+8/13/2006	Western Mass Pioneers	Cincinnati Kings	1	0	1,640	League Game	LGE			As Scored	0	0	
+8/16/2006	Montreal Impact	Charleston Battery	0	1	13,017	League Game	LGE			As Scored	0	0	
+8/18/2006	Portland Timbers	Puerto Rico Islanders	3	0	6,085	League Game	LGE			As Scored	0	0	
+8/18/2006	Rochester Rhinos	Toronto Lynx	1	1	10,312	League Game	LGE			As Scored	0	0	
+8/18/2006	Virginia Beach Mariners	Miami FC	0	3	3,519	League Game	LGE			As Scored	0	0	
+8/19/2006	Atlanta Silverbacks	Miami FC	2	1	3,000	League Game	LGE			As Scored	0	0	
+8/19/2006	Seattle Sounders	Vancouver Whitecaps	2	0	3,584	League Game	LGE			As Scored	0	0	
+8/20/2006	Minnesota Thunder	Puerto Rico Islanders	3	1	5,451	League Game	LGE			As Scored	0	0	
+8/20/2006	Toronto Lynx	Rochester Rhinos	1	1	1,054	League Game	LGE			As Scored	0	0	
+8/23/2006	Toronto Lynx	Montreal Impact	1	1	1,184	League Game	LGE			As Scored	0	0	
+8/25/2006	Atlanta Silverbacks	Miami FC	1	2	2,563	League Game	LGE			As Scored	0	0	
+8/25/2006	Montreal Impact	Virginia Beach Mariners	0	1	13,044	League Game	LGE			As Scored	0	0	
+8/25/2006	Seattle Sounders	Minnesota Thunder	1	0	2,686	League Game	LGE			As Scored	0	0	
+8/26/2006	Rochester Rhinos	Puerto Rico Islanders	1	1	8,920	League Game	LGE			As Scored	0	0	
+8/26/2006	Vancouver Whitecaps	Minnesota Thunder	2	2	4,889	League Game	LGE			As Scored	0	0	
+8/27/2006	Miami FC	Atlanta Silverbacks	7	1	810	League Game	LGE			As Scored	0	0	
+8/27/2006	Montreal Impact	Virginia Beach Mariners	2	0	6,532	League Game	LGE			As Scored	0	0	
+8/27/2006	Toronto Lynx	Puerto Rico Islanders	1	0	1,265	League Game	LGE			As Scored	0	0	
+8/31/2006	Portland Timbers	Montreal Impact	0	1	7,034	League Game	LGE			As Scored	0	0	
+8/31/2006	Vancouver Whitecaps	Charleston Battery	1	1	4,765	League Game	LGE			As Scored	0	0	
+9/1/2006	Miami FC	Minnesota Thunder	2	1	1,521	League Game	LGE			As Scored	0	0	
+9/1/2006	Rochester Rhinos	Virginia Beach Mariners	2	0	8,996	League Game	LGE			As Scored	0	0	
+9/1/2006	Seattle Sounders	Charleston Battery	1	2	2,697	League Game	LGE			As Scored	0	0	
+9/2/2006	Atlanta Silverbacks	Rochester Rhinos	1	2	2,492	League Game	LGE			As Scored	0	0	
+9/3/2006	Portland Timbers	Charleston Battery	0	1	5,112	League Game	LGE			As Scored	0	0	
+9/3/2006	Puerto Rico Islanders	Minnesota Thunder	2	0	4,251	League Game	LGE			As Scored	0	0	
+9/3/2006	Toronto Lynx	Virginia Beach Mariners	2	1	1,004	League Game	LGE			As Scored	0	0	
+9/7/2006	Portland Timbers	Atlanta Silverbacks	0	2	6,163	League Game	LGE			As Scored	0	0	
+9/8/2006	Montreal Impact	Toronto Lynx	0	0	12,891	League Game	LGE			As Scored	0	0	
+9/8/2006	Puerto Rico Islanders	Miami FC	4	2	8,593	League Game	LGE			As Scored	0	0	
+9/8/2006	Vancouver Whitecaps	Seattle Sounders	3	2	5,385	League Game	LGE			As Scored	0	0	
+9/9/2006	Rochester Rhinos	Minnesota Thunder	1	0	9,675	League Game	LGE			As Scored	0	0	
+9/9/2006	Seattle Sounders	Atlanta Silverbacks	2	1	8,829	League Game	LGE			As Scored	0	0	
+9/10/2006	Charleston Battery	Rochester Rhinos	0	0	4,311	League Game	LGE			As Scored	0	0	
+9/10/2006	Puerto Rico Islanders	Miami FC	1	1	10,951	League Game	LGE			As Scored	0	0	
+9/10/2006	Toronto Lynx	Minnesota Thunder	5	0	1,078	League Game	LGE			As Scored	0	0	
+9/10/2006	Vancouver Whitecaps	Atlanta Silverbacks	1	0	5,041	League Game	LGE			As Scored	0	0	
