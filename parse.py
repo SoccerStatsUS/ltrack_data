@@ -1,15 +1,9 @@
-# Process Ltrack files from Scott Leach.
+# Process Ltrack data files.
+
+# All United States Ltrack data received from Scott Leach.
 
 import datetime
 import os
-
-#from soccerdata.data.alias import get_team
-#from soccerdata.text.standings import process_excel_standings
-
-
-LTRACK_DIR = '/home/chris/www/ltrack/data'
-
-# Pass in a competition_dict.
 
 
 def format_name(s):
@@ -22,77 +16,8 @@ def format_name(s):
         ns = "%s %s" % (fields[1], fields[0])
     return ns
 
-"""
 
-def make_team_to_competition_dict():
-    # Create a dict mapping a team name and season to a competition.
-
-    l = []
-    for e in 'mls', 'apsl', 'ussf2', 'nasl2':
-        l.extend(process_excel_standings('domestic/country/usa/%s' % e))
-
-    for e in '12', 'pdl', 'premier', 'pro', 'select', 'usisl', 'usl_pro':
-        l.extend(process_excel_standings('domestic/country/usa/usl/%s' % e))
-
-    
-
-    d = {}
-    for e in l:
-        key = (get_team(e['team']), e['season'])
-        if key not in d:
-            d[key] = [e['competition']]
-
-            
-    return d
-
-
-#TEAM_COMPETITION_DICT = make_team_to_competition_dict()
-TEAM_COMPETITION_DICT = {}
-"""
-
-
-
-def determine_competition(comp, team, season):
-
-    mapping = {
-        'CCC': 'CONCACAF Champions\' Cup',
-        'IAC': 'Interamerican Cup',
-        'GC': 'CONCACAF Giants Cup',
-        'FDLY': 'Friendly',
-        'MerC': 'Merconorte Cup',
-        'CCWC': 'CONCACAF Cup Winners Cup',
-        'LMC': 'La Manga Cup',
-
-        'RC': 'Recopa CONCACAF',
-        'PCK': 'Peace Cup',
-        'CQ': 'Caribbean Qualification',
-        #'CQ': 'Concacaf Champions\' Cup',
-        'PPC': 'Pan-Pacific Championship',
-        'INDC': 'Independence Cup',
-        }
-
-    if comp in mapping:
-        return mapping[comp]
-    
-    """
-    if comp == 'LGE':
-        try:
-            competitions = TEAM_COMPETITION_DICT[(team, season)]
-        except:
-            import pdb; pdb.set_trace()
-
-        if len(competitions) > 1:
-            import pdb; pdb.set_trace()
-        else:
-            return competitions[0]
-    """
-
-    return comp
-
-
-
-
-def process_lineups_file(p):
+def process_lineups_file(p, determine_competition):
     text = open(p).read().replace('\r', '').split('\n')
     header = text[0]
     data = text[1:]
@@ -131,7 +56,7 @@ def process_lineups_file(p):
 
         
 
-def process_games_file(p):
+def process_games_file(p, determine_competition):
     """
     Process a games file.
     """
@@ -188,7 +113,7 @@ def process_games_file(p):
     return [e for e in l if e['competition'] != 'Major League Soccer']
 
 
-def process_goals_file(p):
+def process_goals_file(p, determine_competition):
     """
     Process a goal file.
     """
@@ -239,52 +164,44 @@ def process_goals_file(p):
                     
 
 
-def process_goals():
+def process_goals(root, cm):
     """
     Process all goal data from Leach.
     """
     l = []
-    directory = os.path.join(LTRACK_DIR, 'goals')
+    directory = os.path.join(root, 'goals')
     for fn in os.listdir(directory):
         p = os.path.join(directory, fn)
-        data = process_goals_file(p)
+        data = process_goals_file(p, cm)
         l.extend(data)
     return l
         
 
 
 
-def process_games():
+def process_games(root, cm):
     """
     Process all game data from Leach.
     """
     l = []
-    directory = os.path.join(LTRACK_DIR, 'games')
+    directory = os.path.join(root, 'games')
     for fn in os.listdir(directory):
         p = os.path.join(directory, fn)
-        data = process_games_file(p)
+        data = process_games_file(p, cm)
         l.extend(data)
     return l
      
 
 
-def process_lineups():
+def process_lineups(root, cm):
     """
     Process all game data from Leach.
     """
     l = []
-    directory = os.path.join(LTRACK_DIR, 'squads')
+    directory = os.path.join(root, 'squads')
     for fn in os.listdir(directory):
 
         p = os.path.join(directory, fn)
-        data = process_lineups_file(p)
+        data = process_lineups_file(p, cm)
         l.extend(data)
     return l
-        
-
-if __name__ == "__main__":
-    print(process_lineups())
-    #print(process_games())
-    #print(process_goals())
-    
-    
