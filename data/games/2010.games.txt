@@ -235,8 +235,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/15/2010	DFW Tornados	Austin Aztex	0	3	812	US Open Cup	USOC			As Scored	0	0	
 6/15/2010	Houston Dynamo	Pachuca - Mexico	2	1	10,400	SuperLiga	SL			As Scored	0	0	
 6/15/2010	Kitsap Pumas	Bay Area Ambassadors FC	4	2	504	US Open Cup	USOC			As Scored	0	0	
-6/15/2010	Long Island Rough Riders	NY Pancyprian-Freedoms	2	0	250	US Open Cup	USOC	250
-		As Scored	0	0	
+6/15/2010	Long Island Rough Riders	NY Pancyprian-Freedoms	2	0	250	US Open Cup	USOC	250		As Scored	0	0	
 6/15/2010	Portland Timbers	Sonoma County Sol	3	0	2,107	US Open Cup	USOC			As Scored	0	0	
 6/15/2010	Reading United AC	Real Maryland Monarchs	1	2	236	US Open Cup	USOC			As Scored	0	0	
 6/15/2010	Richmond Kickers	Crystal Palace Baltimore	1	0	1,123	US Open Cup	USOC			As Scored	0	0	
@@ -262,8 +261,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/22/2010	Kitsap Pumas	Portland Timbers	1	4	1,205	US Open Cup	USOC			As Scored	0	0	
 6/22/2010	Miami FC Blues	Tampa Bay Rowdies	2	1	972	US Open Cup	USOC			As Scored	0	0	
 6/22/2010	Richmond Kickers	Real Maryland Monarchs	3	1	1,360	US Open Cup	USOC			As Scored	0	0	
-6/22/2010	Rochester Rhinos	Pittsburgh Riverhounds	3	0	1,788	US Open Cup	USOC	1788
-		As Scored	0	0	
+6/22/2010	Rochester Rhinos	Pittsburgh Riverhounds	3	0	1,788	US Open Cup	USOC	1788		As Scored	0	0	
 6/23/2010	Algeria	USNT	0	1	35,827	World Cup	WC		De Bleeckere, Frank	As Scored	0	0	
 6/25/2010	Real Salt Lake	San Jose Earthquakes	0	0	16,216	League Game	LGE			As Scored	0	0	
 6/26/2010	AC St. Louis	Vancouver Whitecaps	0	0	2,432	League Game	LGE			As Scored	0	0	
@@ -289,8 +287,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/30/2010	Harrisburg City Islanders	New York Red Bulls	1	0	1,868	US Open Cup	USOC			As Scored	0	0	
 6/30/2010	Montreal Impact	Vancouver Whitecaps	1	2	11,949	League Game	LGE			As Scored	0	0	
 6/30/2010	Portland Timbers	Seattle Sounders	1	1	15,422	US Open Cup	USOC			Awarded on Penalties	0	0	
-6/30/2010	Richmond Kickers	D.C. United	0	2	2,985	US Open Cup	USOC	2985
-		As Scored	0	0	
+6/30/2010	Richmond Kickers	D.C. United	0	2	2,985	US Open Cup	USOC	2985		As Scored	0	0	
 6/30/2010	Rochester Rhinos	Columbus Crew	1	2	1,760	US Open Cup	USOC			As Scored	0	0	
 7/1/2010	Toronto FC	Houston Dynamo	1	1	21,374	League Game	LGE			As Scored	0	0	
 7/2/2010	Pittsburgh Riverhounds	Charlotte Eagles	1	2	1,123	League Game	LGE			As Scored	0	0	

@@ -67,8 +67,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 4/9/2011	Charleston Battery	Charlotte Eagles	1	0	4,083	League Game	LGE		Banning, Sky Arthur	As Scored	0	0	
 4/9/2011	D.C. United	Los Angeles Galaxy	1	1	26,622	League Game	LGE		Okulaja, Abiodun	As Scored	0	0	
 4/9/2011	FC Dallas 96	Colorado Rapids	1	0	100	MLS Reserve League	ResL		Galvan, Fernando	As Scored	0	0	
-4/9/2011	Ft. Lauderdale Strikers	FC Edmonton	1	2	6,402	League Game	LGE	6402
-		As Scored	0	0	
+4/9/2011	Ft. Lauderdale Strikers	FC Edmonton	1	2	6,402	League Game	LGE	6402		As Scored	0	0	
 4/9/2011	New England Revolution	Real Salt Lake	0	2	7,970	League Game	LGE		Anno, Jasen	As Scored	0	0	
 4/9/2011	Orlando City	FC New York	3	0	7,933	League Game	LGE		Iturriaga, Fernando	As Scored	0	0	
 4/9/2011	Philadephia Union	New York Red Bulls	1	0	19,027	League Game	LGE		Prus, Alex	As Scored	0	0	
@@ -85,13 +84,11 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 4/13/2011	Toronto FC	Los Angeles Galaxy	0	0	22,453	League Game	LGE		Vaughn, Terry	As Scored	0	0	
 4/14/2011	Portland Timbers	Chicago Fire	4	2	18,627	League Game	LGE		Salazar, Ricardo	As Scored	0	0	
 4/14/2011	Real Salt Lake	Colorado Rapids	2	0	100	MLS Reserve League	ResL			As Scored	0	0	
-4/15/2011	Ft. Lauderdale Strikers	NSC Minnesota Stars	1	1	4,442	League Game	LGE	4442
-		As Scored	0	0	
+4/15/2011	Ft. Lauderdale Strikers	NSC Minnesota Stars	1	1	4,442	League Game	LGE	4442		As Scored	0	0	
 4/15/2011	Richmond Kickers	Rochester Rhinos	1	0	2,049	League Game	LGE		Fitch, Shawn	As Scored	0	0	
 4/15/2011	Sevilla FC Puerto Rico	Los Angeles Blues	0	3	100	League Game	LGE			As Scored	0	0	
 4/15/2011	Alpha United - Guyana	River Plate Puerto Rico	0	0	500	CFU Club Championship	CFU			As Scored	0	0	
-4/16/2011	Atlanta Silverbacks	FC Edmonton	0	1	3,161	League Game	LGE	3161
-		As Scored	0	0	
+4/16/2011	Atlanta Silverbacks	FC Edmonton	0	1	3,161	League Game	LGE	3161		As Scored	0	0	
 4/16/2011	Carolina RailHawks	Montreal Impact	2	1	1,219	League Game	LGE			As Scored	0	0	
 4/16/2011	Charlotte Eagles	Orlando City	0	1	854	League Game	LGE		Agbeko, Justus	As Scored	0	0	
 4/16/2011	Columbus Crew	Sporting Kansas City	1	0	7,695	League Game	LGE		Guzman, Juan	As Scored	0	0	
@@ -357,8 +354,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/12/2011	Puerto Rico Islanders	Montreal Impact	2	1	1,667	League Game	LGE			As Scored	0	0	
 6/12/2011	Tampa Bay Rowdies	Atlanta Silverbacks	3	2	2,319	League Game	LGE			As Scored	0	0	
 6/13/2011	Seattle Sounders	Los Angeles Galaxy	1	0	100	MLS Reserve League	ResL		Rippy, Levi	As Scored	0	0	
-6/14/2011	Carolina Dynamo	Charlotte Eagles	1	3	1,542	US Open Cup	USOC	1542
-		As Scored	0	0	
+6/14/2011	Carolina Dynamo	Charlotte Eagles	1	3	1,542	US Open Cup	USOC	1542		As Scored	0	0	
 6/14/2011	Charleston Battery	Regals FC	2	0	1,761	US Open Cup	USOC		Banning, Sky Arthur	As Scored	0	0	
 6/14/2011	Des Moines Menace	Chicago Fire Premier	0	1	100	US Open Cup	USOC		Mesinan, Kevin	As Scored	0	0	
 6/14/2011	Chivas El Paso Patriots	Kitsap Pumas	0	0	50	US Open Cup	USOC			Awarded on Penalties	0	0	
@@ -434,8 +430,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/25/2011	Philadephia Union	CD Chivas USA	3	2	18,139	League Game	LGE		Marrufo, Jair	As Scored	0	0	
 6/25/2011	Real Salt Lake	Toronto FC	3	1	15,077	League Game	LGE		Bratsis, Niko	As Scored	0	0	
 6/25/2011	Rochester Rhinos	Dayton Dutch Lions	1	0	4,633	League Game	LGE		Roslund, Bryan	As Scored	0	0	
-6/25/2011	San Jose Earthquakes	Los Angeles Galaxy	0	0	10,872	League Game	LGE	Magee in goal at 43 min
-	Guzman, Juan	As Scored	0	0	
+6/25/2011	San Jose Earthquakes	Los Angeles Galaxy	0	0	10,872	League Game	LGE	Magee in goal at 43 min	Guzman, Juan	As Scored	0	0	
 6/25/2011	Victoria Highlanders	Abbotsford Mariners	1	0	805	League Game	LGE		Slinn, Justin	As Scored	0	0	
 6/25/2011	U.S. USNT	Mexico	2	4	93,420	Gold Cup	GCup			As Scored	0	0	
 6/25/2011	New Zealand	U.S. U-17 MNT	0	0	8,556	World Cup	WC			As Scored	0	0	
@@ -461,8 +456,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/29/2011	Ft. Lauderdale Strikers	Tampa Bay Rowdies	1	1	5,848	League Game	LGE			As Scored	0	0	
 6/29/2011	Montreal Impact	Puerto Rico Islanders	0	0	10,256	League Game	LGE			As Scored	0	0	
 6/29/2011	Toronto FC	Vancouver Whitecaps	1	0	19,816	League Game	LGE		Geiger, Mark	As Scored	0	0	
-6/30/2011	Germany	U.S. U-17 MNT	4	0	16,191	World Cup	WC	
-		As Scored	0	0	
+6/30/2011	Germany	U.S. U-17 MNT	4	0	16,191	World Cup	WC			As Scored	0	0	
 7/1/2011	Charleston Battery	Los Angeles Blues	0	0	3,497	League Game	LGE			As Scored	0	0	
 7/1/2011	FC New York	Antigua Barracuda FC	2	0	1,653	League Game	LGE		Al-Saibi, Nabil	As Scored	0	0	
 7/1/2011	Pittsburgh Riverhounds	Orlando City	0	0	963	League Game	LGE		D'Ambrosia, Ron	As Scored	0	0	

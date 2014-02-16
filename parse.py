@@ -72,9 +72,12 @@ def process_games_file(p, determine_competition):
             fields = line.split('\t')
             
             # 14 fields always
-            try:
+            
+            if len(fields) == 9:
+                date_string, home_team, away_team, home_score, away_score, attendance, competition_type, comp, comments = fields
+            elif len(fields) == 14:
                 date_string, home_team, away_team, home_score, away_score, attendance, competition_type, comp, comments, referee, awarded, _, _, _ = fields
-            except:
+            else:
                 import pdb; pdb.set_trace()
 
             month, day, year = [int(e) for e in date_string.split("/")]
@@ -87,10 +90,13 @@ def process_games_file(p, determine_competition):
 
             competition = determine_competition(comp, home_team, season)
 
-            if attendance.strip():
-                attendance = int(attendance.replace(',', ''))
-            else:
-                attendance = None
+            try:
+                if attendance.strip():
+                    attendance = int(attendance.replace(',', ''))
+                else:
+                    attendance = None
+            except:
+                import pdb; pdb.set_trace()
 
             if attendance in (0, 1, 10):
                 attendance = None
@@ -185,7 +191,7 @@ def process_games(root, cm):
     """
     l = []
     directory = os.path.join(root, 'games')
-    for fn in os.listdir(directory):
+    for fn in [e for e in os.listdir(directory) if not e.endswith('~')]:
         p = os.path.join(directory, fn)
         data = process_games_file(p, cm)
         l.extend(data)
@@ -200,8 +206,9 @@ def process_lineups(root, cm):
     l = []
     directory = os.path.join(root, 'squads')
     for fn in os.listdir(directory):
-
         p = os.path.join(directory, fn)
         data = process_lineups_file(p, cm)
         l.extend(data)
+        print(fn)
+
     return l

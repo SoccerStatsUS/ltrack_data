@@ -221,8 +221,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 8/3/1996	Rochester Rhinos	Seattle Sounders	2	1	13,142	League Game	LGE			As Scored	0	0	
 8/3/1996	Tampa Bay Mutiny	Colorado Rapids	3	1	6,281	League Game	LGE		Boulas, Zimmerman	As Scored	0	0	
 8/4/1996	DC United	Kansas City Wiz	2	4	12,356	League Game	LGE		Patlak, Joshua 	As Scored	0	0	
-8/4/1996	El Paso Patriots	Colorado Foxes	1	5	1,623	US Open Cup	USOC	Foxes forfeit chance to move on. Rapids take thier place.
-	Hageman, Keith	As Scored	0	0	
+8/4/1996	El Paso Patriots	Colorado Foxes	1	5	1,623	US Open Cup	USOC	Foxes forfeit chance to move on. Rapids take thier place.	Hageman, Keith	As Scored	0	0	
 8/4/1996	Los Angeles Galaxy	Columbus Crew	1	1	15,089	League Game	LGE	Columbus wins shootout 3-2	Gorog, Frank	As Scored	0	0	
 8/4/1996	New York Fever	Vancouver 86ers	0	0	832	League Game	LGE			As Scored	0	0	
 8/7/1996	Colorado Rapids	Kansas City Wiz	4	2	6,013	League Game	LGE		Shekar, Bob	As Scored	0	0	

@@ -62,8 +62,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/5/2001	Louisiana Outlaws	West Dallas Kings	3	4	200	League Game	LGE			As Scored	0	0	
 5/5/2001	Minnesota Thunder	Indiana Blast	4	0	1	Inter League Game	ILG			As Scored	0	0	
 5/5/2001	New York Freedoms	Cape Cod Crusaders	2	1	100	League Game	LGE			As Scored	0	0	
-5/5/2001	Pittsburgh Riverhounds	Reading Rage	2	1	1	Inter League Game	ILG	2464
-		As Scored	0	0	
+5/5/2001	Pittsburgh Riverhounds	Reading Rage	2	1	1	Inter League Game	ILG	2464		As Scored	0	0	
 5/5/2001	Rhode Island Stingrays	New Jersey Stallions	2	0	500	League Game	LGE			As Scored	0	0	
 5/5/2001	Rochester Rhinos	Connecticut Wolves	1	1	11,131	League Game	LGE			As Scored	0	0	
 5/5/2001	San Diego Flash	Chico Rooks	2	0	300	Inter League Game	ILG			As Scored	0	0	
@@ -129,8 +128,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/12/2001	Indiana Invaders	Kalamazoo Kingdom	3	2	225	League Game	LGE			As Scored	0	0	
 5/12/2001	Long Island Rough Riders	South Jersey Barons	3	4	0	Inter League Game	ILG			As Scored	0	0	
 5/12/2001	Louisiana Outlaws	Lafayette Lightning	3	3	35	League Game	LGE			As Scored	0	0	
-5/12/2001	New Hampshire Phantoms	Rochester Rhinos	1	2	50	Inter League Game	ILG	2395
-		As Scored	0	0	
+5/12/2001	New Hampshire Phantoms	Rochester Rhinos	1	2	50	Inter League Game	ILG	2395		As Scored	0	0	
 5/12/2001	Northern Nevada Aces	Utah Blitzz	0	5	115	League Game	LGE			As Scored	0	0	
 5/12/2001	Okanagan Challenge	Cascade Surge	2	3	384	League Game	LGE	Coble, Marrs 1A		As Scored	0	0	
 5/12/2001	San Fernando Valley Heroes	Central Coast Roadrunners	4	2	100	League Game	LGE			As Scored	0	0	
@@ -281,8 +279,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/27/2001	Westchester Flames	Jersey Falcons	3	0	0	League Game	LGE			As Scored	0	0	
 5/28/2001	El Paso Patriots	Tucson Fireballs	7	1	1,865	Inter League Game	ILG			As Scored	0	0	
 5/28/2001	Indiana Invaders	West Michigan Edge	3	5	145	League Game	LGE			As Scored	0	0	
-5/28/2001	Pittsburgh Riverhounds	Hershey Wildcats	0	2	50	League Game	LGE	2497
-		As Scored	0	0	
+5/28/2001	Pittsburgh Riverhounds	Hershey Wildcats	0	2	50	League Game	LGE	2497		As Scored	0	0	
 5/29/2001	Cocoa Expos	Central Florida Kraze	4	2	50	League Game	LGE			As Scored	0	0	
 5/29/2001	Toronto Lynx	Connecticut Wolves	1	2	4,211	League Game	LGE			As Scored	0	0	
 5/30/2001	Minnesota Thunder	Milwaukee Rampage	0	1	3,167	League Game	LGE			As Scored	0	0	
@@ -457,8 +454,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/16/2001	Dayton Gemini	Chicago Eagles Select	1	0	75	League Game	LGE			As Scored	0	0	
 6/16/2001	Denver Cougars	West Dallas Kings	3	1	250	League Game	LGE			As Scored	0	0	
 6/16/2001	Des Moines Menace	Kansas City Brass	3	0	2,571	League Game	LGE			As Scored	0	0	
-6/16/2001	Hershey Wildcats	Rochester Rhinos	0	1	9,015	League Game	LGE	9015
-		As Scored	0	0	
+6/16/2001	Hershey Wildcats	Rochester Rhinos	0	1	9,015	League Game	LGE	9015		As Scored	0	0	
 6/16/2001	Kalamazoo Kingdom	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
 6/16/2001	Lafayette Lightning	Louisiana Outlaws	2	1	212	League Game	LGE			As Scored	0	0	
 6/16/2001	Miami Strike Force	Cocoa Expos	0	2	35	League Game	LGE			As Scored	0	0	
@@ -509,8 +505,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/22/2001	Okanagan Challenge	Spokane Shadow	2	3	353	League Game	LGE	Krestian, Quinn, Moore 1A		As Scored	0	0	
 6/22/2001	Orange County Blue Star	San Fernando Valley Heroes	0	0	0	League Game	LGE			As Scored	0	0	
 6/22/2001	Pittsburgh Riverhounds	Toronto Lynx	2	0	2,313	League Game	LGE			As Scored	0	0	
-6/22/2001	Rochester Rhinos	Montreal Impact	0	0	50	League Game	LGE	11475
-		As Scored	0	0	
+6/22/2001	Rochester Rhinos	Montreal Impact	0	0	50	League Game	LGE	11475		As Scored	0	0	
 6/22/2001	Seattle Sounders Select	Cascade Surge	2	0	50	League Game	LGE	Kingsley, Somoza 1A		As Scored	0	0	
 6/22/2001	Thunder Bay Chill	Des Moines Menace	1	4	880	League Game	LGE	Modersohn, Scheer 1A		As Scored	0	0	
 6/22/2001	Twin Cities Phoenix	Chicago Eagles Select	0	0	0	League Game	LGE			As Scored	0	0	
@@ -881,8 +876,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 8/4/2001	Charlotte Eagles	Indiana Blast	2	1	1	League Game	LGE			As Scored	0	0	
 8/4/2001	Chico Rooks	Utah Blitzz	0	0	0	League Game	LGE			As Scored	0	0	
 8/4/2001	Long Island Rough Riders	Pittsburgh Riverhounds	1	4	1	League Game	LGE			As Scored	0	0	
-8/4/2001	Nashville Metros	Charleston Battery	0	3	1	League Game	LGE	2150
-		As Scored	0	0	
+8/4/2001	Nashville Metros	Charleston Battery	0	3	1	League Game	LGE	2150		As Scored	0	0	
 8/4/2001	New Jersey Stallions	Western Mass Pioneers	2	0	0	League Game	LGE			As Scored	0	0	
 8/4/2001	Northern Virginia Royals	Rhode Island Stingrays	0	0	0	League Game	LGE			As Scored	0	0	
 8/4/2001	South Jersey Barons	Reading Rage	0	0	0	League Game	LGE			As Scored	0	0	
