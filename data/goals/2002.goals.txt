@@ -1,0 +1,766 @@
+Player	Team-For	Home-Team	Away-Team	Date	Goal-Time	Goal-Type	Comp	Assist	Assist2	
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Indiana Blast	4/20/2002	69		LGE	Nusum, John Barry		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Indiana Blast	4/20/2002	90		LGE	Broder, Jordy		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Indiana Blast	4/20/2002	22		LGE	Hetherington, Nate		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Indiana Blast	4/20/2002	85		LGE	Broder, Jordy		
+Leib, Ryan	Atlanta Silverbacks	Atlanta Silverbacks	Indiana Blast	4/20/2002	35		LGE			
+Costa, Rodrigo	Indiana Blast	Atlanta Silverbacks	Indiana Blast	4/20/2002	78	Penalty	LGE			
+DiGuardi, Gino	Indiana Blast	Atlanta Silverbacks	Indiana Blast	4/20/2002	17		LGE	Ihekoronye, Ezenwa		
+Coggins, Jacob	Charlotte Eagles	Charlotte Eagles	Atlanta Silverbacks	4/26/2002	76		LGE	Pinch, Mark		
+Piesner, Brian	Atlanta Silverbacks	Charlotte Eagles	Atlanta Silverbacks	4/26/2002	24		LGE	Leib, Ryan		
+Broder, Jordy	Atlanta Silverbacks	Charlotte Eagles	Atlanta Silverbacks	4/26/2002	59		LGE	Piesner, Brian		
+Jean-Baptiste, Gilbert	Atlanta Silverbacks	Charlotte Eagles	Atlanta Silverbacks	4/26/2002	74		LGE	Piesner, Brian		
+Leib, Ryan	Atlanta Silverbacks	Atlanta Silverbacks	Charlotte Eagles	4/27/2002	49		LGE	Broder, Jordy		
+Piesner, Brian	Atlanta Silverbacks	Atlanta Silverbacks	Toronto Lynx	5/3/2002	78		LGE			
+Jean-Baptiste, Gilbert	Atlanta Silverbacks	Atlanta Silverbacks	Toronto Lynx	5/3/2002	95		LGE	Piesner, Brian		
+Iotov, Velko	Atlanta Silverbacks	Atlanta Silverbacks	Toronto Lynx	5/3/2002	37		LGE	Akin, Jon		
+Budalic, Niki	Toronto Lynx	Atlanta Silverbacks	Toronto Lynx	5/3/2002	21		LGE	Aristodemo, Robbie		
+Budalic, Niki	Toronto Lynx	Atlanta Silverbacks	Toronto Lynx	5/3/2002	74		LGE			
+Parra, Carlos	Atlanta Silverbacks	Atlanta Silverbacks	Montreal Impact	5/11/2002	103		LGE			
+Iotov, Velko	Atlanta Silverbacks	Atlanta Silverbacks	Montreal Impact	5/11/2002	49		LGE	Kraemer, Steve		
+Sebrango, Eduardo	Montreal Impact	Atlanta Silverbacks	Montreal Impact	5/11/2002	45		LGE	Oliviero, Giuliano		
+Hetherington, Nate	Atlanta Silverbacks	Atlanta Silverbacks	Richmond Kickers	5/15/2002	90		LGE	Kraemer, Steve		
+Stockton, Khary	Richmond Kickers	Atlanta Silverbacks	Richmond Kickers	5/15/2002	75		LGE	Hayes, David		
+Hayes, David	Richmond Kickers	Atlanta Silverbacks	Richmond Kickers	5/15/2002	4		LGE			
+DaGama, Luis Renato	El Paso Patriots	El Paso Patriots	Atlanta Silverbacks	5/18/2002	90		LGE			
+Piesner, Brian	Atlanta Silverbacks	El Paso Patriots	Atlanta Silverbacks	5/18/2002	10		LGE	Akin, Jon		
+Parra, Carlos	Atlanta Silverbacks	El Paso Patriots	Atlanta Silverbacks	5/18/2002	108		LGE			
+Piesner, Brian	Atlanta Silverbacks	Atlanta Silverbacks	El Paso Patriots	5/24/2002	78		LGE			
+Broder, Jordy	Atlanta Silverbacks	Atlanta Silverbacks	El Paso Patriots	5/24/2002	70		LGE	Akin, Jon		
+Hetherington, Nate	Atlanta Silverbacks	Atlanta Silverbacks	El Paso Patriots	5/24/2002	77		LGE	Parra, Carlos		
+Ferruzzi, Marco	Richmond Kickers	Atlanta Silverbacks	Richmond Kickers	6/1/2002	76		LGE	Williams, Anthony		
+Jeffrey, Kevin	Richmond Kickers	Atlanta Silverbacks	Richmond Kickers	6/1/2002	22		LGE	Burke, Michael		
+Luzak, Peter	Richmond Kickers	Atlanta Silverbacks	Richmond Kickers	6/1/2002	20		LGE			
+Iotov, Velko	Atlanta Silverbacks	Atlanta Silverbacks	Charlotte Eagles	6/7/2002	44		LGE	Broder, Jordy		
+Nusum, John Barry	Atlanta Silverbacks	Atlanta Silverbacks	Charlotte Eagles	6/7/2002	9		LGE	Piesner, Brian		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Charlotte Eagles	6/7/2002	84		LGE	Broder, Jordy		
+Kraemer, Steve	Atlanta Silverbacks	Atlanta Silverbacks	Charlotte Eagles	6/7/2002	7		LGE	Piesner, Brian		
+Guastaferro, Andrew	Charlotte Eagles	Atlanta Silverbacks	Charlotte Eagles	6/7/2002	74		LGE	Gomez, Jose		
+Norkus, Caleb	Charlotte Eagles	Atlanta Silverbacks	Charlotte Eagles	6/7/2002	23		LGE	Swinehart, Dustin		
+Broder, Jordy	Atlanta Silverbacks	Charlotte Eagles	Atlanta Silverbacks	6/8/2002	54		LGE			
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Atlanta Silverbacks	6/14/2002	48		LGE	Mladenov, Stoian		
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Atlanta Silverbacks	6/14/2002	21		LGE	Simmonds, Greg		
+Parra, Carlos	Atlanta Silverbacks	Rochester Rhinos	Atlanta Silverbacks	6/14/2002	71		LGE	Akin, Jon		
+DePalma, Gary	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Atlanta Silverbacks	6/15/2002	68		LGE	Gutierrez, Henry		
+Houser, Jeff	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Atlanta Silverbacks	6/15/2002	61		LGE	Worthen, Joey		
+Flavius, David	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Atlanta Silverbacks	6/15/2002	44		LGE	Houser, Jeff		
+Jean-Baptiste, Gilbert	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Atlanta Silverbacks	6/15/2002	13	Own Goal	LGE			
+Parra, Carlos	Atlanta Silverbacks	Pittsburgh Riverhounds	Atlanta Silverbacks	6/15/2002	3		LGE	Piesner, Brian		
+Evans, Justin	Charleston Battery	Charleston Battery	Atlanta Silverbacks	6/21/2002	100		LGE	Trout, Ryan		
+Evans, Justin	Charleston Battery	Charleston Battery	Atlanta Silverbacks	6/21/2002	72		LGE	Swords, Kyle		
+Iotov, Velko	Atlanta Silverbacks	Charleston Battery	Atlanta Silverbacks	6/21/2002	60		LGE			
+Iotov, Velko	Atlanta Silverbacks	Atlanta Silverbacks	Charleston Battery	6/22/2002	50		LGE	Kraemer, Steve		
+Diaz Arce, Raul	Charleston Battery	Atlanta Silverbacks	Charleston Battery	6/22/2002	35	Penalty	LGE			
+Farris, Matthew	Charleston Battery	Atlanta Silverbacks	Charleston Battery	6/22/2002	65		LGE			
+Nusum, John Barry	Atlanta Silverbacks	Atlanta Silverbacks	Hampton Roads Mariners	6/29/2002	25		LGE	Wall, James		
+Woods, Alan	Atlanta Silverbacks	Atlanta Silverbacks	Hampton Roads Mariners	6/29/2002	90		LGE	Piesner, Brian		
+Dominguez, Jeffrey	Hampton Roads Mariners	Atlanta Silverbacks	Hampton Roads Mariners	6/29/2002	47		LGE			
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Hampton Roads Mariners	7/4/2002	12		LGE	Iotov, Velko		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Hampton Roads Mariners	7/4/2002	15		LGE	Parra, Carlos		
+Piesner, Brian	Atlanta Silverbacks	Atlanta Silverbacks	Hampton Roads Mariners	7/4/2002	27		LGE	Kraemer, Steve		
+Iotov, Velko	Atlanta Silverbacks	Atlanta Silverbacks	Hampton Roads Mariners	7/4/2002	58		LGE	Piesner, Brian		
+Nusum, John Barry	Atlanta Silverbacks	Atlanta Silverbacks	Hampton Roads Mariners	7/4/2002	81		LGE	Piesner, Brian		
+Brooks, Gary	Hampton Roads Mariners	Atlanta Silverbacks	Hampton Roads Mariners	7/4/2002	70		LGE	Glasgow, Gary		
+Luzak, Peter	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	7/12/2002	30		LGE			
+Hayes, David	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	7/12/2002	32		LGE	Jeffrey, Kevin		
+Ferruzzi, Marco	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	7/12/2002	90		LGE	Dotsenko, Ihor		
+Hetherington, Nate	Atlanta Silverbacks	Richmond Kickers	Atlanta Silverbacks	7/12/2002	55		LGE			
+Lindenmayer, Christof	Hampton Roads Mariners	Hampton Roads Mariners	Atlanta Silverbacks	7/13/2002	39		LGE	Glasgow, Gary		
+Kuhn, Tony	Atlanta Silverbacks	Hampton Roads Mariners	Atlanta Silverbacks	7/13/2002	54		LGE	Iotov, Velko		
+Iotov, Velko	Atlanta Silverbacks	Hampton Roads Mariners	Atlanta Silverbacks	7/13/2002	58		LGE	Wall, James		
+Iotov, Velko	Atlanta Silverbacks	Hampton Roads Mariners	Atlanta Silverbacks	7/13/2002	14		LGE	Kuhn, Tony		
+Rivillo, Angel	Milwaukee Rampage	Milwaukee Rampage	Atlanta Silverbacks	7/19/2002	15		LGE	Bilyk, Jeff		
+Golijanin, Ranko	Milwaukee Rampage	Milwaukee Rampage	Atlanta Silverbacks	7/19/2002	79		LGE	Wolyniec, John		
+Bernal, Steve	Milwaukee Rampage	Milwaukee Rampage	Atlanta Silverbacks	7/19/2002	46		LGE	Golijanin, Ranko		
+Jones, John	Charleston Battery	Atlanta Silverbacks	Charleston Battery	7/27/2002	60		LGE	Klein, Stephen		
+Jones, John	Charleston Battery	Atlanta Silverbacks	Charleston Battery	7/27/2002	43		LGE	Dixon, Linval		
+Godoy, Philippe	Atlanta Silverbacks	Atlanta Silverbacks	Rochester Rhinos	8/3/2002	79		LGE			
+Steenkamp, Lenin	Rochester Rhinos	Atlanta Silverbacks	Rochester Rhinos	8/3/2002	62		LGE	Simmonds, Greg		
+Steenkamp, Lenin	Rochester Rhinos	Atlanta Silverbacks	Rochester Rhinos	8/3/2002	95		LGE	Stojanov, Dimitar		
+Piesner, Brian	Atlanta Silverbacks	Hampton Roads Mariners	Atlanta Silverbacks	8/16/2002	71		LGE	Mitchell, Jamel		
+Iotov, Velko	Atlanta Silverbacks	Hampton Roads Mariners	Atlanta Silverbacks	8/16/2002	9		LGE			
+Jean-Baptiste, Gilbert	Atlanta Silverbacks	Hampton Roads Mariners	Atlanta Silverbacks	8/16/2002	58		LGE			
+Henderson, Josh	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	8/17/2002	28		LGE	Williams, Anthony		
+Ferruzzi, Marco	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	8/17/2002	33		LGE			
+Hayes, David	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	8/17/2002	54		LGE	Jeffrey, Kevin		
+Broder, Jordy	Atlanta Silverbacks	Richmond Kickers	Atlanta Silverbacks	8/17/2002	31		LGE			
+Iotov, Velko	Atlanta Silverbacks	Atlanta Silverbacks	Pittsburgh Riverhounds	8/25/2002	19	Penalty	LGE			
+Piesner, Brian	Atlanta Silverbacks	Atlanta Silverbacks	Pittsburgh Riverhounds	8/25/2002	60		LGE	Nusum, John Barry		
+Gutierrez, Henry	Pittsburgh Riverhounds	Atlanta Silverbacks	Pittsburgh Riverhounds	8/25/2002	55		LGE			
+Alvero, Kevin	Pittsburgh Riverhounds	Atlanta Silverbacks	Pittsburgh Riverhounds	8/25/2002	99		LGE	Potteiger, Derek		
+Gutierrez, Henry	Pittsburgh Riverhounds	Atlanta Silverbacks	Pittsburgh Riverhounds	8/25/2002	90		LGE			
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Atlanta Silverbacks	9/1/2002	88		LGE	Kolic, Darko		
+DaGama, Luis Renato	El Paso Patriots	El Paso Patriots	Calgary Storm	4/20/2002	81	Penalty	LGE			
+DaGama, Luis Renato	El Paso Patriots	El Paso Patriots	Calgary Storm	4/20/2002	64		LGE	Abarca, Jose		
+Abarca, Jose	El Paso Patriots	El Paso Patriots	Calgary Storm	4/20/2002	8		LGE	Schell, Dominic		
+Schell, Dominic	El Paso Patriots	El Paso Patriots	Calgary Storm	4/20/2002	52		LGE	Abarca, Jose		
+McKenna, Mark	Calgary Storm	Calgary Storm	Minnesota Thunder	5/4/2002	68		LGE	Holdt, Steffen		
+Wolyniec, John	Milwaukee Rampage	Calgary Storm	Milwaukee Rampage	5/18/2002	48		LGE	Takawira, Vitalis (Digital)		
+Heidler, Peter	Calgary Storm	Calgary Storm	Seattle Sounders	5/25/2002	45		LGE			
+O'Brien, Leighton	Seattle Sounders	Calgary Storm	Seattle Sounders	5/25/2002	35		LGE	Nguyen, Viet		
+Sawatzky, Darren	Seattle Sounders	Calgary Storm	Seattle Sounders	5/25/2002	64		LGE	O'Brien, Leighton		
+Smith, Kyle	Seattle Sounders	Calgary Storm	Seattle Sounders	5/25/2002	57		LGE	Sawatzky, Darren		
+Sawatzky, Darren	Seattle Sounders	Calgary Storm	Seattle Sounders	5/25/2002	21		LGE			
+Gentile, Mike	Minnesota Thunder	Minnesota Thunder	Calgary Storm	6/1/2002	63		LGE	Prendergast, Orett		
+Magee, Amos	Minnesota Thunder	Minnesota Thunder	Calgary Storm	6/1/2002	3		LGE	Prendergast, Orett		
+Martins, Thiago	Minnesota Thunder	Minnesota Thunder	Calgary Storm	6/1/2002	90		LGE	Gentile, Mike		
+Menyongar, Johnny	Minnesota Thunder	Minnesota Thunder	Calgary Storm	6/1/2002	26		LGE	Prendergast, Orett		
+Heidler, Peter	Calgary Storm	Minnesota Thunder	Calgary Storm	6/1/2002	34		LGE	McKenna, Mark		
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Calgary Storm	6/2/2002	33		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Calgary Storm	6/2/2002	61		LGE			
+Afash, Fadi	Portland Timbers	Portland Timbers	Calgary Storm	6/6/2002	36		LGE	Howes, Gregory		
+Somoza, Benjamin	Portland Timbers	Portland Timbers	Calgary Storm	6/6/2002	66		LGE	Howes, Gregory		
+Afash, Fadi	Portland Timbers	Portland Timbers	Calgary Storm	6/6/2002	25		LGE	Sagare, Jacob		
+Zuniga, Nicolas	Calgary Storm	Portland Timbers	Calgary Storm	6/6/2002	41		LGE	Jesic, Damir		
+Napuri, Felix	Calgary Storm	Portland Timbers	Calgary Storm	6/6/2002	57		LGE	Bosch, Kurt		
+Zuniga, Nicolas	Calgary Storm	Calgary Storm	Seattle Sounders	6/8/2002	72		LGE			
+Chala, Conrad	Calgary Storm	Calgary Storm	Seattle Sounders	6/8/2002	40	Penalty	LGE			
+Nguyen, Viet	Seattle Sounders	Calgary Storm	Seattle Sounders	6/8/2002	19		LGE	Ching, Brian		
+Scott, Zach	Seattle Sounders	Calgary Storm	Seattle Sounders	6/8/2002	90		LGE	Gregor, Andrew		
+Farrell, Jason	Seattle Sounders	Calgary Storm	Seattle Sounders	6/8/2002	57		LGE			
+Afash, Fadi	Portland Timbers	Calgary Storm	Portland Timbers	6/11/2002	88		LGE	Adair, Chugger		
+Kojic, Milan	Toronto Lynx	Toronto Lynx	Calgary Storm	6/15/2002	11		LGE	DiPlacido, David		
+Budalic, Niki	Toronto Lynx	Toronto Lynx	Calgary Storm	6/15/2002	74		LGE	Vignjevic, Nikola		
+Budalic, Niki	Toronto Lynx	Toronto Lynx	Calgary Storm	6/15/2002	75		LGE			
+Vincello, Mauricio	Toronto Lynx	Toronto Lynx	Calgary Storm	6/15/2002	55		LGE	Aristodemo, Robbie		
+Pavicic, Mike	Calgary Storm	Toronto Lynx	Calgary Storm	6/15/2002	15		LGE			
+Heidler, Peter	Calgary Storm	Toronto Lynx	Calgary Storm	6/15/2002	4		LGE			
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Calgary Storm	6/16/2002	22		LGE	Corneli, Nicola		
+DeSilva, Liam	Calgary Storm	Calgary Storm	El Paso Patriots	6/21/2002	25		LGE	Heidler, Peter		
+Jesic, Damir	Calgary Storm	Calgary Storm	El Paso Patriots	6/21/2002	17		LGE			
+Mora, Omar	El Paso Patriots	Calgary Storm	El Paso Patriots	6/21/2002	80		LGE	Abarca, Jose		
+DaGama, Luis Renato	El Paso Patriots	Calgary Storm	El Paso Patriots	6/21/2002	90		LGE			
+DaGama, Luis Renato	El Paso Patriots	Calgary Storm	El Paso Patriots	6/21/2002	63		LGE			
+Thompson, Niall	Vancouver Whitecaps	Vancouver Whitecaps	Calgary Storm	6/28/2002	61		LGE			
+Lemire, Chris	Calgary Storm	Vancouver Whitecaps	Calgary Storm	6/28/2002	79		LGE			
+Valente, Alfredo	Vancouver Whitecaps	Calgary Storm	Vancouver Whitecaps	7/1/2002	25		LGE			
+Kindel, Steve	Vancouver Whitecaps	Calgary Storm	Vancouver Whitecaps	7/1/2002	68		LGE			
+Frias, Daniel	El Paso Patriots	El Paso Patriots	Calgary Storm	7/6/2002	64		LGE			
+Gillespie, Jordan	Calgary Storm	El Paso Patriots	Calgary Storm	7/6/2002	35		LGE			
+Tennyson, McKinley	Portland Timbers	Portland Timbers	Calgary Storm	7/11/2002	32		LGE	Alcaraz-Cuellar, Hugo		
+Tennyson, McKinley	Portland Timbers	Portland Timbers	Calgary Storm	7/11/2002	39		LGE	Winters, Brian		
+Chala, Conrad	Calgary Storm	Portland Timbers	Calgary Storm	7/11/2002	19		LGE	Gillespie, Jordan		
+Ching, Brian	Seattle Sounders	Seattle Sounders	Calgary Storm	7/12/2002	48		LGE	Daligcon, Nate		
+Edwards, Ryan	Seattle Sounders	Seattle Sounders	Calgary Storm	7/12/2002	22		LGE	Farrell, Jason		
+Farrell, Jason	Seattle Sounders	Seattle Sounders	Calgary Storm	7/12/2002	69		LGE	Nguyen, Viet		
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	Calgary Storm	7/14/2002	33		LGE	Heald, Oliver		
+Thompson, Niall	Vancouver Whitecaps	Vancouver Whitecaps	Calgary Storm	7/14/2002	45		LGE	King, Tiarnan		
+Clarke, Jeff	Vancouver Whitecaps	Vancouver Whitecaps	Calgary Storm	7/14/2002	49		LGE	Valente, Alfredo		
+Thompson, Niall	Vancouver Whitecaps	Vancouver Whitecaps	Calgary Storm	7/14/2002	68		LGE	Clarke, Jeff		
+Bosch, Kurt	Calgary Storm	Calgary Storm	Portland Timbers	7/20/2002	41		LGE	Ledgerwood, Nikolas		
+Tennyson, McKinley	Portland Timbers	Calgary Storm	Portland Timbers	7/20/2002	2		LGE	Sagare, Jacob		
+Tennyson, McKinley	Portland Timbers	Calgary Storm	Portland Timbers	7/20/2002	9		LGE	Ritchie, Bryn		
+Afash, Fadi	Portland Timbers	Calgary Storm	Portland Timbers	7/20/2002	31		LGE			
+Kamden, Hilaire	Calgary Storm	Calgary Storm	Indiana Blast	7/28/2002	87		LGE			
+Auvigne, Jaime	Calgary Storm	Calgary Storm	Indiana Blast	7/28/2002	80		LGE			
+Bosch, Kurt	Calgary Storm	Calgary Storm	Indiana Blast	7/28/2002	67		LGE			
+Serioux, Adrian	Toronto Lynx	Calgary Storm	Toronto Lynx	7/30/2002	69		LGE	Penalillo, Julio		
+Budalic, Niki	Toronto Lynx	Calgary Storm	Toronto Lynx	7/30/2002	24		LGE	Aristodemo, Robbie		
+Budalic, Niki	Toronto Lynx	Calgary Storm	Toronto Lynx	7/30/2002	37		LGE	Thomas, Elvis		
+Faria, Shawn	Toronto Lynx	Calgary Storm	Toronto Lynx	7/30/2002	8		LGE	Vignjevic, Nikola		
+Aristodemo, Robbie	Toronto Lynx	Calgary Storm	Toronto Lynx	7/30/2002	42		LGE			
+Thomas, Elvis	Toronto Lynx	Calgary Storm	Toronto Lynx	7/30/2002	52		LGE			
+Bosch, Kurt	Calgary Storm	Calgary Storm	Cincinnati Riverhawks	8/2/2002	21		LGE			
+Jesic, Damir	Calgary Storm	Calgary Storm	Cincinnati Riverhawks	8/2/2002	0	Penalty	LGE			
+Dugas, Martin	Calgary Storm	Calgary Storm	Cincinnati Riverhawks	8/2/2002	0		LGE			
+Giacobbene, Alessio	Cincinnati Riverhawks	Calgary Storm	Cincinnati Riverhawks	8/2/2002	85		LGE			
+Dutra, Waldemar	Calgary Storm	Calgary Storm	Vancouver Whitecaps	8/15/2002	15		LGE			
+Heald, Oliver	Vancouver Whitecaps	Calgary Storm	Vancouver Whitecaps	8/15/2002	66		LGE	Valente, Alfredo		
+Thompson, Niall	Vancouver Whitecaps	Calgary Storm	Vancouver Whitecaps	8/15/2002	47		LGE	Clarke, Jeff		
+Lemire, Chris	Calgary Storm	Calgary Storm	Montreal Impact	8/23/2002	48		LGE	Ledgerwood, Nikolas		
+Roberto, Ze	Montreal Impact	Calgary Storm	Montreal Impact	8/23/2002	90		LGE	Bernier, Patrice		
+Sebrango, Eduardo	Montreal Impact	Calgary Storm	Montreal Impact	8/23/2002	21		LGE	Bernier, Patrice		
+DeSantis, Nick	Montreal Impact	Calgary Storm	Montreal Impact	8/23/2002	90		LGE	Bernier, Patrice		
+Gregor, Andrew	Seattle Sounders	Seattle Sounders	Calgary Storm	8/24/2002	78		LGE	Sawatzky, Darren		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Calgary Storm	8/24/2002	75		LGE	Ching, Brian		
+Jenkins, Scott	Seattle Sounders	Seattle Sounders	Calgary Storm	8/24/2002	13		LGE	Gregor, Andrew		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Calgary Storm	8/24/2002	25		LGE			
+Nickocaj, Dzevat	Cincinnati Riverhawks	Cincinnati Riverhawks	Calgary Storm	8/31/2002	73		LGE			
+Oliverio, Luigi	Cincinnati Riverhawks	Cincinnati Riverhawks	Calgary Storm	8/31/2002	4		LGE			
+Zuniga, Nicolas	Calgary Storm	Cincinnati Riverhawks	Calgary Storm	8/31/2002	9		LGE			
+Lemire, Chris	Calgary Storm	Cincinnati Riverhawks	Calgary Storm	8/31/2002	77		LGE			
+Lemire, Chris	Calgary Storm	Cincinnati Riverhawks	Calgary Storm	8/31/2002	57		LGE			
+Dagnogo, Moussa	Indiana Blast	Indiana Blast	Calgary Storm	9/1/2002	0		LGE			
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Calgary Storm	9/1/2002	0		LGE			
+Butcher, Steve	Hampton Roads Mariners	Hampton Roads Mariners	Charleston Battery	4/30/2002	11		LGE			
+Conway, Paul	Charleston Battery	Hampton Roads Mariners	Charleston Battery	4/30/2002	84		LGE	Diaz Arce, Raul		
+Conway, Paul	Charleston Battery	Hampton Roads Mariners	Charleston Battery	4/30/2002	8		LGE	Zeba, Morgan		
+Cozier, Mangea (Mac)	Charleston Battery	Hampton Roads Mariners	Charleston Battery	4/30/2002	10		LGE	Lewis, Andrew		
+Wilson, John	Charleston Battery	Hampton Roads Mariners	Charleston Battery	4/30/2002	22		LGE	Watson, Mark		
+Cozier, Mangea (Mac)	Charleston Battery	Hampton Roads Mariners	Charleston Battery	4/30/2002	57		LGE	Conway, Paul		
+Conway, Paul	Charleston Battery	Charleston Battery	Montreal Impact	5/4/2002	12		LGE			
+Diaz Arce, Raul	Charleston Battery	Pittsburgh Riverhounds	Charleston Battery	5/8/2002	76		LGE	Trout, Ryan		
+Sedgewick, Bill	Rochester Rhinos	Rochester Rhinos	Charleston Battery	5/10/2002	89		LGE	Suarez, Temoc		
+Tanner, Tommy	Rochester Rhinos	Rochester Rhinos	Charleston Battery	5/10/2002	100		LGE	Wilson, Kirk		
+Trout, Ryan	Charleston Battery	Rochester Rhinos	Charleston Battery	5/10/2002	74		LGE	Conway, Paul		
+Klein, Stephen	Charleston Battery	Charleston Battery	Richmond Kickers	5/17/2002	70		LGE			
+Klein, Stephen	Charleston Battery	Charleston Battery	Richmond Kickers	5/17/2002	68		LGE	Conway, Paul		
+Conway, Paul	Charleston Battery	Charleston Battery	Richmond Kickers	5/17/2002	10		LGE	Diaz Arce, Raul		
+Watson, Mark	Charleston Battery	Charleston Battery	El Paso Patriots	5/25/2002	25		LGE	Trout, Ryan		
+Diaz Arce, Raul	Charleston Battery	Charleston Battery	El Paso Patriots	5/25/2002	52		LGE	Evans, Justin		
+Phillips, Colin	Charleston Battery	Charleston Battery	El Paso Patriots	5/25/2002	88		LGE			
+Conway, Paul	Charleston Battery	Charleston Battery	Charlotte Eagles	5/31/2002	10		LGE	Diaz Arce, Raul		
+Watson, Mark	Charleston Battery	Charleston Battery	Charlotte Eagles	5/31/2002	14		LGE			
+Zeba, Morgan	Charleston Battery	Charleston Battery	Charlotte Eagles	5/31/2002	68		LGE	Conway, Paul		
+Trout, Ryan	Charleston Battery	Charleston Battery	Charlotte Eagles	5/31/2002	65		LGE			
+Coggins, Jacob	Charlotte Eagles	Charleston Battery	Charlotte Eagles	5/31/2002	25		LGE	Johnson, Benjamin		
+Galeano, Hugo	Charlotte Eagles	Charleston Battery	Charlotte Eagles	5/31/2002	66		LGE			
+Cozier, Mangea (Mac)	Charleston Battery	Charlotte Eagles	Charleston Battery	6/1/2002	68		LGE	Zeba, Morgan		
+Conway, Paul	Charleston Battery	Charleston Battery	Toronto Lynx	6/7/2002	100		LGE			
+Anderson, Kevin	Charleston Battery	Toronto Lynx	Charleston Battery	6/9/2002	60		LGE	Zeba, Morgan		
+Diaz Arce, Raul	Charleston Battery	Hampton Roads Mariners	Charleston Battery	6/15/2002	104		LGE	Trout, Ryan		
+Diaz Arce, Raul	Charleston Battery	Montreal Impact	Charleston Battery	6/28/2002	66		LGE	Klein, Stephen		
+Trout, Ryan	Charleston Battery	Charleston Battery	Hampton Roads Mariners	7/3/2002	84		LGE	Farris, Matthew		
+Trout, Ryan	Charleston Battery	Charleston Battery	Hampton Roads Mariners	7/3/2002	79		LGE			
+Trout, Ryan	Charleston Battery	Charleston Battery	Hampton Roads Mariners	7/3/2002	67		LGE	Evans, Justin		
+Wolyniec, John	Milwaukee Rampage	Charleston Battery	Milwaukee Rampage	7/6/2002	58		LGE	Bernal, Steve		
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Charleston Battery	7/10/2002	76		LGE	Henderson, Josh		
+Trout, Ryan	Charleston Battery	Richmond Kickers	Charleston Battery	7/10/2002	39		LGE	Conway, Paul		
+Conway, Paul	Charleston Battery	Charleston Battery	Rochester Rhinos	8/1/2002	13		LGE	Jones, John		
+Bankov, Kalin	Rochester Rhinos	Charleston Battery	Rochester Rhinos	8/1/2002	69		LGE			
+Lavrinenko, Yuri	Rochester Rhinos	Charleston Battery	Rochester Rhinos	8/1/2002	80		LGE	Simmonds, Greg		
+McDermott, Andrew	Charlotte Eagles	Charlotte Eagles	Charleston Battery	8/9/2002	44		LGE			
+Coggins, Jacob	Charlotte Eagles	Charlotte Eagles	Charleston Battery	8/9/2002	25		LGE			
+Trout, Ryan	Charleston Battery	Charlotte Eagles	Charleston Battery	8/9/2002	90		LGE			
+Conway, Paul	Charleston Battery	Charlotte Eagles	Charleston Battery	8/9/2002	53		LGE	Wilson, John		
+Conway, Paul	Charleston Battery	Charleston Battery	Charlotte Eagles	8/10/2002	90	Penalty	LGE			
+Swinehart, Dustin	Charlotte Eagles	Charleston Battery	Charlotte Eagles	8/10/2002	59		LGE	McDermott, Andrew		
+Conway, Paul	Charleston Battery	Charleston Battery	Richmond Kickers	8/14/2002	32	Penalty	LGE			
+Evans, Justin	Charleston Battery	Charleston Battery	Richmond Kickers	8/14/2002	17		LGE	Lewis, Andrew		
+Conway, Paul	Charleston Battery	Charleston Battery	Richmond Kickers	8/14/2002	86		LGE	Zeba, Morgan		
+Ferruzzi, Marco	Richmond Kickers	Charleston Battery	Richmond Kickers	8/14/2002	55		LGE			
+Jeffrey, Kevin	Richmond Kickers	Charleston Battery	Richmond Kickers	8/14/2002	1		LGE	Lekics, Paul		
+Jones, John	Charleston Battery	El Paso Patriots	Charleston Battery	8/23/2002	87		LGE	Diaz Arce, Raul		
+Martinez, Carlos	Charleston Battery	El Paso Patriots	Charleston Battery	8/23/2002	20	Own Goal	LGE			
+Conway, Paul	Charleston Battery	El Paso Patriots	Charleston Battery	8/23/2002	60		LGE	Jones, John		
+Jones, John	Charleston Battery	Richmond Kickers	Charleston Battery	8/28/2002	77		LGE			
+Conway, Paul	Charleston Battery	Charleston Battery	Hampton Roads Mariners	8/31/2002	64		LGE			
+Trout, Ryan	Charleston Battery	Charleston Battery	Hampton Roads Mariners	8/31/2002	42		LGE	Conway, Paul		
+Gomez, Jose	Charlotte Eagles	Charlotte Eagles	Indiana Blast	4/19/2002	18		LGE	Guastaferro, Andrew		
+Pinch, Mark	Charlotte Eagles	Charlotte Eagles	Indiana Blast	4/19/2002	90		LGE	Gomez, Jose		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Indiana Blast	4/19/2002	49		LGE	Gomez, Jose		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Indiana Blast	4/19/2002	10		LGE	Gomez, Jose		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Indiana Blast	4/19/2002	64		LGE	Gomez, Jose		
+Gomez, Jose	Charlotte Eagles	Charlotte Eagles	Indiana Blast	4/19/2002	78		LGE	Swinehart, Dustin		
+Dresser, Jeff	Indiana Blast	Charlotte Eagles	Indiana Blast	4/19/2002	46		LGE			
+Mouw, Robert	Charlotte Eagles	Charlotte Eagles	Toronto Lynx	5/4/2002	37		LGE	Calderson, Carlos		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Toronto Lynx	5/4/2002	40		LGE	Gomez, Jose		
+Smith, Bayete	Toronto Lynx	Charlotte Eagles	Toronto Lynx	5/4/2002	90		LGE	Vignjevic, Nikola		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Hampton Roads Mariners	5/11/2002	98		LGE	Johnson, Benjamin		
+Biello, Mauro	Montreal Impact	Charlotte Eagles	Montreal Impact	5/13/2002	36		LGE	DeSantis, Nick		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Rochester Rhinos	5/18/2002	29		LGE	Gomez, Jose		
+Coggins, Jacob	Charlotte Eagles	Charlotte Eagles	Rochester Rhinos	5/18/2002	39		LGE	Gajardo-San Martin, Leonardo		
+Simmonds, Greg	Rochester Rhinos	Charlotte Eagles	Rochester Rhinos	5/18/2002	37		LGE	Schweitzer, Scott		
+King, David	Hampton Roads Mariners	Hampton Roads Mariners	Charlotte Eagles	5/25/2002	90		LGE			
+McDermott, Andrew	Charlotte Eagles	Hampton Roads Mariners	Charlotte Eagles	5/25/2002	80		LGE			
+Gajardo-San Martin, Leonardo	Charlotte Eagles	Hampton Roads Mariners	Charlotte Eagles	5/25/2002	40	Penalty	LGE			
+Swinehart, Dustin	Charlotte Eagles	Hampton Roads Mariners	Charlotte Eagles	5/25/2002	48		LGE			
+Ngon, Ali	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Charlotte Eagles	6/29/2002	60		LGE	Potteiger, Derek		
+Norkus, Caleb	Charlotte Eagles	Pittsburgh Riverhounds	Charlotte Eagles	6/29/2002	25		LGE	Guastaferro, Andrew		
+Guastaferro, Andrew	Charlotte Eagles	Pittsburgh Riverhounds	Charlotte Eagles	6/29/2002	41		LGE	Swinehart, Dustin		
+Norkus, Caleb	Charlotte Eagles	Pittsburgh Riverhounds	Charlotte Eagles	6/29/2002	13		LGE	Swinehart, Dustin		
+McCarthy, Jerome	Hampton Roads Mariners	Hampton Roads Mariners	Charlotte Eagles	7/6/2002	24		LGE			
+Hansen, Richard	Hampton Roads Mariners	Hampton Roads Mariners	Charlotte Eagles	7/6/2002	96		LGE			
+Brooks, Gary	Hampton Roads Mariners	Hampton Roads Mariners	Charlotte Eagles	7/6/2002	84		LGE			
+Guastaferro, Andrew	Charlotte Eagles	Hampton Roads Mariners	Charlotte Eagles	7/6/2002	60		LGE			
+Swinehart, Dustin	Charlotte Eagles	Hampton Roads Mariners	Charlotte Eagles	7/6/2002	90	Penalty	LGE			
+Mouw, Robert	Charlotte Eagles	Charlotte Eagles	Milwaukee Rampage	7/8/2002	31		LGE	Swinehart, Dustin		
+Aldrich, Jeremy	Milwaukee Rampage	Charlotte Eagles	Milwaukee Rampage	7/8/2002	61		LGE			
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Pittsburgh Riverhounds	7/13/2002	90		LGE	Calderson, Carlos		
+McDermott, Andrew	Charlotte Eagles	Charlotte Eagles	Pittsburgh Riverhounds	7/13/2002	75	Penalty	LGE			
+Gomez, Jose	Charlotte Eagles	Charlotte Eagles	Pittsburgh Riverhounds	7/13/2002	104		LGE			
+Flavius, David	Pittsburgh Riverhounds	Charlotte Eagles	Pittsburgh Riverhounds	7/13/2002	51		LGE	Worthen, Joey		
+Flavius, David	Pittsburgh Riverhounds	Charlotte Eagles	Pittsburgh Riverhounds	7/13/2002	71		LGE			
+Potteiger, Derek	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Charlotte Eagles	7/20/2002	29		LGE	Tripoli, Jaman		
+Chulis, Matthew	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Charlotte Eagles	7/20/2002	63		LGE	Worthen, Joey		
+McDermott, Andrew	Charlotte Eagles	Pittsburgh Riverhounds	Charlotte Eagles	7/20/2002	80		LGE			
+DiPlacido, David	Toronto Lynx	Toronto Lynx	Charlotte Eagles	7/22/2002	30		LGE	Faria, Shawn		
+Budalic, Niki	Toronto Lynx	Toronto Lynx	Charlotte Eagles	7/22/2002	40		LGE			
+Thomas, Elvis	Toronto Lynx	Toronto Lynx	Charlotte Eagles	7/22/2002	90		LGE	Vignjevic, Nikola		
+Gomez, Jose	Charlotte Eagles	Toronto Lynx	Charlotte Eagles	7/22/2002	1		LGE	Gajardo-San Martin, Leonardo		
+Calderson, Carlos	Charlotte Eagles	Toronto Lynx	Charlotte Eagles	7/22/2002	6		LGE			
+Zavala, Carlos	Rochester Rhinos	Rochester Rhinos	Charlotte Eagles	7/24/2002	50	Penalty	LGE			
+Wellington, Jamie	Charlotte Eagles	Charlotte Eagles	Richmond Kickers	7/27/2002	0		LGE			
+Guastaferro, Andrew	Charlotte Eagles	Charlotte Eagles	Richmond Kickers	7/27/2002	0		LGE			
+Henderson, Josh	Richmond Kickers	Charlotte Eagles	Richmond Kickers	7/27/2002	0		LGE			
+Jeffrey, Kevin	Richmond Kickers	Charlotte Eagles	Richmond Kickers	7/27/2002	0		LGE			
+Henderson, Josh	Richmond Kickers	Charlotte Eagles	Richmond Kickers	7/27/2002	0		LGE			
+Ferruzzi, Marco	Richmond Kickers	Charlotte Eagles	Richmond Kickers	7/27/2002	0		LGE			
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Charlotte Eagles	8/14/2002	99		LGE	Rowland, Mark		
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Charlotte Eagles	8/14/2002	46		LGE	Oliviero, Giuliano		
+Roberto, Ze	Montreal Impact	Montreal Impact	Charlotte Eagles	8/14/2002	11		LGE	Leduc, Patrick		
+Coggins, Jacob	Charlotte Eagles	Montreal Impact	Charlotte Eagles	8/14/2002	28		LGE	Swinehart, Dustin		
+Gomez, Jose	Charlotte Eagles	Montreal Impact	Charlotte Eagles	8/14/2002	53		LGE			
+Villar, Ricardo	Hampton Roads Mariners	Charlotte Eagles	Hampton Roads Mariners	8/17/2002	65	Penalty	LGE			
+Lekics, Paul	Richmond Kickers	Richmond Kickers	Charlotte Eagles	8/23/2002	37		LGE			
+Dotsenko, Ihor	Richmond Kickers	Richmond Kickers	Charlotte Eagles	8/23/2002	90		LGE			
+Swinehart, Dustin	Charlotte Eagles	Richmond Kickers	Charlotte Eagles	8/23/2002	73		LGE			
+Watkins, Nathan	Charlotte Eagles	Richmond Kickers	Charlotte Eagles	8/23/2002	20		LGE			
+McDermott, Andrew	Charlotte Eagles	Richmond Kickers	Charlotte Eagles	8/23/2002	32		LGE			
+McDermott, Andrew	Charlotte Eagles	Richmond Kickers	Charlotte Eagles	8/23/2002	22		LGE			
+Demmin, Dwayne	Charlotte Eagles	Charlotte Eagles	Richmond Kickers	8/24/2002	37		LGE	Wellington, Jamie		
+Mladenov, Stoian	Rochester Rhinos	Rochester Rhinos	Charlotte Eagles	8/30/2002	22		LGE	Simmonds, Greg		
+Swinehart, Dustin	Charlotte Eagles	Rochester Rhinos	Charlotte Eagles	8/30/2002	70		LGE	Watkins, Nathan		
+Watkins, Nathan	Charlotte Eagles	Rochester Rhinos	Charlotte Eagles	8/30/2002	67		LGE	Gajardo-San Martin, Leonardo		
+Coggins, Jacob	Charlotte Eagles	Rochester Rhinos	Charlotte Eagles	8/30/2002	33		LGE	Gajardo-San Martin, Leonardo		
+Byaruhanga, Peter	Cincinnati Riverhawks	Cincinnati Riverhawks	Milwaukee Rampage	5/4/2002	98		LGE			
+Matis, Marcel	Cincinnati Riverhawks	Cincinnati Riverhawks	Milwaukee Rampage	5/4/2002	17		LGE			
+DeGand, Fred	Cincinnati Riverhawks	Cincinnati Riverhawks	Milwaukee Rampage	5/4/2002	68		LGE			
+Reti, Sean	Milwaukee Rampage	Cincinnati Riverhawks	Milwaukee Rampage	5/4/2002	64		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Cincinnati Riverhawks	Milwaukee Rampage	5/4/2002	48		LGE			
+Rockey, Shawn	Cincinnati Riverhawks	Cincinnati Riverhawks	Portland Timbers	5/11/2002	28		LGE	Lucas, Ryan		
+Schmidt, Matt	Minnesota Thunder	Cincinnati Riverhawks	Minnesota Thunder	5/18/2002	88		LGE	Fenger-Larsen, Jakob		
+Menyongar, Johnny	Minnesota Thunder	Cincinnati Riverhawks	Minnesota Thunder	5/18/2002	16	Penalty	LGE			
+Fenger-Larsen, Jakob	Minnesota Thunder	Cincinnati Riverhawks	Minnesota Thunder	5/18/2002	76		LGE	Torres, Johnny		
+Byaruhanga, Peter	Cincinnati Riverhawks	Cincinnati Riverhawks	Pittsburgh Riverhounds	5/25/2002	90		LGE	Edozien, Connally		
+Byaruhanga, Peter	Cincinnati Riverhawks	Cincinnati Riverhawks	Pittsburgh Riverhounds	5/25/2002	72		LGE			
+Lucas, Ryan	Cincinnati Riverhawks	Cincinnati Riverhawks	Pittsburgh Riverhounds	5/25/2002	19		LGE	Lowey, Simon		
+Flavius, David	Pittsburgh Riverhounds	Cincinnati Riverhawks	Pittsburgh Riverhounds	5/25/2002	70		LGE	Worthen, Joey		
+DiGuardi, Gino	Indiana Blast	Cincinnati Riverhawks	Indiana Blast	5/31/2002	40		LGE			
+Jordan, Jason	Vancouver Whitecaps	Cincinnati Riverhawks	Vancouver Whitecaps	6/2/2002	82		LGE	Clarke, Jeff		
+Heald, Oliver	Vancouver Whitecaps	Cincinnati Riverhawks	Vancouver Whitecaps	6/2/2002	53	Penalty	LGE			
+Menyongar, Johnny	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	6/8/2002	14		LGE	Fenger-Larsen, Jakob		
+Fenger-Larsen, Jakob	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	6/8/2002	33		LGE	Schulte, Mark		
+Fenger-Larsen, Jakob	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	6/8/2002	52		LGE	Prendergast, Orett		
+Prendergast, Orett	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	6/8/2002	29		LGE			
+Alvarez, Daniel	Cincinnati Riverhawks	Minnesota Thunder	Cincinnati Riverhawks	6/8/2002	82		LGE	Rockey, Shawn		
+Eyre, Adam	Cincinnati Riverhawks	Minnesota Thunder	Cincinnati Riverhawks	6/8/2002	87	Own Goal	LGE			
+Wolyniec, John	Milwaukee Rampage	Milwaukee Rampage	Cincinnati Riverhawks	6/9/2002	42		LGE	Bernal, Steve		
+Soso, Igor	Milwaukee Rampage	Milwaukee Rampage	Cincinnati Riverhawks	6/9/2002	76		LGE	Wolyniec, John		
+Russell, Jason	Milwaukee Rampage	Milwaukee Rampage	Cincinnati Riverhawks	6/9/2002	19		LGE	Soso, Igor		
+Lucas, Ryan	Cincinnati Riverhawks	Milwaukee Rampage	Cincinnati Riverhawks	6/9/2002	90		LGE	DeGand, Fred		
+Alvarez, Daniel	Cincinnati Riverhawks	Cincinnati Riverhawks	Seattle Sounders	6/14/2002	81		LGE	Byaruhanga, Peter		
+Lowey, Simon	Cincinnati Riverhawks	Cincinnati Riverhawks	Seattle Sounders	6/14/2002	71		LGE	Lindenmayer, Christof		
+Lucas, Ryan	Cincinnati Riverhawks	Cincinnati Riverhawks	Seattle Sounders	6/14/2002	41		LGE			
+Ching, Brian	Seattle Sounders	Cincinnati Riverhawks	Seattle Sounders	6/14/2002	60		LGE	Sawatzky, Darren		
+Edozien, Connally	Cincinnati Riverhawks	Cincinnati Riverhawks	Minnesota Thunder	6/22/2002	6		LGE			
+Martins, Thiago	Minnesota Thunder	Cincinnati Riverhawks	Minnesota Thunder	6/22/2002	24		LGE	Menyongar, Johnny		
+Kilickan, Zafer	Minnesota Thunder	Cincinnati Riverhawks	Minnesota Thunder	6/22/2002	93		LGE	Schulte, Mark		
+O'Brien, Leighton	Seattle Sounders	Cincinnati Riverhawks	Seattle Sounders	6/30/2002	25		LGE			
+Biello, Mauro	Montreal Impact	Montreal Impact	Cincinnati Riverhawks	7/3/2002	86		LGE	DiTullio, Jason		
+Rockey, Shawn	Cincinnati Riverhawks	Montreal Impact	Cincinnati Riverhawks	7/3/2002	45		LGE	Matis, Marcel		
+Rockey, Shawn	Cincinnati Riverhawks	Montreal Impact	Cincinnati Riverhawks	7/3/2002	19		LGE			
+Lucas, Ryan	Cincinnati Riverhawks	Montreal Impact	Cincinnati Riverhawks	7/3/2002	53		LGE	Matis, Marcel		
+Lucas, Ryan	Cincinnati Riverhawks	Montreal Impact	Cincinnati Riverhawks	7/3/2002	6		LGE			
+Vignjevic, Nikola	Toronto Lynx	Toronto Lynx	Cincinnati Riverhawks	7/5/2002	90	Penalty	LGE			
+Butcher, Steve	Toronto Lynx	Toronto Lynx	Cincinnati Riverhawks	7/5/2002	66		LGE	Aristodemo, Robbie		
+Lucas, Ryan	Cincinnati Riverhawks	Toronto Lynx	Cincinnati Riverhawks	7/5/2002	90		LGE	Edozien, Connally		
+Lucas, Ryan	Cincinnati Riverhawks	Toronto Lynx	Cincinnati Riverhawks	7/5/2002	89		LGE	Alvarez, Daniel		
+Serioux, Adrian	Cincinnati Riverhawks	Toronto Lynx	Cincinnati Riverhawks	7/5/2002	55	Own Goal	LGE			
+DeGand, Fred	Cincinnati Riverhawks	Cincinnati Riverhawks	El Paso Patriots	7/13/2002	53		LGE			
+Frias, Daniel	El Paso Patriots	Cincinnati Riverhawks	El Paso Patriots	7/13/2002	57		LGE			
+Lomeli, Jose	El Paso Patriots	Cincinnati Riverhawks	El Paso Patriots	7/13/2002	80		LGE			
+Dagnogo, Moussa	Indiana Blast	Indiana Blast	Cincinnati Riverhawks	7/20/2002	13		LGE			
+Lucas, Ryan	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	7/20/2002	30		LGE			
+Rockey, Shawn	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	7/20/2002	83		LGE			
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	Cincinnati Riverhawks	7/24/2002	90		LGE	Valente, Alfredo		
+Tennyson, McKinley	Portland Timbers	Portland Timbers	Cincinnati Riverhawks	7/25/2002	15		LGE	Alcaraz-Cuellar, Hugo		
+Tennyson, McKinley	Portland Timbers	Portland Timbers	Cincinnati Riverhawks	7/25/2002	9		LGE			
+Abarca, Jose	El Paso Patriots	El Paso Patriots	Cincinnati Riverhawks	7/27/2002	90		LGE			
+Dos Santos-Terra, Fabio	El Paso Patriots	El Paso Patriots	Cincinnati Riverhawks	7/27/2002	49		LGE			
+Dos Santos-Terra, Fabio	El Paso Patriots	El Paso Patriots	Cincinnati Riverhawks	7/27/2002	35		LGE			
+Ching, Brian	Seattle Sounders	Seattle Sounders	Cincinnati Riverhawks	8/4/2002	24		LGE	Boyce, Jason		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Cincinnati Riverhawks	8/4/2002	10		LGE			
+Scott, Zach	Seattle Sounders	Seattle Sounders	Cincinnati Riverhawks	8/4/2002	17		LGE	Gregor, Andrew		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Cincinnati Riverhawks	8/4/2002	77		LGE	Ching, Brian		
+Matis, Marcel	Cincinnati Riverhawks	Seattle Sounders	Cincinnati Riverhawks	8/4/2002	56		LGE	Antongirolami, Giorgio		
+Dagnogo, Moussa	Indiana Blast	Cincinnati Riverhawks	Indiana Blast	8/10/2002	93		LGE			
+Tenoff, Godfrey	Indiana Blast	Indiana Blast	Cincinnati Riverhawks	8/11/2002	9		LGE			
+Dagnogo, Moussa	Indiana Blast	Indiana Blast	Cincinnati Riverhawks	8/11/2002	53		LGE			
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Cincinnati Riverhawks	8/11/2002	74		LGE			
+Fisher, Benjamin	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	8/11/2002	45		LGE			
+Yacks, Craig	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	8/11/2002	70		LGE			
+Rockey, Shawn	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	8/11/2002	86	Penalty	LGE			
+Matis, Marcel	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	8/11/2002	90	Penalty	LGE			
+Yacks, Craig	Cincinnati Riverhawks	Cincinnati Riverhawks	Rochester Rhinos	8/16/2002	25		LGE	Lowey, Simon		
+Stebbins, Dan	Rochester Rhinos	Cincinnati Riverhawks	Rochester Rhinos	8/16/2002	79		LGE	Steenkamp, Lenin		
+Amani-Dove, Hamisi	Rochester Rhinos	Cincinnati Riverhawks	Rochester Rhinos	8/16/2002	23		LGE	Mladenov, Stoian		
+Amani-Dove, Hamisi	Rochester Rhinos	Cincinnati Riverhawks	Rochester Rhinos	8/16/2002	37		LGE	Steenkamp, Lenin		
+Golijanin, Ranko	Milwaukee Rampage	Cincinnati Riverhawks	Milwaukee Rampage	8/18/2002	66		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Cincinnati Riverhawks	Milwaukee Rampage	8/18/2002	64		LGE	Wolyniec, John		
+Torres, Johnny	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	8/23/2002	10		LGE	Menyongar, Johnny		
+Fenger-Larsen, Jakob	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	8/23/2002	15		LGE	Menyongar, Johnny		
+Prendergast, Orett	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	8/23/2002	90		LGE	Schmidt, Matt		
+Menyongar, Johnny	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	8/23/2002	77		LGE	Gramenz, Don		
+Matis, Marcel	Cincinnati Riverhawks	Minnesota Thunder	Cincinnati Riverhawks	8/23/2002	85	Penalty	LGE			
+Brennan, Bobby	Milwaukee Rampage	Milwaukee Rampage	Cincinnati Riverhawks	8/27/2002	35		LGE	Bernal, Steve		
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Cincinnati Riverhawks	8/27/2002	48		LGE	Wolyniec, John		
+Rivillo, Angel	Milwaukee Rampage	Milwaukee Rampage	Cincinnati Riverhawks	8/27/2002	57		LGE	Wolyniec, John		
+Richey, Jeff	Milwaukee Rampage	Milwaukee Rampage	Cincinnati Riverhawks	8/27/2002	86		LGE	Saavedra, Miguel		
+Wolyniec, John	Milwaukee Rampage	Milwaukee Rampage	Cincinnati Riverhawks	8/27/2002	30		LGE	Saavedra, Miguel		
+Wolyniec, John	Milwaukee Rampage	Milwaukee Rampage	Cincinnati Riverhawks	8/27/2002	45		LGE	Lara, David		
+Makumbu, Destin	Cincinnati Riverhawks	Milwaukee Rampage	Cincinnati Riverhawks	8/27/2002	34	Own Goal	LGE			
+Martins, Thiago	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Cincinnati Riverhawks	9/1/2002	3		LGE	Potteiger, Derek		
+Iribarren, Ricardo	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Cincinnati Riverhawks	9/1/2002	47	Penalty	LGE			
+DePalma, Gary	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Cincinnati Riverhawks	9/1/2002	19		LGE			
+Kim, Chuck	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Cincinnati Riverhawks	9/1/2002	88	Penalty	LGE			
+Martins, Thiago	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Cincinnati Riverhawks	9/1/2002	42		LGE	Flavius, David		
+Martins, Thiago	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Cincinnati Riverhawks	9/1/2002	14		LGE	DePalma, Gary		
+Martins, Thiago	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Cincinnati Riverhawks	9/1/2002	7		LGE	Flavius, David		
+Sawatzky, Darren	Seattle Sounders	Seattle Sounders	El Paso Patriots	5/11/2002	43		LGE	O'Brien, Leighton		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	El Paso Patriots	5/11/2002	59	Penalty	LGE			
+Nguyen, Viet	Seattle Sounders	Seattle Sounders	El Paso Patriots	5/11/2002	13		LGE	Sawatzky, Darren		
+Nguyen, Viet	Seattle Sounders	Seattle Sounders	El Paso Patriots	5/11/2002	45		LGE			
+DaGama, Luis Renato	El Paso Patriots	Seattle Sounders	El Paso Patriots	5/11/2002	87	Penalty	LGE			
+Heald, Oliver	Vancouver Whitecaps	Vancouver Whitecaps	El Paso Patriots	5/12/2002	45	Penalty	LGE			
+Dos Santos, Sidnei	El Paso Patriots	Vancouver Whitecaps	El Paso Patriots	5/12/2002	89		LGE			
+Quinones, Saul	El Paso Patriots	El Paso Patriots	Portland Timbers	6/1/2002	84		LGE			
+Afash, Fadi	Portland Timbers	El Paso Patriots	Portland Timbers	6/1/2002	68		LGE	Howes, Gregory		
+Silva, Eduardo (Edu)	El Paso Patriots	El Paso Patriots	Indiana Blast	6/8/2002	60		LGE			
+Frias, Daniel	El Paso Patriots	El Paso Patriots	Vancouver Whitecaps	6/15/2002	77		LGE	Lomeli, Jose		
+Dos Santos, Sidnei	El Paso Patriots	El Paso Patriots	Vancouver Whitecaps	6/15/2002	89		LGE	Schell, Dominic		
+Morris, David	Vancouver Whitecaps	El Paso Patriots	Vancouver Whitecaps	6/15/2002	28		LGE	Valente, Alfredo		
+DaGama, Luis Renato	El Paso Patriots	El Paso Patriots	Milwaukee Rampage	6/29/2002	90		LGE			
+Mora, Omar	El Paso Patriots	El Paso Patriots	Milwaukee Rampage	6/29/2002	77		LGE			
+Schell, Dominic	El Paso Patriots	El Paso Patriots	Milwaukee Rampage	6/29/2002	28		LGE			
+Bobo, Matthew	Milwaukee Rampage	El Paso Patriots	Milwaukee Rampage	6/29/2002	82		LGE			
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	El Paso Patriots	7/10/2002	90		LGE	Morris, David		
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	El Paso Patriots	7/10/2002	28		LGE	Heald, Oliver		
+Dasovic, Nick	Vancouver Whitecaps	Vancouver Whitecaps	El Paso Patriots	7/10/2002	85		LGE	Heald, Oliver		
+Fenger-Larsen, Jakob	Minnesota Thunder	Minnesota Thunder	El Paso Patriots	7/20/2002	13		LGE	Torres, Johnny		
+Prendergast, Orett	Minnesota Thunder	Minnesota Thunder	El Paso Patriots	7/20/2002	85		LGE	Lowery, Jon		
+Gores, Chris	Minnesota Thunder	Minnesota Thunder	El Paso Patriots	7/20/2002	90		LGE	Prendergast, Orett		
+Martinez, Carlos	El Paso Patriots	Minnesota Thunder	El Paso Patriots	7/20/2002	103		LGE	Lomeli, Jose		
+Frias, Daniel	El Paso Patriots	Minnesota Thunder	El Paso Patriots	7/20/2002	22		LGE	Abarca, Jose		
+Frias, Daniel	El Paso Patriots	Minnesota Thunder	El Paso Patriots	7/20/2002	90		LGE	DaGama, Luis Renato		
+Lomeli, Jose	El Paso Patriots	Minnesota Thunder	El Paso Patriots	7/20/2002	75		LGE	Frias, Daniel		
+Saavedra, Miguel	Milwaukee Rampage	Milwaukee Rampage	El Paso Patriots	7/21/2002	60		LGE			
+Golijanin, Ranko	Milwaukee Rampage	Milwaukee Rampage	El Paso Patriots	7/21/2002	90		LGE			
+Golijanin, Ranko	Milwaukee Rampage	Milwaukee Rampage	El Paso Patriots	7/21/2002	19	Penalty	LGE			
+Ching, Brian	Seattle Sounders	El Paso Patriots	Seattle Sounders	7/24/2002	96		LGE	Nguyen, Viet		
+Mora, Omar	El Paso Patriots	El Paso Patriots	Portland Timbers	8/3/2002	20		LGE			
+Frias, Daniel	El Paso Patriots	El Paso Patriots	Portland Timbers	8/3/2002	80		LGE	Abarca, Jose		
+Silva, Eduardo (Edu)	El Paso Patriots	El Paso Patriots	Portland Timbers	8/3/2002	31	Penalty	LGE			
+Frias, Daniel	El Paso Patriots	El Paso Patriots	Portland Timbers	8/3/2002	71		LGE	Mora, Omar		
+Tennyson, McKinley	Portland Timbers	El Paso Patriots	Portland Timbers	8/3/2002	45		LGE	Costigan, Keith		
+Afash, Fadi	Portland Timbers	El Paso Patriots	Portland Timbers	8/3/2002	54		LGE			
+Tennyson, McKinley	Portland Timbers	El Paso Patriots	Portland Timbers	8/3/2002	14		LGE	Alcaraz-Cuellar, Hugo		
+Tennyson, McKinley	Portland Timbers	Portland Timbers	El Paso Patriots	8/13/2002	13		LGE	Alcaraz-Cuellar, Hugo		
+Tolstolutsky, Vadim	Portland Timbers	Portland Timbers	El Paso Patriots	8/13/2002	90		LGE	Adair, Chugger		
+Tennyson, McKinley	Portland Timbers	Portland Timbers	El Paso Patriots	8/13/2002	19		LGE	Alcaraz-Cuellar, Hugo		
+Tennyson, McKinley	Portland Timbers	Portland Timbers	El Paso Patriots	8/13/2002	39		LGE	Howes, Gregory		
+Tennyson, McKinley	Portland Timbers	Portland Timbers	El Paso Patriots	8/13/2002	70		LGE	Alcaraz-Cuellar, Hugo		
+Afash, Fadi	Portland Timbers	Portland Timbers	El Paso Patriots	8/13/2002	45		LGE	Howes, Gregory		
+Frias, Daniel	El Paso Patriots	Portland Timbers	El Paso Patriots	8/13/2002	26		LGE			
+Ching, Brian	Seattle Sounders	Seattle Sounders	El Paso Patriots	8/14/2002	59		LGE	Sawatzky, Darren		
+Abarca, Jose	El Paso Patriots	El Paso Patriots	Vancouver Whitecaps	8/17/2002	90	Penalty	LGE			
+Abarca, Jose	El Paso Patriots	El Paso Patriots	Vancouver Whitecaps	8/17/2002	107	Penalty	LGE			
+Mora, Omar	El Paso Patriots	El Paso Patriots	Vancouver Whitecaps	8/17/2002	77		LGE			
+Valente, Alfredo	Vancouver Whitecaps	El Paso Patriots	Vancouver Whitecaps	8/17/2002	18		LGE	Thompson, Niall		
+Jordan, Jason	Vancouver Whitecaps	El Paso Patriots	Vancouver Whitecaps	8/17/2002	27		LGE			
+Stewart, Matthew	El Paso Patriots	El Paso Patriots	Seattle Sounders	8/29/2002	21		LGE			
+DaGama, Luis Renato	El Paso Patriots	El Paso Patriots	Seattle Sounders	8/29/2002	26		LGE			
+Boyce, Jason	Seattle Sounders	El Paso Patriots	Seattle Sounders	8/29/2002	19		LGE	Sawatzky, Darren		
+Ching, Brian	Seattle Sounders	El Paso Patriots	Seattle Sounders	8/29/2002	24		LGE	Sawatzky, Darren		
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Milwaukee Rampage	5/3/2002	73		LGE	Tenoff, Godfrey		
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Milwaukee Rampage	5/3/2002	45		LGE	Allen, Mark		
+Bernal, Steve	Milwaukee Rampage	Indiana Blast	Milwaukee Rampage	5/3/2002	41		LGE	Takawira, Vitalis (Digital)		
+Wolyniec, John	Milwaukee Rampage	Indiana Blast	Milwaukee Rampage	5/3/2002	77		LGE	Takawira, Vitalis (Digital)		
+Aldrich, Jeremy	Milwaukee Rampage	Indiana Blast	Milwaukee Rampage	5/3/2002	103		LGE			
+Dresser, Jeff	Indiana Blast	Indiana Blast	Portland Timbers	5/10/2002	54		LGE	Ottesen, Dustin		
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Minnesota Thunder	5/17/2002	50		LGE	Dolinsky, Paul		
+DiGuardi, Gino	Indiana Blast	Indiana Blast	Minnesota Thunder	5/17/2002	16		LGE	Sweet, Jeremy		
+Fenger-Larsen, Jakob	Minnesota Thunder	Indiana Blast	Minnesota Thunder	5/17/2002	48		LGE	Schulte, Mark		
+Magee, Amos	Minnesota Thunder	Minnesota Thunder	Indiana Blast	5/25/2002	28		LGE	Prendergast, Orett		
+Menyongar, Johnny	Minnesota Thunder	Minnesota Thunder	Indiana Blast	5/25/2002	90		LGE	Gentile, Mike		
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Indiana Blast	5/26/2002	39		LGE	Radoncic, Bato		
+Makumbu, Destin	Milwaukee Rampage	Milwaukee Rampage	Indiana Blast	5/26/2002	83		LGE			
+Russell, Jason	Milwaukee Rampage	Milwaukee Rampage	Indiana Blast	5/26/2002	10		LGE	Bernal, Steve		
+Sweet, Jeremy	Indiana Blast	Indiana Blast	Vancouver Whitecaps	6/4/2002	38		LGE	Dolinsky, Paul		
+Jordan, Jason	Vancouver Whitecaps	Indiana Blast	Vancouver Whitecaps	6/4/2002	60		LGE	Kindel, Steve		
+Jordan, Jason	Vancouver Whitecaps	Indiana Blast	Vancouver Whitecaps	6/4/2002	71		LGE	Valente, Alfredo		
+Heald, Oliver	Vancouver Whitecaps	Indiana Blast	Vancouver Whitecaps	6/4/2002	40	Penalty	LGE			
+Kindel, Steve	Vancouver Whitecaps	Indiana Blast	Vancouver Whitecaps	6/4/2002	86		LGE	Valente, Alfredo		
+Vaughn, Myron	Indiana Blast	Indiana Blast	Seattle Sounders	6/15/2002	32		LGE	Tenoff, Godfrey		
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Seattle Sounders	6/15/2002	3		LGE	Vaughn, Myron		
+Ching, Brian	Seattle Sounders	Indiana Blast	Seattle Sounders	6/15/2002	87		LGE	O'Brien, Leighton		
+Ching, Brian	Seattle Sounders	Indiana Blast	Seattle Sounders	6/15/2002	77		LGE			
+Nguyen, Viet	Seattle Sounders	Indiana Blast	Seattle Sounders	6/15/2002	39		LGE	Jenkins, Scott		
+Nguyen, Viet	Seattle Sounders	Indiana Blast	Seattle Sounders	6/15/2002	10		LGE			
+Magee, Amos	Minnesota Thunder	Indiana Blast	Minnesota Thunder	6/23/2002	40	Penalty	LGE			
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Seattle Sounders	6/29/2002	90	Penalty	LGE			
+Vaughn, Myron	Indiana Blast	Indiana Blast	Seattle Sounders	6/29/2002	3		LGE	Tenoff, Godfrey		
+Sawatzky, Darren	Seattle Sounders	Indiana Blast	Seattle Sounders	6/29/2002	77		LGE	Ching, Brian		
+Ching, Brian	Seattle Sounders	Indiana Blast	Seattle Sounders	6/29/2002	58		LGE	O'Brien, Leighton		
+Gregor, Andrew	Seattle Sounders	Indiana Blast	Seattle Sounders	6/29/2002	13		LGE			
+Afash, Fadi	Portland Timbers	Portland Timbers	Indiana Blast	7/4/2002	55	Penalty	LGE			
+Tennyson, McKinley	Portland Timbers	Portland Timbers	Indiana Blast	7/4/2002	14		LGE	McAuley, Sean		
+Afash, Fadi	Portland Timbers	Portland Timbers	Indiana Blast	7/4/2002	68		LGE	McAuley, Sean		
+Tennyson, McKinley	Portland Timbers	Portland Timbers	Indiana Blast	7/4/2002	10		LGE			
+Costa, Rodrigo	Indiana Blast	Portland Timbers	Indiana Blast	7/4/2002	63		LGE			
+Ching, Brian	Seattle Sounders	Seattle Sounders	Indiana Blast	7/6/2002	33		LGE	Boyce, Jason		
+Ching, Brian	Seattle Sounders	Seattle Sounders	Indiana Blast	7/6/2002	89		LGE	Sawatzky, Darren		
+Gregor, Andrew	Seattle Sounders	Seattle Sounders	Indiana Blast	7/6/2002	83		LGE	O'Brien, Leighton		
+Sawatzky, Darren	Seattle Sounders	Seattle Sounders	Indiana Blast	7/6/2002	3		LGE	Nguyen, Viet		
+Dagnogo, Moussa	Indiana Blast	Seattle Sounders	Indiana Blast	7/6/2002	89		LGE	Sweet, Jeremy		
+Fadeski, Dennis	Milwaukee Rampage	Indiana Blast	Milwaukee Rampage	7/26/2002	74		LGE	Aldrich, Jeremy		
+Bobo, Matthew	Milwaukee Rampage	Milwaukee Rampage	Indiana Blast	8/2/2002	9		LGE	Rivillo, Angel		
+Camarena, Enrique	Indiana Blast	Milwaukee Rampage	Indiana Blast	8/2/2002	56		LGE	Sweet, Jeremy		
+DePalma, Gary	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Indiana Blast	8/4/2002	81		LGE	Wright, David		
+Flavius, David	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Indiana Blast	8/4/2002	3		LGE			
+Martins, Thiago	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Indiana Blast	8/4/2002	80		LGE	Karn, Phil		
+Apple, Michael	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Indiana Blast	8/4/2002	83		LGE			
+Martins, Thiago	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Indiana Blast	8/4/2002	31		LGE	Worthen, Joey		
+Dagnogo, Moussa	Indiana Blast	Pittsburgh Riverhounds	Indiana Blast	8/4/2002	61		LGE			
+Dagnogo, Moussa	Indiana Blast	Pittsburgh Riverhounds	Indiana Blast	8/4/2002	90	Penalty	LGE			
+Fenger-Larsen, Jakob	Minnesota Thunder	Minnesota Thunder	Indiana Blast	8/8/2002	42		LGE	Menyongar, Johnny		
+Kilickan, Zafer	Minnesota Thunder	Minnesota Thunder	Indiana Blast	8/8/2002	19		LGE	Menyongar, Johnny		
+Morehead, Marshall	Minnesota Thunder	Minnesota Thunder	Indiana Blast	8/8/2002	75		LGE	Prendergast, Orett		
+Morehead, Marshall	Minnesota Thunder	Minnesota Thunder	Indiana Blast	8/8/2002	63		LGE	Kilickan, Zafer		
+Schmidt, Matt	Minnesota Thunder	Minnesota Thunder	Indiana Blast	8/8/2002	23		LGE	Schulte, Mark		
+Schmidt, Matt	Minnesota Thunder	Minnesota Thunder	Indiana Blast	8/8/2002	36		LGE	Menyongar, Johnny		
+Menyongar, Johnny	Minnesota Thunder	Minnesota Thunder	Indiana Blast	8/8/2002	25		LGE			
+Menyongar, Johnny	Minnesota Thunder	Minnesota Thunder	Indiana Blast	8/8/2002	59		LGE	Schulte, Mark		
+Sweet, Jeremy	Indiana Blast	Indiana Blast	Rochester Rhinos	8/17/2002	4		LGE	Ottesen, Dustin		
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Rochester Rhinos	8/17/2002	84	Penalty	LGE			
+Suarez, Temoc	Rochester Rhinos	Indiana Blast	Rochester Rhinos	8/17/2002	68		LGE			
+Amani-Dove, Hamisi	Rochester Rhinos	Indiana Blast	Rochester Rhinos	8/17/2002	53		LGE	Stebbins, Dan		
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	Minnesota Thunder	5/3/2002	18		LGE			
+Aldrich, Jeremy	Milwaukee Rampage	Milwaukee Rampage	Minnesota Thunder	5/10/2002	44		LGE	Bernal, Steve		
+Rivillo, Angel	Milwaukee Rampage	Milwaukee Rampage	Minnesota Thunder	5/10/2002	83		LGE	Takawira, Vitalis (Digital)		
+Torres, Johnny	Minnesota Thunder	Milwaukee Rampage	Minnesota Thunder	5/10/2002	45		LGE	Fenger-Larsen, Jakob		
+Torres, Johnny	Minnesota Thunder	Milwaukee Rampage	Minnesota Thunder	5/10/2002	62		LGE	Menyongar, Johnny		
+Gentile, Mike	Minnesota Thunder	Milwaukee Rampage	Minnesota Thunder	5/10/2002	36		LGE	Menyongar, Johnny		
+Wolyniec, John	Milwaukee Rampage	Milwaukee Rampage	Minnesota Thunder	6/12/2002	50		LGE	Aldrich, Jeremy		
+Lauber, Aaron	Milwaukee Rampage	Milwaukee Rampage	Minnesota Thunder	6/12/2002	90		LGE	Soso, Igor		
+Torres, Johnny	Minnesota Thunder	Milwaukee Rampage	Minnesota Thunder	6/12/2002	26		LGE			
+Torres, Johnny	Minnesota Thunder	Minnesota Thunder	Richmond Kickers	6/15/2002	80		LGE	Menyongar, Johnny		
+Torres, Johnny	Minnesota Thunder	Minnesota Thunder	Richmond Kickers	6/15/2002	78		LGE	Menyongar, Johnny		
+Jeffrey, Kevin	Richmond Kickers	Minnesota Thunder	Richmond Kickers	6/15/2002	56		LGE	Burke, Michael		
+Hayes, David	Richmond Kickers	Minnesota Thunder	Richmond Kickers	6/15/2002	62		LGE	Ferruzzi, Marco		
+Fenger-Larsen, Jakob	Minnesota Thunder	Minnesota Thunder	Vancouver Whitecaps	6/20/2002	84		LGE	Schulte, Mark		
+Veer, Andrew	Vancouver Whitecaps	Minnesota Thunder	Vancouver Whitecaps	6/20/2002	70		LGE	Valente, Alfredo		
+Magee, Amos	Minnesota Thunder	Minnesota Thunder	Rochester Rhinos	6/29/2002	34		LGE	Fenger-Larsen, Jakob		
+Mladenov, Stoian	Rochester Rhinos	Minnesota Thunder	Rochester Rhinos	6/29/2002	6		LGE	Wilson, Kirk		
+Schulte, Mark	Seattle Sounders	Minnesota Thunder	Seattle Sounders	7/4/2002	44	Own Goal	LGE			
+Ching, Brian	Seattle Sounders	Minnesota Thunder	Seattle Sounders	7/4/2002	77		LGE			
+O'Brien, Leighton	Seattle Sounders	Minnesota Thunder	Seattle Sounders	7/4/2002	17		LGE	Sawatzky, Darren		
+Torres, Johnny	Minnesota Thunder	Minnesota Thunder	Milwaukee Rampage	7/13/2002	42	Penalty	LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Minnesota Thunder	Milwaukee Rampage	7/13/2002	57	Penalty	LGE			
+Schmidt, Matt	Minnesota Thunder	Minnesota Thunder	Pittsburgh Riverhounds	7/26/2002	84		LGE	Menyongar, Johnny		
+Kilickan, Zafer	Minnesota Thunder	Minnesota Thunder	Pittsburgh Riverhounds	7/26/2002	59		LGE	Torres, Johnny		
+Menyongar, Johnny	Minnesota Thunder	Minnesota Thunder	Pittsburgh Riverhounds	7/26/2002	90		LGE	Kilickan, Zafer		
+Torres, Johnny	Minnesota Thunder	Hampton Roads Mariners	Minnesota Thunder	8/3/2002	64		LGE	Kilickan, Zafer		
+Torres, Johnny	Minnesota Thunder	Hampton Roads Mariners	Minnesota Thunder	8/3/2002	15		LGE	Shak, Steve		
+Adair, Chugger	Portland Timbers	Portland Timbers	Minnesota Thunder	8/16/2002	90		LGE			
+Afash, Fadi	Portland Timbers	Portland Timbers	Minnesota Thunder	8/16/2002	28		LGE	Costigan, Keith		
+Prendergast, Orett	Minnesota Thunder	Portland Timbers	Minnesota Thunder	8/16/2002	97		LGE	Torres, Johnny		
+Torres, Johnny	Minnesota Thunder	Portland Timbers	Minnesota Thunder	8/16/2002	58		LGE			
+Schmidt, Matt	Minnesota Thunder	Portland Timbers	Minnesota Thunder	8/16/2002	5		LGE	Gramenz, Don		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Minnesota Thunder	8/17/2002	5		LGE			
+Torres, Johnny	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/17/2002	31		LGE			
+Morehead, Marshall	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/17/2002	77		LGE			
+Menyongar, Johnny	Minnesota Thunder	Minnesota Thunder	Portland Timbers	8/25/2002	68		LGE	Torres, Johnny		
+Benedetti, Scott	Portland Timbers	Minnesota Thunder	Portland Timbers	8/25/2002	87		LGE	Tennyson, McKinley		
+Tennyson, McKinley	Portland Timbers	Minnesota Thunder	Portland Timbers	8/25/2002	97		LGE			
+Torres, Johnny	Minnesota Thunder	Minnesota Thunder	Milwaukee Rampage	8/30/2002	69		LGE	Magee, Amos		
+Lavrinenko, Yuri	Rochester Rhinos	Rochester Rhinos	Minnesota Thunder	9/1/2002	60		LGE			
+Nash, Martin	Rochester Rhinos	Rochester Rhinos	Minnesota Thunder	9/1/2002	70		LGE	Amani-Dove, Hamisi		
+Oliviero, Giuliano	Montreal Impact	Montreal Impact	Toronto Lynx	5/26/2002	55		LGE	Biello, Mauro		
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Toronto Lynx	5/26/2002	90		LGE	Placentino, Rocco		
+Roberto, Ze	Montreal Impact	Montreal Impact	Pittsburgh Riverhounds	6/9/2002	61		LGE	Leduc, Patrick		
+Pizzolitto, Nevio	Montreal Impact	Montreal Impact	Pittsburgh Riverhounds	6/9/2002	49		LGE	Leduc, Patrick		
+Bernier, Patrice	Montreal Impact	Montreal Impact	Pittsburgh Riverhounds	6/9/2002	58		LGE	Leduc, Patrick		
+Apple, Michael	Pittsburgh Riverhounds	Montreal Impact	Pittsburgh Riverhounds	6/9/2002	17		LGE	Potteiger, Derek		
+Flavius, David	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Montreal Impact	6/8/2002	54		LGE	DePalma, Gary		
+Sebrango, Eduardo	Montreal Impact	Pittsburgh Riverhounds	Montreal Impact	6/8/2002	59		LGE	Biello, Mauro		
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Rochester Rhinos	6/21/2002	75		LGE			
+Stebbins, Dan	Rochester Rhinos	Rochester Rhinos	Montreal Impact	7/6/2002	99		LGE	Steenkamp, Lenin		
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Rochester Rhinos	7/10/2002	9		LGE	Biello, Mauro		
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Rochester Rhinos	7/10/2002	54		LGE			
+DiTullio, Jason	Montreal Impact	Montreal Impact	Vancouver Whitecaps	7/17/2002	50		LGE	Biello, Mauro		
+Biello, Mauro	Montreal Impact	Montreal Impact	Vancouver Whitecaps	7/17/2002	20		LGE	Rowland, Mark		
+Lyall, Geordie	Vancouver Whitecaps	Montreal Impact	Vancouver Whitecaps	7/17/2002	36		LGE			
+Gervais, Gabriel	Montreal Impact	Montreal Impact	Hampton Roads Mariners	7/24/2002	90		LGE	Oliviero, Giuliano		
+Bernier, Patrice	Montreal Impact	Montreal Impact	Hampton Roads Mariners	7/24/2002	20		LGE	Roberto, Ze		
+Roberto, Ze	Montreal Impact	Montreal Impact	Hampton Roads Mariners	7/24/2002	19		LGE	Biello, Mauro		
+Zavala, Carlos	Rochester Rhinos	Rochester Rhinos	Montreal Impact	7/26/2002	82	Penalty	LGE			
+Rowland, Mark	Montreal Impact	Rochester Rhinos	Montreal Impact	7/26/2002	105		LGE	Biello, Mauro		
+Sebrango, Eduardo	Montreal Impact	Rochester Rhinos	Montreal Impact	7/26/2002	6		LGE	Bernier, Patrice		
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Richmond Kickers	7/31/2002	20		LGE			
+Sebrango, Eduardo	Montreal Impact	Montreal Impact	Richmond Kickers	7/31/2002	40		LGE			
+Henderson, Josh	Richmond Kickers	Montreal Impact	Richmond Kickers	7/31/2002	89		LGE	Williams, Anthony		
+Ferruzzi, Marco	Richmond Kickers	Montreal Impact	Richmond Kickers	7/31/2002	79		LGE	Williams, Anthony		
+Henderson, Josh	Richmond Kickers	Montreal Impact	Richmond Kickers	7/31/2002	24		LGE	Williams, Anthony		
+Rowland, Mark	Montreal Impact	Montreal Impact	Pittsburgh Riverhounds	8/2/2002	62		LGE	Roberto, Ze		
+Gervais, Gabriel	Montreal Impact	Montreal Impact	Toronto Lynx	8/7/2002	57		LGE			
+Penalillo, Julio	Toronto Lynx	Montreal Impact	Toronto Lynx	8/7/2002	109		LGE			
+Lucas, Ryan	Toronto Lynx	Montreal Impact	Toronto Lynx	8/7/2002	73		LGE	Kojic, Milan		
+Villar, Ricardo	Hampton Roads Mariners	Hampton Roads Mariners	Montreal Impact	8/9/2002	76	Penalty	LGE			
+Bernier, Patrice	Montreal Impact	Hampton Roads Mariners	Montreal Impact	8/9/2002	18		LGE	Biello, Mauro		
+Ukrop, Robert	Richmond Kickers	Richmond Kickers	Montreal Impact	8/10/2002	60		LGE	Stockton, Khary		
+Sebrango, Eduardo	Montreal Impact	Richmond Kickers	Montreal Impact	8/10/2002	31		LGE	Roberto, Ze		
+Sebrango, Eduardo	Montreal Impact	Richmond Kickers	Montreal Impact	8/10/2002	83		LGE			
+Martins, Thiago	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Montreal Impact	8/17/2002	86		LGE			
+Martins, Thiago	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Montreal Impact	8/17/2002	60		LGE			
+Sebrango, Eduardo	Montreal Impact	Vancouver Whitecaps	Montreal Impact	8/25/2002	80		LGE	Placentino, Rocco		
+Roberto, Ze	Montreal Impact	Vancouver Whitecaps	Montreal Impact	8/25/2002	27		LGE	Bernier, Patrice		
+Bernier, Patrice	Montreal Impact	Vancouver Whitecaps	Montreal Impact	8/25/2002	62		LGE	Oliviero, Giuliano		
+Afash, Fadi	Portland Timbers	Portland Timbers	Montreal Impact	8/29/2002	67		LGE	Howes, Gregory		
+Ritchie, Bryn	Portland Timbers	Portland Timbers	Montreal Impact	8/29/2002	65		LGE	Alcaraz-Cuellar, Hugo		
+Afash, Fadi	Portland Timbers	Portland Timbers	Montreal Impact	8/29/2002	23		LGE	Costigan, Keith		
+Apple, Michael	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Toronto Lynx	4/20/2002	82		LGE	Karn, Phil		
+Karn, Phil	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Toronto Lynx	4/20/2002	10		LGE	Apple, Michael		
+DiPlacido, David	Toronto Lynx	Pittsburgh Riverhounds	Toronto Lynx	4/20/2002	40		LGE	Knights, Irasto		
+Nash, Martin	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	5/4/2002	53		LGE	Mladenov, Stoian		
+Sedgewick, Bill	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	5/4/2002	94		LGE	Ballantyne, Jamal		
+Houser, Jeff	Pittsburgh Riverhounds	Rochester Rhinos	Pittsburgh Riverhounds	5/4/2002	88		LGE	Flavius, David		
+Villar, Ricardo	Hampton Roads Mariners	Pittsburgh Riverhounds	Hampton Roads Mariners	5/17/2002	109		LGE			
+Butcher, Steve	Hampton Roads Mariners	Hampton Roads Mariners	Pittsburgh Riverhounds	5/18/2002	76		LGE	King, David		
+Knott, Kevin	Hampton Roads Mariners	Hampton Roads Mariners	Pittsburgh Riverhounds	5/18/2002	82		LGE	Dominguez, Jeffrey		
+Houser, Jeff	Pittsburgh Riverhounds	Hampton Roads Mariners	Pittsburgh Riverhounds	5/18/2002	61		LGE	Conteh, Abdul Thompson		
+Conteh, Abdul Thompson	Pittsburgh Riverhounds	Hampton Roads Mariners	Pittsburgh Riverhounds	5/18/2002	73		LGE	Gutierrez, Henry		
+Wilson, Kirk	Rochester Rhinos	Pittsburgh Riverhounds	Rochester Rhinos	5/24/2002	51		LGE	Simmonds, Greg		
+Mladenov, Stoian	Rochester Rhinos	Pittsburgh Riverhounds	Rochester Rhinos	5/24/2002	59	Penalty	LGE			
+Flavius, David	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Toronto Lynx	5/31/2002	93		LGE	Johnson, Brian		
+Houser, Jeff	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Toronto Lynx	5/31/2002	39		LGE	Worthen, Joey		
+Knights, Irasto	Toronto Lynx	Pittsburgh Riverhounds	Toronto Lynx	5/31/2002	6		LGE	Aristodemo, Robbie		
+Ngon, Ali	Toronto Lynx	Toronto Lynx	Pittsburgh Riverhounds	6/12/2002	102	Own Goal	LGE			
+Kojic, Milan	Toronto Lynx	Toronto Lynx	Pittsburgh Riverhounds	6/12/2002	50		LGE	Vignjevic, Nikola		
+Alvero, Kevin	Pittsburgh Riverhounds	Toronto Lynx	Pittsburgh Riverhounds	6/12/2002	28		LGE	Worthen, Joey		
+Worthen, Joey	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Richmond Kickers	6/21/2002	23		LGE	Houser, Jeff		
+Hayes, David	Richmond Kickers	Pittsburgh Riverhounds	Richmond Kickers	6/21/2002	56		LGE			
+Hayes, David	Richmond Kickers	Pittsburgh Riverhounds	Richmond Kickers	6/21/2002	62		LGE	Williams, Anthony		
+Vignjevic, Nikola	Toronto Lynx	Toronto Lynx	Pittsburgh Riverhounds	6/23/2002	70		LGE			
+Budalic, Niki	Toronto Lynx	Toronto Lynx	Pittsburgh Riverhounds	6/23/2002	59		LGE	Vignjevic, Nikola		
+Simmonds, Greg	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	8/9/2002	48		LGE	Lavrinenko, Yuri		
+Kingsley, Zachary	Seattle Sounders	Portland Timbers	Seattle Sounders	5/4/2002	11		LGE	Farrell, Jason		
+Sawatzky, Darren	Seattle Sounders	Portland Timbers	Seattle Sounders	5/4/2002	38		LGE	Ching, Brian		
+Sawatzky, Darren	Seattle Sounders	Seattle Sounders	Portland Timbers	5/5/2002	87		LGE	Ching, Brian		
+Farrell, Jason	Seattle Sounders	Seattle Sounders	Portland Timbers	5/5/2002	76		LGE			
+Ching, Brian	Seattle Sounders	Seattle Sounders	Portland Timbers	5/5/2002	14		LGE	Daligcon, Nate		
+Tomlinson, Craig	Seattle Sounders	Seattle Sounders	Portland Timbers	5/5/2002	89		LGE	O'Brien, Leighton		
+Tennyson, McKinley	Portland Timbers	Seattle Sounders	Portland Timbers	5/5/2002	54	Penalty	LGE			
+Wolyniec, John	Milwaukee Rampage	Portland Timbers	Milwaukee Rampage	5/16/2002	90		LGE	Takawira, Vitalis (Digital)		
+Howes, Gregory	Portland Timbers	Portland Timbers	Vancouver Whitecaps	6/8/2002	57		LGE	Costigan, Keith		
+Howes, Gregory	Portland Timbers	Portland Timbers	Vancouver Whitecaps	6/8/2002	60		LGE	Sagare, Jacob		
+Afash, Fadi	Portland Timbers	Portland Timbers	Vancouver Whitecaps	6/8/2002	10		LGE	Alcaraz-Cuellar, Hugo		
+Kindel, Steve	Vancouver Whitecaps	Portland Timbers	Vancouver Whitecaps	6/8/2002	46		LGE			
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	6/9/2002	100		LGE	Kindel, Steve		
+Afash, Fadi	Portland Timbers	Portland Timbers	Hampton Roads Mariners	6/21/2002	57		LGE	Wilkinson, Gavin		
+Afash, Fadi	Portland Timbers	Portland Timbers	Hampton Roads Mariners	6/21/2002	34		LGE	Alcaraz-Cuellar, Hugo		
+Glasgow, Gary	Hampton Roads Mariners	Portland Timbers	Hampton Roads Mariners	6/21/2002	92		LGE	King, David		
+Callahan, Sean Michael	Hampton Roads Mariners	Portland Timbers	Hampton Roads Mariners	6/21/2002	16		LGE	Lujan, Arron		
+Knott, Kevin	Hampton Roads Mariners	Portland Timbers	Hampton Roads Mariners	6/21/2002	32		LGE	Glasgow, Gary		
+Afash, Fadi	Portland Timbers	Portland Timbers	Seattle Sounders	6/23/2002	24		LGE	Tennyson, McKinley		
+Hansen, Richard	Hampton Roads Mariners	Hampton Roads Mariners	Portland Timbers	6/28/2002	86		LGE			
+Howes, Gregory	Portland Timbers	Hampton Roads Mariners	Portland Timbers	6/28/2002	16		LGE	Winters, Brian		
+Henderson, Josh	Richmond Kickers	Richmond Kickers	Portland Timbers	6/29/2002	88		LGE			
+Dotsenko, Ihor	Richmond Kickers	Richmond Kickers	Portland Timbers	6/29/2002	50		LGE	Henderson, Josh		
+Ching, Brian	Seattle Sounders	Seattle Sounders	Portland Timbers	7/19/2002	61		LGE	O'Brien, Leighton		
+Gregor, Andrew	Seattle Sounders	Seattle Sounders	Portland Timbers	7/19/2002	71		LGE			
+Afash, Fadi	Portland Timbers	Seattle Sounders	Portland Timbers	7/19/2002	31		LGE	Tennyson, McKinley		
+Howes, Gregory	Portland Timbers	Milwaukee Rampage	Portland Timbers	8/21/2002	15		LGE	Tennyson, McKinley		
+Afash, Fadi	Portland Timbers	Milwaukee Rampage	Portland Timbers	8/21/2002	27		LGE	Tennyson, McKinley		
+Tennyson, McKinley	Portland Timbers	Portland Timbers	Vancouver Whitecaps	8/10/2002	31		LGE	Alcaraz-Cuellar, Hugo		
+Tennyson, McKinley	Portland Timbers	Portland Timbers	Vancouver Whitecaps	8/10/2002	90		LGE			
+Howes, Gregory	Portland Timbers	Portland Timbers	Vancouver Whitecaps	8/10/2002	35		LGE	Bower, Scott		
+Jordan, Jason	Vancouver Whitecaps	Portland Timbers	Vancouver Whitecaps	8/10/2002	44		LGE	Veer, Andrew		
+Jordan, Jason	Vancouver Whitecaps	Portland Timbers	Vancouver Whitecaps	8/10/2002	79		LGE			
+Dailly, Paul	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	9/2/2002	37		LGE			
+Clarke, Jeff	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	9/2/2002	63		LGE			
+Clarke, Jeff	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	9/2/2002	35		LGE	Jordan, Jason		
+Adair, Chugger	Portland Timbers	Vancouver Whitecaps	Portland Timbers	9/2/2002	22		LGE	Winters, Brian		
+Dotsenko, Ihor	Richmond Kickers	Richmond Kickers	Hampton Roads Mariners	4/19/2002	73		LGE	Lekics, Paul		
+Henderson, Josh	Richmond Kickers	Richmond Kickers	Hampton Roads Mariners	4/19/2002	6		LGE	Hayes, David		
+Dominguez, Jeffrey	Hampton Roads Mariners	Richmond Kickers	Hampton Roads Mariners	4/19/2002	90		LGE			
+Callahan, Sean Michael	Hampton Roads Mariners	Hampton Roads Mariners	Richmond Kickers	4/20/2002	85		LGE			
+Hayes, David	Richmond Kickers	Hampton Roads Mariners	Richmond Kickers	4/20/2002	39		LGE			
+Henderson, Josh	Richmond Kickers	Hampton Roads Mariners	Richmond Kickers	4/20/2002	14		LGE	Burke, Michael		
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Toronto Lynx	4/26/2002	90	Penalty	LGE			
+Budalic, Niki	Toronto Lynx	Richmond Kickers	Toronto Lynx	4/26/2002	83		LGE			
+Mladenov, Stoian	Rochester Rhinos	Richmond Kickers	Rochester Rhinos	6/9/2002	65		LGE			
+Simmonds, Greg	Rochester Rhinos	Richmond Kickers	Rochester Rhinos	6/9/2002	55		LGE	Nash, Martin		
+Bobo, Matthew	Milwaukee Rampage	Milwaukee Rampage	Richmond Kickers	6/16/2002	71		LGE	Soso, Igor		
+Henderson, Josh	Richmond Kickers	Milwaukee Rampage	Richmond Kickers	6/16/2002	31		LGE	Fox, Chris		
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Richmond Kickers	7/4/2002	96		LGE	Stebbins, Dan		
+Ferruzzi, Marco	Richmond Kickers	Hampton Roads Mariners	Richmond Kickers	7/19/2002	42		LGE	Lekics, Paul		
+Mladenov, Stoian	Rochester Rhinos	Rochester Rhinos	Milwaukee Rampage	5/31/2002	53		LGE	Simmonds, Greg		
+Soso, Igor	Milwaukee Rampage	Rochester Rhinos	Milwaukee Rampage	5/31/2002	67		LGE	Takawira, Vitalis (Digital)		
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Rochester Rhinos	Milwaukee Rampage	5/31/2002	103		LGE	Soso, Igor		
+Simmonds, Greg	Rochester Rhinos	Hampton Roads Mariners	Rochester Rhinos	6/8/2002	4		LGE	Suarez, Temoc		
+Steenkamp, Lenin	Rochester Rhinos	Hampton Roads Mariners	Rochester Rhinos	6/8/2002	84		LGE	Mladenov, Stoian		
+Suarez, Temoc	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	7/13/2002	32	Penalty	LGE			
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	7/13/2002	87		LGE			
+Budalic, Niki	Toronto Lynx	Toronto Lynx	Rochester Rhinos	7/14/2002	6		LGE	Knights, Irasto		
+Ashton, Brian	Toronto Lynx	Toronto Lynx	Rochester Rhinos	7/14/2002	78		LGE			
+Tanner, James (Jimmy)	Rochester Rhinos	Rochester Rhinos	Hampton Roads Mariners	7/28/2002	19		LGE	Sedgewick, Bill		
+Mattacchione, Joe	Toronto Lynx	Toronto Lynx	Rochester Rhinos	8/23/2002	18		LGE	Vignjevic, Nikola		
+Aristodemo, Robbie	Toronto Lynx	Toronto Lynx	Rochester Rhinos	8/23/2002	35		LGE	Vignjevic, Nikola		
+Simmonds, Greg	Rochester Rhinos	Toronto Lynx	Rochester Rhinos	8/23/2002	78		LGE	Steenkamp, Lenin		
+Simmonds, Greg	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	8/24/2002	35		LGE	Mladenov, Stoian		
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	8/24/2002	56		LGE	Mladenov, Stoian		
+Kingsley, Zachary	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	5/18/2002	91		LGE	Nguyen, Viet		
+Valente, Alfredo	Vancouver Whitecaps	Vancouver Whitecaps	Seattle Sounders	5/19/2002	57		LGE	Morris, David		
+Gregor, Andrew	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	5/19/2002	4		LGE	Nguyen, Viet		
+Nguyen, Viet	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	5/19/2002	63		LGE	Gregor, Andrew		
+Heald, Oliver	Vancouver Whitecaps	Vancouver Whitecaps	Seattle Sounders	5/26/2002	42	Penalty	LGE			
+Sawatzky, Darren	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	5/26/2002	83		LGE	O'Brien, Leighton		
+Sawatzky, Darren	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	5/26/2002	80		LGE	Farrell, Jason		
+Edwards, Ryan	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	5/26/2002	60		LGE	O'Brien, Leighton		
+Cameron, Kevan	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	5/26/2002	39	Own Goal	LGE			
+Smith, Kyle	Seattle Sounders	Seattle Sounders	Hampton Roads Mariners	6/22/2002	87		LGE	Jenkins, Scott		
+Nguyen, Viet	Seattle Sounders	Seattle Sounders	Hampton Roads Mariners	6/22/2002	56		LGE	O'Brien, Leighton		
+Ching, Brian	Seattle Sounders	Seattle Sounders	Hampton Roads Mariners	6/22/2002	53		LGE	Sawatzky, Darren		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Hampton Roads Mariners	6/22/2002	41		LGE	Sawatzky, Darren		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Hampton Roads Mariners	6/22/2002	21		LGE			
+Villar, Ricardo	Hampton Roads Mariners	Seattle Sounders	Hampton Roads Mariners	6/22/2002	89		LGE			
+Gregor, Andrew	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	7/28/2002	23		LGE	Ching, Brian		
+Nguyen, Viet	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	7/28/2002	78		LGE			
+Gregor, Andrew	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	7/28/2002	72		LGE	Nguyen, Viet		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	7/28/2002	40	Penalty	LGE			
+Morris, David	Vancouver Whitecaps	Seattle Sounders	Vancouver Whitecaps	7/28/2002	56		LGE	Clarke, Jeff		
+Edwards, Ryan	Seattle Sounders	Seattle Sounders	Toronto Lynx	7/31/2002	45		LGE	Gregor, Andrew		
+Ching, Brian	Seattle Sounders	Seattle Sounders	Milwaukee Rampage	8/10/2002	2		LGE	Nguyen, Viet		
+Gregor, Andrew	Seattle Sounders	Seattle Sounders	Milwaukee Rampage	8/10/2002	14		LGE			
+Angelovski, Sinisa	Milwaukee Rampage	Seattle Sounders	Milwaukee Rampage	8/10/2002	8		LGE	Bobo, Matthew		
+Wolyniec, John	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	8/31/2002	89	Penalty	LGE			
+Wolyniec, John	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	8/31/2002	76	Penalty	LGE			
+O'Brien, Leighton	Seattle Sounders	Milwaukee Rampage	Seattle Sounders	8/31/2002	80	Penalty	LGE			
+Callahan, Sean Michael	Hampton Roads Mariners	Hampton Roads Mariners	Toronto Lynx	4/27/2002	17		LGE	Brooks, Gary		
+Budalic, Niki	Toronto Lynx	Hampton Roads Mariners	Toronto Lynx	4/27/2002	30		LGE	Kojic, Milan		
+Thomas, Elvis	Toronto Lynx	Hampton Roads Mariners	Toronto Lynx	4/27/2002	72		LGE			
+Mattacchione, Joe	Toronto Lynx	Toronto Lynx	Vancouver Whitecaps	7/19/2002	59		LGE	Vignjevic, Nikola		
+Budalic, Niki	Toronto Lynx	Toronto Lynx	Hampton Roads Mariners	7/26/2002	90		LGE	Kojic, Milan		
+Brooks, Gary	Hampton Roads Mariners	Toronto Lynx	Hampton Roads Mariners	7/26/2002	60		LGE			
+Alvarez, Daniel	Hampton Roads Mariners	Toronto Lynx	Hampton Roads Mariners	7/26/2002	62		LGE	Brooks, Gary		
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	Toronto Lynx	8/2/2002	23		LGE	Heald, Oliver		
+Lucas, Ryan	Toronto Lynx	Vancouver Whitecaps	Toronto Lynx	8/2/2002	48		LGE	Kojic, Milan		
+Soso, Igor	Milwaukee Rampage	Milwaukee Rampage	Vancouver Whitecaps	6/22/2002	3		LGE	Bernal, Steve		
+Heald, Oliver	Vancouver Whitecaps	Vancouver Whitecaps	Milwaukee Rampage	8/11/2002	76	Penalty	LGE			
+Clarke, Jeff	Vancouver Whitecaps	Vancouver Whitecaps	Milwaukee Rampage	8/11/2002	73		LGE	Heald, Oliver		
+Clarke, Jeff	Vancouver Whitecaps	Vancouver Whitecaps	Milwaukee Rampage	8/11/2002	70		LGE	Valente, Alfredo		
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	Milwaukee Rampage	8/11/2002	51		LGE	Jordan, Jason		
+Behncke, Matt	Milwaukee Rampage	Vancouver Whitecaps	Milwaukee Rampage	8/11/2002	40		LGE	Takawira, Vitalis (Digital)		
+Rivillo, Angel	Milwaukee Rampage	Vancouver Whitecaps	Milwaukee Rampage	8/11/2002	66		LGE	Takawira, Vitalis (Digital)		
+Bertello, Mauricio	California Gold	California Gold	Northern Nevada Aces	4/12/2002	26		LGE	Cota, Antonio (Tony)		
+Bertello, Mauricio	California Gold	California Gold	Northern Nevada Aces	4/12/2002	73		LGE	Gordon, Jon		
+Brasil, Manuel	California Gold	California Gold	Northern Nevada Aces	4/12/2002	46		LGE	Gordon, Jon		
+Brasil, Manuel	California Gold	California Gold	Northern Nevada Aces	4/12/2002	49		LGE	Gordon, Jon		
+Brasil, Manuel	California Gold	California Gold	Northern Nevada Aces	4/12/2002	66		LGE	Gordon, Jon		
+Funes, Robert	Northern Nevada Aces	California Gold	Northern Nevada Aces	4/12/2002	24		LGE	Chavarin-Velazquez, Alfredo		
+Funes, Robert	Northern Nevada Aces	California Gold	Northern Nevada Aces	4/12/2002	47		LGE	Bell, Michael		
+Bertello, Mauricio	California Gold	California Gold	Utah Blitzz	4/20/2002	67		LGE	Kong, Jason		
+Pepe, Michael	California Gold	California Gold	Utah Blitzz	4/20/2002	20		LGE	Brasil, Manuel		
+Bautista, Ventura	Utah Blitzz	Utah Blitzz	San Diego Gauchos	5/25/2002	14		LGE	Estrada, Jorge		
+Gutierrez-Mendez, Alejandro	Utah Blitzz	Utah Blitzz	San Diego Gauchos	5/25/2002	3		LGE	Bautista, Ventura		
+Bautista, Ventura	Utah Blitzz	Utah Blitzz	San Diego Gauchos	5/25/2002	74		LGE			
+Westcott, Sterling	Utah Blitzz	Utah Blitzz	San Diego Gauchos	5/25/2002	62		LGE			
+Moreno, Alejandro	San Diego Gauchos	Utah Blitzz	San Diego Gauchos	5/25/2002	52		LGE	Larsen, Kristofer (Kris)		
+Maher, Anthony	Wilmington Hammerheads	Northern Virginia Royals	Wilmington Hammerheads	4/27/2002	68		LGE	Goulding, Graham		
+Kante, Daouda	Wilmington Hammerheads	Northern Virginia Royals	Wilmington Hammerheads	4/27/2002	34		LGE			
+Dotsenko, Ihor	Richmond Kickers	Richmond Kickers	Pittsburgh Riverhounds	5/11/2002	90		LGE			
+Hayes, David	Richmond Kickers	Richmond Kickers	Pittsburgh Riverhounds	5/11/2002	83		LGE			
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Pittsburgh Riverhounds	5/11/2002	57		LGE	Burke, Michael		
+Knight, Kevin	Richmond Kickers	Richmond Kickers	Pittsburgh Riverhounds	5/11/2002	47		LGE	Jeffrey, Kevin		
+Flavius, David	Pittsburgh Riverhounds	Richmond Kickers	Pittsburgh Riverhounds	5/11/2002	6		LGE	Hanning, T.J.		
+Brooks, Gary	Hampton Roads Mariners	Richmond Kickers	Hampton Roads Mariners	7/20/2002	76		LGE			
+Brooks, Gary	Hampton Roads Mariners	Richmond Kickers	Hampton Roads Mariners	7/20/2002	49		LGE	Glasgow, Gary		
+Henderson, Josh	Richmond Kickers	Richmond Kickers	Minnesota Thunder	8/2/2002	51		LGE	Jeffrey, Kevin		
+Henderson, Josh	Richmond Kickers	Richmond Kickers	Minnesota Thunder	8/2/2002	66		LGE	Jeffrey, Kevin		
+Goodlett, Ray	Richmond Kickers	Richmond Kickers	Minnesota Thunder	8/2/2002	93		LGE			
+Gramenz, Don	Minnesota Thunder	Richmond Kickers	Minnesota Thunder	8/2/2002	61		LGE	Torres, Johnny		
+Menyongar, Johnny	Minnesota Thunder	Richmond Kickers	Minnesota Thunder	8/2/2002	79		LGE			
+Lucas, Ryan	Toronto Lynx	Toronto Lynx	Montreal Impact	8/18/2002	15		LGE	Budalic, Niki		
+Sebrango, Eduardo	Montreal Impact	Toronto Lynx	Montreal Impact	8/18/2002	3		LGE	Oliviero, Giuliano		
+Roberto, Ze	Montreal Impact	Toronto Lynx	Montreal Impact	8/18/2002	7		LGE	Bernier, Patrice		

@@ -1,0 +1,876 @@
+Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Referee	Awarded	Round	Period	
+4/5/2003	California Gold	San Diego Gauchos	2	3	620	League Game	LGE			As Scored	0	0	
+4/11/2003	California Gold	Utah Blitzz	1	1	480	League Game	LGE			As Scored	0	0	
+4/12/2003	California Gold	Utah Blitzz	1	0	286	League Game	LGE			As Scored	0	0	
+4/18/2003	Virginia Beach Mariners	Cincinnati Riverhawks	3	2	843	League Game	LGE			As Scored	0	0	
+4/19/2003	California Gold	San Diego Gauchos	0	0	742	League Game	LGE			As Scored	0	0	
+4/19/2003	Charlotte Eagles	Cincinnati Riverhawks	0	1	804	League Game	LGE			As Scored	0	0	
+4/19/2003	Fresno Fuego	Nevada Wonders	4	1	100	League Game	LGE			As Scored	0	0	
+4/19/2003	New York Freedoms	Westchester Flames	4	1	100	League Game	LGE			As Scored	0	0	
+4/19/2003	Richmond Kickers	Charleston Battery	0	2	1,811	League Game	LGE			As Scored	0	0	
+4/25/2003	California Gold	Nevada Wonders	4	0	50	League Game	LGE			As Scored	0	0	
+4/25/2003	Carolina Dynamo	Long Island Rough Riders	2	2	100	League Game	LGE			As Scored	0	0	
+4/25/2003	Charlotte Eagles	Pittsburgh Riverhounds	0	5	100	League Game	LGE			As Scored	0	0	
+4/25/2003	El Paso Patriots	Minnesota Thunder	0	1	1,434	League Game	LGE			As Scored	0	0	
+4/25/2003	San Diego Gauchos	Utah Blitzz	1	2	100	League Game	LGE			As Scored	0	0	
+4/25/2003	Richmond Kickers	Indiana Blast	3	0	343	League Game	LGE			As Scored	0	0	
+4/26/2003	Atlanta Silverbacks	Pittsburgh Riverhounds	2	2	1,469	League Game	LGE			As Scored	0	0	
+4/26/2003	Charleston Battery	Montreal Impact	1	0	4,813	League Game	LGE			As Scored	0	0	
+4/26/2003	Fresno Fuego	California Gold	4	2	400	League Game	LGE			As Scored	0	0	
+4/26/2003	New Jersey Stallions	New Hampshire Phantoms	2	1	350	League Game	LGE			As Scored	0	0	
+4/26/2003	New York Freedoms	Reading Rage	1	2	100	League Game	LGE			As Scored	0	0	
+4/26/2003	San Diego Gauchos	Utah Blitzz	1	3	330	League Game	LGE			As Scored	0	0	
+4/26/2003	Virginia Beach Mariners	Indiana Blast	2	0	566	League Game	LGE			As Scored	0	0	
+4/26/2003	Westchester Flames	Western Mass Pioneers	5	4	60	League Game	LGE			As Scored	0	0	
+4/27/2003	El Paso Patriots	Minnesota Thunder	2	1	100	League Game	LGE			As Scored	0	0	
+5/1/2003	Portland Timbers	Seattle Sounders	0	1	100	League Game	LGE			As Scored	0	0	
+5/2/2003	BYU Cougars	Nevada Wonders	3	0	100	League Game	LGE			As Scored	0	0	
+5/2/2003	Charlotte Eagles	Syracuse Salty Dogs	1	3	100	League Game	LGE			As Scored	0	0	
+5/2/2003	Cincinnati Riverhawks	Indiana Blast	3	0	100	League Game	LGE			As Scored	0	0	
+5/2/2003	Houston Toros	Texas Spurs	3	4	100	League Game	LGE			As Scored	0	0	
+5/2/2003	Rochester Rhinos	Atlanta Silverbacks	2	2	100	League Game	LGE			As Scored	0	0	
+5/2/2003	Seattle Sounders	Portland Timbers	2	0	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Austin Lightning	Houston Toros	4	3	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Carolina Dynamo	Wilmington Hammerheads	2	1	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Charleston Battery	Virginia Beach Mariners	3	1	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Indiana Invaders	Ft. Wayne Fever	2	0	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Louisiana Outlaws	Nashville Metros	0	2	100	League Game	LGE			As Scored	0	0	
+5/3/2003	New Hampshire Phantoms	Western Mass Pioneers	3	2	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Northern Virginia Royals	Reading Rage	0	1	100	League Game	LGE			As Scored	0	0	
+5/3/2003	San Diego Gauchos	California Gold	2	3	100	League Game	LGE			As Scored	0	0	
+5/3/2003	South Jersey Barons	Rhode Island Stingrays	0	3	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Southern California Seahorses	Fresno Fuego	1	4	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Utah Blitzz	Nevada Wonders	6	0	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Pittsburgh Riverhounds	Toronto Lynx	0	2	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Vancouver Whitecaps	Calgary Storm	6	0	100	League Game	LGE			As Scored	0	0	
+5/3/2003	Westchester Flames	Long Island Rough Riders	0	3	100	League Game	LGE			As Scored	0	0	
+5/4/2003	Atlanta Silverbacks	Richmond Kickers	0	2	100	League Game	LGE			As Scored	0	0	
+5/4/2003	Brooklyn Knights	Jersey Shore Boca	4	2	100	League Game	LGE			As Scored	0	0	
+5/4/2003	Jersey Falcons	Worcester Kings	5	0	100	League Game	LGE			As Scored	0	0	
+5/4/2003	New Orleans Shell Shockers	Nashville Metros	2	0	100	League Game	LGE			As Scored	0	0	
+5/4/2003	Orange County Blue Star	Fresno Fuego	3	1	100	League Game	LGE			As Scored	0	0	
+5/4/2003	Reading Rage	New Jersey Stallions	3	1	100	League Game	LGE			As Scored	0	0	
+5/4/2003	Minnesota Thunder	Cincinnati Riverhawks	1	0	100	League Game	LGE			As Scored	0	0	
+5/4/2003	Seattle Sounders	Calgary Storm	1	2	100	League Game	LGE			As Scored	0	0	
+5/9/2003	Cascade Surge	Yakima Reds	2	3	100	League Game	LGE			As Scored	0	0	
+5/9/2003	Charlotte Eagles	Charleston Battery	0	1	1,255	League Game	LGE			As Scored	0	0	
+5/9/2003	Cocoa Expos	Bradenton Academics	1	2	100	League Game	LGE			As Scored	0	0	
+5/9/2003	Fresno Fuego	Orange County Blue Star	3	1	100	League Game	LGE			As Scored	0	0	
+5/9/2003	Kansas City Brass	Sioux Falls SpitFire	3	1	100	League Game	LGE			As Scored	0	0	
+5/9/2003	Rhode Island Stingrays	Jersey Falcons	3	2	100	League Game	LGE			As Scored	0	0	
+5/9/2003	St. Louis Strikers	Wisconsin Rebels	4	0	100	League Game	LGE			As Scored	0	0	
+5/9/2003	Texas Spurs	Louisiana Outlaws	4	2	100	League Game	LGE			As Scored	0	0	
+5/9/2003	Virginia Beach Mariners	Rochester Rhinos	3	0	1	League Game	LGE			As Scored	0	0	
+5/9/2003	Indiana Blast	El Paso Patriots	2	2	1	League Game	LGE			As Scored	0	0	
+5/9/2003	Wilmington Hammerheads	New York Freedoms	4	2	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Austin Lightning	New Orleans Shell Shockers	2	1	100	League Game	LGE			As Scored	0	0	
+5/10/2003	California Gold	Orange County Blue Star	3	2	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Cape Cod Crusaders	Jersey Falcons	5	2	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Carolina Dynamo	New York Freedoms	1	0	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Charleston Battery	Charlotte Eagles	2	2	1	League Game	LGE			As Scored	0	0	
+5/10/2003	Cincinnati Riverhawks	El Paso Patriots	3	0	1	League Game	LGE			As Scored	0	0	
+5/10/2003	Des Moines Menace	Chicago Fire Reserves	2	0	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Ft. Wayne Fever	Columbus Shooting Stars	2	1	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Kansas City Brass	Wisconsin Rebels	7	1	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Nashville Metros	Houston Toros	7	0	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Nevada Wonders	Southern California Seahorses	1	1	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Palm Beach Pumas	Central Florida Kraze	3	1	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Reading Rage	Northern Virginia Royals	2	1	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Richmond Kickers Future	Williamsburg Legacy	1	0	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Spokane Shadow	Yakima Reds	2	0	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Toledo Slayers	Kalamazoo Kingdom	1	4	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Utah Blitzz	BYU Cougars	4	0	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Richmond Kickers	Pittsburgh Riverhounds	0	3	1	League Game	LGE			As Scored	0	0	
+5/10/2003	Toronto Lynx	Montreal Impact	0	2	1	League Game	LGE			As Scored	0	0	
+5/10/2003	West Virginia Chaos	Greenville Lions	1	0	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Westchester Flames	New Hampshire Phantoms	2	3	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Western Mass Pioneers	Long Island Rough Riders	2	2	2,220	League Game	LGE			As Scored	0	0	
+5/10/2003	Worcester Kings	Vermont Voltage	1	2	100	League Game	LGE			As Scored	0	0	
+5/11/2003	Atlanta Silverbacks	Rochester Rhinos	0	2	1	League Game	LGE			As Scored	0	0	
+5/11/2003	Brooklyn Knights	Rhode Island Stingrays	1	1	100	League Game	LGE			As Scored	0	0	
+5/11/2003	Chesapeake Dragons	Williamsburg Legacy	2	1	100	League Game	LGE			As Scored	0	0	
+5/11/2003	Fresno Fuego	San Diego Gauchos	2	0	100	League Game	LGE			As Scored	0	0	
+5/11/2003	Memphis Express	Houston Toros	6	2	100	League Game	LGE			As Scored	0	0	
+5/11/2003	New Jersey Stallions	Reading Rage	7	3	100	League Game	LGE			As Scored	0	0	
+5/11/2003	St. Louis Strikers	Sioux Falls SpitFire	3	1	100	League Game	LGE			As Scored	0	0	
+5/11/2003	Texas Spurs	New Orleans Shell Shockers	0	2	100	League Game	LGE			As Scored	0	0	
+5/11/2003	Vancouver Whitecaps	Portland Timbers	2	1	1	League Game	LGE			As Scored	0	0	
+5/11/2003	West Virginia Chaos	Raleigh CASL Elite	0	3	100	League Game	LGE			As Scored	0	0	
+5/12/2003	Calgary Storm	Portland Timbers	0	1	1	League Game	LGE			As Scored	0	0	
+5/14/2003	Albany Black Watch Highlanders	Cape Cod Crusaders	1	2	100	League Game	LGE			As Scored	0	0	
+5/14/2003	Portland Timbers	Calgary Storm	4	1	1	League Game	LGE			As Scored	0	0	
+5/14/2003	Toronto Lynx	Syracuse Salty Dogs	0	1	1	League Game	LGE			As Scored	0	0	
+5/15/2003	Kansas City Brass	Boulder Rapids Reserve	2	0	100	League Game	LGE			As Scored	0	0	
+5/16/2003	BYU Cougars	Southern California Seahorses	2	3	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Central Florida Kraze	Cocoa Expos	3	1	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Charlotte Eagles	Atlanta Silverbacks	1	1	1	League Game	LGE			As Scored	0	0	
+5/16/2003	Cincinnati Riverhawks	Indiana Blast	2	1	1	League Game	LGE			As Scored	0	0	
+5/16/2003	Greenville Lions	Richmond Kickers Future	1	2	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Indiana Invaders	Toledo Slayers	1	1	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Kalamazoo Kingdom	West Michigan Edge	1	2	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Louisiana Outlaws	Memphis Express	0	2	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Palm Beach Pumas	Bradenton Academics	1	3	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Raleigh CASL Elite	Chesapeake Dragons	1	0	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Reading Rage	Carolina Dynamo	1	4	100	League Game	LGE			As Scored	0	0	
+5/16/2003	St. Louis Strikers	Des Moines Menace	1	2	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Utah Blitzz	California Gold	2	0	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Milwaukee Wave United	Minnesota Thunder	0	2	1	League Game	LGE			As Scored	0	0	
+5/16/2003	Vancouver Whitecaps	El Paso Patriots	1	0	1	League Game	LGE			As Scored	0	0	
+5/16/2003	Western Mass Pioneers	New Hampshire Phantoms	2	1	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Wisconsin Rebels	Thunder Bay Chill	1	2	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Worcester Kings	South Jersey Barons	0	3	100	League Game	LGE			As Scored	0	0	
+5/16/2003	Yakima Reds	Calgary Storm Prospects	2	2	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Abbotsford Rangers	Spokane Shadow	2	3	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Atlanta Silverbacks	Charlotte Eagles	1	1	1	League Game	LGE			As Scored	0	0	
+5/17/2003	Austin Lightning	Texas Spurs	1	2	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Brooklyn Knights	Worcester Kings	0	0	100	League Game	LGE	Worcester Forfeit		Home Win	0	0	
+5/17/2003	BYU Cougars	California Gold	1	6	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Calgary Storm	El Paso Patriots	2	1	1	League Game	LGE			As Scored	0	0	
+5/17/2003	Cape Cod Crusaders	South Jersey Barons	0	0	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Cascade Surge	Calgary Storm Prospects	3	0	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Greenville Lions	Chesapeake Dragons	1	2	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Houston Toros	Louisiana Outlaws	2	0	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Kansas City Brass	Des Moines Menace	0	1	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Long Island Rough Riders	Carolina Dynamo	1	0	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Mid Michigan Bucks	Ft. Wayne Fever	2	1	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Nevada Wonders	Orange County Blue Star	0	4	100	League Game	LGE			As Scored	0	0	
+5/17/2003	New Jersey Stallions	Westchester Flames	2	4	100	League Game	LGE			As Scored	0	0	
+5/17/2003	New Orleans Shell Shockers	Memphis Express	3	2	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Rhode Island Stingrays	Vermont Voltage	0	0	100	League Game	LGE			As Scored	0	0	
+5/17/2003	San Diego Gauchos	Fresno Fuego	0	3	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	0	5	100	League Game	LGE			As Scored	0	0	
+5/17/2003	St. Louis Strikers	Boulder Rapids Reserve	1	2	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Utah Blitzz	Southern California Seahorses	2	2	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Virginia Beach Mariners	Charleston Battery	5	2	1	League Game	LGE			As Scored	0	0	
+5/17/2003	Rochester Rhinos	Pittsburgh Riverhounds	2	1	1	League Game	LGE			As Scored	0	0	
+5/17/2003	Syracuse Salty Dogs	Toronto Lynx	3	0	1	League Game	LGE			As Scored	0	0	
+5/17/2003	Williamsburg Legacy	Raleigh CASL Elite	3	1	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Wisconsin Rebels	Thunder Bay Chill	0	2	100	League Game	LGE			As Scored	0	0	
+5/18/2003	Abbotsford Rangers	Spokane Shadow	0	1	100	League Game	LGE			As Scored	0	0	
+5/18/2003	Albany Black Watch Highlanders	South Jersey Barons	1	2	100	League Game	LGE			As Scored	0	0	
+5/18/2003	Bradenton Academics	Central Florida Kraze	1	1	100	League Game	LGE			As Scored	0	0	
+5/18/2003	Cincinnati Riverhawks	Minnesota Thunder	1	2	1	League Game	LGE			As Scored	0	0	
+5/18/2003	Columbus Shooting Stars	Kalamazoo Kingdom	0	1	100	League Game	LGE			As Scored	0	0	
+5/18/2003	Jersey Falcons	Brooklyn Knights	4	3	100	League Game	LGE			As Scored	0	0	
+5/18/2003	Kansas City Brass	Boulder Rapids Reserve	3	2	100	League Game	LGE			As Scored	0	0	
+5/18/2003	Richmond Kickers Future	Wilmington Hammerheads	1	0	100	League Game	LGE			As Scored	0	0	
+5/18/2003	Montreal Impact	Richmond Kickers	0	0	1	League Game	LGE			As Scored	0	0	
+5/18/2003	Seattle Sounders	Portland Timbers	1	0	1	League Game	LGE			As Scored	0	0	
+5/19/2003	Mid Michigan Bucks	Toledo Slayers	3	2	100	League Game	LGE			As Scored	0	0	
+5/19/2003	Toronto Lynx	Rochester Rhinos	1	1	1	League Game	LGE			As Scored	0	0	
+5/20/2003	Northern Virginia Royals	Wilmington Hammerheads	1	5	100	League Game	LGE			As Scored	0	0	
+5/21/2003	Kalamazoo Kingdom	Mid Michigan Bucks	1	1	100	League Game	LGE			As Scored	0	0	
+5/21/2003	Toledo Slayers	West Michigan Edge	5	3	100	League Game	LGE			As Scored	0	0	
+5/21/2003	Worcester Kings	Albany Black Watch Highlanders	1	2	100	League Game	LGE			As Scored	0	0	
+5/22/2003	Calgary Storm	Seattle Sounders	0	1	1	League Game	LGE			As Scored	0	0	
+5/23/2003	Bradenton Academics	Cocoa Expos	5	0	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Central Florida Kraze	Palm Beach Pumas	1	6	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Chicago Fire Reserves	St. Louis Strikers	4	1	100	League Game	LGE			As Scored	0	0	
+5/23/2003	El Paso Patriots	Indiana Blast	1	0	1	League Game	LGE			As Scored	0	0	
+5/23/2003	Ft. Wayne Fever	West Michigan Edge	2	3	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Long Island Rough Riders	Northern Virginia Royals	1	0	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Memphis Express	Austin Lightning	1	2	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Nashville Metros	Texas Spurs	2	0	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Nevada Wonders	Fresno Fuego	0	3	100	League Game	LGE			As Scored	0	0	
+5/23/2003	New Jersey Stallions	New York Freedoms	2	1	100	League Game	LGE			As Scored	0	0	
+5/23/2003	New Orleans Shell Shockers	Louisiana Outlaws	4	0	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Richmond Kickers Future	West Virginia Chaos	5	0	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Sioux Falls SpitFire	Wisconsin Rebels	4	0	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Southern California Seahorses	BYU Cougars	2	1	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Spokane Shadow	Cascade Surge	1	2	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Thunder Bay Chill	Kalamazoo Kingdom	2	0	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Vermont Voltage	Albany Black Watch Highlanders	1	0	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Milwaukee Wave United	Charlotte Eagles	2	0	1	League Game	LGE			As Scored	0	0	
+5/23/2003	Richmond Kickers	Montreal Impact	1	2	1	League Game	LGE			As Scored	0	0	
+5/23/2003	Syracuse Salty Dogs	Rochester Rhinos	0	2	1	League Game	LGE			As Scored	0	0	
+5/23/2003	Vancouver Whitecaps	Seattle Sounders	2	2	1	League Game	LGE			As Scored	0	0	
+5/23/2003	Western Mass Pioneers	Reading Rage	6	2	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Worcester Kings	Jersey Falcons	4	2	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Yakima Reds	Abbotsford Rangers	2	1	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Charleston Battery	Atlanta Silverbacks	1	0	1	League Game	LGE			As Scored	0	0	
+5/24/2003	Cocoa Expos	Palm Beach Pumas	2	2	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Columbus Shooting Stars	Indiana Invaders	1	2	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Des Moines Menace	Wisconsin Rebels	7	0	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Louisiana Outlaws	Houston Toros	1	2	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Nashville Metros	Austin Lightning	4	0	100	League Game	LGE			As Scored	0	0	
+5/24/2003	New Hampshire Phantoms	Reading Rage	4	0	100	League Game	LGE			As Scored	0	0	
+5/24/2003	New York Freedoms	Northern Virginia Royals	2	0	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Orange County Blue Star	BYU Cougars	5	4	100	League Game	LGE			As Scored	0	0	
+5/24/2003	South Jersey Barons	Brooklyn Knights	2	1	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Thunder Bay Chill	Kalamazoo Kingdom	0	3	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Utah Blitzz	San Diego Gauchos	4	0	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Vermont Voltage	Jersey Falcons	1	1	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Virginia Beach Mariners	Montreal Impact	1	1	1	League Game	LGE			As Scored	0	0	
+5/24/2003	Minnesota Thunder	Milwaukee Wave United	1	2	1	League Game	LGE			As Scored	0	0	
+5/24/2003	Rochester Rhinos	Syracuse Salty Dogs	1	2	1	League Game	LGE			As Scored	0	0	
+5/24/2003	Westchester Flames	New Jersey Stallions	2	1	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Williamsburg Legacy	Greenville Lions	2	0	100	League Game	LGE			As Scored	0	0	
+5/24/2003	Wilmington Hammerheads	Carolina Dynamo	1	2	100	League Game	LGE			As Scored	0	0	
+5/25/2003	Abbotsford Rangers	Cascade Surge	1	2	100	League Game	LGE			As Scored	0	0	
+5/25/2003	Calgary Storm Prospects	Spokane Shadow	1	2	100	League Game	LGE			As Scored	0	0	
+5/25/2003	Calgary Storm	Portland Timbers	2	1	1	League Game	LGE			As Scored	0	0	
+5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	3	2	100	League Game	LGE			As Scored	0	0	
+5/25/2003	El Paso Patriots	Indiana Blast	3	1	1	League Game	LGE			As Scored	0	0	
+5/25/2003	Fresno Fuego	Southern California Seahorses	2	1	100	League Game	LGE			As Scored	0	0	
+5/25/2003	Memphis Express	Texas Spurs	1	1	100	League Game	LGE			As Scored	0	0	
+5/25/2003	New Orleans Shell Shockers	Houston Toros	4	0	100	League Game	LGE			As Scored	0	0	
+5/25/2003	Seattle Sounders	Vancouver Whitecaps	0	0	1	League Game	LGE			As Scored	0	0	
+5/25/2003	Worcester Kings	Rhode Island Stingrays	1	3	100	League Game	LGE			As Scored	0	0	
+5/26/2003	Indiana Invaders	Mid Michigan Bucks	1	3	100	League Game	LGE			As Scored	0	0	
+5/26/2003	Raleigh CASL Elite	Richmond Kickers Future	1	0	100	League Game	LGE			As Scored	0	0	
+5/26/2003	Virginia Beach Mariners	Toronto Lynx	0	1	1	League Game	LGE			As Scored	0	0	
+5/26/2003	Pittsburgh Riverhounds	Richmond Kickers	2	0	1	League Game	LGE			As Scored	0	0	
+5/26/2003	West Michigan Edge	Columbus Shooting Stars	4	2	100	League Game	LGE			As Scored	0	0	
+5/26/2003	Wisconsin Rebels	Boulder Rapids Reserve	0	3	100	League Game	LGE			As Scored	0	0	
+5/27/2003	Chesapeake Dragons	West Virginia Chaos	4	1	100	League Game	LGE			As Scored	0	0	
+5/27/2003	Rhode Island Stingrays	Cape Cod Crusaders	1	1	100	League Game	LGE			As Scored	0	0	
+5/27/2003	Portland Timbers	Minnesota Thunder	0	3	1	League Game	LGE			As Scored	0	0	
+5/28/2003	Albany Black Watch Highlanders	Jersey Falcons	5	3	100	League Game	LGE			As Scored	0	0	
+5/28/2003	Cape Cod Crusaders	Vermont Voltage	2	1	100	League Game	LGE			As Scored	0	0	
+5/28/2003	Carolina Dynamo	Raleigh CASL Elite	2	1	100	League Game	LGE			As Scored	0	0	
+5/28/2003	New York Freedoms	Long Island Rough Riders	2	2	100	League Game	LGE			As Scored	0	0	
+5/28/2003	Toledo Slayers	Mid Michigan Bucks	0	1	100	League Game	LGE			As Scored	0	0	
+5/28/2003	Western Mass Pioneers	Westchester Flames	0	1	100	League Game	LGE			As Scored	0	0	
+5/29/2003	Charlotte Eagles	Toronto Lynx	1	1	1	League Game	LGE			As Scored	0	0	
+5/29/2003	Portland Timbers	Vancouver Whitecaps	1	0	1	League Game	LGE			As Scored	0	0	
+5/30/2003	Calgary Storm Prospects	Abbotsford Rangers	3	2	100	League Game	LGE			As Scored	0	0	
+5/30/2003	Cocoa Expos	Palm Beach Pumas	7	0	100	League Game	LGE			As Scored	0	0	
+5/30/2003	Fresno Fuego	California Gold	2	3	100	League Game	LGE			As Scored	0	0	
+5/30/2003	Houston Toros	Memphis Express	0	4	100	League Game	LGE			As Scored	0	0	
+5/30/2003	Nevada Wonders	BYU Cougars	3	0	100	League Game	LGE			As Scored	0	0	
+5/30/2003	New Orleans Shell Shockers	Louisiana Outlaws	4	2	100	League Game	LGE			As Scored	0	0	
+5/30/2003	Orange County Blue Star	Utah Blitzz	1	0	100	League Game	LGE			As Scored	0	0	
+5/30/2003	Reading Rage	New York Freedoms	1	4	100	League Game	LGE			As Scored	0	0	
+5/30/2003	St. Louis Strikers	Chicago Fire Reserves	2	3	100	League Game	LGE			As Scored	0	0	
+5/30/2003	Thunder Bay Chill	Sioux Falls SpitFire	2	3	100	League Game	LGE			As Scored	0	0	
+5/30/2003	Richmond Kickers	Cincinnati Riverhawks	4	1	1	League Game	LGE			As Scored	0	0	
+5/30/2003	Vancouver Whitecaps	Montreal Impact	0	1	1	League Game	LGE			As Scored	0	0	
+5/30/2003	West Michigan Edge	Indiana Invaders	1	3	100	League Game	LGE			As Scored	0	0	
+5/30/2003	West Virginia Chaos	Carolina Dynamo	0	5	100	League Game	LGE			As Scored	0	0	
+5/30/2003	Wisconsin Rebels	Des Moines Menace	0	2	100	League Game	LGE			As Scored	0	0	
+5/30/2003	Yakima Reds	Cascade Surge	1	2	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Atlanta Silverbacks	Toronto Lynx	4	2	1	League Game	LGE			As Scored	0	0	
+5/31/2003	Brooklyn Knights	Vermont Voltage	2	0	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Cape Cod Crusaders	Worcester Kings	3	1	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Central Florida Kraze	Bradenton Academics	4	1	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Charlotte Eagles	Virginia Beach Mariners	3	2	1	League Game	LGE			As Scored	0	0	
+5/31/2003	Des Moines Menace	St. Louis Strikers	4	1	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Kalamazoo Kingdom	Ft. Wayne Fever	2	4	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Mid Michigan Bucks	Columbus Shooting Stars	1	0	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Nashville Metros	Kansas City Brass	2	0	100	League Game	LGE			As Scored	0	0	
+5/31/2003	New Hampshire Phantoms	New Jersey Stallions	0	1	100	League Game	LGE			As Scored	0	0	
+5/31/2003	New Orleans Shell Shockers	Austin Lightning	2	0	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Rhode Island Stingrays	Albany Black Watch Highlanders	2	2	100	League Game	LGE			As Scored	0	0	
+5/31/2003	South Jersey Barons	Jersey Shore Boca	3	1	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Southern California Seahorses	Utah Blitzz	2	1	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Texas Spurs	Houston Toros	5	0	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Thunder Bay Chill	Sioux Falls SpitFire	3	0	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Indiana Blast	El Paso Patriots	0	1	1	League Game	LGE			As Scored	0	0	
+5/31/2003	Minnesota Thunder	Syracuse Salty Dogs	4	2	1	League Game	LGE			As Scored	0	0	
+5/31/2003	Pittsburgh Riverhounds	Rochester Rhinos	1	3	1	League Game	LGE			As Scored	0	0	
+5/31/2003	West Virginia Chaos	Northern Virginia Royals	2	4	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Williamsburg Legacy	Wilmington Hammerheads	3	2	100	League Game	LGE			As Scored	0	0	
+5/31/2003	Yakima Reds	Spokane Shadow	2	3	100	League Game	LGE			As Scored	0	0	
+6/1/2003	Calgary Storm Prospects	Abbotsford Rangers	2	1	100	League Game	LGE			As Scored	0	0	
+6/1/2003	Calgary Storm	Montreal Impact	0	4	1	League Game	LGE			As Scored	0	0	
+6/1/2003	Cascade Surge	Spokane Shadow	2	2	100	League Game	LGE			As Scored	0	0	
+6/1/2003	Chesapeake Dragons	Wilmington Hammerheads	1	2	100	League Game	LGE			As Scored	0	0	
+6/1/2003	Cincinnati Riverhawks	El Paso Patriots	2	3	1	League Game	LGE			As Scored	0	0	
+6/1/2003	Jersey Falcons	Vermont Voltage	0	2	100	League Game	LGE			As Scored	0	0	
+6/1/2003	Louisiana Outlaws	Austin Lightning	0	4	100	League Game	LGE			As Scored	0	0	
+6/1/2003	Memphis Express	Kansas City Brass	5	1	100	League Game	LGE			As Scored	0	0	
+6/1/2003	Nevada Wonders	Fresno Fuego	0	3	100	League Game	LGE			As Scored	0	0	
+6/1/2003	Palm Beach Pumas	Cocoa Expos	3	4	100	League Game	LGE			As Scored	0	0	
+6/1/2003	Milwaukee Wave United	Syracuse Salty Dogs	1	3	1	League Game	LGE			As Scored	0	0	
+6/1/2003	Westchester Flames	San Diego Gauchos	2	1	100	League Game	LGE			As Scored	0	0	
+6/1/2003	Williamsburg Legacy	Greenville Lions	1	1	100	League Game	LGE			As Scored	0	0	
+6/3/2003	New York Freedoms	New Hampshire Phantoms	3	2	100	League Game	LGE			As Scored	0	0	
+6/3/2003	Indiana Blast	Minnesota Thunder	1	3	1	League Game	LGE			As Scored	0	0	
+6/3/2003	Western Mass Pioneers	San Diego Gauchos	5	0	100	League Game	LGE			As Scored	0	0	
+6/4/2003	Albany Black Watch Highlanders	Rhode Island Stingrays	3	1	100	League Game	LGE			As Scored	0	0	
+6/4/2003	Indiana Invaders	Kalamazoo Kingdom	1	3	100	League Game	LGE			As Scored	0	0	
+6/4/2003	Southern California Seahorses	Orange County Blue Star	4	1	100	League Game	LGE			As Scored	0	0	
+6/4/2003	Pittsburgh Riverhounds	Charleston Battery	0	0	1	League Game	LGE			As Scored	0	0	
+6/6/2003	BYU Cougars	Fresno Fuego	0	4	100	League Game	LGE			As Scored	0	0	
+6/6/2003	California Gold	Southern California Seahorses	2	1	100	League Game	LGE			As Scored	0	0	
+6/6/2003	Charlotte Eagles	Richmond Kickers	1	1	1	League Game	LGE			As Scored	0	0	
+6/6/2003	Cincinnati Riverhawks	Calgary Storm	0	1	1	League Game	LGE			As Scored	0	0	
+6/6/2003	Cocoa Expos	Central Florida Kraze	4	3	100	League Game	LGE			As Scored	0	0	
+6/6/2003	Greenville Lions	West Virginia Chaos	4	3	100	League Game	LGE			As Scored	0	0	
+6/6/2003	Houston Toros	Texas Spurs	1	3	100	League Game	LGE			As Scored	0	0	
+6/6/2003	New Hampshire Phantoms	San Diego Gauchos	2	0	100	League Game	LGE			As Scored	0	0	
+6/6/2003	Raleigh CASL Elite	Chesapeake Dragons	1	2	100	League Game	LGE			As Scored	0	0	
+6/6/2003	Sioux Falls SpitFire	Boulder Rapids Reserve	0	2	100	League Game	LGE			As Scored	0	0	
+6/6/2003	St. Louis Strikers	Nashville Metros	2	3	100	League Game	LGE			As Scored	0	0	
+6/6/2003	Thunder Bay Chill	Wisconsin Rebels	1	0	100	League Game	LGE			As Scored	0	0	
+6/6/2003	Virginia Beach Mariners	Atlanta Silverbacks	5	0	1	League Game	LGE			As Scored	0	0	
+6/6/2003	Montreal Impact	Toronto Lynx	1	0	1	League Game	LGE			As Scored	0	0	
+6/6/2003	Syracuse Salty Dogs	Charleston Battery	0	1	1	League Game	LGE			As Scored	0	0	
+6/6/2003	West Michigan Edge	Toledo Slayers	1	1	100	League Game	LGE			As Scored	0	0	
+6/6/2003	Williamsburg Legacy	Richmond Kickers Future	0	1	100	League Game	LGE			As Scored	0	0	
+6/6/2003	Wilmington Hammerheads	Northern Virginia Royals	1	0	100	League Game	LGE			As Scored	0	0	
+6/6/2003	Yakima Reds	Abbotsford Rangers	2	0	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Austin Lightning	Louisiana Outlaws	1	4	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Calgary Storm Prospects	Cascade Surge	0	1	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Central Florida Kraze	Palm Beach Pumas	4	0	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Chicago Fire Reserves	Indiana Invaders	2	0	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Columbus Shooting Stars	Ft. Wayne Fever	1	3	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Des Moines Menace	Boulder Rapids Reserve	1	2	100	League Game	LGE			As Scored	0	0	
+6/7/2003	El Paso Patriots	Portland Timbers	1	3	1	League Game	LGE			As Scored	0	0	
+6/7/2003	Greenville Lions	Chesapeake Dragons	2	3	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Jersey Shore Boca	Rhode Island Stingrays	1	2	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Kalamazoo Kingdom	West Michigan Edge	0	0	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Mid Michigan Bucks	St. Louis Strikers	1	2	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Nevada Wonders	Southern California Seahorses	0	2	100	League Game	LGE			As Scored	0	0	
+6/7/2003	New Jersey Stallions	Cape Cod Crusaders	1	2	100	League Game	LGE			As Scored	0	0	
+6/7/2003	New Orleans Shell Shockers	Texas Spurs	3	2	100	League Game	LGE			As Scored	0	0	
+6/7/2003	South Jersey Barons	Vermont Voltage	1	2	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Spokane Shadow	Abbotsford Rangers	4	0	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Thunder Bay Chill	Wisconsin Rebels	4	1	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Indiana Blast	Calgary Storm	2	0	1	League Game	LGE			As Scored	0	0	
+6/7/2003	Minnesota Thunder	Milwaukee Wave United	0	1	1	League Game	LGE			As Scored	0	0	
+6/7/2003	Rochester Rhinos	Pittsburgh Riverhounds	2	0	1	League Game	LGE			As Scored	0	0	
+6/7/2003	Seattle Sounders	Vancouver Whitecaps	2	1	1	League Game	LGE			As Scored	0	0	
+6/7/2003	Westchester Flames	Reading Rage	3	2	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Worcester Kings	Brooklyn Knights	3	4	100	League Game	LGE			As Scored	0	0	
+6/8/2003	Calgary Storm Prospects	Cascade Surge	0	2	100	League Game	LGE			As Scored	0	0	
+6/8/2003	Jersey Shore Boca	Vermont Voltage	3	2	100	League Game	LGE			As Scored	0	0	
+6/8/2003	Kansas City Brass	Nashville Metros	2	0	100	League Game	LGE			As Scored	0	0	
+6/8/2003	Sioux Falls SpitFire	Des Moines Menace	2	5	100	League Game	LGE			As Scored	0	0	
+6/8/2003	Toledo Slayers	Columbus Shooting Stars	1	2	100	League Game	LGE			As Scored	0	0	
+6/8/2003	Milwaukee Wave United	Portland Timbers	4	0	1	League Game	LGE			As Scored	0	0	
+6/8/2003	Richmond Kickers	Atlanta Silverbacks	2	1	1	League Game	LGE			As Scored	0	0	
+6/8/2003	Toronto Lynx	Montreal Impact	1	0	1	League Game	LGE			As Scored	0	0	
+6/8/2003	West Virginia Chaos	Raleigh CASL Elite	1	3	100	League Game	LGE			As Scored	0	0	
+6/11/2003	Brooklyn Knights	South Jersey Barons	2	0	100	League Game	LGE			As Scored	0	0	
+6/11/2003	Mid Michigan Bucks	West Michigan Edge	3	2	100	League Game	LGE			As Scored	0	0	
+6/11/2003	New York Freedoms	New Jersey Stallions	0	0	100	League Game	LGE			As Scored	0	0	
+6/11/2003	Toledo Slayers	Indiana Invaders	0	2	100	League Game	LGE			As Scored	0	0	
+6/11/2003	Wilmington Hammerheads	Williamsburg Legacy	4	0	100	League Game	LGE			As Scored	0	0	
+6/12/2003	Nashville Metros	Memphis Express	0	1	100	League Game	LGE			As Scored	0	0	
+6/12/2003	Sioux Falls SpitFire	St. Louis Strikers	6	1	100	League Game	LGE			As Scored	0	0	
+6/12/2003	Portland Timbers	Vancouver Whitecaps	2	1	1	League Game	LGE			As Scored	0	0	
+6/13/2003	Abbotsford Rangers	Cascade Surge	3	2	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Boulder Rapids Reserve	Des Moines Menace	1	1	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Bradenton Academics	Cocoa Expos	1	2	100	League Game	LGE			As Scored	0	0	
+6/13/2003	BYU Cougars	Orange County Blue Star	0	2	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Charleston Battery	Charlotte Eagles	1	2	1	League Game	LGE			As Scored	0	0	
+6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	4	0	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Cincinnati Riverhawks	Indiana Blast	2	1	1	League Game	LGE			As Scored	0	0	
+6/13/2003	El Paso Patriots	Seattle Sounders	0	0	1	League Game	LGE			As Scored	0	0	
+6/13/2003	Ft. Wayne Fever	Wisconsin Rebels	0	0	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Houston Toros	Austin Lightning	1	1	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Kansas City Brass	St. Louis Strikers	3	2	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Long Island Rough Riders	Wilmington Hammerheads	2	0	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Raleigh CASL Elite	Williamsburg Legacy	2	1	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Richmond Kickers Future	Northern Virginia Royals	3	2	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Spokane Shadow	Yakima Reds	2	1	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Montreal Impact	Pittsburgh Riverhounds	1	1	1	League Game	LGE			As Scored	0	0	
+6/13/2003	Richmond Kickers	Atlanta Silverbacks	1	0	1	League Game	LGE			As Scored	0	0	
+6/13/2003	West Michigan Edge	Columbus Shooting Stars	0	2	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Western Mass Pioneers	Westchester Flames	3	1	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Albany Black Watch Highlanders	Jersey Shore Boca	2	3	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Calgary Storm	Vancouver Whitecaps	0	3	1	League Game	LGE			As Scored	0	0	
+6/14/2003	Carolina Dynamo	Greenville Lions	2	1	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Charlotte Eagles	Charleston Battery	0	2	1	League Game	LGE			As Scored	0	0	
+6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	2	0	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Fresno Fuego	Southern California Seahorses	2	1	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Ft. Wayne Fever	Kalamazoo Kingdom	2	1	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Houston Toros	Louisiana Outlaws	1	1	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Indiana Invaders	Wisconsin Rebels	2	0	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Memphis Express	New Orleans Shell Shockers	5	3	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Mid Michigan Bucks	Toledo Slayers	2	0	100	League Game	LGE			As Scored	0	0	
+6/14/2003	New Jersey Stallions	New Hampshire Phantoms	2	3	100	League Game	LGE			As Scored	0	0	
+6/14/2003	New York Freedoms	Wilmington Hammerheads	0	2	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Northern Virginia Royals	Williamsburg Legacy	0	2	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Palm Beach Pumas	Central Florida Kraze	0	6	100	League Game	LGE			As Scored	0	0	
+6/14/2003	San Diego Gauchos	Nevada Wonders	1	0	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Sioux Falls SpitFire	Kansas City Brass	4	0	100	League Game	LGE			As Scored	0	0	
+6/14/2003	South Jersey Barons	Worcester Kings	5	2	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Spokane Shadow	Calgary Storm Prospects	2	1	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Texas Spurs	Austin Lightning	6	1	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Utah Blitzz	Orange County Blue Star	2	3	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Vermont Voltage	Rhode Island Stingrays	2	1	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Minnesota Thunder	Rochester Rhinos	1	2	1	League Game	LGE			As Scored	0	0	
+6/15/2003	Boulder Rapids Reserve	Des Moines Menace	2	1	100	League Game	LGE			As Scored	0	0	
+6/15/2003	Brooklyn Knights	Cape Cod Crusaders	3	1	100	League Game	LGE			As Scored	0	0	
+6/15/2003	Calgary Storm	Vancouver Whitecaps	1	1	1	League Game	LGE			As Scored	0	0	
+6/15/2003	Columbus Shooting Stars	West Virginia Chaos	2	3	100	League Game	LGE			As Scored	0	0	
+6/15/2003	Long Island Rough Riders	Westchester Flames	1	0	100	League Game	LGE			As Scored	0	0	
+6/15/2003	Reading Rage	Western Mass Pioneers	1	3	100	League Game	LGE			As Scored	0	0	
+6/15/2003	Texas Spurs	Louisiana Outlaws	1	2	100	League Game	LGE			As Scored	0	0	
+6/15/2003	Virginia Beach Mariners	Atlanta Silverbacks	2	0	1	League Game	LGE			As Scored	0	0	
+6/15/2003	Indiana Blast	Seattle Sounders	2	3	1	League Game	LGE			As Scored	0	0	
+6/15/2003	Milwaukee Wave United	Rochester Rhinos	0	3	1	League Game	LGE			As Scored	0	0	
+6/15/2003	Pittsburgh Riverhounds	Montreal Impact	1	3	1	League Game	LGE			As Scored	0	0	
+6/15/2003	Toronto Lynx	Syracuse Salty Dogs	0	0	1	League Game	LGE			As Scored	0	0	
+6/15/2003	Worcester Kings	Vermont Voltage	0	0	100	League Game	LGE	Worcester Forfeit		Away Win	0	0	
+6/15/2003	Yakima Reds	Calgary Storm Prospects	5	1	100	League Game	LGE			As Scored	0	0	
+6/17/2003	Toledo Slayers	Ft. Wayne Fever	0	1	100	League Game	LGE			As Scored	0	0	
+6/17/2003	West Michigan Edge	Mid Michigan Bucks	0	5	100	League Game	LGE			As Scored	0	0	
+6/18/2003	Albany Black Watch Highlanders	Vermont Voltage	0	3	100	League Game	LGE			As Scored	0	0	
+6/18/2003	New York Freedoms	Westchester Flames	2	0	100	League Game	LGE			As Scored	0	0	
+6/18/2003	Southern California Seahorses	Orange County Blue Star	1	2	100	League Game	LGE			As Scored	0	0	
+6/18/2003	Syracuse Salty Dogs	Pittsburgh Riverhounds	3	1	1	League Game	LGE			As Scored	0	0	
+6/20/2003	Cascade Surge	Abbotsford Rangers	1	2	100	League Game	LGE			As Scored	0	0	
+6/20/2003	Charleston Battery	Atlanta Silverbacks	3	0	1	League Game	LGE			As Scored	0	0	
+6/20/2003	El Paso Patriots	Milwaukee Wave United	2	1	1	League Game	LGE			As Scored	0	0	
+6/20/2003	Jersey Shore Boca	Brooklyn Knights	0	3	100	League Game	LGE			As Scored	0	0	
+6/20/2003	Kalamazoo Kingdom	Toledo Slayers	0	1	100	League Game	LGE			As Scored	0	0	
+6/20/2003	Long Island Rough Riders	New Hampshire Phantoms	1	2	100	League Game	LGE			As Scored	0	0	
+6/20/2003	Louisiana Outlaws	Houston Toros	5	1	100	League Game	LGE			As Scored	0	0	
+6/20/2003	Memphis Express	Bradenton Academics	1	1	100	League Game	LGE			As Scored	0	0	
+6/20/2003	New Orleans Shell Shockers	Texas Spurs	2	1	100	League Game	LGE			As Scored	0	0	
+6/20/2003	Raleigh CASL Elite	Greenville Lions	2	0	100	League Game	LGE			As Scored	0	0	
+6/20/2003	Vermont Voltage	South Jersey Barons	2	1	100	League Game	LGE			As Scored	0	0	
+6/20/2003	Indiana Blast	Cincinnati Riverhawks	3	1	1	League Game	LGE			As Scored	0	0	
+6/20/2003	Richmond Kickers	Charlotte Eagles	1	1	1	League Game	LGE			As Scored	0	0	
+6/20/2003	Rochester Rhinos	Montreal Impact	2	3	1	League Game	LGE			As Scored	0	0	
+6/20/2003	Syracuse Salty Dogs	Toronto Lynx	0	1	1	League Game	LGE			As Scored	0	0	
+6/20/2003	Vancouver Whitecaps	Seattle Sounders	1	0	1	League Game	LGE			As Scored	0	0	
+6/20/2003	West Michigan Edge	St. Louis Strikers	1	3	100	League Game	LGE			As Scored	0	0	
+6/20/2003	Wisconsin Rebels	Kansas City Brass	2	6	100	League Game	LGE			As Scored	0	0	
+6/20/2003	Yakima Reds	BYU Cougars	2	0	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Atlanta Silverbacks	Charleston Battery	0	1	1	League Game	LGE			As Scored	0	0	
+6/21/2003	Austin Lightning	Houston Toros	2	1	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Boulder Rapids Reserve	Utah Blitzz	0	3	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Calgary Storm Prospects	Spokane Shadow	1	2	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Cape Cod Crusaders	Albany Black Watch Highlanders	6	2	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Cascade Surge	BYU Cougars	4	2	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Central Florida Kraze	Cocoa Expos	1	1	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Charlotte Eagles	Richmond Kickers	1	3	1	League Game	LGE			As Scored	0	0	
+6/21/2003	Chicago Fire Reserves	Kansas City Brass	4	0	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Cincinnati Riverhawks	Indiana Blast	5	2	1	League Game	LGE			As Scored	0	0	
+6/21/2003	Des Moines Menace	Sioux Falls SpitFire	5	2	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Louisiana Outlaws	Texas Spurs	2	3	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Mid Michigan Bucks	Columbus Shooting Stars	2	1	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Nashville Metros	Bradenton Academics	4	1	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Nevada Wonders	California Gold	1	2	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Raleigh CASL Elite	Carolina Dynamo	0	3	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Reading Rage	New Hampshire Phantoms	0	0	100	League Game	LGE	Reading Forfeit		As Scored	0	0	
+6/21/2003	Rhode Island Stingrays	South Jersey Barons	4	1	100	League Game	LGE			As Scored	0	0	
+6/21/2003	San Diego Gauchos	Orange County Blue Star	2	3	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Southern California Seahorses	Fresno Fuego	2	1	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Vermont Voltage	Jersey Shore Boca	4	2	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Syracuse Salty Dogs	Virginia Beach Mariners	0	0	1	League Game	LGE			As Scored	0	0	
+6/21/2003	Toronto Lynx	Pittsburgh Riverhounds	1	2	1	League Game	LGE			As Scored	0	0	
+6/21/2003	Williamsburg Legacy	West Virginia Chaos	2	2	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Wilmington Hammerheads	New Jersey Stallions	1	1	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Wisconsin Rebels	St. Louis Strikers	2	3	100	League Game	LGE			As Scored	0	0	
+6/22/2003	Abbotsford Rangers	Yakima Reds	3	2	100	League Game	LGE			As Scored	0	0	
+6/22/2003	Brooklyn Knights	Worcester Kings	4	1	100	League Game	LGE			As Scored	0	0	
+6/22/2003	Calgary Storm	Seattle Sounders	1	1	1	League Game	LGE			As Scored	0	0	
+6/22/2003	Chesapeake Dragons	Richmond Kickers Future	3	2	100	League Game	LGE			As Scored	0	0	
+6/22/2003	Columbus Shooting Stars	Indiana Invaders	2	2	100	League Game	LGE			As Scored	0	0	
+6/22/2003	El Paso Patriots	Milwaukee Wave United	0	1	1	League Game	LGE			As Scored	0	0	
+6/22/2003	Ft. Wayne Fever	West Michigan Edge	0	1	100	League Game	LGE			As Scored	0	0	
+6/22/2003	Jersey Falcons	Albany Black Watch Highlanders	0	6	100	League Game	LGE			As Scored	0	0	
+6/22/2003	Memphis Express	Nashville Metros	2	1	100	League Game	LGE			As Scored	0	0	
+6/22/2003	Montreal Impact	Rochester Rhinos	1	0	1	League Game	LGE			As Scored	0	0	
+6/25/2003	Indiana Invaders	West Michigan Edge	2	1	100	League Game	LGE			As Scored	0	0	
+6/25/2003	Worcester Kings	Cape Cod Crusaders	3	4	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Abbotsford Rangers	Calgary Storm Prospects	3	1	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Albany Black Watch Highlanders	South Jersey Barons	1	3	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Austin Lightning	Memphis Express	2	1	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Boulder Rapids Reserve	BYU Cougars	3	0	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Bradenton Academics	Cocoa Expos	1	2	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Ft. Wayne Fever	Toledo Slayers	5	2	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Louisiana Outlaws	New Orleans Shell Shockers	1	2	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Mid Michigan Bucks	Indiana Invaders	1	0	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Nevada Wonders	Utah Blitzz	1	2	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Northern Virginia Royals	Greenville Lions	3	2	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Orange County Blue Star	San Diego Gauchos	5	1	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Raleigh CASL Elite	Wilmington Hammerheads	1	1	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Rhode Island Stingrays	Jersey Shore Boca	7	2	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Sioux Falls SpitFire	Thunder Bay Chill	4	5	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Spokane Shadow	Cascade Surge	0	0	100	League Game	LGE			As Scored	0	0	
+6/27/2003	St. Louis Strikers	Chicago Fire Reserves	4	3	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Virginia Beach Mariners	Richmond Kickers	2	3	1	League Game	LGE			As Scored	0	0	
+6/27/2003	Portland Timbers	Calgary Storm	1	0	1	League Game	LGE			As Scored	0	0	
+6/27/2003	Western Mass Pioneers	New Jersey Stallions	4	0	100	League Game	LGE			As Scored	0	0	
+6/27/2003	Williamsburg Legacy	Chesapeake Dragons	1	0	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Atlanta Silverbacks	Charlotte Eagles	2	0	1	League Game	LGE			As Scored	0	0	
+6/28/2003	Austin Lightning	Nashville Metros	1	3	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Boulder Rapids Reserve	BYU Cougars	3	1	100	League Game	LGE			As Scored	0	0	
+6/28/2003	California Gold	Utah Blitzz	3	1	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Cape Cod Crusaders	Rhode Island Stingrays	5	3	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Cascade Surge	Calgary Storm Prospects	3	2	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Central Florida Kraze	Palm Beach Pumas	6	1	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Charleston Battery	Syracuse Salty Dogs	2	1	1	League Game	LGE			As Scored	0	0	
+6/28/2003	Chesapeake Dragons	Carolina Dynamo	0	3	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Columbus Shooting Stars	Ft. Wayne Fever	1	3	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Des Moines Menace	Thunder Bay Chill	3	2	100	League Game	LGE			As Scored	0	0	
+6/28/2003	El Paso Patriots	Seattle Sounders	0	2	1	League Game	LGE			As Scored	0	0	
+6/28/2003	Houston Toros	New Orleans Shell Shockers	0	2	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Jersey Shore Boca	Worcester Kings	2	1	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Kansas City Brass	Chicago Fire Reserves	1	4	100	League Game	LGE			As Scored	0	0	
+6/28/2003	New Hampshire Phantoms	Westchester Flames	3	0	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Northern Virginia Royals	West Virginia Chaos	2	1	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Reading Rage	Long Island Rough Riders	0	1	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Richmond Kickers Future	Greenville Lions	3	0	100	League Game	LGE			As Scored	0	0	
+6/28/2003	South Jersey Barons	Jersey Falcons	6	0	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Southern California Seahorses	San Diego Gauchos	4	2	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Texas Spurs	Memphis Express	1	0	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Vermont Voltage	Brooklyn Knights	2	2	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Minnesota Thunder	Indiana Blast	2	1	1	League Game	LGE			As Scored	0	0	
+6/28/2003	Richmond Kickers	Virginia Beach Mariners	1	0	1	League Game	LGE			As Scored	0	0	
+6/28/2003	Rochester Rhinos	Montreal Impact	2	0	1	League Game	LGE			As Scored	0	0	
+6/28/2003	Vancouver Whitecaps	Toronto Lynx	1	2	1	League Game	LGE			As Scored	0	0	
+6/29/2003	Albany Black Watch Highlanders	Brooklyn Knights	1	2	100	League Game	LGE			As Scored	0	0	
+6/29/2003	Calgary Storm	Portland Timbers	0	2	1	League Game	LGE			As Scored	0	0	
+6/29/2003	Cape Cod Crusaders	Jersey Falcons	8	0	100	League Game	LGE			As Scored	0	0	
+6/29/2003	Cincinnati Riverhawks	Pittsburgh Riverhounds	0	2	1	League Game	LGE			As Scored	0	0	
+6/29/2003	Columbus Shooting Stars	Kalamazoo Kingdom	2	3	100	League Game	LGE			As Scored	0	0	
+6/29/2003	New Jersey Stallions	Carolina Dynamo	0	2	100	League Game	LGE			As Scored	0	0	
+6/29/2003	New York Freedoms	Western Mass Pioneers	2	1	100	League Game	LGE			As Scored	0	0	
+6/29/2003	Orange County Blue Star	Fresno Fuego	5	1	100	League Game	LGE			As Scored	0	0	
+6/29/2003	Richmond Kickers Future	Raleigh CASL Elite	4	0	100	League Game	LGE			As Scored	0	0	
+6/29/2003	St. Louis Strikers	Kansas City Brass	4	3	100	League Game	LGE			As Scored	0	0	
+6/29/2003	Texas Spurs	Nashville Metros	4	0	100	League Game	LGE			As Scored	0	0	
+6/29/2003	Toledo Slayers	West Michigan Edge	1	3	100	League Game	LGE			As Scored	0	0	
+6/29/2003	Milwaukee Wave United	Indiana Blast	4	0	1	League Game	LGE			As Scored	0	0	
+6/29/2003	Yakima Reds	Spokane Shadow	0	2	100	League Game	LGE			As Scored	0	0	
+7/1/2003	Calgary Storm	Toronto Lynx	0	2	1	League Game	LGE			As Scored	0	0	
+7/1/2003	Chesapeake Dragons	Richmond Kickers Future	0	4	100	League Game	LGE			As Scored	0	0	
+7/1/2003	Vancouver Whitecaps	Portland Timbers	1	0	1	League Game	LGE			As Scored	0	0	
+7/2/2003	Chicago Fire Reserves	Des Moines Menace	3	1	100	League Game	LGE			As Scored	0	0	
+7/2/2003	Long Island Rough Riders	Western Mass Pioneers	2	0	100	League Game	LGE			As Scored	0	0	
+7/2/2003	Indiana Blast	Cincinnati Riverhawks	1	3	1	League Game	LGE			As Scored	0	0	
+7/2/2003	Minnesota Thunder	Milwaukee Wave United	1	0	1	League Game	LGE			As Scored	0	0	
+7/2/2003	Montreal Impact	Charlotte Eagles	3	0	1	League Game	LGE			As Scored	0	0	
+7/3/2003	Charleston Battery	Pittsburgh Riverhounds	0	0	1	League Game	LGE			As Scored	0	0	
+7/3/2003	Jersey Falcons	Long Island Rough Riders	1	4	100	League Game	LGE			As Scored	0	0	
+7/3/2003	Orange County Blue Star	Southern California Seahorses	3	1	100	League Game	LGE			As Scored	0	0	
+7/3/2003	Palm Beach Pumas	Bradenton Academics	2	3	100	League Game	LGE			As Scored	0	0	
+7/3/2003	Portland Timbers	Vancouver Whitecaps	3	0	1	League Game	LGE			As Scored	0	0	
+7/4/2003	Atlanta Silverbacks	Richmond Kickers	2	1	1	League Game	LGE			As Scored	0	0	
+7/4/2003	Cascade Surge	Spokane Shadow	2	1	100	League Game	LGE			As Scored	0	0	
+7/4/2003	El Paso Patriots	Cincinnati Riverhawks	2	0	1	League Game	LGE			As Scored	0	0	
+7/4/2003	Fresno Fuego	Nevada Wonders	5	0	100	League Game	LGE			As Scored	0	0	
+7/4/2003	Kalamazoo Kingdom	Toledo Slayers	4	3	100	League Game	LGE			As Scored	0	0	
+7/4/2003	New Orleans Shell Shockers	Nashville Metros	1	0	100	League Game	LGE			As Scored	0	0	
+7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	1	1	100	League Game	LGE			As Scored	0	0	
+7/4/2003	Minnesota Thunder	Seattle Sounders	2	3	1	League Game	LGE			As Scored	0	0	
+7/4/2003	Rochester Rhinos	Toronto Lynx	6	1	1	League Game	LGE			As Scored	0	0	
+7/4/2003	Syracuse Salty Dogs	Montreal Impact	1	3	1	League Game	LGE			As Scored	0	0	
+7/5/2003	Boulder Rapids Reserve	Sioux Falls SpitFire	1	3	100	League Game	LGE			As Scored	0	0	
+7/5/2003	BYU Cougars	Utah Blitzz	1	1	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Calgary Storm Prospects	Yakima Reds	0	0	100	League Game	LGE	Calgary Forfeits		Away Win	0	0	
+7/5/2003	California Gold	Fresno Fuego	1	2	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Columbus Shooting Stars	Mid Michigan Bucks	2	3	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Des Moines Menace	Kansas City Brass	8	2	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Jersey Shore Boca	Albany Black Watch Highlanders	1	4	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Louisiana Outlaws	New Orleans Shell Shockers	0	3	100	League Game	LGE			As Scored	0	0	
+7/5/2003	San Diego Gauchos	Southern California Seahorses	0	2	100	League Game	LGE			As Scored	0	0	
+7/5/2003	South Jersey Barons	Reading Rage	2	0	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Texas Spurs	Austin Lightning	0	2	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	1	2	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Vermont Voltage	Cape Cod Crusaders	3	1	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Virginia Beach Mariners	Charleston Battery	2	0	1	League Game	LGE			As Scored	0	0	
+7/5/2003	Milwaukee Wave United	Seattle Sounders	1	0	1	League Game	LGE			As Scored	0	0	
+7/5/2003	Pittsburgh Riverhounds	Charlotte Eagles	2	4	1	League Game	LGE			As Scored	0	0	
+7/5/2003	West Michigan Edge	Kalamazoo Kingdom	2	3	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Westchester Flames	Rhode Island Stingrays	4	3	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Western Mass Pioneers	New Hampshire Phantoms	1	0	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Williamsburg Legacy	West Virginia Chaos	6	0	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Wilmington Hammerheads	Carolina Dynamo	1	1	100	League Game	LGE			As Scored	0	0	
+7/6/2003	Boulder Rapids Reserve	Sioux Falls SpitFire	3	2	100	League Game	LGE			As Scored	0	0	
+7/6/2003	Bradenton Academics	Central Florida Kraze	1	2	100	League Game	LGE			As Scored	0	0	
+7/6/2003	Brooklyn Knights	Albany Black Watch Highlanders	2	1	100	League Game	LGE			As Scored	0	0	
+7/6/2003	Calgary Storm Prospects	Yakima Reds	0	0	100	League Game	LGE	Calgary Forfeits		Away Win	0	0	
+7/6/2003	El Paso Patriots	Cincinnati Riverhawks	2	3	1	League Game	LGE			As Scored	0	0	
+7/6/2003	Houston Toros	Nashville Metros	2	0	100	League Game	LGE			As Scored	0	0	
+7/6/2003	Indiana Invaders	Mid Michigan Bucks	2	0	100	League Game	LGE			As Scored	0	0	
+7/6/2003	Jersey Falcons	Rhode Island Stingrays	2	9	100	League Game	LGE			As Scored	0	0	
+7/6/2003	Richmond Kickers Future	West Virginia Chaos	3	0	100	League Game	LGE			As Scored	0	0	
+7/6/2003	Toledo Slayers	Ft. Wayne Fever	0	3	100	League Game	LGE			As Scored	0	0	
+7/6/2003	Toronto Lynx	Rochester Rhinos	0	2	1	League Game	LGE			As Scored	0	0	
+7/6/2003	Worcester Kings	New Jersey Stallions	0	4	100	League Game	LGE			As Scored	0	0	
+7/8/2003	Charleston Battery	Richmond Kickers	2	1	1	League Game	LGE			As Scored	0	0	
+7/8/2003	Ft. Wayne Fever	Indiana Invaders	1	0	100	League Game	LGE			As Scored	0	0	
+7/8/2003	Long Island Rough Riders	New Hampshire Phantoms	1	2	100	League Game	LGE			As Scored	0	0	
+7/8/2003	Palm Beach Pumas	Cocoa Expos	1	3	100	League Game	LGE			As Scored	0	0	
+7/9/2003	Chesapeake Dragons	Raleigh CASL Elite	0	0	100	League Game	LGE	Bad weather ended game in 73rd min.		As Scored	0	0	
+7/9/2003	Greenville Lions	Carolina Dynamo	3	3	100	League Game	LGE			As Scored	0	0	
+7/9/2003	Nashville Metros	Memphis Express	3	2	100	League Game	LGE			As Scored	0	0	
+7/9/2003	New York Freedoms	Brooklyn Knights	0	0	100	League Game	LGE			As Scored	0	0	
+7/9/2003	Rhode Island Stingrays	Cape Cod Crusaders	4	1	100	League Game	LGE			As Scored	0	0	
+7/9/2003	South Jersey Barons	Jersey Falcons	4	2	100	League Game	LGE			As Scored	0	0	
+7/9/2003	Seattle Sounders	Calgary Storm	6	0	1	League Game	LGE			As Scored	0	0	
+7/9/2003	Syracuse Salty Dogs	Virginia Beach Mariners	2	1	1	League Game	LGE			As Scored	0	0	
+7/9/2003	West Michigan Edge	Mid Michigan Bucks	1	3	100	League Game	LGE			As Scored	0	0	
+7/9/2003	West Virginia Chaos	Williamsburg Legacy	0	1	100	League Game	LGE			As Scored	0	0	
+7/10/2003	Kalamazoo Kingdom	Indiana Invaders	1	2	100	League Game	LGE			As Scored	0	0	
+7/11/2003	BYU Cougars	Boulder Rapids Reserve	2	1	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Charlotte Eagles	Indiana Blast	1	0	1	League Game	LGE			As Scored	0	0	
+7/11/2003	Cocoa Expos	Central Florida Kraze	4	2	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Des Moines Menace	Thunder Bay Chill	2	4	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Greenville Lions	Richmond Kickers Future	0	3	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Jersey Shore Boca	Jersey Falcons	5	3	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Louisiana Outlaws	Austin Lightning	2	3	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Memphis Express	St. Louis Strikers	4	1	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Orange County Blue Star	California Gold	1	2	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Raleigh CASL Elite	Williamsburg Legacy	1	2	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Reading Rage	Westchester Flames	0	1	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Sioux Falls SpitFire	Ft. Wayne Fever	1	2	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Spokane Shadow	Abbotsford Rangers	2	0	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Vermont Voltage	Worcester Kings	4	0	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Minnesota Thunder	Cincinnati Riverhawks	3	0	1	League Game	LGE			As Scored	0	0	
+7/11/2003	Montreal Impact	Syracuse Salty Dogs	2	1	1	League Game	LGE			As Scored	0	0	
+7/11/2003	Portland Timbers	El Paso Patriots	3	2	1	League Game	LGE			As Scored	0	0	
+7/11/2003	Rochester Rhinos	Virginia Beach Mariners	3	2	1	League Game	LGE			As Scored	0	0	
+7/11/2003	Seattle Sounders	Milwaukee Wave United	1	0	1	League Game	LGE			As Scored	0	0	
+7/11/2003	Vancouver Whitecaps	Calgary Storm	2	1	1	League Game	LGE			As Scored	0	0	
+7/11/2003	Western Mass Pioneers	New Jersey Stallions	0	1	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	2	4	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Yakima Reds	Cascade Surge	2	1	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Albany Black Watch Highlanders	Worcester Kings	3	2	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Carolina Dynamo	Richmond Kickers Future	1	1	100	League Game	LGE	Called in 98th min. because of weather		As Scored	0	0	
+7/12/2003	Charleston Battery	Toronto Lynx	1	0	1	League Game	LGE			As Scored	0	0	
+7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	10	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Cocoa Expos	Bradenton Academics	1	1	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Columbus Shooting Stars	Toledo Slayers	3	3	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Des Moines Menace	Ft. Wayne Fever	1	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Long Island Rough Riders	Reading Rage	5	1	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Mid Michigan Bucks	Kalamazoo Kingdom	5	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Nashville Metros	St. Louis Strikers	7	1	100	League Game	LGE			As Scored	0	0	
+7/12/2003	New Hampshire Phantoms	New York Freedoms	0	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	New Jersey Stallions	Westchester Flames	5	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	New Orleans Shell Shockers	Austin Lightning	5	1	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Northern Virginia Royals	Chesapeake Dragons	1	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Orange County Blue Star	Nevada Wonders	5	2	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Palm Beach Pumas	Central Florida Kraze	0	3	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Rhode Island Stingrays	Brooklyn Knights	5	2	100	League Game	LGE			As Scored	0	0	
+7/12/2003	San Diego Gauchos	California Gold	2	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Sioux Falls SpitFire	Thunder Bay Chill	3	4	100	League Game	LGE			As Scored	0	0	
+7/12/2003	South Jersey Barons	Cape Cod Crusaders	3	2	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Spokane Shadow	Cascade Surge	6	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Texas Spurs	Houston Toros	6	1	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Utah Blitzz	Boulder Rapids Reserve	4	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Pittsburgh Riverhounds	Richmond Kickers	2	1	1	League Game	LGE			As Scored	0	0	
+7/12/2003	Wilmington Hammerheads	Raleigh CASL Elite	2	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Yakima Reds	Abbotsford Rangers	4	2	100	League Game	LGE			As Scored	0	0	
+7/13/2003	Chesapeake Dragons	Williamsburg Legacy	1	4	100	League Game	LGE			As Scored	0	0	
+7/13/2003	Greenville Lions	Wilmington Hammerheads	0	4	100	League Game	LGE			As Scored	0	0	
+7/13/2003	Jersey Falcons	Cape Cod Crusaders	0	9	100	League Game	LGE			As Scored	0	0	
+7/13/2003	Kansas City Brass	Memphis Express	0	3	100	League Game	LGE			As Scored	0	0	
+7/13/2003	Southern California Seahorses	Nevada Wonders	3	2	100	League Game	LGE			As Scored	0	0	
+7/13/2003	Indiana Blast	Pittsburgh Riverhounds	2	3	1	League Game	LGE			As Scored	0	0	
+7/13/2003	Portland Timbers	Milwaukee Wave United	4	3	1	League Game	LGE			As Scored	0	0	
+7/13/2003	Seattle Sounders	El Paso Patriots	1	0	1	League Game	LGE			As Scored	0	0	
+7/15/2003	BYU Cougars	Utah Blitzz	1	2	100	League Game	LGE			As Scored	0	0	
+7/15/2003	Indiana Invaders	Columbus Shooting Stars	2	1	100	League Game	LGE			As Scored	0	0	
+7/15/2003	Richmond Kickers Future	Raleigh CASL Elite	2	1	100	League Game	LGE			As Scored	0	0	
+7/15/2003	West Virginia Chaos	Greenville Lions	2	4	100	League Game	LGE			As Scored	0	0	
+7/16/2003	Brooklyn Knights	Jersey Falcons	9	0	100	League Game	LGE			As Scored	0	0	
+7/16/2003	Chesapeake Dragons	Greenville Lions	0	0	100	League Game	LGE	Greenville forfeit		Home Win	0	0	
+7/16/2003	Long Island Rough Riders	New York Freedoms	2	3	100	League Game	LGE			As Scored	0	0	
+7/16/2003	Southern California Seahorses	San Diego Gauchos	1	0	100	League Game	LGE			As Scored	0	0	
+7/16/2003	Montreal Impact	Toronto Lynx	2	3	1	League Game	LGE			As Scored	0	0	
+7/16/2003	West Virginia Chaos	Richmond Kickers Future	0	3	100	League Game	LGE			As Scored	0	0	
+7/17/2003	Chesapeake Dragons	Northern Virginia Royals	0	3	100	League Game	LGE			As Scored	0	0	
+7/17/2003	Kalamazoo Kingdom	Mid Michigan Bucks	1	0	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Austin Lightning	Texas Spurs	3	1	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Bradenton Academics	Palm Beach Pumas	8	2	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Cape Cod Crusaders	Jersey Shore Boca	9	1	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Cascade Surge	Yakima Reds	1	0	100	League Game	LGE			As Scored	0	0	
+7/18/2003	El Paso Patriots	Calgary Storm	3	1	1	League Game	LGE			As Scored	0	0	
+7/18/2003	Greenville Lions	Williamsburg Legacy	4	3	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Houston Toros	New Orleans Shell Shockers	1	5	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Indiana Invaders	Toledo Slayers	3	1	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Nevada Wonders	California Gold	2	2	100	League Game	LGE			As Scored	0	0	
+7/18/2003	New Hampshire Phantoms	Albany Black Watch Highlanders	2	1	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Orange County Blue Star	BYU Cougars	3	1	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Raleigh CASL Elite	West Virginia Chaos	3	0	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Spokane Shadow	Calgary Storm Prospects	0	0	100	League Game	LGE	Calgary Forfeit		Home Win	0	0	
+7/18/2003	St. Louis Strikers	Memphis Express	3	4	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Thunder Bay Chill	Des Moines Menace	0	2	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Vermont Voltage	Western Mass Pioneers	5	4	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Virginia Beach Mariners	Syracuse Salty Dogs	0	2	1	League Game	LGE			As Scored	0	0	
+7/18/2003	Indiana Blast	Milwaukee Wave United	3	1	1	League Game	LGE			As Scored	0	0	
+7/18/2003	Pittsburgh Riverhounds	Atlanta Silverbacks	2	1	1	League Game	LGE			As Scored	0	0	
+7/18/2003	West Michigan Edge	Ft. Wayne Fever	0	0	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Wilmington Hammerheads	Reading Rage	5	1	100	League Game	LGE			As Scored	0	0	
+7/18/2003	Wisconsin Rebels	Sioux Falls SpitFire	2	6	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Austin Lightning	New Orleans Shell Shockers	1	5	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Boulder Rapids Reserve	Kansas City Brass	2	1	100	League Game	LGE			As Scored	0	0	
+7/19/2003	California Gold	Nevada Wonders	1	0	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Cape Cod Crusaders	Brooklyn Knights	3	1	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Carolina Dynamo	Reading Rage	4	0	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Central Florida Kraze	Bradenton Academics	1	3	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Charleston Battery	Rochester Rhinos	1	2	1	League Game	LGE			As Scored	0	0	
+7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	2	0	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Cincinnati Riverhawks	Milwaukee Wave United	2	3	1	League Game	LGE			As Scored	0	0	
+7/19/2003	Fresno Fuego	BYU Cougars	4	2	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Ft. Wayne Fever	Mid Michigan Bucks	0	4	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Greenville Lions	Raleigh CASL Elite	0	1	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Kalamazoo Kingdom	Columbus Shooting Stars	4	2	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Nashville Metros	Louisiana Outlaws	3	0	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Northern Virginia Royals	New York Freedoms	1	1	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Rhode Island Stingrays	Worcester Kings	10	1	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Richmond Kickers Future	Chesapeake Dragons	3	0	100	League Game	LGE			As Scored	0	0	
+7/19/2003	San Diego Gauchos	Orange County Blue Star	1	3	100	League Game	LGE			As Scored	0	0	
+7/19/2003	South Jersey Barons	Albany Black Watch Highlanders	7	1	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Spokane Shadow	Yakima Reds	2	0	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Thunder Bay Chill	Des Moines Menace	1	0	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Minnesota Thunder	Charlotte Eagles	0	1	1	League Game	LGE			As Scored	0	0	
+7/19/2003	Richmond Kickers	Syracuse Salty Dogs	1	0	1	League Game	LGE			As Scored	0	0	
+7/19/2003	Seattle Sounders	Vancouver Whitecaps	1	1	1	League Game	LGE			As Scored	0	0	
+7/19/2003	Westchester Flames	New Hampshire Phantoms	2	1	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Boulder Rapids Reserve	Kansas City Brass	3	1	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Cascade Surge	Abbotsford Rangers	2	1	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Cocoa Expos	Palm Beach Pumas	4	2	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Columbus Shooting Stars	West Michigan Edge	3	4	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Jersey Falcons	South Jersey Barons	4	2	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Memphis Express	Louisiana Outlaws	4	1	100	League Game	LGE			As Scored	0	0	
+7/20/2003	New Jersey Stallions	Western Mass Pioneers	1	3	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Toledo Slayers	Indiana Invaders	0	4	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Montreal Impact	Atlanta Silverbacks	1	0	1	League Game	LGE			As Scored	0	0	
+7/20/2003	Vancouver Whitecaps	Seattle Sounders	2	0	1	League Game	LGE			As Scored	0	0	
+7/20/2003	West Virginia Chaos	Chesapeake Dragons	2	0	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Williamsburg Legacy	Richmond Kickers Future	3	0	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	0	4	100	League Game	LGE			As Scored	0	0	
+7/22/2003	Richmond Kickers	Rochester Rhinos	2	0	1	League Game	LGE			As Scored	0	0	
+7/23/2003	Cincinnati Riverhawks	Portland Timbers	1	2	1	League Game	LGE			As Scored	0	0	
+7/23/2003	New Hampshire Phantoms	Long Island Rough Riders	1	2	100	League Game	LGE			As Scored	0	0	
+7/23/2003	Northern Virginia Royals	New Jersey Stallions	0	1	100	League Game	LGE			As Scored	0	0	
+7/23/2003	Montreal Impact	Pittsburgh Riverhounds	0	1	1	League Game	LGE			As Scored	0	0	
+7/23/2003	Toronto Lynx	Atlanta Silverbacks	2	1	1	League Game	LGE			As Scored	0	0	
+7/24/2003	Vancouver Whitecaps	Calgary Storm	2	0	1	League Game	LGE			As Scored	0	0	
+7/25/2003	Milwaukee Wave United	El Paso Patriots	2	0	1	League Game	LGE			As Scored	0	0	
+7/25/2003	Minnesota Thunder	Portland Timbers	1	0	1	League Game	LGE			As Scored	0	0	
+7/25/2003	Pittsburgh Riverhounds	Syracuse Salty Dogs	1	0	1	League Game	LGE			As Scored	0	0	
+7/25/2003	Rochester Rhinos	Richmond Kickers	2	2	1	League Game	LGE			As Scored	0	0	
+7/25/2003	Toronto Lynx	Charleston Battery	1	0	1	League Game	LGE			As Scored	0	0	
+7/25/2003	Western Mass Pioneers	New York Freedoms	1	2	100	League Game	LGE			As Scored	0	0	
+7/26/2003	Atlanta Silverbacks	Montreal Impact	1	2	1	League Game	LGE			As Scored	0	0	
+7/26/2003	Carolina Dynamo	Wilmington Hammerheads	2	3	100	League Game	LGE			As Scored	0	0	
+7/26/2003	Chicago Fire Reserves	Indiana Invaders	8	0	100	Playoffs	PLO			As Scored	0	0	
+7/26/2003	Long Island Rough Riders	New Jersey Stallions	2	1	100	League Game	LGE			As Scored	0	0	
+7/26/2003	Memphis Express	Cocoa Expos	5	2	100	Playoffs	PLO			As Scored	0	0	
+7/26/2003	Mid Michigan Bucks	Des Moines Menace	1	0	100	Playoffs	PLO			As Scored	0	0	
+7/26/2003	New Hampshire Phantoms	New York Freedoms	0	0	100	League Game	LGE			As Scored	0	0	
+7/26/2003	New Orleans Shell Shockers	Central Florida Kraze	4	1	100	Playoffs	PLO			As Scored	0	0	
+7/26/2003	Northern Virginia Royals	Westchester Flames	1	0	100	League Game	LGE			As Scored	0	0	
+7/26/2003	Orange County Blue Star	Cascade Surge	2	1	100	Playoffs	PLO			As Scored	0	0	
+7/26/2003	Reading Rage	Western Mass Pioneers	3	2	100	League Game	LGE			As Scored	0	0	
+7/26/2003	Richmond Kickers Future	Cape Cod Crusaders	0	4	100	Playoffs	PLO			As Scored	0	0	
+7/26/2003	Spokane Shadow	Fresno Fuego	0	1	100	Playoffs	PLO			As Scored	0	0	
+7/26/2003	Utah Blitzz	San Diego Gauchos	3	1	100	League Game	LGE			As Scored	0	0	
+7/26/2003	Vermont Voltage	Williamsburg Legacy	5	2	0	Playoffs	PLO			As Scored	0	0	
+7/26/2003	Virginia Beach Mariners	Charlotte Eagles	3	0	1	League Game	LGE			As Scored	0	0	
+7/26/2003	Indiana Blast	Vancouver Whitecaps	2	4	1	League Game	LGE			As Scored	0	0	
+7/26/2003	Seattle Sounders	Calgary Storm	6	0	1	League Game	LGE			As Scored	0	0	
+7/27/2003	Cincinnati Riverhawks	Vancouver Whitecaps	1	2	1	League Game	LGE			As Scored	0	0	
+7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	0	2	100	Playoffs	PLO			As Scored	0	0	
+7/27/2003	New Orleans Shell Shockers	Memphis Express	0	2	100	Playoffs	PLO			As Scored	0	0	
+7/27/2003	Orange County Blue Star	Fresno Fuego	2	0	100	Playoffs	PLO			As Scored	0	0	
+7/27/2003	Vermont Voltage	Cape Cod Crusaders	2	4	100	Playoffs	PLO			As Scored	0	0	
+7/27/2003	Milwaukee Wave United	El Paso Patriots	5	1	1	League Game	LGE			As Scored	0	0	
+7/27/2003	Portland Timbers	Calgary Storm	1	1	1	League Game	LGE			As Scored	0	0	
+7/27/2003	Rochester Rhinos	Charleston Battery	2	2	1	League Game	LGE			As Scored	0	0	
+7/30/2003	El Paso Patriots	Vancouver Whitecaps	1	1	1	League Game	LGE			As Scored	0	0	
+7/30/2003	Syracuse Salty Dogs	Atlanta Silverbacks	1	1	1	League Game	LGE			As Scored	0	0	
+7/31/2003	Calgary Storm	Cincinnati Riverhawks	0	2	1	League Game	LGE			As Scored	0	0	
+7/31/2003	Northern Virginia Royals	Carolina Dynamo	0	4	100	League Game	LGE			As Scored	0	0	
+7/31/2003	Milwaukee Wave United	Minnesota Thunder	0	2	1	League Game	LGE			As Scored	0	0	
+8/1/2003	Carolina Dynamo	Northern Virginia Royals	1	0	100	League Game	LGE			As Scored	0	0	
+8/1/2003	Charlotte Eagles	Virginia Beach Mariners	0	2	1	League Game	LGE			As Scored	0	0	
+8/1/2003	Reading Rage	Long Island Rough Riders	1	4	100	League Game	LGE			As Scored	0	0	
+8/1/2003	Richmond Kickers	Charleston Battery	0	0	1	League Game	LGE			As Scored	0	0	
+8/1/2003	Rochester Rhinos	Toronto Lynx	1	0	1	League Game	LGE			As Scored	0	0	
+8/1/2003	Syracuse Salty Dogs	Pittsburgh Riverhounds	2	3	1	League Game	LGE			As Scored	0	0	
+8/1/2003	Vancouver Whitecaps	Cincinnati Riverhawks	5	0	1	League Game	LGE			As Scored	0	0	
+8/2/2003	Atlanta Silverbacks	Virginia Beach Mariners	0	1	1	League Game	LGE			As Scored	0	0	
+8/2/2003	Cape Cod Crusaders	Memphis Express	4	0	100	Playoffs	PLO			As Scored	0	0	
+8/2/2003	Chicago Fire Reserves	Orange County Blue Star	3	1	100	Playoffs	PLO			As Scored	0	0	
+8/2/2003	New Hampshire Phantoms	Western Mass Pioneers	1	0	100	League Game	LGE			As Scored	0	0	
+8/2/2003	New Jersey Stallions	Long Island Rough Riders	3	1	100	League Game	LGE			As Scored	0	0	
+8/2/2003	Utah Blitzz	California Gold	3	1	100	League Game	LGE			As Scored	0	0	
+8/2/2003	Minnesota Thunder	Indiana Blast	2	2	1	League Game	LGE			As Scored	0	0	
+8/2/2003	Westchester Flames	New York Freedoms	6	1	100	League Game	LGE			As Scored	0	0	
+8/2/2003	Wilmington Hammerheads	Northern Virginia Royals	4	1	100	League Game	LGE			As Scored	0	0	
+8/3/2003	Reading Rage	New Hampshire Phantoms	0	0	100	League Game	LGE	Reading Forfeit		Away Win	0	0	
+8/3/2003	Milwaukee Wave United	Indiana Blast	6	0	1	League Game	LGE			As Scored	0	0	
+8/3/2003	Pittsburgh Riverhounds	Montreal Impact	0	2	1	League Game	LGE			As Scored	0	0	
+8/3/2003	Rochester Rhinos	Syracuse Salty Dogs	2	2	1	League Game	LGE			As Scored	0	0	
+8/3/2003	Westchester Flames	Western Mass Pioneers	2	0	100	League Game	LGE			As Scored	0	0	
+8/4/2003	Calgary Storm	Vancouver Whitecaps	1	2	1	League Game	LGE			As Scored	0	0	
+8/4/2003	Toronto Lynx	Charlotte Eagles	2	2	1	League Game	LGE			As Scored	0	0	
+8/6/2003	Montreal Impact	Vancouver Whitecaps	1	1	1	League Game	LGE			As Scored	0	0	
+8/6/2003	Syracuse Salty Dogs	Charlotte Eagles	5	1	1	League Game	LGE			As Scored	0	0	
+8/7/2003	Westchester Flames	New Hampshire Phantoms	3	0	100	League Game	LGE			As Scored	0	0	
+8/8/2003	Atlanta Silverbacks	Charleston Battery	2	2	1	League Game	LGE			As Scored	0	0	
+8/8/2003	Indiana Blast	Minnesota Thunder	0	2	1	League Game	LGE			As Scored	0	0	
+8/8/2003	Richmond Kickers	Virginia Beach Mariners	1	1	1	League Game	LGE			As Scored	0	0	
+8/8/2003	Toronto Lynx	Vancouver Whitecaps	0	1	1	League Game	LGE			As Scored	0	0	
+8/8/2003	Wilmington Hammerheads	Carolina Dynamo	1	1	100	League Game	LGE			As Scored	0	0	
+8/9/2003	Calgary Storm	Milwaukee Wave United	1	2	1	League Game	LGE			As Scored	0	0	
+8/9/2003	Carolina Dynamo	Wilmington Hammerheads	0	2	100	Playoffs	PLO			As Scored	0	0	
+8/9/2003	Charlotte Eagles	Atlanta Silverbacks	1	4	1	League Game	LGE			As Scored	0	0	
+8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	0	2	100	Playoffs	PLO			As Scored	0	0	
+8/9/2003	Cincinnati Riverhawks	Minnesota Thunder	0	1	1	League Game	LGE			As Scored	0	0	
+8/9/2003	Long Island Rough Riders	New Jersey Stallions	0	0	100	Playoffs	PLO			Awarded on Penalties	0	0	
+8/9/2003	New Hampshire Phantoms	Westchester Flames	3	2	100	Playoffs	PLO			As Scored	0	0	
+8/9/2003	Utah Blitzz	California Gold	1	0	100	Playoffs	PLO			As Scored	0	0	
+8/9/2003	Virginia Beach Mariners	Richmond Kickers	0	0	1	League Game	LGE			As Scored	0	0	
+8/9/2003	Pittsburgh Riverhounds	Rochester Rhinos	4	3	1	League Game	LGE			As Scored	0	0	
+8/9/2003	Portland Timbers	Seattle Sounders	0	1	1	League Game	LGE			As Scored	0	0	
+8/9/2003	Syracuse Salty Dogs	Montreal Impact	1	3	1	League Game	LGE			As Scored	0	0	
+8/10/2003	Seattle Sounders	Portland Timbers	1	3	1	League Game	LGE			As Scored	0	0	
+8/12/2003	Charleston Battery	Virginia Beach Mariners	2	2	1	League Game	LGE			As Scored	0	0	
+8/13/2003	Atlanta Silverbacks	Virginia Beach Mariners	0	1	1	League Game	LGE			As Scored	0	0	
+8/13/2003	Milwaukee Wave United	Cincinnati Riverhawks	3	1	1	League Game	LGE			As Scored	0	0	
+8/13/2003	Montreal Impact	Rochester Rhinos	0	0	1	League Game	LGE			As Scored	0	0	
+8/14/2003	Calgary Storm	Seattle Sounders	0	1	1	League Game	LGE			As Scored	0	0	
+8/14/2003	Minnesota Thunder	El Paso Patriots	2	1	1	League Game	LGE			As Scored	0	0	
+8/15/2003	Virginia Beach Mariners	Charlotte Eagles	3	1	1	League Game	LGE			As Scored	0	0	
+8/15/2003	Milwaukee Wave United	Cincinnati Riverhawks	6	1	1	League Game	LGE			As Scored	0	0	
+8/15/2003	Pittsburgh Riverhounds	Toronto Lynx	1	0	1	League Game	LGE			As Scored	0	0	
+8/15/2003	Portland Timbers	Indiana Blast	1	0	1	League Game	LGE			As Scored	0	0	
+8/16/2003	Charleston Battery	Richmond Kickers	1	2	1	League Game	LGE			As Scored	0	0	
+8/16/2003	Utah Blitzz	Wilmington Hammerheads	1	2	100	Playoffs	PLO			As Scored	0	0	
+8/16/2003	Minnesota Thunder	El Paso Patriots	3	0	1	League Game	LGE			As Scored	0	0	
+8/16/2003	Montreal Impact	Syracuse Salty Dogs	0	0	1	League Game	LGE			As Scored	0	0	
+8/16/2003	Rochester Rhinos	Atlanta Silverbacks	3	0	1	League Game	LGE			As Scored	0	0	
+8/16/2003	Westchester Flames	New Jersey Stallions	3	3	100	Playoffs	PLO			As Scored	0	0	
+8/17/2003	Seattle Sounders	Indiana Blast	4	1	1	League Game	LGE			As Scored	0	0	
+8/17/2003	Toronto Lynx	Pittsburgh Riverhounds	0	3	1	League Game	LGE			As Scored	0	0	
+8/17/2003	Vancouver Whitecaps	Portland Timbers	1	1	1	League Game	LGE			As Scored	0	0	
+8/18/2003	Portland Timbers	Seattle Sounders	1	0	1	League Game	LGE			As Scored	0	0	
+8/22/2003	Atlanta Silverbacks	Milwaukee Wave United	1	3	1	League Game	LGE			As Scored	0	0	
+8/22/2003	Cincinnati Riverhawks	Charleston Battery	1	3	1	League Game	LGE			As Scored	0	0	
+8/22/2003	Pittsburgh Riverhounds	Virginia Beach Mariners	3	4	1	League Game	LGE			As Scored	0	0	
+8/22/2003	Seattle Sounders	Minnesota Thunder	1	2	1	League Game	LGE			As Scored	0	0	
+8/22/2003	Syracuse Salty Dogs	Richmond Kickers	1	0	1	League Game	LGE			As Scored	0	0	
+8/23/2003	Charlotte Eagles	Milwaukee Wave United	2	0	1	League Game	LGE			As Scored	0	0	
+8/23/2003	El Paso Patriots	Portland Timbers	3	1	1	League Game	LGE			As Scored	0	0	
+8/23/2003	Rochester Rhinos	Richmond Kickers	3	2	1	League Game	LGE			As Scored	0	0	
+8/23/2003	Wilmington Hammerheads	Westchester Flames	2	1	100	Playoffs	PLO			As Scored	0	0	
+8/24/2003	Indiana Blast	Charleston Battery	1	2	1	League Game	LGE			As Scored	0	0	
+8/24/2003	Pittsburgh Riverhounds	Syracuse Salty Dogs	4	3	1	League Game	LGE			As Scored	0	0	
+8/24/2003	Vancouver Whitecaps	Minnesota Thunder	1	0	1	League Game	LGE			As Scored	0	0	
+8/27/2003	Milwaukee Wave United	Minnesota Thunder	3	1	1	League Game	LGE			As Scored	0	0	
+8/29/2003	Cincinnati Riverhawks	Milwaukee Wave United	0	6	1	League Game	LGE	Called at 45min weather/ Cin. used illegal players		As Scored	0	0	
+8/29/2003	Montreal Impact	Virginia Beach Mariners	0	2	1	League Game	LGE			As Scored	0	0	
+8/29/2003	Portland Timbers	El Paso Patriots	3	0	1	League Game	LGE			As Scored	0	0	
+8/29/2003	Syracuse Salty Dogs	Rochester Rhinos	3	2	1	League Game	LGE			As Scored	0	0	
+8/29/2003	Toronto Lynx	Calgary Storm	2	1	1	League Game	LGE			As Scored	0	0	
+8/30/2003	Charleston Battery	Minnesota Thunder	3	0	1	League Game	LGE			As Scored	0	0	
+8/30/2003	Richmond Kickers	Charlotte Eagles	6	2	1	League Game	LGE			As Scored	0	0	
+8/31/2003	Atlanta Silverbacks	Minnesota Thunder	1	1	1	League Game	LGE			As Scored	0	0	
+8/31/2003	Indiana Blast	Milwaukee Wave United	0	1	1	League Game	LGE			As Scored	0	0	
+8/31/2003	Montreal Impact	Calgary Storm	2	0	1	League Game	LGE			As Scored	0	0	
+8/31/2003	Seattle Sounders	El Paso Patriots	3	2	1	League Game	LGE			As Scored	0	0	
+8/31/2003	Toronto Lynx	Virginia Beach Mariners	4	1	1	League Game	LGE			As Scored	0	0	
+9/5/2003	Virginia Beach Mariners	Charleston Battery	1	0	1	Playoffs	PLO			As Scored	0	0	
+9/5/2003	Milwaukee Wave United	Minnesota Thunder	1	0	1	Playoffs	PLO			As Scored	0	0	
+9/5/2003	Rochester Rhinos	Montreal Impact	2	1	1	Playoffs	PLO			As Scored	0	0	
+9/5/2003	Seattle Sounders	Vancouver Whitecaps	0	0	1	Playoffs	PLO			As Scored	0	0	
+9/7/2003	Charleston Battery	Virginia Beach Mariners	4	1	1	Playoffs	PLO			As Scored	0	0	
+9/7/2003	Vancouver Whitecaps	Seattle Sounders	1	1	1	Playoffs	PLO	Seattle wins 6-5 on PK's		As Scored	0	0	
+9/12/2003	Rochester Rhinos	Charleston Battery	0	0	100	Playoffs	PLO			As Scored	0	0	
+9/12/2003	Seattle Sounders	Minnesota Thunder	0	1	100	Playoffs	PLO			As Scored	0	0	
+9/14/2003	Charleston Battery	Rochester Rhinos	1	0	100	Playoffs	PLO			As Scored	0	0	
+9/14/2003	Minnesota Thunder	Seattle Sounders	1	0	100	Playoffs	PLO			As Scored	0	0	
+9/20/2003	Charleston Battery	Minnesota Thunder	3	0	100	Playoffs	PLO			As Scored	0	0	

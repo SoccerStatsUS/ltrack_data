@@ -1,0 +1,990 @@
+Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Referee	Awarded	Round	Period	
+4/7/2001	Chico Rooks	Stanislaus United Cruisers	2	1	1,773	League Game	LGE			As Scored	0	0	
+4/14/2001	Chico Rooks	Utah Blitzz	0	1	1,849	League Game	LGE			As Scored	0	0	
+4/14/2001	Richmond Kickers	Charleston Battery	2	1	2,238	League Game	LGE			As Scored	0	0	
+4/15/2001	El Paso Patriots	Arizona Sahuaros	7	0	0	Inter League Game	ILG			As Scored	0	0	
+4/19/2001	San Diego Flash	Milwaukee Rampage	3	0	400	League Game	LGE			As Scored	0	0	
+4/20/2001	Greenville Lions	New Hampshire Phantoms	1	4	2,500	League Game	LGE			As Scored	0	0	
+4/20/2001	Richmond Kickers	Nashville Metros	1	2	2,511	League Game	LGE			As Scored	0	0	
+4/20/2001	Tucson Fireballs	Stanislaus United Cruisers	1	2	100	League Game	LGE			As Scored	0	0	
+4/21/2001	Arizona Sahuaros	Stanislaus United Cruisers	0	1	2,250	League Game	LGE			As Scored	0	0	
+4/21/2001	Boston Bulldogs	Connecticut Wolves	1	1	1,116	Inter League Game	ILG		Simmons, Erich	As Scored	0	0	
+4/21/2001	Carolina Dynamo	New Hampshire Phantoms	3	2	100	League Game	LGE			As Scored	0	0	
+4/21/2001	Charlotte Eagles	Charleston Battery	3	2	1,915	League Game	LGE		Feulner, Jeff	As Scored	0	0	
+4/21/2001	Chico Rooks	Northern Nevada Aces	3	1	2,304	League Game	LGE		Padilla, Javier	As Scored	0	0	
+4/21/2001	El Paso Patriots	Milwaukee Rampage	2	2	649	League Game	LGE		Tsapos, Misail	As Scored	0	0	
+4/21/2001	Long Island Rough Riders	New Jersey Stallions	3	2	939	Inter League Game	ILG		Prus, Alex	As Scored	0	0	
+4/21/2001	Louisiana Outlaws	Lafayette Lightning	2	4	100	League Game	LGE			As Scored	0	0	
+4/22/2001	Greenville Lions	Atlanta Silverbacks	1	2	100	League Game	LGE		Cannales, Roni	As Scored	0	0	
+4/22/2001	San Gabriel Valley Highlanders	San Fernando Valley Heroes	2	2	200	League Game	LGE			As Scored	0	0	
+4/27/2001	Carolina Dynamo	Charleston Battery	0	2	0	Inter League Game	ILG			As Scored	0	0	
+4/27/2001	Charlotte Eagles	Wilmington Hammerheads	4	0	1,200	Inter League Game	ILG			As Scored	0	0	
+4/27/2001	Connecticut Wolves	Minnesota Thunder	1	0	631	League Game	LGE		St. Silva, Augusto	As Scored	0	0	
+4/27/2001	Orange County Blue Star	Southern California Seahorse	4	1	350	League Game	LGE			As Scored	0	0	
+4/27/2001	Stanislaus United Cruisers	San Diego Flash	0	1	0	Inter League Game	ILG			As Scored	0	0	
+4/28/2001	Atlanta Silverbacks	Greenville Lions	5	1	100	Inter League Game	ILG			As Scored	0	0	
+4/28/2001	Charleston Battery	Charlotte Eagles	3	0	3,441	League Game	LGE		Kenney, Chris	As Scored	0	0	
+4/28/2001	Chesapeake Dragons	New York Freedoms	2	3	134	League Game	LGE			As Scored	0	0	
+4/28/2001	Chico Rooks	San Diego Flash	3	1	0	Inter League Game	ILG			As Scored	0	0	
+4/28/2001	Cincinnati Riverhawks	Milwaukee Rampage	3	5	0	Inter League Game	ILG			As Scored	0	0	
+4/28/2001	El Paso Patriots	Portland Timbers	2	1	3,198	League Game	LGE		Rutty, Reggie	As Scored	0	0	
+4/28/2001	Long Island Rough Riders	Minnesota Thunder	3	2	1,053	League Game	LGE		Konstantinidis, John	As Scored	0	0	
+4/28/2001	Miami Strike Force	Central Florida Kraze	1	2	100	League Game	LGE			As Scored	0	0	
+4/28/2001	Pittsburgh Riverhounds	Indiana Blast	1	0	4,466	League Game	LGE		Kennedy, Michael	As Scored	0	0	
+4/28/2001	Reading Rage	Northern Virginia Royals	4	1	100	League Game	LGE			As Scored	0	0	
+4/28/2001	South Jersey Barons	Richmond Kickers	0	1	100	Inter League Game	ILG			As Scored	0	0	
+4/28/2001	West Dallas Kings	Lafayette Lightning	1	3	179	League Game	LGE			As Scored	0	0	
+4/28/2001	Western Mass Pioneers	Rhode Island Stingrays	3	2	0	League Game	LGE			As Scored	0	0	
+4/28/2001	Wichita Jets	Kansas City Brass	1	0	228	League Game	LGE			As Scored	0	0	
+4/28/2001	Wilmington Hammerheads	Carolina Dynamo	1	2	2,103	League Game	LGE			As Scored	0	0	
+4/29/2001	Chesapeake Dragons	Westchester Flames	1	4	71	League Game	LGE			As Scored	0	0	
+4/29/2001	Hershey Wildcats	Indiana Blast	4	0	7,632	League Game	LGE		Sanz, Lorenzo	As Scored	0	0	
+4/29/2001	New Jersey Stallions	Richmond Kickers	0	3	200	Inter League Game	ILG		Fenlon, Brian	As Scored	0	0	
+4/29/2001	San Fernando Valley Heroes	Orange County Blue Star	3	2	213	League Game	LGE			As Scored	0	0	
+4/29/2001	West Dallas Kings	Texas Spurs	1	3	182	League Game	LGE			As Scored	0	0	
+5/2/2001	New York Freedoms	Brooklyn Knights	1	0	100	League Game	LGE			As Scored	0	0	
+5/2/2001	North Jersey Imperials	Westchester Flames	1	3	100	League Game	LGE			As Scored	0	0	
+5/4/2001	Boston Bulldogs	Rhode Island Stingrays	2	1	100	League Game	LGE			As Scored	0	0	
+5/4/2001	Central Coast Roadrunners	Southern California Seahorse	2	1	871	League Game	LGE			As Scored	0	0	
+5/4/2001	Nashville Metros	Richmond Kickers	2	3	1	League Game	LGE			As Scored	0	0	
+5/4/2001	Stanislaus United Cruisers	Northern Nevada Aces	1	0	100	League Game	LGE			As Scored	0	0	
+5/4/2001	Western Mass Pioneers	New Hampshire Phantoms	1	0	2,077	League Game	LGE			As Scored	0	0	
+5/5/2001	Atlanta Silverbacks	Nashville Metros	2	1	1,678	League Game	LGE		Kenney, Chris	As Scored	0	0	
+5/5/2001	Central Florida Kraze	Palm Beach Pumas	2	1	402	League Game	LGE			As Scored	0	0	
+5/5/2001	Charleston Battery	Charlotte Eagles	4	1	3,495	League Game	LGE			As Scored	0	0	
+5/5/2001	Colorado Springs Ascent	Kansas City Brass	0	0	0	League Game	LGE			As Scored	0	0	
+5/5/2001	Denver Cougars	Wichita Jets	2	0	80	League Game	LGE			As Scored	0	0	
+5/5/2001	Des Moines Menace	Sioux Falls SpitFire	3	2	630	League Game	LGE			As Scored	0	0	
+5/5/2001	Greenville Lions	Wilmington Hammerheads	1	0	100	League Game	LGE			As Scored	0	0	
+5/5/2001	Hershey Wildcats	Northern Virginia Royals	4	0	0	Inter League Game	ILG			As Scored	0	0	
+5/5/2001	Indiana Invaders	Dayton Gemini	1	0	395	League Game	LGE			As Scored	0	0	
+5/5/2001	Lafayette Lightning	Texas Spurs	2	2	100	League Game	LGE			As Scored	0	0	
+5/5/2001	Louisiana Outlaws	West Dallas Kings	3	4	200	League Game	LGE			As Scored	0	0	
+5/5/2001	Minnesota Thunder	Indiana Blast	4	0	1	Inter League Game	ILG			As Scored	0	0	
+5/5/2001	New York Freedoms	Cape Cod Crusaders	2	1	100	League Game	LGE			As Scored	0	0	
+5/5/2001	Pittsburgh Riverhounds	Reading Rage	2	1	1	Inter League Game	ILG	2464
+		As Scored	0	0	
+5/5/2001	Rhode Island Stingrays	New Jersey Stallions	2	0	500	League Game	LGE			As Scored	0	0	
+5/5/2001	Rochester Rhinos	Connecticut Wolves	1	1	11,131	League Game	LGE			As Scored	0	0	
+5/5/2001	San Diego Flash	Chico Rooks	2	0	300	Inter League Game	ILG			As Scored	0	0	
+5/5/2001	San Fernando Valley Heroes	Southern California Seahorse	0	3	500	League Game	LGE			As Scored	0	0	
+5/5/2001	San Gabriel Valley Highlanders	Orange County Blue Star	1	2	100	League Game	LGE			As Scored	0	0	
+5/5/2001	Seattle Sounders	Vancouver Whitecaps	0	1	3,227	League Game	LGE			As Scored	0	0	
+5/5/2001	Seattle Sounders Select	Spokane Shadow	3	2	100	League Game	LGE	Gledhill, Faridnia, Somoza, Hogenhout 1A		As Scored	0	0	
+5/5/2001	South Jersey Barons	Long Island Rough Riders	1	3	0	Inter League Game	ILG			As Scored	0	0	
+5/5/2001	Tampa Bay Hawks	Cocoa Expos	1	2	245	League Game	LGE			As Scored	0	0	
+5/5/2001	Tucson Fireballs	El Paso Patriots	2	3	0	Inter League Game	ILG			As Scored	0	0	
+5/5/2001	Utah Blitzz	Portland Timbers	2	1	0	Inter League Game	ILG			As Scored	0	0	
+5/5/2001	Westchester Flames	Chesapeake Dragons	3	0	212	League Game	LGE			As Scored	0	0	
+5/6/2001	Arizona Sahuaros	El Paso Patriots	0	2	0	Inter League Game	ILG			As Scored	0	0	
+5/6/2001	Bradenton Academics	Cocoa Expos	4	1	50	League Game	LGE			As Scored	0	0	
+5/6/2001	Cascade Surge	Seattle Sounders Select	1	2	427	League Game	LGE	Galavis 1A, Faridnia 2A		As Scored	0	0	
+5/6/2001	Colorado Springs Ascent	Wichita Jets	0	0	0	League Game	LGE			As Scored	0	0	
+5/6/2001	Greenville Lions	Wilmington Hammerheads	0	0	0	League Game	LGE			As Scored	0	0	
+5/6/2001	Jersey Falcons	Chesapeake Dragons	1	3	40	League Game	LGE			As Scored	0	0	
+5/6/2001	Lafayette Lightning	West Dallas Kings	3	2	120	League Game	LGE			As Scored	0	0	
+5/6/2001	Louisiana Outlaws	Texas Spurs	0	2	200	League Game	LGE			As Scored	0	0	
+5/6/2001	Milwaukee Rampage	Indiana Blast	3	1	0	Inter League Game	ILG			As Scored	0	0	
+5/6/2001	New Hampshire Phantoms	New Jersey Stallions	1	2	895	League Game	LGE			As Scored	0	0	
+5/6/2001	North Jersey Imperials	Cape Cod Crusaders	1	2	100	League Game	LGE			As Scored	0	0	
+5/6/2001	Northern Nevada Aces	Portland Timbers	1	4	0	Inter League Game	ILG			As Scored	0	0	
+5/6/2001	Rhode Island Stingrays	New Jersey Stallions	0	0	0	League Game	LGE			As Scored	0	0	
+5/6/2001	San Fernando Valley Heroes	Chico Rooks	0	6	100	League Game	LGE			As Scored	0	0	
+5/9/2001	Milwaukee Rampage	Minnesota Thunder	1	0	371	League Game	LGE		Kennedy, Michael	As Scored	0	0	
+5/10/2001	Miami Strike Force	Bradenton Academics	4	2	50	League Game	LGE			As Scored	0	0	
+5/11/2001	Cape Cod Crusaders	Chesapeake Dragons	0	2	420	League Game	LGE			As Scored	0	0	
+5/11/2001	Central Florida Kraze	Cocoa Expos	1	2	167	League Game	LGE			As Scored	0	0	
+5/11/2001	Charlotte Eagles	Nashville Metros	2	4	2,115	League Game	LGE		Watson	As Scored	0	0	
+5/11/2001	Chicago Eagles Select	Twin Cities Phoenix	2	1	200	League Game	LGE			As Scored	0	0	
+5/11/2001	Chico Rooks	Arizona Sahuaros	2	1	1,241	League Game	LGE			As Scored	0	0	
+5/11/2001	Cincinnati Riverhawks	Minnesota Thunder	1	0	0	Inter League Game	ILG			As Scored	0	0	
+5/11/2001	Dayton Gemini	Chicago Fire Reserves	1	3	75	League Game	LGE	Reti, Willson 1A		As Scored	0	0	
+5/11/2001	Denver Cougars	Boulder Nova	1	0	350	League Game	LGE			As Scored	0	0	
+5/11/2001	Indiana Blast	Atlanta Silverbacks	2	1	1,488	League Game	LGE		Akbay, Zekai	As Scored	0	0	
+5/11/2001	Jersey Falcons	Westchester Flames	0	4	100	League Game	LGE			As Scored	0	0	
+5/11/2001	Kalamazoo Kingdom	Mid Michigan Bucks	1	3	1,483	League Game	LGE			As Scored	0	0	
+5/11/2001	Kansas City Brass	Colorado Springs Ascent	0	0	0	League Game	LGE			As Scored	0	0	
+5/11/2001	Northern Nevada Aces	Utah Blitzz	0	6	200	League Game	LGE			As Scored	0	0	
+5/11/2001	Northern Virginia Royals	Hershey Wildcats	0	2	0	Inter League Game	ILG			As Scored	0	0	
+5/11/2001	Portland Timbers	Seattle Sounders	2	0	12,295	League Game	LGE			As Scored	0	0	
+5/11/2001	Reading Rage	Pittsburgh Riverhounds	1	2	100	Inter League Game	ILG		Delaney, William	As Scored	0	0	
+5/11/2001	San Diego Flash	El Paso Patriots	3	0	100	League Game	LGE			As Scored	0	0	
+5/11/2001	San Gabriel Valley Highlanders	Central Coast Roadrunners	1	6	25	League Game	LGE			As Scored	0	0	
+5/11/2001	West Dallas Kings	Wichita Jets	2	1	117	League Game	LGE			As Scored	0	0	
+5/11/2001	Western Mass Pioneers	Rochester Rhinos	1	2	50	Inter League Game	ILG	2745		As Scored	0	0	
+5/11/2001	Yakima Reds	Cascade Surge	2	1	520	League Game	LGE			As Scored	0	0	
+5/12/2001	Boston Bulldogs	Chesapeake Dragons	2	1	182	League Game	LGE			As Scored	0	0	
+5/12/2001	Calgary Storm	Seattle Sounders Select	2	0	1,434	League Game	LGE	Reyes 1A		As Scored	0	0	
+5/12/2001	Cape Cod Crusaders	Jersey Falcons	3	2	100	League Game	LGE			As Scored	0	0	
+5/12/2001	Carolina Dynamo	Greenville Lions	0	0	1,163	League Game	LGE			As Scored	0	0	
+5/12/2001	Central Florida Kraze	Tampa Bay Hawks	2	1	186	League Game	LGE			As Scored	0	0	
+5/12/2001	Charleston Battery	Montreal Impact	2	0	2,750	League Game	LGE			As Scored	0	0	
+5/12/2001	Chicago Eagles Select	Thunder Bay Chill	2	1	150	League Game	LGE	Kolinski, Wesseh, Galvao 1A		As Scored	0	0	
+5/12/2001	Cincinnati Riverhawks	Atlanta Silverbacks	2	3	632	League Game	LGE		Purdue, JR	As Scored	0	0	
+5/12/2001	Cocoa Expos	Palm Beach Pumas	2	1	30	League Game	LGE			As Scored	0	0	
+5/12/2001	Connecticut Wolves	Rhode Island Stingrays	5	0	100	Inter League Game	ILG		Heller, Kenneth	As Scored	0	0	
+5/12/2001	Des Moines Menace	Twin Cities Phoenix	2	1	2,078	League Game	LGE			As Scored	0	0	
+5/12/2001	El Paso Patriots	San Diego Flash	3	1	3,370	League Game	LGE			As Scored	0	0	
+5/12/2001	Hershey Wildcats	Pittsburgh Riverhounds	2	0	50	League Game	LGE	2294		As Scored	0	0	
+5/12/2001	Indiana Invaders	Kalamazoo Kingdom	3	2	225	League Game	LGE			As Scored	0	0	
+5/12/2001	Long Island Rough Riders	South Jersey Barons	3	4	0	Inter League Game	ILG			As Scored	0	0	
+5/12/2001	Louisiana Outlaws	Lafayette Lightning	3	3	35	League Game	LGE			As Scored	0	0	
+5/12/2001	New Hampshire Phantoms	Rochester Rhinos	1	2	50	Inter League Game	ILG	2395
+		As Scored	0	0	
+5/12/2001	Northern Nevada Aces	Utah Blitzz	0	5	115	League Game	LGE			As Scored	0	0	
+5/12/2001	Okanagan Challenge	Cascade Surge	2	3	384	League Game	LGE	Coble, Marrs 1A		As Scored	0	0	
+5/12/2001	San Fernando Valley Heroes	Central Coast Roadrunners	4	2	100	League Game	LGE			As Scored	0	0	
+5/12/2001	Seattle Sounders	Portland Timbers	2	1	2,112	League Game	LGE			As Scored	0	0	
+5/12/2001	Southern California Seahorse	Orange County Blue Star	2	1	301	League Game	LGE			As Scored	0	0	
+5/12/2001	Spokane Shadow	Yakima Reds	2	1	2,331	League Game	LGE			As Scored	0	0	
+5/12/2001	Stanislaus United Cruisers	Arizona Sahuaros	2	0	300	League Game	LGE			As Scored	0	0	
+5/12/2001	Texas Spurs	West Dallas Kings	4	2	100	League Game	LGE			As Scored	0	0	
+5/12/2001	Westchester Flames	Vermont Voltage	2	1	200	League Game	LGE			As Scored	0	0	
+5/12/2001	Wichita Jets	Colorado Springs Ascent	0	0	0	League Game	LGE			As Scored	0	0	
+5/12/2001	Wilmington Hammerheads	New Jersey Stallions	2	1	1,587	League Game	LGE			As Scored	0	0	
+5/13/2001	Brooklyn Knights	North Jersey Imperials	2	1	106	League Game	LGE			As Scored	0	0	
+5/13/2001	Calgary Storm	Seattle Sounders Select	1	2	1,370	League Game	LGE	Vert, McKenna 1A		As Scored	0	0	
+5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	4	1	247	League Game	LGE	Bandanai 1A		As Scored	0	0	
+5/13/2001	Greenville Lions	Nashville Metros	0	0	0	Inter League Game	ILG			As Scored	0	0	
+5/13/2001	Indiana Blast	Minnesota Thunder	2	3	0	Inter League Game	ILG			As Scored	0	0	
+5/13/2001	Richmond Kickers	New Jersey Stallions	5	0	100	Inter League Game	ILG			As Scored	0	0	
+5/14/2001	Charlotte Eagles	Montreal Impact	2	0	658	League Game	LGE		Burak	As Scored	0	0	
+5/16/2001	Hershey Wildcats	Reading Rage	0	0	100	Inter League Game	ILG		Poeschel, Brian	As Scored	0	0	
+5/16/2001	North Jersey Imperials	New York Freedoms	2	2	100	League Game	LGE			As Scored	0	0	
+5/18/2001	Boston Bulldogs	Western Mass Pioneers	0	1	311	League Game	LGE			As Scored	0	0	
+5/18/2001	Cascade Surge	Calgary Storm	1	3	364	League Game	LGE	Newmarch, Reyes 1A		As Scored	0	0	
+5/18/2001	Charlotte Eagles	Carolina Dynamo	2	1	1,470	Inter League Game	ILG			As Scored	0	0	
+5/18/2001	Denver Cougars	Colorado Springs Ascent	4	0	175	League Game	LGE			As Scored	0	0	
+5/18/2001	Indiana Blast	Cincinnati Riverhawks	3	2	1	League Game	LGE			As Scored	0	0	
+5/18/2001	Kalamazoo Kingdom	West Michigan Edge	3	4	683	League Game	LGE			As Scored	0	0	
+5/18/2001	Miami Strike Force	Palm Beach Pumas	1	2	100	League Game	LGE			As Scored	0	0	
+5/18/2001	Nashville Metros	Atlanta Silverbacks	2	1	1,375	League Game	LGE			As Scored	0	0	
+5/18/2001	Northern Virginia Royals	Pittsburgh Riverhounds	1	3	0	Inter League Game	ILG			As Scored	0	0	
+5/18/2001	Orange County Blue Star	Central Coast Roadrunners	1	3	100	League Game	LGE			As Scored	0	0	
+5/18/2001	San Diego Flash	Minnesota Thunder	2	1	100	League Game	LGE			As Scored	0	0	
+5/18/2001	Seattle Sounders	Northern Nevada Aces	3	0	250	Inter League Game	ILG			As Scored	0	0	
+5/18/2001	Seattle Sounders Select	Yakima Reds	3	1	50	League Game	LGE	Sagare, Vert 1A		As Scored	0	0	
+5/18/2001	Sioux Falls SpitFire	Chicago Eagles Select	2	1	1,963	League Game	LGE			As Scored	0	0	
+5/18/2001	South Jersey Barons	New Jersey Stallions	3	1	1,331	League Game	LGE			As Scored	0	0	
+5/18/2001	Southern California Seahorse	San Gabriel Valley Highlanders	6	0	360	League Game	LGE			As Scored	0	0	
+5/18/2001	Spokane Shadow	Okanagan Challenge	2	0	831	League Game	LGE	Prichard, Gledhill 1A		As Scored	0	0	
+5/18/2001	Wichita Jets	Boulder Nova	1	4	167	League Game	LGE			As Scored	0	0	
+5/18/2001	Wilmington Hammerheads	Charleston Battery	0	2	0	Inter League Game	ILG			As Scored	0	0	
+5/19/2001	Atlanta Silverbacks	Nashville Metros	1	3	1,247	League Game	LGE		Bower, Tim	As Scored	0	0	
+5/19/2001	Bradenton Academics	Central Florida Kraze	1	0	100	League Game	LGE			As Scored	0	0	
+5/19/2001	Brooklyn Knights	Jersey Falcons	4	1	100	League Game	LGE			As Scored	0	0	
+5/19/2001	Carolina Dynamo	Charlotte Eagles	1	3	100	Inter League Game	ILG			As Scored	0	0	
+5/19/2001	Central Coast Roadrunners	San Fernando Valley Heroes	2	1	924	League Game	LGE			As Scored	0	0	
+5/19/2001	Charleston Battery	Wilmington Hammerheads	2	0	2,902	Inter League Game	ILG		Rutty, Reggie	As Scored	0	0	
+5/19/2001	Chesapeake Dragons	North Jersey Imperials	0	2	158	League Game	LGE			As Scored	0	0	
+5/19/2001	Colorado Springs Ascent	Denver Cougars	3	3	0	League Game	LGE			As Scored	0	0	
+5/19/2001	Connecticut Wolves	Boston Bulldogs	2	1	100	Inter League Game	ILG			As Scored	0	0	
+5/19/2001	Des Moines Menace	Thunder Bay Chill	1	0	2,008	League Game	LGE			As Scored	0	0	
+5/19/2001	El Paso Patriots	Minnesota Thunder	2	2	3,361	League Game	LGE			As Scored	0	0	
+5/19/2001	Kansas City Brass	Boulder Nova	1	3	158	League Game	LGE			As Scored	0	0	
+5/19/2001	Mid Michigan Bucks	Indiana Invaders	4	3	782	League Game	LGE	Presser, Berndt 1A, Snape 4A		As Scored	0	0	
+5/19/2001	New Jersey Stallions	South Jersey Barons	1	1	500	League Game	LGE			As Scored	0	0	
+5/19/2001	New York Freedoms	Vermont Voltage	1	2	142	League Game	LGE			As Scored	0	0	
+5/19/2001	Orange County Blue Star	San Gabriel Valley Highlanders	4	2	74	League Game	LGE			As Scored	0	0	
+5/19/2001	Pittsburgh Riverhounds	Hershey Wildcats	1	1	50	League Game	LGE	3815		As Scored	0	0	
+5/19/2001	Portland Timbers	Northern Nevada Aces	1	0	5,329	Inter League Game	ILG			As Scored	0	0	
+5/19/2001	Richmond Kickers	Long Island Rough Riders	0	0	3,111	League Game	LGE			As Scored	0	0	
+5/19/2001	Rochester Rhinos	New Hampshire Phantoms	4	0	50	Inter League Game	ILG	9147		As Scored	0	0	
+5/19/2001	Sioux Falls SpitFire	Wichita Jets	2	0	1,109	League Game	LGE			As Scored	0	0	
+5/19/2001	Stanislaus United Cruisers	Chico Rooks	0	2	0	League Game	LGE			As Scored	0	0	
+5/19/2001	Texas Spurs	Louisiana Outlaws	4	0	100	League Game	LGE			As Scored	0	0	
+5/19/2001	Toronto Lynx	Montreal Impact	1	0	3,284	League Game	LGE			As Scored	0	0	
+5/19/2001	Tucson Fireballs	Arizona Sahuaros	2	1	100	League Game	LGE			As Scored	0	0	
+5/19/2001	Vancouver Whitecaps	Milwaukee Rampage	1	2	7,059	League Game	LGE			As Scored	0	0	
+5/19/2001	West Dallas Kings	Lafayette Lightning	1	2	0	League Game	LGE			As Scored	0	0	
+5/19/2001	Westchester Flames	Cape Cod Crusaders	5	0	180	League Game	LGE			As Scored	0	0	
+5/19/2001	Western Mass Pioneers	Rhode Island Stingrays	0	0	2,149	League Game	LGE			As Scored	0	0	
+5/19/2001	Yakima Reds	Okanagan Challenge	2	1	324	League Game	LGE			As Scored	0	0	
+5/20/2001	Bradenton Academics	Cocoa Expos	1	1	100	League Game	LGE			As Scored	0	0	
+5/20/2001	Brooklyn Knights	Vermont Voltage	2	0	0	League Game	LGE			As Scored	0	0	
+5/20/2001	Cascade Surge	Spokane Shadow	2	1	0	League Game	LGE			As Scored	0	0	
+5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	1	0	147	League Game	LGE	Willson 1A		As Scored	0	0	
+5/20/2001	Dayton Gemini	West Michigan Edge	3	1	0	League Game	LGE			As Scored	0	0	
+5/20/2001	Jersey Falcons	North Jersey Imperials	0	4	0	League Game	LGE			As Scored	0	0	
+5/20/2001	Palm Beach Pumas	Miami Strike Force	1	3	0	League Game	LGE			As Scored	0	0	
+5/20/2001	Seattle Sounders	Milwaukee Rampage	1	0	994	League Game	LGE			As Scored	0	0	
+5/20/2001	Seattle Sounders Select	Calgary Storm	0	2	75	League Game	LGE	Munoz, Slade 1A		As Scored	0	0	
+5/20/2001	Tampa Bay Hawks	Central Florida Kraze	2	0	0	League Game	LGE			As Scored	0	0	
+5/20/2001	Texas Spurs	Lafayette Lightning	10	1	0	League Game	LGE			As Scored	0	0	
+5/20/2001	Twin Cities Phoenix	Thunder Bay Chill	1	2	387	League Game	LGE	Badanai, Cierny, Krohn 1A		As Scored	0	0	
+5/20/2001	West Dallas Kings	Louisiana Outlaws	1	0	0	League Game	LGE			As Scored	0	0	
+5/21/2001	Twin Cities Phoenix	Chicago Eagles Select	1	5	0	League Game	LGE			As Scored	0	0	
+5/23/2001	Denver Cougars	Boulder Nova	3	1	100	League Game	LGE			As Scored	0	0	
+5/23/2001	Northern Virginia Royals	Greenville Lions	1	2	115	League Game	LGE			As Scored	0	0	
+5/23/2001	Portland Timbers	El Paso Patriots	2	1	3,861	League Game	LGE			As Scored	0	0	
+5/23/2001	Rhode Island Stingrays	Connecticut Wolves	0	2	0	Inter League Game	ILG			As Scored	0	0	
+5/23/2001	Tampa Bay Hawks	Bradenton Academics	1	2	0	League Game	LGE			As Scored	0	0	
+5/23/2001	Wichita Jets	Colorado Springs Ascent	5	1	0	League Game	LGE			As Scored	0	0	
+5/24/2001	Kansas City Brass	Colorado Springs Ascent	5	1	0	League Game	LGE			As Scored	0	0	
+5/24/2001	New York Freedoms	Westchester Flames	0	3	0	League Game	LGE			As Scored	0	0	
+5/24/2001	West Michigan Edge	Chicago Fire Reserves	1	4	912	League Game	LGE	Klaas, PSmith 1A, Reti 2A		As Scored	0	0	
+5/25/2001	Calgary Storm	Cascade Surge	1	0	1,711	League Game	LGE	Jesic 1A		As Scored	0	0	
+5/25/2001	Chicago Eagles Select	Des Moines Menace	2	0	0	League Game	LGE			As Scored	0	0	
+5/25/2001	Cocoa Expos	Central Florida Kraze	0	0	0	League Game	LGE			As Scored	0	0	
+5/25/2001	Denver Cougars	Colorado Springs Ascent	3	0	100	League Game	LGE			As Scored	0	0	
+5/25/2001	Indiana Blast	Milwaukee Rampage	2	2	0	Inter League Game	ILG			As Scored	0	0	
+5/25/2001	Miami Strike Force	Tampa Bay Hawks	1	0	0	League Game	LGE			As Scored	0	0	
+5/25/2001	Mid Michigan Bucks	Dayton Gemini	3	2	0	League Game	LGE			As Scored	0	0	
+5/25/2001	Okanagan Challenge	Seattle Sounders Select	1	2	0	League Game	LGE			As Scored	0	0	
+5/25/2001	Pittsburgh Riverhounds	Montreal Impact	2	0	1	League Game	LGE	1542		As Scored	0	0	
+5/25/2001	Richmond Kickers	Atlanta Silverbacks	2	0	1,007	League Game	LGE			As Scored	0	0	
+5/25/2001	San Gabriel Valley Highlanders	Southern California Seahorse	0	0	0	League Game	LGE			As Scored	0	0	
+5/25/2001	Sioux Falls SpitFire	Kalamazoo Kingdom	0	1	0	League Game	LGE			As Scored	0	0	
+5/25/2001	Vancouver Whitecaps	El Paso Patriots	1	0	4,672	League Game	LGE			As Scored	0	0	
+5/25/2001	Vermont Voltage	Cape Cod Crusaders	1	1	0	League Game	LGE			As Scored	0	0	
+5/25/2001	Yakima Reds	Spokane Shadow	1	3	0	League Game	LGE			As Scored	0	0	
+5/26/2001	Arizona Sahuaros	Tucson Fireballs	1	1	2,120	League Game	LGE			As Scored	0	0	
+5/26/2001	Calgary Storm	Cascade Surge	3	0	2,133	League Game	LGE	Lemire, Paszkowski 1A		As Scored	0	0	
+5/26/2001	Central Coast Roadrunners	Chico Rooks	2	1	312	League Game	LGE			As Scored	0	0	
+5/26/2001	Charleston Battery	Nashville Metros	5	2	2,827	League Game	LGE			As Scored	0	0	
+5/26/2001	Chicago Eagles Select	Sioux Falls SpitFire	0	0	0	League Game	LGE			As Scored	0	0	
+5/26/2001	Colorado Springs Ascent	Boulder Nova	0	4	40	League Game	LGE	Folbrycht, Theofiledes 1A		As Scored	0	0	
+5/26/2001	Greenville Lions	Carolina Dynamo	0	1	765	League Game	LGE			As Scored	0	0	
+5/26/2001	Indiana Invaders	Des Moines Menace	2	1	650	League Game	LGE	Medina, Berndt, Roff 1A		As Scored	0	0	
+5/26/2001	Lafayette Lightning	Wichita Jets	2	1	550	League Game	LGE	Jewett, Wilkersun 1A		As Scored	0	0	
+5/26/2001	Louisiana Outlaws	Kansas City Brass	7	3	150	League Game	LGE	Millas 1A, Quaquio, Owens 2A		As Scored	0	0	
+5/26/2001	Miami Strike Force	Cocoa Expos	3	2	0	League Game	LGE			As Scored	0	0	
+5/26/2001	Minnesota Thunder	Cincinnati Riverhawks	3	1	1,892	Inter League Game	ILG			As Scored	0	0	
+5/26/2001	New Hampshire Phantoms	Boston Bulldogs	1	1	3,536	League Game	LGE			As Scored	0	0	
+5/26/2001	North Jersey Imperials	Westchester Flames	1	0	0	League Game	LGE			As Scored	0	0	
+5/26/2001	Northern Virginia Royals	Wilmington Hammerheads	0	0	0	League Game	LGE			As Scored	0	0	
+5/26/2001	Okanagan Challenge	Yakima Reds	3	1	523	League Game	LGE	Moore 1A, Scaligine 2A		As Scored	0	0	
+5/26/2001	Palm Beach Pumas	Tampa Bay Hawks	3	2	0	League Game	LGE			As Scored	0	0	
+5/26/2001	Reading Rage	South Jersey Barons	0	0	0	League Game	LGE			As Scored	0	0	
+5/26/2001	Rochester Rhinos	Western Mass Pioneers	3	0	50	Inter League Game	ILG	9245		As Scored	0	0	
+5/26/2001	San Diego Flash	Portland Timbers	3	4	840	League Game	LGE			As Scored	0	0	
+5/26/2001	San Fernando Valley Heroes	San Gabriel Valley Highlanders	1	0	183	League Game	LGE	Akopian 1A		As Scored	0	0	
+5/26/2001	Southern California Seahorse	Stanislaus United Cruisers	2	4	357	League Game	LGE			As Scored	0	0	
+5/26/2001	Spokane Shadow	Seattle Sounders Select	3	2	658	League Game	LGE	Burcar, Reeves 1A, Johnson 2A		As Scored	0	0	
+5/26/2001	Twin Cities Phoenix	Kalamazoo Kingdom	1	5	57	League Game	LGE	Biron, Dias, Kench, Lukungu, Mariscalco 1A		As Scored	0	0	
+5/26/2001	Utah Blitzz	Seattle Sounders	0	0	100	Inter League Game	ILG			As Scored	0	0	
+5/26/2001	Vermont Voltage	Brooklyn Knights	3	1	0	League Game	LGE			As Scored	0	0	
+5/27/2001	Bradenton Academics	Central Florida Kraze	3	2	0	League Game	LGE			As Scored	0	0	
+5/27/2001	Cape Cod Crusaders	Brooklyn Knights	2	4	0	League Game	LGE			As Scored	0	0	
+5/27/2001	Chesapeake Dragons	North Jersey Imperials	2	2	0	League Game	LGE			As Scored	0	0	
+5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	0	1	172	League Game	LGE	Mack 1A		As Scored	0	0	
+5/27/2001	Lafayette Lightning	Kansas City Brass	3	2	473	League Game	LGE			As Scored	0	0	
+5/27/2001	Louisiana Outlaws	Wichita Jets	3	1	100	League Game	LGE			As Scored	0	0	
+5/27/2001	Milwaukee Rampage	Cincinnati Riverhawks	3	0	0	Inter League Game	ILG			As Scored	0	0	
+5/27/2001	Montreal Impact	Connecticut Wolves	1	2	2,348	League Game	LGE			As Scored	0	0	
+5/27/2001	New Jersey Stallions	Long Island Rough Riders	1	2	0	Inter League Game	ILG			As Scored	0	0	
+5/27/2001	Northern Nevada Aces	Seattle Sounders	0	5	150	Inter League Game	ILG			As Scored	0	0	
+5/27/2001	Orange County Blue Star	Stanislaus United Cruisers	3	1	0	League Game	LGE			As Scored	0	0	
+5/27/2001	Texas Spurs	West Dallas Kings	5	0	168	League Game	LGE			As Scored	0	0	
+5/27/2001	Toronto Lynx	Rochester Rhinos	0	1	50	League Game	LGE	2027		As Scored	0	0	
+5/27/2001	Twin Cities Phoenix	Dayton Gemini	5	1	78	League Game	LGE			As Scored	0	0	
+5/27/2001	Westchester Flames	Jersey Falcons	3	0	0	League Game	LGE			As Scored	0	0	
+5/28/2001	El Paso Patriots	Tucson Fireballs	7	1	1,865	Inter League Game	ILG			As Scored	0	0	
+5/28/2001	Indiana Invaders	West Michigan Edge	3	5	145	League Game	LGE			As Scored	0	0	
+5/28/2001	Pittsburgh Riverhounds	Hershey Wildcats	0	2	50	League Game	LGE	2497
+		As Scored	0	0	
+5/29/2001	Cocoa Expos	Central Florida Kraze	4	2	50	League Game	LGE			As Scored	0	0	
+5/29/2001	Toronto Lynx	Connecticut Wolves	1	2	4,211	League Game	LGE			As Scored	0	0	
+5/30/2001	Minnesota Thunder	Milwaukee Rampage	0	1	3,167	League Game	LGE			As Scored	0	0	
+5/31/2001	Indiana Blast	Richmond Kickers	2	3	1	League Game	LGE			As Scored	0	0	
+5/31/2001	Mid Michigan Bucks	West Michigan Edge	2	5	412	League Game	LGE			As Scored	0	0	
+6/1/2001	Cascade Surge	Yakima Reds	3	1	274	League Game	LGE			As Scored	0	0	
+6/1/2001	Central Florida Kraze	Tampa Bay Hawks	0	0	0	League Game	LGE			As Scored	0	0	
+6/1/2001	Charleston Battery	Carolina Dynamo	5	0	0	Inter League Game	ILG			As Scored	0	0	
+6/1/2001	Cocoa Expos	Bradenton Academics	2	1	70	League Game	LGE			As Scored	0	0	
+6/1/2001	Hershey Wildcats	Rochester Rhinos	1	0	2,011	League Game	LGE		Schuster, Alex	As Scored	0	0	
+6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	1	4	830	League Game	LGE	DaSilva 1A		As Scored	0	0	
+6/1/2001	Miami Strike Force	Palm Beach Pumas	2	3	40	League Game	LGE			As Scored	0	0	
+6/1/2001	Montreal Impact	Long Island Rough Riders	2	0	1,000	League Game	LGE			As Scored	0	0	
+6/1/2001	Nashville Metros	Greenville Lions	3	0	1,325	Inter League Game	ILG		Huber, Rich	As Scored	0	0	
+6/1/2001	Nashville Metros	Greenville Lions	3	0	0	Inter League Game	ILG			As Scored	0	0	
+6/1/2001	Pittsburgh Riverhounds	Northern Virginia Royals	8	0	2,816	Inter League Game	ILG		Bazakos, Elias	As Scored	0	0	
+6/1/2001	Pittsburgh Riverhounds	Northern Virginia Royals	8	0	0	Inter League Game	ILG			As Scored	0	0	
+6/1/2001	Rhode Island Stingrays	Boston Bulldogs	0	4	525	League Game	LGE			As Scored	0	0	
+6/1/2001	San Gabriel Valley Highlanders	Orange County Blue Star	0	0	0	League Game	LGE			As Scored	0	0	
+6/1/2001	Seattle Sounders	San Diego Flash	2	1	1,322	League Game	LGE			As Scored	0	0	
+6/1/2001	Seattle Sounders Select	Okanagan Challenge	2	0	50	League Game	LGE	Sagare 1A		As Scored	0	0	
+6/1/2001	Sioux Falls SpitFire	Thunder Bay Chill	2	1	1,230	League Game	LGE	Oliver 2A		As Scored	0	0	
+6/1/2001	Southern California Seahorse	San Fernando Valley Heroes	1	1	269	League Game	LGE	Abyanli, Retiz 1A		As Scored	0	0	
+6/1/2001	Twin Cities Phoenix	Des Moines Menace	0	1	74	League Game	LGE			As Scored	0	0	
+6/1/2001	Utah Blitzz	Northern Nevada Aces	5	0	100	League Game	LGE			As Scored	0	0	
+6/1/2001	Wichita Jets	Kansas City Brass	0	0	0	League Game	LGE			As Scored	0	0	
+6/1/2001	Wilmington Hammerheads	Charlotte Eagles	2	0	1,297	Inter League Game	ILG		Burak	As Scored	0	0	
+6/2/2001	Arizona Sahuaros	Chico Rooks	1	3	842	League Game	LGE			As Scored	0	0	
+6/2/2001	Brooklyn Knights	Jersey Falcons	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2001	Calgary Storm	Spokane Shadow	4	1	2,308	League Game	LGE	Stueckle, Reyes, Lemire 1A		As Scored	0	0	
+6/2/2001	Carolina Dynamo	Wilmington Hammerheads	5	0	1,241	League Game	LGE			As Scored	0	0	
+6/2/2001	Cascade Surge	Okanagan Challenge	0	1	365	League Game	LGE	Mori 1A		As Scored	0	0	
+6/2/2001	Central Coast Roadrunners	Orange County Blue Star	1	2	175	League Game	LGE		Klock, Paul	As Scored	0	0	
+6/2/2001	Charlotte Eagles	Charleston Battery	2	1	1,883	League Game	LGE		Sill, Roger	As Scored	0	0	
+6/2/2001	Cincinnati Riverhawks	Nashville Metros	2	1	586	League Game	LGE		Widner, Gibby	As Scored	0	0	
+6/2/2001	Cocoa Expos	Tampa Bay Hawks	5	4	100	League Game	LGE	Freeman 1A		As Scored	0	0	
+6/2/2001	Connecticut Wolves	Long Island Rough Riders	1	3	1,710	League Game	LGE		Schuster, Alex	As Scored	0	0	
+6/2/2001	Des Moines Menace	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2001	Kansas City Brass	Wichita Jets	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2001	Lafayette Lightning	Louisiana Outlaws	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2001	Miami Strike Force	Bradenton Academics	2	0	50	League Game	LGE		Nehme, Adam	As Scored	0	0	
+6/2/2001	Mid Michigan Bucks	Chicago Eagles Select	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2001	Minnesota Thunder	Vancouver Whitecaps	1	0	2,180	League Game	LGE			As Scored	0	0	
+6/2/2001	New York Freedoms	Cape Cod Crusaders	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2001	Palm Beach Pumas	Central Florida Kraze	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2001	Portland Timbers	San Diego Flash	1	0	4,489	League Game	LGE			As Scored	0	0	
+6/2/2001	Reading Rage	New Jersey Stallions	2	3	783	League Game	LGE			As Scored	0	0	
+6/2/2001	Richmond Kickers	South Jersey Barons	3	1	115	Inter League Game	ILG		Kennedy, Michael	As Scored	0	0	
+6/2/2001	Sioux Falls SpitFire	Thunder Bay Chill	5	1	1,711	League Game	LGE	Rosenfeld, Koroma, Fosu 1A, Rolfing 2A		As Scored	0	0	
+6/2/2001	Stanislaus United Cruisers	San Fernando Valley Heroes	1	0	400	League Game	LGE			As Scored	0	0	
+6/2/2001	Texas Spurs	Colorado Springs Ascent	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2001	Utah Blitzz	Northern Nevada Aces	5	2	100	League Game	LGE			As Scored	0	0	
+6/2/2001	West Dallas Kings	Boulder Nova	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2001	West Michigan Edge	Kalamazoo Kingdom	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2001	Westchester Flames	Vermont Voltage	2	1	110	League Game	LGE		Shenk, Tom	As Scored	0	0	
+6/2/2001	Yakima Reds	Seattle Sounders Select	2	3	212	League Game	LGE	Budner 1A		As Scored	0	0	
+6/3/2001	Boston Bulldogs	Western Mass Pioneers	5	4	1,236	League Game	LGE			As Scored	0	0	
+6/3/2001	Brooklyn Knights	Cape Cod Crusaders	4	0	85	League Game	LGE			As Scored	0	0	
+6/3/2001	Calgary Storm	Spokane Shadow	1	0	1,313	League Game	LGE	Holdt 1A		As Scored	0	0	
+6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	0	1	343	League Game	LGE	Sithonnorath 1A		As Scored	0	0	
+6/3/2001	Jersey Falcons	Chesapeake Dragons	1	6	65	League Game	LGE			As Scored	0	0	
+6/3/2001	Milwaukee Rampage	Vancouver Whitecaps	1	0	3,661	League Game	LGE			As Scored	0	0	
+6/3/2001	North Jersey Imperials	Vermont Voltage	3	1	103	League Game	LGE			As Scored	0	0	
+6/3/2001	Reading Rage	Hershey Wildcats	0	4	100	Inter League Game	ILG		Marwan, Muhammad	As Scored	0	0	
+6/3/2001	Southern California Seahorse	Central Coast Roadrunners	1	2	220	League Game	LGE			As Scored	0	0	
+6/3/2001	Texas Spurs	Boulder Nova	2	0	103	League Game	LGE			As Scored	0	0	
+6/3/2001	Toronto Lynx	Pittsburgh Riverhounds	1	0	1,173	League Game	LGE			As Scored	0	0	
+6/3/2001	Tucson Fireballs	Chico Rooks	0	0	0	League Game	LGE			As Scored	0	0	
+6/3/2001	West Dallas Kings	Colorado Springs Ascent	2	3	102	League Game	LGE			As Scored	0	0	
+6/5/2001	Dayton Gemini	West Michigan Edge	1	3	85	League Game	LGE			As Scored	0	0	
+6/5/2001	New Hampshire Phantoms	Western Mass Pioneers	1	2	100	League Game	LGE			As Scored	0	0	
+6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	1	2	300	League Game	LGE	Clanton 1A		As Scored	0	0	
+6/6/2001	Connecticut Wolves	Rochester Rhinos	0	1	2,175	League Game	LGE			As Scored	0	0	
+6/6/2001	Portland Timbers	Minnesota Thunder	3	1	2,999	League Game	LGE			As Scored	0	0	
+6/7/2001	Mid Michigan Bucks	Kalamazoo Kingdom	0	0	0	League Game	LGE			As Scored	0	0	
+6/7/2001	San Diego Flash	Milwaukee Rampage	1	2	1	League Game	LGE			As Scored	0	0	
+6/8/2001	Boston Bulldogs	South Jersey Barons	3	1	0	League Game	LGE			As Scored	0	0	
+6/8/2001	Charlotte Eagles	Atlanta Silverbacks	1	2	1,433	League Game	LGE		Fenlon, Brian	As Scored	0	0	
+6/8/2001	Chico Rooks	Tucson Fireballs	0	0	0	League Game	LGE			As Scored	0	0	
+6/8/2001	Cincinnati Riverhawks	Charleston Battery	1	2	1,100	League Game	LGE			As Scored	0	0	
+6/8/2001	Cocoa Expos	Tampa Bay Hawks	0	0	0	League Game	LGE			As Scored	0	0	
+6/8/2001	Dayton Gemini	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
+6/8/2001	Des Moines Menace	Twin Cities Phoenix	0	0	0	League Game	LGE			As Scored	0	0	
+6/8/2001	Montreal Impact	Hershey Wildcats	3	2	1,000	League Game	LGE			As Scored	0	0	
+6/8/2001	Northern Virginia Royals	Reading Rage	1	4	0	League Game	LGE			As Scored	0	0	
+6/8/2001	Palm Beach Pumas	Bradenton Academics	0	0	0	League Game	LGE			As Scored	0	0	
+6/8/2001	Rochester Rhinos	Pittsburgh Riverhounds	2	1	50	League Game	LGE	9510		As Scored	0	0	
+6/8/2001	Seattle Sounders	Utah Blitzz	3	0	359	Inter League Game	ILG			As Scored	0	0	
+6/8/2001	Seattle Sounders Select	Cascade Surge	0	0	0	League Game	LGE			As Scored	0	0	
+6/8/2001	Southern California Seahorse	Arizona Sahuaros	2	1	175	League Game	LGE			As Scored	0	0	
+6/8/2001	Vancouver Whitecaps	Minnesota Thunder	1	0	5,484	League Game	LGE			As Scored	0	0	
+6/8/2001	Wichita Jets	Denver Cougars	0	0	0	League Game	LGE			As Scored	0	0	
+6/8/2001	Yakima Reds	Okanagan Challenge	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Atlanta Silverbacks	Charlotte Eagles	2	1	1,917	League Game	LGE		Shakoohi, Afshini	As Scored	0	0	
+6/9/2001	Cascade Surge	Calgary Storm	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Central Coast Roadrunners	San Fernando Valley Heroes	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Central Florida Kraze	Palm Beach Pumas	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Cincinnati Riverhawks	Indiana Blast	4	3	400	League Game	LGE			As Scored	0	0	
+6/9/2001	Colorado Springs Ascent	Boulder Nova	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Des Moines Menace	Chicago Eagles Select	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Greenville Lions	Wilmington Hammerheads	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Kalamazoo Kingdom	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Kansas City Brass	Denver Cougars	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Lafayette Lightning	West Dallas Kings	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Nashville Metros	Charleston Battery	2	2	1,632	League Game	LGE	1632		As Scored	0	0	
+6/9/2001	New York Freedoms	Vermont Voltage	1	2	80	League Game	LGE			As Scored	0	0	
+6/9/2001	North Jersey Imperials	Chesapeake Dragons	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Northern Nevada Aces	Tucson Fireballs	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Northern Virginia Royals	Carolina Dynamo	1	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Orange County Blue Star	San Gabriel Valley Highlanders	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Portland Timbers	Utah Blitzz	1	3	4,676	Inter League Game	ILG			As Scored	0	0	
+6/9/2001	Rhode Island Stingrays	New Hampshire Phantoms	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Seattle Sounders Select	Olympia	4	1	0	US Open Cup	USOC			As Scored	0	0	
+6/9/2001	Sioux Falls SpitFire	Dayton Gemini	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Spokane Shadow	Okanagan Challenge	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Tampa Bay Hawks	Miami Strike Force	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Texas Spurs	Louisiana Outlaws	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Thunder Bay Chill	West Michigan Edge	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Westchester Flames	Brooklyn Knights	0	0	0	League Game	LGE			As Scored	0	0	
+6/9/2001	Western Mass Pioneers	South Jersey Barons	0	0	0	League Game	LGE			As Scored	0	0	
+6/10/2001	Bradenton Academics	Miami Strike Force	1	2	120	League Game	LGE			As Scored	0	0	
+6/10/2001	Brooklyn Knights	Chesapeake Dragons	0	0	0	League Game	LGE			As Scored	0	0	
+6/10/2001	Chicago Fire Reserves	Indiana Invaders	4	0	167	League Game	LGE	Reti, Mehreioskouei 1A		As Scored	0	0	
+6/10/2001	Connecticut Wolves	Montreal Impact	2	1	100	League Game	LGE			As Scored	0	0	
+6/10/2001	Jersey Falcons	Cape Cod Crusaders	0	0	0	League Game	LGE			As Scored	0	0	
+6/10/2001	Long Island Rough Riders	Richmond Kickers	1	2	100	League Game	LGE			As Scored	0	0	
+6/10/2001	North Jersey Imperials	Vermont Voltage	0	0	0	League Game	LGE			As Scored	0	0	
+6/10/2001	Orange County Blue Star	Southern California Seahorse	3	2	104	League Game	LGE			As Scored	0	0	
+6/10/2001	Portland Timbers	San Jose Earthquakes	2	1	4,566	Inter League Game	ILG			As Scored	0	0	
+6/10/2001	San Diego Flash	Stanislaus United Cruisers	7	1	0	Inter League Game	ILG			As Scored	0	0	
+6/10/2001	San Fernando Valley Heroes	Central Coast Roadrunners	0	0	0	League Game	LGE			As Scored	0	0	
+6/10/2001	San Gabriel Valley Highlanders	Arizona Sahuaros	0	1	95	League Game	LGE			As Scored	0	0	
+6/10/2001	Seattle Sounders	Minnesota Thunder	1	0	1,523	League Game	LGE			As Scored	0	0	
+6/10/2001	Seattle Sounders Select	Calgary Storm	0	0	0	League Game	LGE			As Scored	0	0	
+6/10/2001	Thunder Bay Chill	West Michigan Edge	0	0	0	League Game	LGE			As Scored	0	0	
+6/10/2001	Toronto Lynx	Hershey Wildcats	0	1	1,848	League Game	LGE			As Scored	0	0	
+6/10/2001	Twin Cities Phoenix	Sioux Falls SpitFire	0	0	0	League Game	LGE			As Scored	0	0	
+6/13/2001	Chicago Fire Reserves	West Michigan Edge	2	0	310	League Game	LGE	Hudson, Paul 1A		As Scored	0	0	
+6/13/2001	Miami Strike Force	Uruguay SC	2	3	0	US Open Cup	USOC			As Scored	0	0	
+6/13/2001	Mid Michigan Bucks	Chaldean Arsenal	3	0	0	US Open Cup	USOC			As Scored	0	0	
+6/13/2001	Portland Timbers	Vancouver Whitecaps	1	1	4,077	League Game	LGE			As Scored	0	0	
+6/13/2001	Richmond Kickers	Charleston Battery	0	1	100	League Game	LGE			As Scored	0	0	
+6/14/2001	Boulder Nova	West Dallas Kings	4	1	97	League Game	LGE			As Scored	0	0	
+6/14/2001	Brooklyn Knights	New York Freedoms	1	1	150	League Game	LGE			As Scored	0	0	
+6/14/2001	Denver Cougars	Texas Spurs	2	0	150	League Game	LGE			As Scored	0	0	
+6/14/2001	Kalamazoo Kingdom	Dayton Gemini	0	2	412	League Game	LGE			As Scored	0	0	
+6/15/2001	Boston Bulldogs	Reading Rage	5	0	0	League Game	LGE			As Scored	0	0	
+6/15/2001	Carolina Dynamo	Western Mass Pioneers	3	1	0	League Game	LGE			As Scored	0	0	
+6/15/2001	Charlotte Eagles	Cincinnati Riverhawks	2	1	1,450	League Game	LGE		Quisenberry	As Scored	0	0	
+6/15/2001	Chesapeake Dragons	Cape Cod Crusaders	1	2	73	League Game	LGE			As Scored	0	0	
+6/15/2001	Chicago Eagles Select	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
+6/15/2001	Chico Rooks	Stanislaus United Cruisers	1	3	1,491	League Game	LGE			As Scored	0	0	
+6/15/2001	Colorado Springs Ascent	Texas Spurs	0	0	0	League Game	LGE			As Scored	0	0	
+6/15/2001	El Paso Patriots	Seattle Sounders	3	1	3,145	League Game	LGE			As Scored	0	0	
+6/15/2001	Indiana Invaders	Chicago Fire Reserves	1	3	275	League Game	LGE	DaSilva, Mehreioskouei, Peirano 1A		As Scored	0	0	
+6/15/2001	Jersey Falcons	Westchester Flames	2	6	50	League Game	LGE			As Scored	0	0	
+6/15/2001	Kansas City Brass	Sioux Falls SpitFire	1	2	216	League Game	LGE			As Scored	0	0	
+6/15/2001	Louisiana Outlaws	Lafayette Lightning	2	3	200	League Game	LGE			As Scored	0	0	
+6/15/2001	Montreal Impact	Toronto Lynx	1	0	2,867	League Game	LGE			As Scored	0	0	
+6/15/2001	Palm Beach Pumas	Bradenton Academics	1	4	65	League Game	LGE			As Scored	0	0	
+6/15/2001	Rhode Island Stingrays	South Jersey Barons	5	1	550	League Game	LGE			As Scored	0	0	
+6/15/2001	Spokane Shadow	Yakima Reds	5	1	901	League Game	LGE			As Scored	0	0	
+6/15/2001	Tucson Fireballs	Utah Blitzz	3	4	150	League Game	LGE			As Scored	0	0	
+6/15/2001	Wilmington Hammerheads	Greenville Lions	2	0	1,023	League Game	LGE			As Scored	0	0	
+6/16/2001	Arizona Sahuaros	Utah Blitzz	1	3	0	League Game	LGE			As Scored	0	0	
+6/16/2001	Atlanta Silverbacks	Cincinnati Riverhawks	3	0	100	League Game	LGE		Feulner, Jeff	As Scored	0	0	
+6/16/2001	Carolina Dynamo	Northern Virginia Royals	2	1	0	League Game	LGE			As Scored	0	0	
+6/16/2001	Central Florida Kraze	Tampa Bay Hawks	1	2	201	League Game	LGE			As Scored	0	0	
+6/16/2001	Charleston Battery	Indiana Blast	2	3	2,949	League Game	LGE		Barnes, Andrew	As Scored	0	0	
+6/16/2001	Chesapeake Dragons	Vermont Voltage	0	0	0	League Game	LGE			As Scored	0	0	
+6/16/2001	Connecticut Wolves	Pittsburgh Riverhounds	0	0	100	League Game	LGE			As Scored	0	0	
+6/16/2001	Dayton Gemini	Chicago Eagles Select	1	0	75	League Game	LGE			As Scored	0	0	
+6/16/2001	Denver Cougars	West Dallas Kings	3	1	250	League Game	LGE			As Scored	0	0	
+6/16/2001	Des Moines Menace	Kansas City Brass	3	0	2,571	League Game	LGE			As Scored	0	0	
+6/16/2001	Hershey Wildcats	Rochester Rhinos	0	1	9,015	League Game	LGE	9015
+		As Scored	0	0	
+6/16/2001	Kalamazoo Kingdom	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
+6/16/2001	Lafayette Lightning	Louisiana Outlaws	2	1	212	League Game	LGE			As Scored	0	0	
+6/16/2001	Miami Strike Force	Cocoa Expos	0	2	35	League Game	LGE			As Scored	0	0	
+6/16/2001	Minnesota Thunder	Portland Timbers	0	1	4,126	League Game	LGE			As Scored	0	0	
+6/16/2001	New Hampshire Phantoms	South Jersey Barons	0	0	0	League Game	LGE			As Scored	0	0	
+6/16/2001	New Jersey Stallions	Boston Bulldogs	2	1	0	League Game	LGE			As Scored	0	0	
+6/16/2001	North Jersey Imperials	New York Freedoms	0	0	0	League Game	LGE			As Scored	0	0	
+6/16/2001	Okanagan Challenge	Yakima Reds	1	1	331	League Game	LGE	Rivera, Moore 1A		As Scored	0	0	
+6/16/2001	Orange County Blue Star	Central Coast Roadrunners	0	0	0	League Game	LGE			As Scored	0	0	
+6/16/2001	Rhode Island Stingrays	Reading Rage	0	0	0	League Game	LGE			As Scored	0	0	
+6/16/2001	Richmond Kickers	Nashville Metros	1	1	2,366	League Game	LGE	2366		As Scored	0	0	
+6/16/2001	San Diego Flash	Seattle Sounders	1	0	450	League Game	LGE			As Scored	0	0	
+6/16/2001	Spokane Shadow	Cascade Surge	0	0	0	League Game	LGE			As Scored	0	0	
+6/16/2001	Toronto Lynx	Montreal Impact	1	3	2,265	League Game	LGE			As Scored	0	0	
+6/16/2001	Twin Cities Phoenix	Thunder Bay Chill	1	2	90	League Game	LGE	Cierny, Mills 1A		As Scored	0	0	
+6/16/2001	West Michigan Edge	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
+6/16/2001	Wilmington Hammerheads	Western Mass Pioneers	3	4	2,467	League Game	LGE			As Scored	0	0	
+6/17/2001	Boulder Nova	Texas Spurs	1	2	125	League Game	LGE	Elias, Zuazua 1A		As Scored	0	0	
+6/17/2001	Dayton Gemini	Chicago Fire Reserves	1	4	55	League Game	LGE	Paul, Strong 1A, Reti 2A		As Scored	0	0	
+6/17/2001	Denver Cougars	West Dallas Kings	0	0	0	League Game	LGE			As Scored	0	0	
+6/17/2001	Jersey Falcons	Vermont Voltage	1	6	25	League Game	LGE	Farrell, Allen 1A		As Scored	0	0	
+6/17/2001	Kalamazoo Kingdom	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
+6/17/2001	Lafayette Lightning	Louisiana Outlaws	0	0	0	League Game	LGE			As Scored	0	0	
+6/17/2001	Milwaukee Rampage	Minnesota Thunder	1	3	2,212	League Game	LGE			As Scored	0	0	
+6/17/2001	North Jersey Imperials	New York Freedoms	0	0	0	League Game	LGE			As Scored	0	0	
+6/17/2001	Northern Nevada Aces	Chico Rooks	0	0	0	League Game	LGE			As Scored	0	0	
+6/17/2001	Okanagan Challenge	Cascade Surge	1	5	316	League Game	LGE	Maragh, Diaz 1A, Figueroa 2A		As Scored	0	0	
+6/17/2001	Palm Beach Pumas	Cocoa Expos	1	4	80	League Game	LGE	Atkinson 1A		As Scored	0	0	
+6/17/2001	Pittsburgh Riverhounds	Connecticut Wolves	1	4	1	League Game	LGE			As Scored	0	0	
+6/17/2001	San Gabriel Valley Highlanders	Central Coast Roadrunners	0	5	25	League Game	LGE	Chowana, McGregor, Miranda 1A		As Scored	0	0	
+6/17/2001	Sioux Falls SpitFire	Des Moines Menace	2	0	1,378	League Game	LGE	Watson 2A		As Scored	0	0	
+6/17/2001	Tampa Bay Hawks	Bradenton Academics	1	2	287	League Game	LGE	Pinzon 1A		As Scored	0	0	
+6/17/2001	Twin Cities Phoenix	Thunder Bay Chill	5	4	60	League Game	LGE	Iorianni,Badanai,DBranan,Berg,Mills,Sithon 1A		As Scored	0	0	
+6/17/2001	West Michigan Edge	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
+6/17/2001	Westchester Flames	Cape Cod Crusaders	1	1	305	League Game	LGE	Grando 1A		As Scored	0	0	
+6/19/2001	West Michigan Edge	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
+6/20/2001	Boulder Nova	Denver Cougars	0	0	0	League Game	LGE			As Scored	0	0	
+6/20/2001	Long Island Rough Riders	Hershey Wildcats	0	1	1	League Game	LGE			As Scored	0	0	
+6/21/2001	Kalamazoo Kingdom	West Michigan Edge	0	0	0	League Game	LGE			As Scored	0	0	
+6/22/2001	Cape Cod Crusaders	New York Freedoms	0	0	0	League Game	LGE			As Scored	0	0	
+6/22/2001	Carolina Dynamo	Boston Bulldogs	1	0	0	League Game	LGE			As Scored	0	0	
+6/22/2001	Central Coast Roadrunners	San Gabriel Valley Highlanders	0	0	0	League Game	LGE			As Scored	0	0	
+6/22/2001	Indiana Blast	Cincinnati Riverhawks	2	3	2,987	League Game	LGE			As Scored	0	0	
+6/22/2001	Indiana Invaders	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
+6/22/2001	Milwaukee Rampage	San Diego Flash	4	3	2,312	League Game	LGE			As Scored	0	0	
+6/22/2001	Minnesota Thunder	El Paso Patriots	2	1	2,402	League Game	LGE			As Scored	0	0	
+6/22/2001	Northern Virginia Royals	Wilmington Hammerheads	1	5	225	League Game	LGE			As Scored	0	0	
+6/22/2001	Okanagan Challenge	Spokane Shadow	2	3	353	League Game	LGE	Krestian, Quinn, Moore 1A		As Scored	0	0	
+6/22/2001	Orange County Blue Star	San Fernando Valley Heroes	0	0	0	League Game	LGE			As Scored	0	0	
+6/22/2001	Pittsburgh Riverhounds	Toronto Lynx	2	0	2,313	League Game	LGE			As Scored	0	0	
+6/22/2001	Rochester Rhinos	Montreal Impact	0	0	50	League Game	LGE	11475
+		As Scored	0	0	
+6/22/2001	Seattle Sounders Select	Cascade Surge	2	0	50	League Game	LGE	Kingsley, Somoza 1A		As Scored	0	0	
+6/22/2001	Thunder Bay Chill	Des Moines Menace	1	4	880	League Game	LGE	Modersohn, Scheer 1A		As Scored	0	0	
+6/22/2001	Twin Cities Phoenix	Chicago Eagles Select	0	0	0	League Game	LGE			As Scored	0	0	
+6/22/2001	Vermont Voltage	Jersey Falcons	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Atlanta Silverbacks	Charleston Battery	0	1	3,113	League Game	LGE			As Scored	0	0	
+6/23/2001	Brooklyn Knights	North Jersey Imperials	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Central Coast Roadrunners	Orange County Blue Star	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Charlotte Eagles	Richmond Kickers	0	1	100	League Game	LGE			As Scored	0	0	
+6/23/2001	Chesapeake Dragons	Westchester Flames	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Hershey Wildcats	Connecticut Wolves	0	0	1	League Game	LGE			As Scored	0	0	
+6/23/2001	Lafayette Lightning	Texas Spurs	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Miami Strike Force	Central Florida Kraze	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Mid Michigan Bucks	Kalamazoo Kingdom	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Reading Rage	New Hampshire Phantoms	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	San Gabriel Valley Highlanders	Tucson Fireballs	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Sioux Falls SpitFire	Chicago Eagles Select	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	South Jersey Barons	Rhode Island Stingrays	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Stanislaus United Cruisers	Arizona Sahuaros	1	3	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Tampa Bay Hawks	Palm Beach Pumas	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Thunder Bay Chill	Des Moines Menace	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Utah Blitzz	Denver Cougars	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Vermont Voltage	New York Freedoms	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	West Michigan Edge	Dayton Gemini	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Wichita Jets	Louisiana Outlaws	0	0	0	League Game	LGE			As Scored	0	0	
+6/23/2001	Yakima Reds	Calgary Storm	0	0	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Bradenton Academics	Palm Beach Pumas	0	0	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Dayton Gemini	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Greenville Lions	Boston Bulldogs	2	3	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Jersey Falcons	Brooklyn Knights	0	0	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Kansas City Brass	Louisiana Outlaws	0	0	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Long Island Rough Riders	Pittsburgh Riverhounds	1	1	1	League Game	LGE			As Scored	0	0	
+6/24/2001	Milwaukee Rampage	El Paso Patriots	2	0	1,917	League Game	LGE		Matheson, Victor	As Scored	0	0	
+6/24/2001	Minnesota Thunder	San Diego Flash	0	1	2,280	League Game	LGE			As Scored	0	0	
+6/24/2001	Nashville Metros	Indiana Blast	3	0	1	League Game	LGE	1230		As Scored	0	0	
+6/24/2001	New Jersey Stallions	Rhode Island Stingrays	0	0	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Northern Nevada Aces	Arizona Sahuaros	2	2	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Okanagan Challenge	Calgary Storm	0	0	0	League Game	LGE			As Scored	0	0	
+6/24/2001	San Fernando Valley Heroes	Tucson Fireballs	0	0	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Sioux Falls SpitFire	Twin Cities Phoenix	0	0	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Tampa Bay Hawks	Cocoa Expos	0	0	0	League Game	LGE			As Scored	0	0	
+6/24/2001	Vancouver Whitecaps	Seattle Sounders	1	5	5,796	League Game	LGE			As Scored	0	0	
+6/24/2001	Yakima Reds	Spokane Shadow	0	0	0	League Game	LGE			As Scored	0	0	
+6/26/2001	Connecticut Wolves	Tampa Bay Mutiny	3	2	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Boulder Nova	Colorado Springs Ascent	0	0	0	League Game	LGE			As Scored	0	0	
+6/27/2001	Central Coast Roadrunners	San Jose Earthquakes	0	6	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Charleston Battery	MetroStars	4	1	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	El Paso Patriots	Chico Rooks	4	3	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Milwaukee Rampage	Utah Blitzz	2	0	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Pittsburgh Riverhounds	Colorado Rapids	2	0	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Richmond Kickers	Reading Rage	7	2	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Dallas Burn	Seattle Sounders Select	2	3	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Kansas City Wizards	Seattle Sounders	4	0	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Chicago Fire	San Diego Flash	3	0	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Los Angeles Galaxy	Nashville Metros	5	0	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Columbus Crew	Carolina Dynamo	5	1	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	Miami Fusion	Uruguay SC	4	0	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	DC United	New Jersey Stallions	8	0	0	US Open Cup	USOC			As Scored	0	0	
+6/27/2001	New England Revolution	Mid Michigan Bucks	7	1	0	US Open Cup	USOC			As Scored	0	0	
+6/28/2001	Long Island Rough Riders	Toronto Lynx	3	0	701	League Game	LGE			As Scored	0	0	
+6/29/2001	Boston Bulldogs	Northern Virginia Royals	4	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Boulder Nova	Colorado Springs Ascent	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Cascade Surge	Spokane Shadow	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Chicago Eagles Select	Thunder Bay Chill	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Chicago Fire Reserves	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Chico Rooks	Tucson Fireballs	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Cocoa Expos	Bradenton Academics	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	El Paso Patriots	San Diego Flash	0	1	4,379	League Game	LGE			As Scored	0	0	
+6/29/2001	Indiana Blast	Nashville Metros	2	0	100	League Game	LGE			As Scored	0	0	
+6/29/2001	Kalamazoo Kingdom	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Kansas City Brass	Denver Cougars	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Louisiana Outlaws	Texas Spurs	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	North Jersey Imperials	Jersey Falcons	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Portland Timbers	Vancouver Whitecaps	0	1	6,013	League Game	LGE			As Scored	0	0	
+6/29/2001	Southern California Seahorse	San Gabriel Valley Highlanders	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Vermont Voltage	Chesapeake Dragons	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Western Mass Pioneers	New Jersey Stallions	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Wichita Jets	Lafayette Lightning	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Calgary Storm	Okanagan Challenge	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Cape Cod Crusaders	Chesapeake Dragons	4	3	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Central Coast Roadrunners	Northern Nevada Aces	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Central Florida Kraze	Bradenton Academics	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Chicago Eagles Select	Thunder Bay Chill	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Cincinnati Riverhawks	Charleston Battery	1	2	1,800	League Game	LGE			As Scored	0	0	
+6/30/2001	Connecticut Wolves	Toronto Lynx	1	1	1,934	League Game	LGE			As Scored	0	0	
+6/30/2001	Des Moines Menace	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Greenville Lions	Carolina Dynamo	1	3	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Hershey Wildcats	Charlotte Eagles	1	2	2,103	League Game	LGE		Nagle, Stanford	As Scored	0	0	
+6/30/2001	Indiana Invaders	Dayton Gemini	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Miami Strike Force	Tampa Bay Hawks	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Milwaukee Rampage	Seattle Sounders	5	2	1,433	League Game	LGE			As Scored	0	0	
+6/30/2001	Reading Rage	Western Mass Pioneers	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Rhode Island Stingrays	Northern Virginia Royals	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Richmond Kickers	Atlanta Silverbacks	3	2	2,788	League Game	LGE			As Scored	0	0	
+6/30/2001	Rochester Rhinos	Long Island Rough Riders	3	1	50	League Game	LGE	10362		As Scored	0	0	
+6/30/2001	San Fernando Valley Heroes	Orange County Blue Star	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Seattle Sounders Select	Spokane Shadow	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Sioux Falls SpitFire	Twin Cities Phoenix	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	South Jersey Barons	New Hampshire Phantoms	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Stanislaus United Cruisers	Tucson Fireballs	8	1	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Utah Blitzz	Arizona Sahuaros	3	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	West Dallas Kings	Louisiana Outlaws	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Westchester Flames	New York Freedoms	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Wichita Jets	Denver Cougars	0	0	0	League Game	LGE			As Scored	0	0	
+6/30/2001	Yakima Reds	Cascade Surge	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Brooklyn Knights	Westchester Flames	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Calgary Storm	Okanagan Challenge	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Central Florida Kraze	Miami Strike Force	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Chicago Fire Reserves	Dayton Gemini	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Jersey Falcons	North Jersey Imperials	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Kansas City Brass	Lafayette Lightning	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Minnesota Thunder	Seattle Sounders	1	2	3,831	League Game	LGE			As Scored	0	0	
+7/1/2001	New Jersey Stallions	New Hampshire Phantoms	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Orange County Blue Star	Northern Nevada Aces	2	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Palm Beach Pumas	Tampa Bay Hawks	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Pittsburgh Riverhounds	Long Island Rough Riders	1	0	1	League Game	LGE	3316		As Scored	0	0	
+7/1/2001	San Gabriel Valley Highlanders	Southern California Seahorse	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Twin Cities Phoenix	Sioux Falls SpitFire	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Vancouver Whitecaps	San Diego Flash	3	2	4,672	League Game	LGE			As Scored	0	0	
+7/2/2001	Rochester Rhinos	Hershey Wildcats	0	1	0	US Open Cup	USOC			As Scored	0	0	
+7/3/2001	Charleston Battery	Indiana Blast	3	2	1	League Game	LGE			As Scored	0	0	
+7/3/2001	Portland Timbers	San Diego Flash	3	2	7,271	League Game	LGE			As Scored	0	0	
+7/3/2001	Vermont Voltage	Cape Cod Crusaders	0	0	0	League Game	LGE			As Scored	0	0	
+7/4/2001	Des Moines Menace	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+7/4/2001	El Paso Patriots	Pittsburgh Riverhounds	2	0	1	League Game	LGE			As Scored	0	0	
+7/4/2001	Indiana Invaders	West Michigan Edge	0	0	0	League Game	LGE			As Scored	0	0	
+7/4/2001	Montreal Impact	Connecticut Wolves	2	1	3,557	League Game	LGE			As Scored	0	0	
+7/4/2001	West Dallas Kings	Texas Spurs	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Arizona Sahuaros	Southern California Seahorse	2	4	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Boulder Nova	Kansas City Brass	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Charlotte Eagles	Rochester Rhinos	1	0	1,656	League Game	LGE		Tsapos, Misail	As Scored	0	0	
+7/6/2001	Chesapeake Dragons	Jersey Falcons	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Cincinnati Riverhawks	Atlanta Silverbacks	2	1	650	League Game	LGE		Purdue, JR	As Scored	0	0	
+7/6/2001	Dayton Gemini	Kalamazoo Kingdom	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Denver Cougars	Wichita Jets	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Indiana Blast	El Paso Patriots	1	0	100	League Game	LGE			As Scored	0	0	
+7/6/2001	Lafayette Lightning	Bradenton Academics	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Nashville Metros	Richmond Kickers	0	2	1,454	League Game	LGE	1454		As Scored	0	0	
+7/6/2001	New Jersey Stallions	Greenville Lions	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Palm Beach Pumas	Miami Strike Force	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Reading Rage	Boston Bulldogs	0	2	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Rhode Island Stingrays	New York Freedoms	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Thunder Bay Chill	Chicago Eagles Select	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Toronto Lynx	Vancouver Whitecaps	1	3	3,293	League Game	LGE			As Scored	0	0	
+7/6/2001	Vermont Voltage	Brooklyn Knights	0	0	0	League Game	LGE			As Scored	0	0	
+7/6/2001	West Michigan Edge	Mid Michigan Bucks	2	1	0	League Game	LGE			As Scored	0	0	
+7/6/2001	Yakima Reds	Calgary Storm	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Boulder Nova	Wichita Jets	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Cape Cod Crusaders	Brooklyn Knights	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Cascade Surge	Okanagan Challenge	2	1	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Cocoa Expos	Miami Strike Force	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Connecticut Wolves	Long Island Rough Riders	2	1	100	League Game	LGE			As Scored	0	0	
+7/7/2001	Denver Cougars	Kansas City Brass	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Kalamazoo Kingdom	Twin Cities Phoenix	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Louisiana Outlaws	Bradenton Academics	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Mid Michigan Bucks	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	New Hampshire Phantoms	New Jersey Stallions	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	San Diego Flash	Pittsburgh Riverhounds	6	1	789	League Game	LGE			As Scored	0	0	
+7/7/2001	San Gabriel Valley Highlanders	San Fernando Valley Heroes	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Sioux Falls SpitFire	Des Moines Menace	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	South Jersey Barons	Boston Bulldogs	2	3	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Spokane Shadow	Calgary Storm	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Stanislaus United Cruisers	Central Coast Roadrunners	1	5	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Tampa Bay Hawks	Central Florida Kraze	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Thunder Bay Chill	Chicago Eagles Select	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Tucson Fireballs	Southern California Seahorse	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Utah Blitzz	Chico Rooks	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Vermont Voltage	North Jersey Imperials	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Western Mass Pioneers	Greenville Lions	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Wilmington Hammerheads	Carolina Dynamo	2	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Yakima Reds	Seattle Sounders Select	0	0	0	League Game	LGE			As Scored	0	0	
+7/8/2001	Cincinnati Riverhawks	El Paso Patriots	2	8	650	League Game	LGE			As Scored	0	0	
+7/8/2001	Colorado Springs Ascent	Kansas City Brass	3	2	0	League Game	LGE			As Scored	0	0	
+7/8/2001	Colorado Springs Ascent	Wichita Jets	4	5	0	League Game	LGE			As Scored	0	0	
+7/8/2001	Hershey Wildcats	Toronto Lynx	3	0	1	League Game	LGE			As Scored	0	0	
+7/8/2001	Indiana Invaders	Twin Cities Phoenix	0	0	0	League Game	LGE			As Scored	0	0	
+7/8/2001	Jersey Falcons	New York Freedoms	0	0	0	League Game	LGE			As Scored	0	0	
+7/8/2001	Long Island Rough Riders	Connecticut Wolves	0	1	1	League Game	LGE			As Scored	0	0	
+7/8/2001	Montreal Impact	Vancouver Whitecaps	0	1	2,593	League Game	LGE			As Scored	0	0	
+7/8/2001	Northern Nevada Aces	Central Coast Roadrunners	1	2	0	League Game	LGE			As Scored	0	0	
+7/8/2001	Palm Beach Pumas	Cocoa Expos	0	0	0	League Game	LGE			As Scored	0	0	
+7/8/2001	Richmond Kickers	Rochester Rhinos	2	1	5,088	League Game	LGE	5088		As Scored	0	0	
+7/8/2001	San Fernando Valley Heroes	San Gabriel Valley Highlanders	0	0	0	League Game	LGE			As Scored	0	0	
+7/8/2001	Seattle Sounders	Milwaukee Rampage	2	1	2,359	League Game	LGE			As Scored	0	0	
+7/8/2001	Seattle Sounders Select	Okanagan Challenge	0	0	0	League Game	LGE			As Scored	0	0	
+7/8/2001	Westchester Flames	North Jersey Imperials	0	0	0	League Game	LGE			As Scored	0	0	
+7/9/2001	Indiana Blast	Atlanta Silverbacks	1	2	1,128	League Game	LGE		Bensalah, Abdu	As Scored	0	0	
+7/9/2001	Portland Timbers	Milwaukee Rampage	1	0	5,032	League Game	LGE			As Scored	0	0	
+7/10/2001	Long Island Rough Riders	Hershey Wildcats	3	3	1	League Game	LGE			As Scored	0	0	
+7/11/2001	Carolina Dynamo	Wilmington Hammerheads	0	2	0	League Game	LGE			As Scored	0	0	
+7/11/2001	El Paso Patriots	Pittsburgh Riverhounds	1	2	0	US Open Cup	USOC			As Scored	0	0	
+7/11/2001	Milwaukee Rampage	San Jose Earthquakes	0	0	0	US Open Cup	USOC			As Scored	0	0	
+7/11/2001	New York Freedoms	Brooklyn Knights	0	0	0	League Game	LGE			As Scored	0	0	
+7/11/2001	Richmond Kickers	Connecticut Wolves	2	1	5,788	US Open Cup	USOC			As Scored	0	0	
+7/11/2001	Southern California Seahorse	San Fernando Valley Heroes	0	0	0	League Game	LGE			As Scored	0	0	
+7/11/2001	Los Angeles Galaxy	Seattle Sounders Select	3	1	0	US Open Cup	USOC			As Scored	0	0	
+7/11/2001	DC United	Hershey Wildcats	3	0	5,788	US Open Cup	USOC			As Scored	0	0	
+7/11/2001	New England Revolution	Charleston Battery	2	1	0	US Open Cup	USOC			As Scored	0	0	
+7/12/2001	West Michigan Edge	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Central Coast Roadrunners	Southern California Seahorse	1	2	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Charleston Battery	Richmond Kickers	1	2	2,990	League Game	LGE			As Scored	0	0	
+7/13/2001	Chicago Eagles Select	Des Moines Menace	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Cincinnati Riverhawks	Indiana Blast	1	2	846	League Game	LGE			As Scored	0	0	
+7/13/2001	Cocoa Expos	Palm Beach Pumas	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Denver Cougars	Colorado Springs Ascent	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Greenville Lions	Northern Virginia Royals	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Indiana Invaders	Kalamazoo Kingdom	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Kansas City Brass	Boulder Nova	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Minnesota Thunder	Atlanta Silverbacks	0	2	3,488	League Game	LGE			As Scored	0	0	
+7/13/2001	Nashville Metros	Charlotte Eagles	2	1	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Okanagan Challenge	Spokane Shadow	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Seattle Sounders	Portland Timbers	0	0	3,253	League Game	LGE			As Scored	0	0	
+7/13/2001	Seattle Sounders Select	Yakima Reds	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Thunder Bay Chill	Sioux Falls SpitFire	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Toronto Lynx	Hershey Wildcats	1	0	2,174	League Game	LGE			As Scored	0	0	
+7/13/2001	Tucson Fireballs	Orange County Blue Star	0	0	0	League Game	LGE			As Scored	0	0	
+7/13/2001	Utah Blitzz	Stanislaus United Cruisers	2	3	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Arizona Sahuaros	Orange County Blue Star	4	2	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Cape Cod Crusaders	North Jersey Imperials	6	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Carolina Dynamo	Greenville Lions	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Cascade Surge	Yakima Reds	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Central Coast Roadrunners	San Gabriel Valley Highlanders	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Chicago Fire Reserves	Chicago Eagles Select	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Chico Rooks	San Fernando Valley Heroes	2	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Cocoa Expos	Central Florida Kraze	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Colorado Springs Ascent	Denver Cougars	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	El Paso Patriots	Vancouver Whitecaps	3	2	2,428	League Game	LGE			As Scored	0	0	
+7/14/2001	Mid Michigan Bucks	Dayton Gemini	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	New Jersey Stallions	Reading Rage	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	New York Freedoms	Chesapeake Dragons	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Pittsburgh Riverhounds	Connecticut Wolves	0	2	1	League Game	LGE			As Scored	0	0	
+7/14/2001	Rhode Island Stingrays	New Hampshire Phantoms	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Rochester Rhinos	Toronto Lynx	2	1	12,333	League Game	LGE			As Scored	0	0	
+7/14/2001	South Jersey Barons	Western Mass Pioneers	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Spokane Shadow	Calgary Storm	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Tampa Bay Hawks	Miami Strike Force	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Texas Spurs	Louisiana Outlaws	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Thunder Bay Chill	Sioux Falls SpitFire	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Utah Blitzz	Stanislaus United Cruisers	2	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Vermont Voltage	Westchester Flames	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	West Dallas Kings	Lafayette Lightning	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	West Michigan Edge	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Wichita Jets	Boulder Nova	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Wilmington Hammerheads	Northern Virginia Royals	0	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Bradenton Academics	Miami Strike Force	0	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Brooklyn Knights	South Jersey Barons	0	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Cape Cod Crusaders	Westchester Flames	5	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Cascade Surge	Seattle Sounders Select	0	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Chicago Fire Reserves	Des Moines Menace	0	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Dayton Gemini	Kalamazoo Kingdom	0	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Indiana Blast	Charleston Battery	1	0	100	League Game	LGE			As Scored	0	0	
+7/15/2001	Milwaukee Rampage	Atlanta Silverbacks	0	4	1,710	League Game	LGE		Spicer, John Paul	As Scored	0	0	
+7/15/2001	Minnesota Thunder	Nashville Metros	3	2	4,985	League Game	LGE			As Scored	0	0	
+7/15/2001	Montreal Impact	Hershey Wildcats	0	2	3,012	League Game	LGE			As Scored	0	0	
+7/15/2001	Okanagan Challenge	Calgary Storm	0	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Palm Beach Pumas	Central Florida Kraze	0	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Texas Spurs	Lafayette Lightning	0	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Vancouver Whitecaps	Portland Timbers	4	0	4,062	League Game	LGE			As Scored	0	0	
+7/15/2001	West Dallas Kings	Louisiana Outlaws	0	0	0	League Game	LGE			As Scored	0	0	
+7/17/2001	Connecticut Wolves	Toronto Lynx	1	1	100	League Game	LGE		St. Silva, Augusto	As Scored	0	0	
+7/18/2001	Boulder Nova	Denver Cougars	0	0	0	League Game	LGE			As Scored	0	0	
+7/18/2001	Cape Cod Crusaders	Vermont Voltage	0	0	0	League Game	LGE			As Scored	0	0	
+7/18/2001	New Hampshire Phantoms	Boston Bulldogs	3	2	0	League Game	LGE			As Scored	0	0	
+7/18/2001	New York Freedoms	North Jersey Imperials	0	0	0	League Game	LGE			As Scored	0	0	
+7/18/2001	Richmond Kickers	Cincinnati Riverhawks	3	2	1,008	League Game	LGE			As Scored	0	0	
+7/18/2001	West Michigan Edge	Dayton Gemini	0	0	0	League Game	LGE			As Scored	0	0	
+7/19/2001	Atlanta Silverbacks	Indiana Blast	1	0	1,853	League Game	LGE		Sims, Griff	As Scored	0	0	
+7/20/2001	Arizona Sahuaros	San Gabriel Valley Highlanders	2	2	0	League Game	LGE			As Scored	0	0	
+7/20/2001	Bradenton Academics	Tampa Bay Hawks	0	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	Cape Cod Crusaders	Jersey Falcons	4	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	Charleston Battery	Cincinnati Riverhawks	2	0	2,535	League Game	LGE			As Scored	0	0	
+7/20/2001	Chicago Eagles Select	Sioux Falls SpitFire	0	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	Cocoa Expos	Miami Strike Force	0	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	Des Moines Menace	Wichita Jets	0	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	Hershey Wildcats	Montreal Impact	1	0	1	League Game	LGE			As Scored	0	0	
+7/20/2001	Kansas City Brass	Colorado Springs Ascent	0	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	Lafayette Lightning	Texas Spurs	0	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	Nashville Metros	Connecticut Wolves	2	1	1,370	League Game	LGE			As Scored	0	0	
+7/20/2001	Rochester Rhinos	Long Island Rough Riders	6	2	10,553	League Game	LGE			As Scored	0	0	
+7/20/2001	San Diego Flash	El Paso Patriots	2	2	500	League Game	LGE			As Scored	0	0	
+7/20/2001	South Jersey Barons	Wilmington Hammerheads	0	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	Spokane Shadow	Seattle Sounders Select	0	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	West Michigan Edge	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	Western Mass Pioneers	Carolina Dynamo	3	2	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Atlanta Silverbacks	Connecticut Wolves	0	0	1,232	League Game	LGE		Thunelius, Bob	As Scored	0	0	
+7/21/2001	Boulder Nova	Utah Blitzz	3	4	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Calgary Storm	Yakima Reds	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Central Florida Kraze	Cocoa Expos	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Charlotte Eagles	Indiana Blast	3	2	2,054	League Game	LGE		Mitchell, Charles	As Scored	0	0	
+7/21/2001	Chesapeake Dragons	Brooklyn Knights	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Dayton Gemini	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Des Moines Menace	Sioux Falls SpitFire	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Kalamazoo Kingdom	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Louisiana Outlaws	West Dallas Kings	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Minnesota Thunder	Milwaukee Rampage	1	0	5,512	League Game	LGE			As Scored	0	0	
+7/21/2001	New Hampshire Phantoms	Carolina Dynamo	1	1	0	League Game	LGE			As Scored	0	0	
+7/21/2001	New Jersey Stallions	Wilmington Hammerheads	1	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Northern Nevada Aces	Chico Rooks	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Northern Virginia Royals	Greenville Lions	1	3	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Okanagan Challenge	Seattle Sounders Select	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Orange County Blue Star	San Fernando Valley Heroes	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Pittsburgh Riverhounds	Montreal Impact	5	2	1	League Game	LGE	2748		As Scored	0	0	
+7/21/2001	Portland Timbers	Seattle Sounders	0	1	11,055	League Game	LGE			As Scored	0	0	
+7/21/2001	Reading Rage	South Jersey Barons	3	2	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Rhode Island Stingrays	Western Mass Pioneers	1	2	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Southern California Seahorse	Central Coast Roadrunners	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Spokane Shadow	Cascade Surge	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Tampa Bay Hawks	Palm Beach Pumas	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Texas Spurs	Denver Cougars	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Thunder Bay Chill	Twin Cities Phoenix	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Toronto Lynx	Long Island Rough Riders	1	0	2,243	League Game	LGE			As Scored	0	0	
+7/21/2001	Tucson Fireballs	San Gabriel Valley Highlanders	8	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Vermont Voltage	Jersey Falcons	8	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Wichita Jets	Colorado Springs Ascent	0	0	0	League Game	LGE			As Scored	0	0	
+7/22/2001	Bradenton Academics	Palm Beach Pumas	0	0	0	League Game	LGE			As Scored	0	0	
+7/22/2001	Calgary Storm	Yakima Reds	2	0	0	League Game	LGE			As Scored	1	0	
+7/22/2001	Chesapeake Dragons	New York Freedoms	0	0	0	League Game	LGE			As Scored	0	0	
+7/22/2001	Mid Michigan Bucks	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
+7/22/2001	North Jersey Imperials	Brooklyn Knights	0	0	0	League Game	LGE			As Scored	0	0	
+7/22/2001	Richmond Kickers	Cincinnati Riverhawks	3	0	2,159	League Game	LGE			As Scored	0	0	
+7/22/2001	San Fernando Valley Heroes	Southern California Seahorse	0	0	0	League Game	LGE			As Scored	0	0	
+7/22/2001	Thunder Bay Chill	Twin Cities Phoenix	0	0	0	League Game	LGE			As Scored	0	0	
+7/22/2001	Vancouver Whitecaps	San Diego Flash	3	0	5,312	League Game	LGE			As Scored	0	0	
+7/22/2001	Westchester Flames	Reading Rage	1	1	0	League Game	LGE			As Scored	0	0	
+7/24/2001	Chicago Fire	Pittsburgh Riverhounds	3	2	2,500	US Open Cup	USOC			As Scored	0	0	
+7/24/2001	DC United	Richmond Kickers	2	1	8,439	US Open Cup	USOC			As Scored	0	0	
+7/25/2001	New Hampshire Phantoms	Rhode Island Stingrays	0	0	0	League Game	LGE			As Scored	0	0	
+7/25/2001	Rochester Rhinos	Montreal Impact	2	1	9,517	League Game	LGE			As Scored	0	0	
+7/27/2001	Arizona Sahuaros	Tucson Fireballs	3	0	0	League Game	LGE			As Scored	0	0	
+7/27/2001	Charleston Battery	Cincinnati Riverhawks	4	2	2,720	League Game	LGE			As Scored	0	0	
+7/27/2001	El Paso Patriots	Hershey Wildcats	2	1	1	League Game	LGE			As Scored	0	0	
+7/27/2001	Indiana Blast	Charlotte Eagles	1	0	2,817	League Game	LGE			As Scored	0	0	
+7/27/2001	Minnesota Thunder	Portland Timbers	2	1	7,514	League Game	LGE			As Scored	0	0	
+7/27/2001	Nashville Metros	Long Island Rough Riders	2	1	1	League Game	LGE	1460		As Scored	0	0	
+7/27/2001	Rochester Rhinos	Pittsburgh Riverhounds	2	2	50	League Game	LGE	12072		As Scored	0	0	
+7/27/2001	Stanislaus United Cruisers	Chico Rooks	1	1	0	League Game	LGE			As Scored	0	0	
+7/27/2001	Western Mass Pioneers	Reading Rage	1	2	0	League Game	LGE			As Scored	0	0	
+7/28/2001	Atlanta Silverbacks	Long Island Rough Riders	5	2	1,523	League Game	LGE		Thomas, Perry	As Scored	0	0	
+7/28/2001	Boston Bulldogs	New Jersey Stallions	0	1	0	League Game	LGE			As Scored	0	0	
+7/28/2001	Connecticut Wolves	Montreal Impact	1	2	1,276	League Game	LGE		Gorak, Mark	As Scored	0	0	
+7/28/2001	Milwaukee Rampage	Portland Timbers	2	3	2,316	League Game	LGE			As Scored	0	0	
+7/28/2001	New Hampshire Phantoms	Reading Rage	3	0	0	League Game	LGE			As Scored	0	0	
+7/28/2001	Northern Nevada Aces	Stanislaus United Cruisers	1	0	0	League Game	LGE			As Scored	0	0	
+7/28/2001	Pittsburgh Riverhounds	Rochester Rhinos	3	4	50	League Game	LGE	3418		As Scored	0	0	
+7/28/2001	San Diego Flash	Hershey Wildcats	3	0	1	League Game	LGE			As Scored	0	0	
+7/28/2001	Seattle Sounders	Richmond Kickers	3	0	1,362	League Game	LGE	1362		As Scored	0	0	
+7/28/2001	South Jersey Barons	Rhode Island Stingrays	0	2	0	League Game	LGE			As Scored	0	0	
+7/28/2001	Utah Blitzz	Tucson Fireballs	0	0	0	League Game	LGE			As Scored	0	0	
+7/28/2001	Wilmington Hammerheads	Northern Virginia Royals	6	0	0	League Game	LGE			As Scored	0	0	
+7/29/2001	Greenville Lions	Northern Virginia Royals	6	0	0	League Game	LGE			As Scored	0	0	
+7/29/2001	Nashville Metros	Cincinnati Riverhawks	5	2	1,138	League Game	LGE			As Scored	0	0	
+7/29/2001	Vancouver Whitecaps	Richmond Kickers	3	2	1	League Game	LGE	5854		As Scored	0	0	
+8/1/2001	Long Island Rough Riders	Connecticut Wolves	2	1	2,712	League Game	LGE		Medina, Irwin	As Scored	0	0	
+8/1/2001	Nashville Metros	Atlanta Silverbacks	1	0	1,370	League Game	LGE			As Scored	0	0	
+8/1/2001	Seattle Sounders	El Paso Patriots	0	1	1,239	League Game	LGE			As Scored	0	0	
+8/1/2001	Western Mass Pioneers	Boston Bulldogs	1	2	0	League Game	LGE			As Scored	0	0	
+8/2/2001	Toronto Lynx	Pittsburgh Riverhounds	2	1	3,892	League Game	LGE			As Scored	0	0	
+8/3/2001	Charlotte Eagles	Cincinnati Riverhawks	5	1	100	League Game	LGE			As Scored	0	0	
+8/3/2001	Minnesota Thunder	San Diego Flash	1	0	3,115	League Game	LGE			As Scored	0	0	
+8/3/2001	Richmond Kickers	Indiana Blast	3	1	3,009	League Game	LGE			As Scored	0	0	
+8/3/2001	Rochester Rhinos	Hershey Wildcats	1	0	50	League Game	LGE	10644		As Scored	0	0	
+8/3/2001	Stanislaus United Cruisers	Utah Blitzz	2	1	0	League Game	LGE			As Scored	0	0	
+8/3/2001	Toronto Lynx	Portland Timbers	3	0	2,591	League Game	LGE			As Scored	0	0	
+8/3/2001	Tucson Fireballs	Northern Nevada Aces	0	0	0	League Game	LGE			As Scored	0	0	
+8/3/2001	Vancouver Whitecaps	El Paso Patriots	2	0	4,072	League Game	LGE			As Scored	0	0	
+8/4/2001	Arizona Sahuaros	Northern Nevada Aces	3	1	0	League Game	LGE			As Scored	0	0	
+8/4/2001	Atlanta Silverbacks	Cincinnati Riverhawks	7	0	100	League Game	LGE		Mann, Robert	As Scored	0	0	
+8/4/2001	Boston Bulldogs	New Hampshire Phantoms	3	3	0	League Game	LGE			As Scored	0	0	
+8/4/2001	Charlotte Eagles	Indiana Blast	2	1	1	League Game	LGE			As Scored	0	0	
+8/4/2001	Chico Rooks	Utah Blitzz	0	0	0	League Game	LGE			As Scored	0	0	
+8/4/2001	Long Island Rough Riders	Pittsburgh Riverhounds	1	4	1	League Game	LGE			As Scored	0	0	
+8/4/2001	Nashville Metros	Charleston Battery	0	3	1	League Game	LGE	2150
+		As Scored	0	0	
+8/4/2001	New Jersey Stallions	Western Mass Pioneers	2	0	0	League Game	LGE			As Scored	0	0	
+8/4/2001	Northern Virginia Royals	Rhode Island Stingrays	0	0	0	League Game	LGE			As Scored	0	0	
+8/4/2001	South Jersey Barons	Reading Rage	0	0	0	League Game	LGE			As Scored	0	0	
+8/4/2001	Wilmington Hammerheads	Greenville Lions	3	2	0	League Game	LGE			As Scored	0	0	
+8/5/2001	Milwaukee Rampage	San Diego Flash	5	3	2,188	League Game	LGE			As Scored	0	0	
+8/5/2001	Montreal Impact	Toronto Lynx	3	0	1	League Game	LGE			As Scored	0	0	
+8/5/2001	Northern Virginia Royals	Carolina Dynamo	0	4	0	League Game	LGE			As Scored	0	0	
+8/5/2001	Reading Rage	Rhode Island Stingrays	3	0	0	League Game	LGE			As Scored	0	0	
+8/5/2001	Rochester Rhinos	Portland Timbers	1	0	50	League Game	LGE	9846		As Scored	0	0	
+8/5/2001	Seattle Sounders	El Paso Patriots	2	1	2,162	League Game	LGE			As Scored	0	0	
+8/8/2001	Milwaukee Rampage	Seattle Sounders	3	0	1,321	League Game	LGE			As Scored	0	0	
+8/8/2001	Montreal Impact	Rochester Rhinos	2	0	50	League Game	LGE			As Scored	0	0	
+8/10/2001	Charleston Battery	Toronto Lynx	2	1	3,312	League Game	LGE			As Scored	0	0	
+8/10/2001	Indiana Blast	Charlotte Eagles	2	3	1	League Game	LGE			As Scored	0	0	
+8/10/2001	San Diego Flash	Minnesota Thunder	2	1	400	League Game	LGE			As Scored	0	0	
+8/10/2001	Vancouver Whitecaps	Portland Timbers	3	1	6,118	League Game	LGE			As Scored	0	0	
+8/11/2001	Connecticut Wolves	Pittsburgh Riverhounds	0	5	1	League Game	LGE			As Scored	0	0	
+8/11/2001	El Paso Patriots	Minnesota Thunder	1	1	2,147	League Game	LGE		Tsapos, Misail	As Scored	0	0	
+8/11/2001	Hershey Wildcats	Long Island Rough Riders	3	0	1	League Game	LGE			As Scored	0	0	
+8/11/2001	Milwaukee Rampage	Nashville Metros	4	0	3,361	League Game	LGE			As Scored	0	0	
+8/11/2001	Richmond Kickers	Toronto Lynx	3	1	1,875	League Game	LGE	1875		As Scored	0	0	
+8/11/2001	Rochester Rhinos	Seattle Sounders	2	1	11,117	League Game	LGE			As Scored	0	0	
+8/12/2001	Cincinnati Riverhawks	Charlotte Eagles	1	4	100	League Game	LGE			As Scored	0	0	
+8/12/2001	Montreal Impact	Seattle Sounders	2	1	1,140	League Game	LGE			As Scored	0	0	
+8/17/2001	Atlanta Silverbacks	Indiana Blast	3	2	1,611	League Game	LGE		Kenney, Chris	As Scored	0	0	
+8/17/2001	Cincinnati Riverhawks	Nashville Metros	1	2	756	League Game	LGE		Spicer, John Paul	As Scored	0	0	
+8/17/2001	El Paso Patriots	Vancouver Whitecaps	2	3	1,930	League Game	LGE			As Scored	0	0	
+8/17/2001	Long Island Rough Riders	Milwaukee Rampage	1	2	637	League Game	LGE			As Scored	0	0	
+8/17/2001	Pittsburgh Riverhounds	Rochester Rhinos	1	0	50	League Game	LGE	4930		As Scored	0	0	
+8/17/2001	Richmond Kickers	Charlotte Eagles	0	0	3,315	League Game	LGE			As Scored	0	0	
+8/18/2001	Charlotte Eagles	Richmond Kickers	2	1	1,894	League Game	LGE		D'Amato, Brian	As Scored	0	0	
+8/18/2001	Connecticut Wolves	Milwaukee Rampage	2	1	1,682	League Game	LGE		Barci, Kevin	As Scored	0	0	
+8/18/2001	Hershey Wildcats	Toronto Lynx	5	0	2,052	League Game	LGE			As Scored	0	0	
+8/18/2001	Nashville Metros	Indiana Blast	2	1	1,270	League Game	LGE			As Scored	0	0	
+8/18/2001	San Diego Flash	Vancouver Whitecaps	3	2	682	League Game	LGE			As Scored	0	0	
+8/19/2001	Montreal Impact	Rochester Rhinos	2	0	1,347	League Game	LGE			As Scored	0	0	
+8/20/2001	Charleston Battery	Atlanta Silverbacks	3	2	2,835	League Game	LGE		Prechac, Glenn	As Scored	0	0	
+8/20/2001	Seattle Sounders	Minnesota Thunder	2	5	1,925	League Game	LGE			As Scored	0	0	
+8/22/2001	Portland Timbers	Minnesota Thunder	2	1	4,924	League Game	LGE			As Scored	0	0	
+8/24/2001	Connecticut Wolves	Hershey Wildcats	2	1	100	League Game	LGE		Salmon, Bahij	As Scored	0	0	
+8/24/2001	Long Island Rough Riders	Montreal Impact	0	0	1	League Game	LGE			As Scored	0	0	
+8/24/2001	Milwaukee Rampage	El Paso Patriots	1	0	2,788	League Game	LGE		Yonan, Marcel	As Scored	0	0	
+8/24/2001	Pittsburgh Riverhounds	Cincinnati Riverhawks	0	1	1	League Game	LGE			As Scored	0	0	
+8/24/2001	Portland Timbers	Charlotte Eagles	3	3	4,884	League Game	LGE			As Scored	0	0	
+8/24/2001	Rochester Rhinos	Toronto Lynx	2	1	12,716	League Game	LGE			As Scored	0	0	
+8/24/2001	Vancouver Whitecaps	Charleston Battery	3	0	6,188	League Game	LGE			As Scored	0	0	
+8/25/2001	Atlanta Silverbacks	Richmond Kickers	1	2	2,376	League Game	LGE		Barnes, Andrew	As Scored	0	0	
+8/25/2001	Hershey Wildcats	Cincinnati Riverhawks	3	1	1,986	League Game	LGE		Stutt, Mike W.	As Scored	0	0	
+8/25/2001	Indiana Blast	Nashville Metros	2	3	1,896	League Game	LGE			As Scored	0	0	
+8/25/2001	Minnesota Thunder	El Paso Patriots	1	0	4,427	League Game	LGE			As Scored	0	0	
+8/25/2001	Seattle Sounders	Charlotte Eagles	2	1	2,519	League Game	LGE			As Scored	0	0	
+8/25/2001	Toronto Lynx	Rochester Rhinos	0	0	3,844	League Game	LGE			As Scored	0	0	
+8/26/2001	Montreal Impact	Long Island Rough Riders	1	3	1,840	League Game	LGE			As Scored	0	0	
+8/26/2001	Portland Timbers	Charleston Battery	2	0	4,891	League Game	LGE			As Scored	0	0	
+8/29/2001	San Diego Flash	Seattle Sounders	3	1	571	League Game	LGE			As Scored	0	0	
+8/30/2001	Portland Timbers	Milwaukee Rampage	5	2	7,816	League Game	LGE			As Scored	0	0	
+8/31/2001	Atlanta Silverbacks	Charlotte Eagles	0	3	2,306	League Game	LGE		Mann, Robert	As Scored	0	0	
+8/31/2001	Charleston Battery	Richmond Kickers	1	0	2,795	League Game	LGE		Poeschel, Brian	As Scored	0	0	
+8/31/2001	Long Island Rough Riders	Rochester Rhinos	1	3	801	League Game	LGE		Kokolski, Peter	As Scored	0	0	
+8/31/2001	Vancouver Whitecaps	Milwaukee Rampage	1	1	5,562	League Game	LGE			As Scored	0	0	
+9/1/2001	Cincinnati Riverhawks	San Diego Flash	2	4	100	League Game	LGE			As Scored	0	0	
+9/1/2001	El Paso Patriots	Seattle Sounders	2	3	2,348	League Game	LGE		Johnson, Jesse	As Scored	0	0	
+9/1/2001	Hershey Wildcats	Montreal Impact	3	0	2,084	League Game	LGE		Lalor, Matthew	As Scored	0	0	
+9/1/2001	Nashville Metros	Charlotte Eagles	2	1	1	League Game	LGE			As Scored	0	0	
+9/1/2001	Pittsburgh Riverhounds	Toronto Lynx	1	2	3,852	League Game	LGE			As Scored	0	0	
+9/2/2001	Indiana Blast	San Diego Flash	0	3	1	League Game	LGE			As Scored	0	0	
+9/2/2001	Rochester Rhinos	Connecticut Wolves	5	2	10,105	League Game	LGE		Silva, Agusto	As Scored	0	0	
+9/3/2001	Cincinnati Riverhawks	Pittsburgh Riverhounds	1	3	792	League Game	LGE		Testa, Jr., Vito	As Scored	0	0	
+9/3/2001	Minnesota Thunder	Vancouver Whitecaps	0	1	2,467	League Game	LGE			As Scored	0	0	
+9/5/2001	Atlanta Silverbacks	Charleston Battery	1	0	1,005	League Game	LGE		D'Amato, Brian	As Scored	0	0	
+9/5/2001	Milwaukee Rampage	Vancouver Whitecaps	2	1	3,231	League Game	LGE			As Scored	0	0	
+9/7/2001	Hershey Wildcats	Connecticut Wolves	1	0	2,083	League Game	LGE		Renderas, Ricardo	As Scored	0	0	
+9/7/2001	Indiana Blast	Richmond Kickers	2	3	1	League Game	LGE			As Scored	0	0	
+9/7/2001	Montreal Impact	Pittsburgh Riverhounds	1	3	100	League Game	LGE			As Scored	0	0	
+9/7/2001	San Diego Flash	Portland Timbers	2	1	1,042	League Game	LGE			As Scored	0	0	
+9/7/2001	Toronto Lynx	Long Island Rough Riders	0	1	3,495	League Game	LGE			As Scored	0	0	
+9/7/2001	Vancouver Whitecaps	Seattle Sounders	2	1	7,199	League Game	LGE			As Scored	0	0	
+9/8/2001	Charleston Battery	Nashville Metros	4	1	3,748	League Game	LGE		Poeschel, Brian	As Scored	0	0	
+9/8/2001	Charlotte Eagles	Atlanta Silverbacks	5	2	1,408	League Game	LGE		Feulner, Jeff	As Scored	0	0	
+9/8/2001	Cincinnati Riverhawks	Richmond Kickers	4	3	1,461	League Game	LGE		Hamden, Jamil	As Scored	0	0	
+9/8/2001	Connecticut Wolves	Hershey Wildcats	1	3	3,129	League Game	LGE			As Scored	0	0	
+9/8/2001	El Paso Patriots	Portland Timbers	1	3	1,380	League Game	LGE		Sill, Roger	As Scored	0	0	
+9/8/2001	Rochester Rhinos	Long Island Rough Riders	3	1	12,647	League Game	LGE		Yonan, Marcel	As Scored	0	0	
+9/8/2001	Seattle Sounders	Vancouver Whitecaps	5	0	3,665	League Game	LGE		Hernandez, Ramon	As Scored	0	0	
+9/19/2001	Nashville Metros	Milwaukee Rampage	2	3	810	Playoffs	PLO		Saheli, Ali	As Scored	1	1	
+9/19/2001	San Diego Flash	Atlanta Silverbacks	2	0	370	Playoffs	PLO		Herron, Richard	As Scored	1	1	
+9/20/2001	Pittsburgh Riverhounds	Charleston Battery	2	1	1,152	Playoffs	PLO		Asoera, Cien	As Scored	0	0	
+9/20/2001	Portland Timbers	Charlotte Eagles	2	0	4,771	Playoffs	PLO		Hunt, Sandra	As Scored	0	0	
+9/22/2001	Charleston Battery	Pittsburgh Riverhounds	1	3	2,606	Playoffs	PLO		Simmons, Erich	As Scored	0	0	
+9/22/2001	Charlotte Eagles	Portland Timbers	2	3	2,100	Playoffs	PLO		Rutty, Reggie	As Scored	0	0	
+9/22/2001	Milwaukee Rampage	Nashville Metros	0	1	2,125	Playoffs	PLO		Okulaja, Abiodun	As Scored	0	0	
+9/23/2001	Atlanta Silverbacks	San Diego Flash	2	2	722	Playoffs	PLO		Preshac, Glen	As Scored	0	0	
+9/26/2001	Pittsburgh Riverhounds	Rochester Rhinos	2	1	1,073	Playoffs	PLO		Khan, Tarik	As Scored	0	0	
+9/26/2001	San Diego Flash	Vancouver Whitecaps	2	0	468	Playoffs	PLO		Hernandez, Ramon	As Scored	0	0	
+9/27/2001	Portland Timbers	Hershey Wildcats	0	2	4,894	Playoffs	PLO		Pinski, Mac	As Scored	0	0	
+9/28/2001	Milwaukee Rampage	Richmond Kickers	2	2	1,318	Playoffs	PLO		Kennedy, Michael	As Scored	0	0	
+9/29/2001	Hershey Wildcats	Portland Timbers	1	0	1,048	Playoffs	PLO		Prus, Alex	As Scored	0	0	
+9/29/2001	Rochester Rhinos	Pittsburgh Riverhounds	3	0	8,102	Playoffs	PLO		Kokolski, Peter	As Scored	0	0	
+9/29/2001	Vancouver Whitecaps	San Diego Flash	4	1	6,782	Playoffs	PLO		Siefert, Mike	As Scored	0	0	
+9/30/2001	Richmond Kickers	Milwaukee Rampage	1	2	4,107	Playoffs	PLO		Mann, Robert	As Scored	0	0	
+10/3/2001	Vancouver Whitecaps	Hershey Wildcats	0	4	6,685	Playoffs	PLO		Procter, Gerry	As Scored	0	0	
+10/4/2001	Milwaukee Rampage	Rochester Rhinos	2	3	721	Playoffs	PLO		Salazar, Ricardo	As Scored	0	0	
+10/6/2001	Hershey Wildcats	Vancouver Whitecaps	0	1	786	Playoffs	PLO		Kokolski, Peter	As Scored	0	0	
+10/6/2001	Rochester Rhinos	Milwaukee Rampage	1	0	721	Playoffs	PLO		Vaughn, Terry	As Scored	0	0	
+10/13/2001	Rochester Rhinos	Hershey Wildcats	2	0	13,692	Playoffs	PLO		Simmons, Erich	As Scored	0	0	

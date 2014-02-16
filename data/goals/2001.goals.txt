@@ -1,0 +1,1882 @@
+Player	Team-For	Home-Team	Away-Team	Date	Goal-Time	Goal-Type	Comp	Assist	Assist2	
+Afash, Fadi	Utah Blitzz	Chico Rooks	Utah Blitzz	4/14/2001	70		LGE	Estrada, Jorge		
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Charleston Battery	4/14/2001	14		LGE	Burke, Michael		
+Henderson, Joshua	Richmond Kickers	Richmond Kickers	Charleston Battery	4/14/2001	66		LGE	Lekics, Paul		
+Cozier, Mangea (Mac)	Charleston Battery	Richmond Kickers	Charleston Battery	4/14/2001	88		LGE			
+Calderson, Carlos	San Diego Flash	San Diego Flash	Milwaukee Rampage	4/19/2001	88		LGE			
+Adair, Chugger	San Diego Flash	San Diego Flash	Milwaukee Rampage	4/19/2001	68		LGE			
+Adair, Chugger	San Diego Flash	San Diego Flash	Milwaukee Rampage	4/19/2001	72		LGE			
+Kirkeles, Peter	Greenville Lions	Greenville Lions	New Hampshire Phantoms	4/20/2001	40		LGE	Frias, Jonathan		
+Fleming, Richard	New Hampshire Phantoms	Greenville Lions	New Hampshire Phantoms	4/20/2001	79		LGE	Murphy, Ronald		
+Murphy, Ronald	New Hampshire Phantoms	Greenville Lions	New Hampshire Phantoms	4/20/2001	28		LGE			
+Keevan, Mike	New Hampshire Phantoms	Greenville Lions	New Hampshire Phantoms	4/20/2001	57		LGE	Murphy, Ronald		
+Keevan, Mike	New Hampshire Phantoms	Greenville Lions	New Hampshire Phantoms	4/20/2001	45		LGE			
+Lekics, Paul	Richmond Kickers	Richmond Kickers	Nashville Metros	4/20/2001	46		LGE	Namoff, Bryan		
+Fenger-Larsen, Jakob	Nashville Metros	Richmond Kickers	Nashville Metros	4/20/2001	50	Penalty	LGE			
+Wright, Brandon	Nashville Metros	Richmond Kickers	Nashville Metros	4/20/2001	91		LGE	Bailey, Jaymison (Jaymi)		
+Cameron, David	Tucson Fireballs	Tucson Fireballs	Stanislaus United Cruisers	4/20/2001	50		LGE	Muth, Aaron		
+Eastman, Gabe	Stanislaus United Cruisers	Tucson Fireballs	Stanislaus United Cruisers	4/20/2001	88		LGE	Cox, Curt		
+Eastman, Gabe	Stanislaus United Cruisers	Tucson Fireballs	Stanislaus United Cruisers	4/20/2001	95		LGE			
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Milwaukee Rampage	4/21/2001	64		LGE	Rodriguez, Esmundo		
+Farias, Carlos	El Paso Patriots	El Paso Patriots	Milwaukee Rampage	4/21/2001	77		LGE	Leal-Gustavo, Oscar		
+Soso, Igor	Milwaukee Rampage	El Paso Patriots	Milwaukee Rampage	4/21/2001	86		LGE	Takawira, Vitalis (Digital)		
+Hayes, David	Milwaukee Rampage	El Paso Patriots	Milwaukee Rampage	4/21/2001	89		LGE			
+Smith, Hendrick	Louisiana Outlaws	Louisiana Outlaws	Lafayette Lightning	4/21/2001	0		LGE			
+Wheatley, Matthew	Louisiana Outlaws	Louisiana Outlaws	Lafayette Lightning	4/21/2001	0		LGE	Owens, Danny		
+Yerby, Scott	Lafayette Lightning	Louisiana Outlaws	Lafayette Lightning	4/21/2001	0		LGE	Veselka, Chris		
+Rebuck, Daniel	Lafayette Lightning	Louisiana Outlaws	Lafayette Lightning	4/21/2001	0		LGE	Veselka, Chris		
+Brown, Beau	Lafayette Lightning	Louisiana Outlaws	Lafayette Lightning	4/21/2001	0		LGE	Veselka, Chris		
+Brown, Beau	Lafayette Lightning	Louisiana Outlaws	Lafayette Lightning	4/21/2001	0		LGE	Wilkersun, Matthew		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Charleston Battery	4/21/2001	16		LGE	Leib, Ryan		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Charleston Battery	4/21/2001	105		LGE	Galeano, Hugo		
+Pinch, Mark	Charlotte Eagles	Charlotte Eagles	Charleston Battery	4/21/2001	69		LGE	Leib, Ryan		
+Conway, Paul	Charleston Battery	Charlotte Eagles	Charleston Battery	4/21/2001	78		LGE	Rantala, Jukka		
+Calichman, Dan	Charleston Battery	Charlotte Eagles	Charleston Battery	4/21/2001	36		LGE	Conway, Paul		
+Orellana, Luis	Chico Rooks	Chico Rooks	Northern Nevada Aces	4/21/2001	0		LGE			
+Munoz, Joe	Chico Rooks	Chico Rooks	Northern Nevada Aces	4/21/2001	0		LGE	Ternero, Felipe		
+Kaplan, Brandon	Chico Rooks	Chico Rooks	Northern Nevada Aces	4/21/2001	0		LGE	Gore, Jay		
+Ayala-Mora, Jose Antonio	Northern Nevada Aces	Chico Rooks	Northern Nevada Aces	4/21/2001	0		LGE	Cacho, Jose Luis		
+Poole, Mike	Carolina Dynamo	Carolina Dynamo	New Hampshire Phantoms	4/21/2001	0		LGE	Samford, Jon		
+Espindola, Jose	Carolina Dynamo	Carolina Dynamo	New Hampshire Phantoms	4/21/2001	0		LGE	Dudley, Daniel		
+Benjamin, Mario	Carolina Dynamo	Carolina Dynamo	New Hampshire Phantoms	4/21/2001	0		LGE	Robinson, Colin		
+Keevan, Mike	New Hampshire Phantoms	Carolina Dynamo	New Hampshire Phantoms	4/21/2001	0		LGE			
+Keevan, Mike	New Hampshire Phantoms	Carolina Dynamo	New Hampshire Phantoms	4/21/2001	0		LGE			
+Adzemian, Varden	San Gabriel Valley Highlanders	San Gabriel Valley Highlanders	San Fernando Valley Heroes	4/22/2001	0		LGE	Quiroz, Oscar		
+Adzemian, Varden	San Gabriel Valley Highlanders	San Gabriel Valley Highlanders	San Fernando Valley Heroes	4/22/2001	0		LGE	Rodriguez, Felipe		
+Mkrtchyan, Tigran	San Fernando Valley Heroes	San Gabriel Valley Highlanders	San Fernando Valley Heroes	4/22/2001	0		LGE	Shakbandaryan, Vrezh		
+Mirzakanyan, Henrik	San Fernando Valley Heroes	San Gabriel Valley Highlanders	San Fernando Valley Heroes	4/22/2001	0		LGE			
+Soto, Eddie	Orange County Blue Star	Orange County Blue Star	Southern California Seahorse	4/27/2001	61		LGE	Poltl, Thomas		
+Lockhart, Sean	Orange County Blue Star	Orange County Blue Star	Southern California Seahorse	4/27/2001	5		LGE	Ianni, Tayt		
+George, Seth	Orange County Blue Star	Orange County Blue Star	Southern California Seahorse	4/27/2001	66		LGE	Soto, Eddie		
+Cartlidge, Joseph	Orange County Blue Star	Orange County Blue Star	Southern California Seahorse	4/27/2001	12		LGE	George, Sam		
+Jones, Jordan	Southern California Seahorse	Orange County Blue Star	Southern California Seahorse	4/27/2001	27		LGE	Meek, Benjamin		
+Williams, Bert	Connecticut Wolves	Connecticut Wolves	Minnesota Thunder	4/27/2001	110		LGE			
+Khalil, Joseph	Miami Strike Force	Miami Strike Force	Bradenton Academics	5/10/2001	0		LGE			
+Asorey, Matis	Miami Strike Force	Miami Strike Force	Bradenton Academics	5/10/2001	0		LGE			
+Asorey, Matis	Miami Strike Force	Miami Strike Force	Bradenton Academics	5/10/2001	0		LGE	Wilson, Adam		
+Asorey, Matis	Miami Strike Force	Miami Strike Force	Bradenton Academics	5/10/2001	0		LGE	Suarez, Alfredo		
+Niemann, Justin	Bradenton Academics	Miami Strike Force	Bradenton Academics	5/10/2001	0		LGE	Figuerola, Alvaro		
+Figuerola, Alvaro	Bradenton Academics	Miami Strike Force	Bradenton Academics	5/10/2001	0		LGE			
+Serna, Jose	Yakima Reds	Yakima Reds	Cascade Surge	5/11/2001	0		LGE	Bertram, Scott		
+Valencia, Jose	Yakima Reds	Yakima Reds	Cascade Surge	5/11/2001	0		LGE	Pardini, Michael		
+Whittaker, Tom	Cascade Surge	Yakima Reds	Cascade Surge	5/11/2001	0		LGE			
+Gentile, Gabriel	West Dallas Kings	West Dallas Kings	Wichita Jets	5/11/2001	0		LGE			
+Pampillonia, Anthony	West Dallas Kings	West Dallas Kings	Wichita Jets	5/11/2001	0		LGE	Dapaah, Daniel		
+Barton, Casey	Wichita Jets	West Dallas Kings	Wichita Jets	5/11/2001	0		LGE	Chacko, David		
+Concha, Guillermo	Denver Cougars	Denver Cougars	Boulder Nova	5/11/2001	0		LGE			
+Peattie, Geoff	Twin Cities Phoenix	Chicago Eagles Select	Twin Cities Phoenix	5/11/2001	0		LGE	Schulte, Casey		
+Reineke, Dustin	Central Florida Kraze	Central Florida Kraze	Cocoa Expos	5/11/2001	0		LGE	Levy, Rodney		
+Cadena, Carlos	Cocoa Expos	Central Florida Kraze	Cocoa Expos	5/11/2001	0		LGE	Chan, Robin		
+Blount, Ivan	Cocoa Expos	Central Florida Kraze	Cocoa Expos	5/11/2001	0		LGE			
+Bojovic, Radoslav	Westchester Flames	Jersey Falcons	Westchester Flames	5/11/2001	0		LGE	Grando, Ive		
+Bojovic, Radoslav	Westchester Flames	Jersey Falcons	Westchester Flames	5/11/2001	0		LGE	Sellas, Nikolaos		
+Bojovic, Radoslav	Westchester Flames	Jersey Falcons	Westchester Flames	5/11/2001	0		LGE	Nava, Fredy		
+Navarette, Hector	Westchester Flames	Jersey Falcons	Westchester Flames	5/11/2001	0		LGE	Bojovic, Radoslav		
+Rivas, Ruben	San Gabriel Valley Highlanders	San Gabriel Valley Highlanders	Central Coast Roadrunners	5/11/2001	0		LGE	Rodriguez, Felipe		
+Risch, Danny	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	5/11/2001	0		LGE	Miranda, Jose de Jesus		
+Lopez, Derek	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	5/11/2001	0		LGE	Katz, Ryan		
+Moreton, Crosby	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	5/11/2001	0		LGE			
+Moseley, Nicholas	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	5/11/2001	0		LGE			
+McGregor, Dana	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	5/11/2001	0		LGE			
+McGregor, Dana	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	5/11/2001	0		LGE	Bessemer, Chris		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Nashville Metros	5/11/2001	57		LGE			
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Nashville Metros	5/11/2001	14		LGE			
+Hinkey, Brian	Nashville Metros	Charlotte Eagles	Nashville Metros	5/11/2001	27		LGE			
+Houser, Jeff	Nashville Metros	Charlotte Eagles	Nashville Metros	5/11/2001	73		LGE			
+Houser, Jeff	Nashville Metros	Charlotte Eagles	Nashville Metros	5/11/2001	49		LGE			
+Houser, Jeff	Nashville Metros	Charlotte Eagles	Nashville Metros	5/11/2001	6		LGE			
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Atlanta Silverbacks	5/11/2001	12		LGE			
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Atlanta Silverbacks	5/11/2001	16		LGE			
+Rodriguez, Edmundo	Atlanta Silverbacks	Indiana Blast	Atlanta Silverbacks	5/11/2001	88		LGE			
+Noonan, Patrick	Kalamazoo Kingdom	Kalamazoo Kingdom	Mid Michigan Bucks	5/11/2001	0		LGE	Mariscalco, Michael		
+Schomaker, Chad	Mid Michigan Bucks	Kalamazoo Kingdom	Mid Michigan Bucks	5/11/2001	0		LGE	Malachino, Joe		
+Mack, Ryan	Mid Michigan Bucks	Kalamazoo Kingdom	Mid Michigan Bucks	5/11/2001	0		LGE			
+Snape, Paul	Mid Michigan Bucks	Kalamazoo Kingdom	Mid Michigan Bucks	5/11/2001	0		LGE	Detter, Justin		
+Kuykendall, Chris	Chesapeake Dragons	Cape Cod Crusaders	Chesapeake Dragons	5/11/2001	0		LGE	Olsen, Ryan		
+Phillips, Derek	Chesapeake Dragons	Cape Cod Crusaders	Chesapeake Dragons	5/11/2001	0		LGE	Abraham, Jumed		
+Kaplan, Brandon	Chico Rooks	Chico Rooks	Arizona Sahuaros	5/11/2001	0		LGE	Freeman, Dean		
+Orellana, Luis	Chico Rooks	Chico Rooks	Arizona Sahuaros	5/11/2001	0		LGE	Zametkin, Alex		
+Coelho-Neto, Manuel	Arizona Sahuaros	Chico Rooks	Arizona Sahuaros	5/11/2001	0		LGE	Diedrich, Joeseff		
+Adair, Chugger	San Diego Flash	San Diego Flash	El Paso Patriots	5/11/2001	6		LGE			
+Calderson, Carlos	San Diego Flash	San Diego Flash	El Paso Patriots	5/11/2001	15		LGE			
+Hetherington, Nate	San Diego Flash	San Diego Flash	El Paso Patriots	5/11/2001	45		LGE			
+Baena, Mark	Portland Timbers	Portland Timbers	Seattle Sounders	5/11/2001	25		LGE			
+Sancho, Brent	Portland Timbers	Portland Timbers	Seattle Sounders	5/11/2001	38		LGE			
+Estrada, Jorge	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/11/2001	0		LGE	Afash, Fadi		
+Estrada, Jorge	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/11/2001	0		LGE	McNicol, William (BJ)		
+Afash, Fadi	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/11/2001	0		LGE			
+Afash, Fadi	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/11/2001	0		LGE			
+Noleen, Kevin	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/11/2001	0		LGE			
+Afash, Fadi	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/11/2001	0		LGE			
+Modersohn, Seth	Des Moines Menace	Des Moines Menace	Twin Cities Phoenix	5/12/2001	0		LGE			
+Bourne, Matthew	Des Moines Menace	Des Moines Menace	Twin Cities Phoenix	5/12/2001	0		LGE			
+Peattie, Geoff	Twin Cities Phoenix	Des Moines Menace	Twin Cities Phoenix	5/12/2001	0		LGE			
+Queen, Warren	Cocoa Expos	Cocoa Expos	Palm Beach Pumas	5/12/2001	0		LGE	Broder, Jordy		
+Broder, Jordy	Cocoa Expos	Cocoa Expos	Palm Beach Pumas	5/12/2001	0		LGE			
+Warner, Byron	Palm Beach Pumas	Cocoa Expos	Palm Beach Pumas	5/12/2001	0		LGE			
+Cudjoe, Jason	Cape Cod Crusaders	Cape Cod Crusaders	Jersey Falcons	5/12/2001	0		LGE	Harris, Samuel		
+Schmidt, Casey	Cape Cod Crusaders	Cape Cod Crusaders	Jersey Falcons	5/12/2001	0		LGE	Cudjoe, Jason		
+Schmidt, Casey	Cape Cod Crusaders	Cape Cod Crusaders	Jersey Falcons	5/12/2001	0		LGE	Fink, Roy		
+Lopuski, Jonathon	Jersey Falcons	Cape Cod Crusaders	Jersey Falcons	5/12/2001	0		LGE	Niziolek, Derik		
+Mustac, Thomas	Jersey Falcons	Cape Cod Crusaders	Jersey Falcons	5/12/2001	0		LGE	Niziolek, Derik		
+Geltz, Tim	Central Florida Kraze	Central Florida Kraze	Tampa Bay Hawks	5/12/2001	0		LGE	Weeks, Travis		
+Geltz, Tim	Central Florida Kraze	Central Florida Kraze	Tampa Bay Hawks	5/12/2001	0		LGE	Luker, Tom		
+Ooft, Harold	Tampa Bay Hawks	Central Florida Kraze	Tampa Bay Hawks	5/12/2001	0		LGE			
+Peirano, Leonardo	Indiana Invaders	Indiana Invaders	Kalamazoo Kingdom	5/12/2001	0		LGE			
+Rodriguez, Andy	Indiana Invaders	Indiana Invaders	Kalamazoo Kingdom	5/12/2001	0		LGE	Roff, Andrew		
+Austin, Ryan	Indiana Invaders	Indiana Invaders	Kalamazoo Kingdom	5/12/2001	0		LGE	Clark, James		
+Leitch, Chris	Kalamazoo Kingdom	Indiana Invaders	Kalamazoo Kingdom	5/12/2001	0		LGE	Lukungu, Ali		
+Noonan, Patrick	Kalamazoo Kingdom	Indiana Invaders	Kalamazoo Kingdom	5/12/2001	0		LGE			
+Hutson, Renwick	Westchester Flames	Westchester Flames	Vermont Voltage	5/12/2001	0		LGE	Nava, Fredy		
+Bradley, Richard	Westchester Flames	Westchester Flames	Vermont Voltage	5/12/2001	0		LGE	Bojovic, Radoslav		
+Farrell, James	Vermont Voltage	Westchester Flames	Vermont Voltage	5/12/2001	0		LGE	Popovic, Milenko		
+Brasil, Manuel	Stanislaus United Cruisers	Stanislaus United Cruisers	Arizona Sahuaros	5/12/2001	0		LGE	Sousa, Frank		
+Pepe, Michael	Stanislaus United Cruisers	Stanislaus United Cruisers	Arizona Sahuaros	5/12/2001	0		LGE	Owen, Joseph		
+Bingham, Benjamin	Southern California Seahorse	Southern California Seahorse	Orange County Blue Star	5/12/2001	0		LGE	Evans, Matt		
+Hotchkin, Jason	Southern California Seahorse	Southern California Seahorse	Orange County Blue Star	5/12/2001	0		LGE			
+Taylor, Matthew	Orange County Blue Star	Southern California Seahorse	Orange County Blue Star	5/12/2001	0		LGE			
+Ready, Troy	Spokane Shadow	Spokane Shadow	Yakima Reds	5/12/2001	0		LGE			
+Quinn, Connor	Spokane Shadow	Spokane Shadow	Yakima Reds	5/12/2001	0		LGE	Krestian, Kenny		
+Machado, LuisMarcelo	Yakima Reds	Spokane Shadow	Yakima Reds	5/12/2001	0		LGE			
+Jenkins, Scott	Seattle Sounders	Seattle Sounders	Portland Timbers	5/12/2001	62		LGE			
+Kinoshita, Kei	Seattle Sounders	Seattle Sounders	Portland Timbers	5/12/2001	110		LGE			
+Sawatzky, Darren	Portland Timbers	Seattle Sounders	Portland Timbers	5/12/2001	32	Penalty	LGE			
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	San Diego Flash	5/12/2001	87		LGE			
+Farias, Carlos	El Paso Patriots	El Paso Patriots	San Diego Flash	5/12/2001	65		LGE	Mercado, Salvador		
+Farias, Carlos	El Paso Patriots	El Paso Patriots	San Diego Flash	5/12/2001	51		LGE			
+Watson, Jerome	San Diego Flash	El Paso Patriots	San Diego Flash	5/12/2001	90		LGE	Hetherington, Nate		
+Del Monte, Luiz	Louisiana Outlaws	Louisiana Outlaws	Lafayette Lightning	5/12/2001	0		LGE			
+Owens, Danny	Louisiana Outlaws	Louisiana Outlaws	Lafayette Lightning	5/12/2001	0		LGE	Hill, Stephen		
+Del Monte, Luiz	Louisiana Outlaws	Louisiana Outlaws	Lafayette Lightning	5/12/2001	0		LGE			
+Brown, Beau	Lafayette Lightning	Louisiana Outlaws	Lafayette Lightning	5/12/2001	0		LGE			
+Veselka, Chris	Lafayette Lightning	Louisiana Outlaws	Lafayette Lightning	5/12/2001	0		LGE	Rebuck, Daniel		
+Veselka, Chris	Lafayette Lightning	Louisiana Outlaws	Lafayette Lightning	5/12/2001	0		LGE	Rebuck, Daniel		
+Zuazua, Luis	Texas Spurs	Texas Spurs	West Dallas Kings	5/12/2001	0		LGE			
+Shamu, Patrick	Texas Spurs	Texas Spurs	West Dallas Kings	5/12/2001	0		LGE	Nicholson, Aaron		
+Shamu, Patrick	Texas Spurs	Texas Spurs	West Dallas Kings	5/12/2001	0		LGE	Elias, Wesley		
+Elias, Wesley	Texas Spurs	Texas Spurs	West Dallas Kings	5/12/2001	0		LGE	Shamu, Patrick		
+Dapaah, Daniel	West Dallas Kings	Texas Spurs	West Dallas Kings	5/12/2001	0		LGE			
+Sastoque, Juan	West Dallas Kings	Texas Spurs	West Dallas Kings	5/12/2001	0		LGE			
+Risch, Danny	Central Coast Roadrunners	San Fernando Valley Heroes	Central Coast Roadrunners	5/12/2001	0		LGE			
+Risch, Danny	Central Coast Roadrunners	San Fernando Valley Heroes	Central Coast Roadrunners	5/12/2001	0		LGE			
+Afash, Fadi	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/12/2001	0		LGE	Noleen, Kevin		
+Afash, Fadi	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/12/2001	0		LGE	Noleen, Kevin		
+Noleen, Kevin	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/12/2001	0		LGE			
+Westcott, Sterling	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/12/2001	0		LGE			
+Afash, Fadi	Utah Blitzz	Northern Nevada Aces	Utah Blitzz	5/12/2001	0		LGE			
+Evans, Chad	Hershey Wildcats	Hershey Wildcats	Pittsburgh Riverhounds	5/12/2001	83		LGE			
+Klein, Stephen	Hershey Wildcats	Hershey Wildcats	Pittsburgh Riverhounds	5/12/2001	45		LGE			
+Proctor, James	Boston Bulldogs	Boston Bulldogs	Chesapeake Dragons	5/12/2001	0		LGE			
+Jantz, Brandon	Boston Bulldogs	Boston Bulldogs	Chesapeake Dragons	5/12/2001	0		LGE			
+Brown, Ricky	Chesapeake Dragons	Boston Bulldogs	Chesapeake Dragons	5/12/2001	0		LGE			
+Conway, Paul	Charleston Battery	Charleston Battery	Montreal Impact	5/12/2001	69		LGE			
+Jean-Baptiste, Gilbert	Charleston Battery	Charleston Battery	Montreal Impact	5/12/2001	60		LGE			
+Matis, Marcel	Cincinnati Riverhawks	Cincinnati Riverhawks	Atlanta Silverbacks	5/12/2001	90		LGE	Nikocaj, Dzevat		
+Mucino, Michael	Cincinnati Riverhawks	Cincinnati Riverhawks	Atlanta Silverbacks	5/12/2001	28		LGE	Matis, Marcel		
+Finn, Sean	Atlanta Silverbacks	Cincinnati Riverhawks	Atlanta Silverbacks	5/12/2001	7		LGE	Armas, Anibal (Steve)		
+Rodriguez, Edmundo	Atlanta Silverbacks	Cincinnati Riverhawks	Atlanta Silverbacks	5/12/2001	98		LGE			
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Cincinnati Riverhawks	Atlanta Silverbacks	5/12/2001	20		LGE	Walker, Ryan		
+Panos, Charles	Wilmington Hammerheads	Wilmington Hammerheads	New Jersey Stallions	5/12/2001	0		LGE	Fillingham, Karl		
+Franks, Michael	Wilmington Hammerheads	Wilmington Hammerheads	New Jersey Stallions	5/12/2001	0		LGE	Young, David		
+Cairns, Jason	New Jersey Stallions	Wilmington Hammerheads	New Jersey Stallions	5/12/2001	0		LGE	Ellis, Trevor		
+Higgins, Shaun	Brooklyn Knights	Brooklyn Knights	North Jersey Imperials	5/13/2001	0		LGE	Acquista, Alessandro		
+Chambers, Rinaldo	Brooklyn Knights	Brooklyn Knights	North Jersey Imperials	5/13/2001	0		LGE	Higgins, Shaun		
+Ulloa, Sergio	North Jersey Imperials	Brooklyn Knights	North Jersey Imperials	5/13/2001	0		LGE	Bertsch, Kristofer		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Montreal Impact	5/14/2001	13		LGE			
+Mouw, Robert	Charlotte Eagles	Charlotte Eagles	Montreal Impact	5/14/2001	28		LGE			
+Donaldson, Craig	Indiana Blast	Indiana Blast	Cincinnati Riverhawks	5/18/2001	59		LGE			
+McDermott, Andrew	Indiana Blast	Indiana Blast	Cincinnati Riverhawks	5/18/2001	13		LGE			
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Cincinnati Riverhawks	5/18/2001	37		LGE			
+Rockey, Shawn	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	5/18/2001	76		LGE	Kaszuba, RJ		
+Matis, Marcel	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	5/18/2001	70		LGE			
+Fenger-Larsen, Jakob	Nashville Metros	Nashville Metros	Atlanta Silverbacks	5/18/2001	66		LGE			
+Fenger-Larsen, Jakob	Nashville Metros	Nashville Metros	Atlanta Silverbacks	5/18/2001	28		LGE			
+Walker, Ryan	Atlanta Silverbacks	Nashville Metros	Atlanta Silverbacks	5/18/2001	37		LGE			
+Adair, Chugger	San Diego Flash	San Diego Flash	Minnesota Thunder	5/18/2001	54		LGE			
+Luna, Miguel	San Diego Flash	San Diego Flash	Minnesota Thunder	5/18/2001	58		LGE			
+Bankov, Kalin	Minnesota Thunder	San Diego Flash	Minnesota Thunder	5/18/2001	89		LGE			
+Hess, Matthew	Southern California Seahorse	Southern California Seahorse	San Gabriel Valley Highlanders	5/18/2001	0		LGE	Lawson, Beau		
+McLeish, Josh	Southern California Seahorse	Southern California Seahorse	San Gabriel Valley Highlanders	5/18/2001	0		LGE			
+Lawson, Beau	Southern California Seahorse	Southern California Seahorse	San Gabriel Valley Highlanders	5/18/2001	0		LGE			
+Lawson, Beau	Southern California Seahorse	Southern California Seahorse	San Gabriel Valley Highlanders	5/18/2001	0		LGE	Hotchkin, Jason		
+Jones, Jordan	Southern California Seahorse	Southern California Seahorse	San Gabriel Valley Highlanders	5/18/2001	0		LGE	McLeish, Josh		
+Retiz, Jose	Southern California Seahorse	Southern California Seahorse	San Gabriel Valley Highlanders	5/18/2001	0		LGE	Jones, Jordan		
+Concha, Guillermo	Denver Cougars	Denver Cougars	Colorado Springs Ascent	5/18/2001	0		LGE	Harrell, Matt		
+Concha, Guillermo	Denver Cougars	Denver Cougars	Colorado Springs Ascent	5/18/2001	0		LGE	Stumpf, Kris		
+Kayali, Mazen	Denver Cougars	Denver Cougars	Colorado Springs Ascent	5/18/2001	0		LGE	Keeler, Jeremiah		
+Cobo, Christian	Denver Cougars	Denver Cougars	Colorado Springs Ascent	5/18/2001	0		LGE	Ward, Brent		
+Grau, Dustin	Sioux Falls SpitFire	Sioux Falls SpitFire	Chicago Eagles Select	5/18/2001	0		LGE	Rolfing, Todd		
+Grau, Dustin	Sioux Falls SpitFire	Sioux Falls SpitFire	Chicago Eagles Select	5/18/2001	0		LGE	Koroma, Alhassan		
+Wesseh, Doco	Chicago Eagles Select	Sioux Falls SpitFire	Chicago Eagles Select	5/18/2001	0		LGE			
+Monterastelli, Eric	Orange County Blue Star	Orange County Blue Star	Central Coast Roadrunners	5/18/2001	0		LGE			
+Dodds, Robert	Central Coast Roadrunners	Orange County Blue Star	Central Coast Roadrunners	5/18/2001	0		LGE	Gomez, Jesus		
+Trotter, Matt	Central Coast Roadrunners	Orange County Blue Star	Central Coast Roadrunners	5/18/2001	0		LGE	Vega, Ernesto		
+Katz, Ryan	Central Coast Roadrunners	Orange County Blue Star	Central Coast Roadrunners	5/18/2001	0		LGE	McGregor, Dana		
+Khalil, Joseph	Miami Strike Force	Miami Strike Force	Palm Beach Pumas	5/18/2001	0		LGE			
+Gil-Alzate, Oscar	Palm Beach Pumas	Miami Strike Force	Palm Beach Pumas	5/18/2001	0		LGE			
+Pereira, Adriano	Palm Beach Pumas	Miami Strike Force	Palm Beach Pumas	5/18/2001	0		LGE	Norton, Justin		
+Southern, Mark	South Jersey Barons	South Jersey Barons	New Jersey Stallions	5/18/2001	0		LGE			
+Sullivan, Brendan	South Jersey Barons	South Jersey Barons	New Jersey Stallions	5/18/2001	0		LGE	Creary, Leon		
+Sullivan, Brendan	South Jersey Barons	South Jersey Barons	New Jersey Stallions	5/18/2001	0		LGE	Creary, Leon		
+Cop, Ante	New Jersey Stallions	South Jersey Barons	New Jersey Stallions	5/18/2001	0		LGE			
+Lukungu, Ali	Kalamazoo Kingdom	Kalamazoo Kingdom	West Michigan Edge	5/18/2001	0		LGE	Kench, Craig		
+Kench, Craig	Kalamazoo Kingdom	Kalamazoo Kingdom	West Michigan Edge	5/18/2001	0		LGE			
+Swann, John	Kalamazoo Kingdom	Kalamazoo Kingdom	West Michigan Edge	5/18/2001	0		LGE	Dias, Vijay		
+Johnston, Jeff	West Michigan Edge	Kalamazoo Kingdom	West Michigan Edge	5/18/2001	0		LGE			
+Piza, Fernando	West Michigan Edge	Kalamazoo Kingdom	West Michigan Edge	5/18/2001	0		LGE	Wilson, William		
+Wilson, William	West Michigan Edge	Kalamazoo Kingdom	West Michigan Edge	5/18/2001	0		LGE	Piza, Fernando		
+Bailey, Joel	West Michigan Edge	Kalamazoo Kingdom	West Michigan Edge	5/18/2001	0		LGE			
+Barton, Casey	Wichita Jets	Wichita Jets	Boulder Nova	5/18/2001	0		LGE	Reynolds, Gregory		
+Hansen, Richard	Boulder Nova	Wichita Jets	Boulder Nova	5/18/2001	0		LGE	Biffle, Brian		
+Hansen, Richard	Boulder Nova	Wichita Jets	Boulder Nova	5/18/2001	0		LGE	Biffle, Brian		
+Rada, Hansen	Boulder Nova	Wichita Jets	Boulder Nova	5/18/2001	0		LGE	Carroll, John		
+Rada, Hansen	Boulder Nova	Wichita Jets	Boulder Nova	5/18/2001	0		LGE	Carroll, John		
+Kaplan, Brandon	Chico Rooks	Stanislaus United Cruisers	Chico Rooks	5/19/2001	23		LGE			
+Orellana, Luis	Chico Rooks	Stanislaus United Cruisers	Chico Rooks	5/19/2001	67		LGE			
+Vanacour, Jason	Tucson Fireballs	Tucson Fireballs	Arizona Sahuaros	5/19/2001	0		LGE			
+Papoutsis, Andreas	Tucson Fireballs	Tucson Fireballs	Arizona Sahuaros	5/19/2001	0		LGE			
+Coelho-Neto, Manuel	Arizona Sahuaros	Tucson Fireballs	Arizona Sahuaros	5/19/2001	0		LGE			
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	Milwaukee Rampage	5/19/2001	7		LGE	Skinner, Jeff		
+Ellsworth, Oliver	Milwaukee Rampage	Vancouver Whitecaps	Milwaukee Rampage	5/19/2001	85		LGE			
+Bernal, Steve	Milwaukee Rampage	Vancouver Whitecaps	Milwaukee Rampage	5/19/2001	29		LGE			
+Katz, Ryan	Central Coast Roadrunners	Central Coast Roadrunners	San Fernando Valley Heroes	5/19/2001	0		LGE	Lopez, Derek		
+Katz, Ryan	Central Coast Roadrunners	Central Coast Roadrunners	San Fernando Valley Heroes	5/19/2001	0		LGE	McGregor, Dana		
+Shakbandaryan, Vrezh	San Fernando Valley Heroes	Central Coast Roadrunners	San Fernando Valley Heroes	5/19/2001	0		LGE			
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Minnesota Thunder	5/19/2001	71		LGE	Rowland, Mark		
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Minnesota Thunder	5/19/2001	53		LGE	Rowland, Mark		
+Gentile, Mike	Minnesota Thunder	El Paso Patriots	Minnesota Thunder	5/19/2001	46		LGE	Magee, Amos		
+Menyongar, Johnny	Minnesota Thunder	El Paso Patriots	Minnesota Thunder	5/19/2001	73		LGE			
+Rodopoulos, Ari	Kansas City Brass	Kansas City Brass	Boulder Nova	5/19/2001	0		LGE	Stevens, Casey		
+Hansen, Richard	Boulder Nova	Kansas City Brass	Boulder Nova	5/19/2001	0		LGE	Olivencia, Nick		
+Hansen, Richard	Boulder Nova	Kansas City Brass	Boulder Nova	5/19/2001	0		LGE	Hitzelberger,William		
+Olivencia, Nick	Boulder Nova	Kansas City Brass	Boulder Nova	5/19/2001	0		LGE	Carroll, John		
+Grau, Dustin	Sioux Falls SpitFire	Sioux Falls SpitFire	Wichita Jets	5/19/2001	0		LGE	Rolfing, Todd		
+Byers, Matthew	Sioux Falls SpitFire	Sioux Falls SpitFire	Wichita Jets	5/19/2001	0		LGE	Koroma, Alhassan		
+Clark, Matthew	Texas Spurs	Texas Spurs	Louisiana Outlaws	5/19/2001	0		LGE	Gibson, Torrence		
+Zuazua, Luis	Texas Spurs	Texas Spurs	Louisiana Outlaws	5/19/2001	0		LGE	Clark, Matthew		
+Shamu, Patrick	Texas Spurs	Texas Spurs	Louisiana Outlaws	5/19/2001	0		LGE	Ravestijn, Wilco		
+Thompson, Jason	Texas Spurs	Texas Spurs	Louisiana Outlaws	5/19/2001	0		LGE	Garcia, Fernando		
+Murphy, William	New York Freedoms	New York Freedoms	Vermont Voltage	5/19/2001	0		LGE			
+Hutchins, Ethan	Vermont Voltage	New York Freedoms	Vermont Voltage	5/19/2001	0		LGE	Farrell, James		
+Farrell, James	Vermont Voltage	New York Freedoms	Vermont Voltage	5/19/2001	0		LGE	Simic, Bozidar		
+Taylor, Matthew	Orange County Blue Star	Orange County Blue Star	San Gabriel Valley Highlanders	5/19/2001	0		LGE	Futagaki, Ryan		
+Taylor, Matthew	Orange County Blue Star	Orange County Blue Star	San Gabriel Valley Highlanders	5/19/2001	0		LGE	Theslof, Tyler		
+Taylor, Matthew	Orange County Blue Star	Orange County Blue Star	San Gabriel Valley Highlanders	5/19/2001	0		LGE	Guerrero, Victor		
+Monterastelli, Eric	Orange County Blue Star	Orange County Blue Star	San Gabriel Valley Highlanders	5/19/2001	0		LGE			
+Adzemian, Varden	San Gabriel Valley Highlanders	Orange County Blue Star	San Gabriel Valley Highlanders	5/19/2001	0		LGE			
+Ochoa, Sergio	San Gabriel Valley Highlanders	Orange County Blue Star	San Gabriel Valley Highlanders	5/19/2001	0		LGE			
+Welton Melo	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Hershey Wildcats	5/19/2001	68		LGE			
+Klein, Stephen	Hershey Wildcats	Pittsburgh Riverhounds	Hershey Wildcats	5/19/2001	43		LGE			
+DeSousa, Carlos	Brooklyn Knights	Brooklyn Knights	Jersey Falcons	5/19/2001	0		LGE			
+Cuba, Alexander	Brooklyn Knights	Brooklyn Knights	Jersey Falcons	5/19/2001	0		LGE			
+Cuba, Alexander	Brooklyn Knights	Brooklyn Knights	Jersey Falcons	5/19/2001	0		LGE			
+Saravia, Geraldo	Brooklyn Knights	Brooklyn Knights	Jersey Falcons	5/19/2001	0		LGE	Lonergan, Patrick		
+Serafin, Lukarz	Jersey Falcons	Brooklyn Knights	Jersey Falcons	5/19/2001	0		LGE			
+Grzetic, Kristian	Toronto Lynx	Toronto Lynx	Montreal Impact	5/19/2001	62		LGE			
+Inneh, Ernest	Westchester Flames	Westchester Flames	Cape Cod Crusaders	5/19/2001	0		LGE	Medina, Richard		
+Inneh, Ernest	Westchester Flames	Westchester Flames	Cape Cod Crusaders	5/19/2001	0		LGE			
+Bojovic, Radoslav	Westchester Flames	Westchester Flames	Cape Cod Crusaders	5/19/2001	0		LGE	Inneh, Ernest		
+Navarette, Hector	Westchester Flames	Westchester Flames	Cape Cod Crusaders	5/19/2001	0		LGE	Medina, Oliver		
+Medina, Oliver	Westchester Flames	Westchester Flames	Cape Cod Crusaders	5/19/2001	0		LGE	Nava, Fredy		
+Soloman, Eric	North Jersey Imperials	Chesapeake Dragons	North Jersey Imperials	5/19/2001	0		LGE	Hurtado, Dirceu		
+Hurtado, Dirceu	North Jersey Imperials	Chesapeake Dragons	North Jersey Imperials	5/19/2001	0		LGE	Bertsch, Kristofer		
+Moore, David	Bradenton Academics	Bradenton Academics	Central Florida Kraze	5/19/2001	0		LGE			
+Roderick, Paul	New York Freedoms	New York Freedoms	Brooklyn Knights	5/2/2001	0		LGE	Ovalle, Raul		
+Karcz, Chris	North Jersey Imperials	North Jersey Imperials	Westchester Flames	5/2/2001	0		LGE	Bertsch, Kristofer		
+Bojovic, Radoslav	Westchester Flames	North Jersey Imperials	Westchester Flames	5/2/2001	0		LGE	Nava, Fredy		
+Bojovic, Radoslav	Westchester Flames	North Jersey Imperials	Westchester Flames	5/2/2001	0		LGE	Gomez, Juan		
+Navarette, Hector	Westchester Flames	North Jersey Imperials	Westchester Flames	5/2/2001	0		LGE			
+Barton, Casey	Wichita Jets	Wichita Jets	Colorado Springs Ascent	5/23/2001	0		LGE			
+Barton, Casey	Wichita Jets	Wichita Jets	Colorado Springs Ascent	5/23/2001	0		LGE			
+Nix, Jeff	Wichita Jets	Wichita Jets	Colorado Springs Ascent	5/23/2001	0		LGE			
+Avery, Tony	Wichita Jets	Wichita Jets	Colorado Springs Ascent	5/23/2001	0		LGE			
+Harshbarger, Ben	Wichita Jets	Wichita Jets	Colorado Springs Ascent	5/23/2001	0		LGE			
+Conterey, Brian	Colorado Springs Ascent	Wichita Jets	Colorado Springs Ascent	5/23/2001	0		LGE			
+Heald, Oliver	Vancouver Whitecaps	Vancouver Whitecaps	El Paso Patriots	5/25/2001	75		LGE			
+Grzetic, Kristian	Toronto Lynx	Toronto Lynx	Connecticut Wolves	5/29/2001	62		LGE			
+Suarez, Temoc	Connecticut Wolves	Toronto Lynx	Connecticut Wolves	5/29/2001	84		LGE			
+Zuniga, Fabio	Connecticut Wolves	Toronto Lynx	Connecticut Wolves	5/29/2001	79		LGE			
+Atkinson, David	Cocoa Expos	Cocoa Expos	Central Florida Kraze	5/29/2001	0		LGE			
+Atkinson, David	Cocoa Expos	Cocoa Expos	Central Florida Kraze	5/29/2001	0		LGE			
+Lewis, Dylan	Cocoa Expos	Cocoa Expos	Central Florida Kraze	5/29/2001	0		LGE			
+Glavan, Nikola	Cocoa Expos	Cocoa Expos	Central Florida Kraze	5/29/2001	0		LGE	Phillips, James		
+Luker, Tom	Central Florida Kraze	Cocoa Expos	Central Florida Kraze	5/29/2001	0		LGE			
+Raad, Sergei	Central Florida Kraze	Cocoa Expos	Central Florida Kraze	5/29/2001	0		LGE			
+Austin, Ryan	Indiana Invaders	Indiana Invaders	West Michigan Edge	5/28/2001	0		LGE	Peirano, Leonardo		
+Peirano, Leonardo	Indiana Invaders	Indiana Invaders	West Michigan Edge	5/28/2001	0		LGE	Presser, Philip		
+Rodriguez, Andy	Indiana Invaders	Indiana Invaders	West Michigan Edge	5/28/2001	0		LGE	Shinabarger, Andrew		
+Bailey, Joel	West Michigan Edge	Indiana Invaders	West Michigan Edge	5/28/2001	0		LGE			
+Holloway, Neil	West Michigan Edge	Indiana Invaders	West Michigan Edge	5/28/2001	0		LGE	Maher, Anthony		
+Maher, Anthony	West Michigan Edge	Indiana Invaders	West Michigan Edge	5/28/2001	0		LGE	Piza, Fernando		
+Maher, Anthony	West Michigan Edge	Indiana Invaders	West Michigan Edge	5/28/2001	0		LGE	Gritter, Thomas		
+Holloway, Neil	West Michigan Edge	Indiana Invaders	West Michigan Edge	5/28/2001	0		LGE	Maher, Anthony		
+Swords, Kyle	Hershey Wildcats	Pittsburgh Riverhounds	Hershey Wildcats	5/28/2001	47		LGE			
+Lindenmayer, Christof	Hershey Wildcats	Pittsburgh Riverhounds	Hershey Wildcats	5/28/2001	23	Penalty	LGE			
+Steenkamp, Lenin	Rochester Rhinos	Toronto Lynx	Rochester Rhinos	5/27/2001	50		LGE			
+Thompson, Niall	Montreal Impact	Montreal Impact	Connecticut Wolves	5/27/2001	27		LGE	Oliviero, Giuliano		
+Griffiths, Winston	Connecticut Wolves	Montreal Impact	Connecticut Wolves	5/27/2001	104		LGE			
+Griffiths, Winston	Connecticut Wolves	Montreal Impact	Connecticut Wolves	5/27/2001	39		LGE			
+Mills, Sam	Twin Cities Phoenix	Twin Cities Phoenix	Dayton Gemini	5/27/2001	0		LGE	Sithonnorath, Joe		
+Sithonnorath, Joe	Twin Cities Phoenix	Twin Cities Phoenix	Dayton Gemini	5/27/2001	0		LGE	Biron, Mark		
+Schulte, Casey	Twin Cities Phoenix	Twin Cities Phoenix	Dayton Gemini	5/27/2001	0		LGE			
+Schulte, Casey	Twin Cities Phoenix	Twin Cities Phoenix	Dayton Gemini	5/27/2001	0		LGE	Sithonnorath, Joe		
+Branan, Brett	Twin Cities Phoenix	Twin Cities Phoenix	Dayton Gemini	5/27/2001	0		LGE	Mills, Sam		
+Raftery, Jared	Dayton Gemini	Twin Cities Phoenix	Dayton Gemini	5/27/2001	0		LGE			
+Benjamin, Glenn	Lafayette Lightning	Lafayette Lightning	Kansas City Brass	5/27/2001	0		LGE	Wilkersun, Matthew		
+Neto, Adauto	Lafayette Lightning	Lafayette Lightning	Kansas City Brass	5/27/2001	0		LGE	Brown, Beau		
+Yerby, Scott	Lafayette Lightning	Lafayette Lightning	Kansas City Brass	5/27/2001	0		LGE	Veselka, Chris		
+Bleyenberg, Jeremy	Kansas City Brass	Lafayette Lightning	Kansas City Brass	5/27/2001	0		LGE			
+Filing, Matthew	Kansas City Brass	Lafayette Lightning	Kansas City Brass	5/27/2001	0		LGE			
+Shamu, Patrick	Texas Spurs	Texas Spurs	West Dallas Kings	5/27/2001	0		LGE	Garcia, Fernando		
+Zuazua, Luis	Texas Spurs	Texas Spurs	West Dallas Kings	5/27/2001	0		LGE	Clark, Matthew		
+Fray, Tafaria	Texas Spurs	Texas Spurs	West Dallas Kings	5/27/2001	0		LGE	Shamu, Patrick		
+Clark, Matthew	Texas Spurs	Texas Spurs	West Dallas Kings	5/27/2001	0		LGE	Zuazua, Luis		
+Short, Tyler	Texas Spurs	Texas Spurs	West Dallas Kings	5/27/2001	0		LGE	Shamu, Patrick		
+Del Monte, Luiz	Louisiana Outlaws	Louisiana Outlaws	Wichita Jets	5/27/2001	0		LGE	Quaquio, Luis Cezar		
+Owens, Danny	Louisiana Outlaws	Louisiana Outlaws	Wichita Jets	5/27/2001	0		LGE	Millas, Dimitri		
+Cooley, Justin	Louisiana Outlaws	Louisiana Outlaws	Wichita Jets	5/27/2001	0		LGE	Owens, Danny		
+Reynolds, Gregory	Wichita Jets	Louisiana Outlaws	Wichita Jets	5/27/2001	0		LGE	Johnson, Jeffrey		
+Adair, Chugger	San Diego Flash	San Diego Flash	Portland Timbers	5/26/2001	87		LGE	Livett, Simon		
+Adair, Chugger	San Diego Flash	San Diego Flash	Portland Timbers	5/26/2001	75		LGE	Luna, Miguel		
+Livett, Simon	San Diego Flash	San Diego Flash	Portland Timbers	5/26/2001	45	Penalty	LGE			
+Sawatzky, Darren	Portland Timbers	San Diego Flash	Portland Timbers	5/26/2001	3		LGE	Baena, Mark		
+Baena, Mark	Portland Timbers	San Diego Flash	Portland Timbers	5/26/2001	13		LGE	O'Neill, Michael		
+Baena, Mark	Portland Timbers	San Diego Flash	Portland Timbers	5/26/2001	66		LGE			
+Baena, Mark	Portland Timbers	San Diego Flash	Portland Timbers	5/26/2001	50		LGE	Howes, Gregory		
+Katz, Ryan	Central Coast Roadrunners	Central Coast Roadrunners	Chico Rooks	5/26/2001	0		LGE			
+Oetman, Jeremy	Central Coast Roadrunners	Central Coast Roadrunners	Chico Rooks	5/26/2001	0		LGE			
+Koven, John	Chico Rooks	Central Coast Roadrunners	Chico Rooks	5/26/2001	0		LGE	Munoz, Joe		
+Evans, Matt	Southern California Seahorse	Southern California Seahorse	Stanislaus United Cruisers	5/26/2001	0		LGE	Lawson, Beau		
+Bingham, Benjamin	Southern California Seahorse	Southern California Seahorse	Stanislaus United Cruisers	5/26/2001	0		LGE			
+Brasil, Manuel	Stanislaus United Cruisers	Southern California Seahorse	Stanislaus United Cruisers	5/26/2001	0		LGE	Pepe, Michael		
+Farfan, Erik	Stanislaus United Cruisers	Southern California Seahorse	Stanislaus United Cruisers	5/26/2001	0		LGE			
+Farfan, Erik	Stanislaus United Cruisers	Southern California Seahorse	Stanislaus United Cruisers	5/26/2001	0		LGE			
+Eastman, Gabe	Stanislaus United Cruisers	Southern California Seahorse	Stanislaus United Cruisers	5/26/2001	0		LGE	Pepe, Michael		
+Conway, Paul	Charleston Battery	Charleston Battery	Nashville Metros	5/26/2001	11		LGE			
+Iotov, Velko	Charleston Battery	Charleston Battery	Nashville Metros	5/26/2001	62		LGE			
+Akin, Jon	Charleston Battery	Charleston Battery	Nashville Metros	5/26/2001	40		LGE			
+Conway, Paul	Charleston Battery	Charleston Battery	Nashville Metros	5/26/2001	45		LGE			
+Conway, Paul	Charleston Battery	Charleston Battery	Nashville Metros	5/26/2001	26		LGE			
+Hinkey, Brian	Nashville Metros	Charleston Battery	Nashville Metros	5/26/2001	58		LGE			
+Fenger-Larsen, Jakob	Nashville Metros	Charleston Battery	Nashville Metros	5/26/2001	5		LGE			
+Henriques Jimenez, Guillermo	Carolina Dynamo	Greenville Lions	Carolina Dynamo	5/26/2001	0		LGE			
+Yanes, David	Yakima Reds	Yakima Reds	Spokane Shadow	5/25/2001	0		LGE			
+Gledhill, James	Spokane Shadow	Yakima Reds	Spokane Shadow	5/25/2001	0		LGE			
+Krestian, Kenny	Spokane Shadow	Yakima Reds	Spokane Shadow	5/25/2001	0		LGE			
+Ready, Troy	Spokane Shadow	Yakima Reds	Spokane Shadow	5/25/2001	0		LGE			
+Pantazi, Nicholas	Kalamazoo Kingdom	Sioux Falls SpitFire	Kalamazoo Kingdom	5/25/2001	0		LGE			
+Molet, John	Denver Cougars	Denver Cougars	Colorado Springs Ascent	5/25/2001	0		LGE			
+Simmonds, Michael	Denver Cougars	Denver Cougars	Colorado Springs Ascent	5/25/2001	0		LGE			
+Borchers, Nat	Denver Cougars	Denver Cougars	Colorado Springs Ascent	5/25/2001	0		LGE			
+Czarnecki, Michael	Chicago Eagles Select	Chicago Eagles Select	Des Moines Menace	5/25/2001	0		LGE			
+Dominguez, Jose	Chicago Eagles Select	Chicago Eagles Select	Des Moines Menace	5/25/2001	0		LGE			
+Flavius, David	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Montreal Impact	5/25/2001	30		LGE			
+Flavius, David	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Montreal Impact	5/25/2001	20		LGE			
+Armstrong, Stephen	Mid Michigan Bucks	Mid Michigan Bucks	Dayton Gemini	5/25/2001	0		LGE			
+Mack, Ryan	Mid Michigan Bucks	Mid Michigan Bucks	Dayton Gemini	5/25/2001	0		LGE			
+Mack, Ryan	Mid Michigan Bucks	Mid Michigan Bucks	Dayton Gemini	5/25/2001	0		LGE			
+Raftery, Jared	Dayton Gemini	Mid Michigan Bucks	Dayton Gemini	5/25/2001	0		LGE			
+Strong, Rick	Dayton Gemini	Mid Michigan Bucks	Dayton Gemini	5/25/2001	0		LGE			
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	5/25/2001	25		LGE			
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	5/25/2001	52		LGE			
+Rahimi, Farid	Northern Virginia Royals	Northern Virginia Royals	Greenville Lions	5/23/2001	12		LGE	McSorley, Pat		
+Lee Yaw, Jerome	Greenville Lions	Northern Virginia Royals	Greenville Lions	5/23/2001	45		LGE	Adeyemi, Abiodun (Mike)		
+Ronneuig, Henrik	Greenville Lions	Northern Virginia Royals	Greenville Lions	5/23/2001	88		LGE	Melono, Gerardo		
+Sawatzky, Darren	Portland Timbers	Portland Timbers	El Paso Patriots	5/23/2001	21		LGE			
+O'Neill, Michael	Portland Timbers	Portland Timbers	El Paso Patriots	5/23/2001	18		LGE			
+Farias, Carlos	El Paso Patriots	Portland Timbers	El Paso Patriots	5/23/2001	62		LGE			
+Simmonds, Michael	Denver Cougars	Denver Cougars	Boulder Nova	5/23/2001	0		LGE			
+Stumpf, Kris	Denver Cougars	Denver Cougars	Boulder Nova	5/23/2001	0		LGE			
+Harrell, Matt	Denver Cougars	Denver Cougars	Boulder Nova	5/23/2001	0		LGE			
+Biffle, Brian	Boulder Nova	Denver Cougars	Boulder Nova	5/23/2001	0		LGE			
+Sithonnorath, Joe	Twin Cities Phoenix	Twin Cities Phoenix	Chicago Eagles Select	5/21/2001	0		LGE			
+King, Kristofer	Chicago Eagles Select	Twin Cities Phoenix	Chicago Eagles Select	5/21/2001	0		LGE			
+Person, Joel	Chicago Eagles Select	Twin Cities Phoenix	Chicago Eagles Select	5/21/2001	0		LGE			
+Acres, Jason	Chicago Eagles Select	Twin Cities Phoenix	Chicago Eagles Select	5/21/2001	0		LGE			
+Acres, Jason	Chicago Eagles Select	Twin Cities Phoenix	Chicago Eagles Select	5/21/2001	0		LGE			
+Rollins, Jason	Chicago Eagles Select	Twin Cities Phoenix	Chicago Eagles Select	5/21/2001	0		LGE			
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Milwaukee Rampage	5/20/2001	88		LGE			
+Diaz, Jose	Cascade Surge	Cascade Surge	Spokane Shadow	5/20/2001	0		LGE			
+McDonald, Chris	Cascade Surge	Cascade Surge	Spokane Shadow	5/20/2001	0		LGE			
+Bertsch, Kristofer	North Jersey Imperials	Jersey Falcons	North Jersey Imperials	5/20/2001	0		LGE			
+Bertsch, Kristofer	North Jersey Imperials	Jersey Falcons	North Jersey Imperials	5/20/2001	0		LGE			
+Sheppard, Dustin	North Jersey Imperials	Jersey Falcons	North Jersey Imperials	5/20/2001	0		LGE			
+Sheppard, Dustin	North Jersey Imperials	Jersey Falcons	North Jersey Imperials	5/20/2001	0		LGE			
+McCloskey, Kevin	Dayton Gemini	Dayton Gemini	West Michigan Edge	5/20/2001	0		LGE			
+Raftery, Jared	Dayton Gemini	Dayton Gemini	West Michigan Edge	5/20/2001	0		LGE			
+Sylborne, Michael	Dayton Gemini	Dayton Gemini	West Michigan Edge	5/20/2001	0		LGE			
+Wilson, William	West Michigan Edge	Dayton Gemini	West Michigan Edge	5/20/2001	0		LGE			
+Charles, Christopher	Tampa Bay Hawks	Tampa Bay Hawks	Central Florida Kraze	5/20/2001	0		LGE			
+Ooft, Harold	Tampa Bay Hawks	Tampa Bay Hawks	Central Florida Kraze	5/20/2001	0		LGE			
+Gordon, Michael	West Dallas Kings	West Dallas Kings	Louisiana Outlaws	5/20/2001	0		LGE			
+Nicholson, Aaron	Texas Spurs	Texas Spurs	Lafayette Lightning	5/20/2001	0		LGE			
+Clark, Matthew	Texas Spurs	Texas Spurs	Lafayette Lightning	5/20/2001	0		LGE			
+Zuazua, Luis	Texas Spurs	Texas Spurs	Lafayette Lightning	5/20/2001	0		LGE			
+Zuazua, Luis	Texas Spurs	Texas Spurs	Lafayette Lightning	5/20/2001	0		LGE			
+Shamu, Patrick	Texas Spurs	Texas Spurs	Lafayette Lightning	5/20/2001	0		LGE			
+Shamu, Patrick	Texas Spurs	Texas Spurs	Lafayette Lightning	5/20/2001	0		LGE			
+Morrow, Bryce	Texas Spurs	Texas Spurs	Lafayette Lightning	5/20/2001	0		LGE			
+Morrow, Bryce	Texas Spurs	Texas Spurs	Lafayette Lightning	5/20/2001	0		LGE			
+Thompson, Jason	Texas Spurs	Texas Spurs	Lafayette Lightning	5/20/2001	0		LGE			
+Brown, Beau	Lafayette Lightning	Texas Spurs	Lafayette Lightning	5/20/2001	0		LGE			
+Joseph, Shalrie	Brooklyn Knights	Brooklyn Knights	Vermont Voltage	5/20/2001	0		LGE			
+Niebles, Hemir	Brooklyn Knights	Brooklyn Knights	Vermont Voltage	5/20/2001	0		LGE			
+Pearce, Heath	Bradenton Academics	Bradenton Academics	Cocoa Expos	5/20/2001	0		LGE			
+Atkinson, David	Cocoa Expos	Bradenton Academics	Cocoa Expos	5/20/2001	0		LGE			
+Hayes, David	Milwaukee Rampage	Minnesota Thunder	Milwaukee Rampage	5/30/2001	23		LGE			
+Miranda, Jose de Jesus	Central Coast Roadrunners	Central Coast Roadrunners	Southern California Seahorse	5/4/2001	0		LGE	Katz, Ryan		
+Katz, Ryan	Central Coast Roadrunners	Central Coast Roadrunners	Southern California Seahorse	5/4/2001	0		LGE			
+Retiz, Jose	Southern California Seahorse	Central Coast Roadrunners	Southern California Seahorse	5/4/2001	0		LGE	Evans, Matt		
+Brasil, Manuel	Stanislaus United Cruisers	Stanislaus United Cruisers	Northern Nevada Aces	5/4/2001	0		LGE	Cox, Curt		
+Mogavaro, Chris	Western Mass Pioneers	Western Mass Pioneers	New Hampshire Phantoms	5/4/2001	0		LGE	Monje, Ricardo		
+Phillips, Sullivan	Boston Bulldogs	Boston Bulldogs	Rhode Island Stingrays	5/4/2001	0		LGE	Kodiat, Ebbie		
+Lilborn, Seth	Boston Bulldogs	Boston Bulldogs	Rhode Island Stingrays	5/4/2001	0		LGE	Stimpson, Richard		
+Manganello, Mark	Rhode Island Stingrays	Boston Bulldogs	Rhode Island Stingrays	5/4/2001	0		LGE			
+Henry-Frazer, Maxx	Chico Rooks	San Fernando Valley Heroes	Chico Rooks	5/6/2001	0		LGE	Zametkin, Alex		
+Freeman, Dean	Chico Rooks	San Fernando Valley Heroes	Chico Rooks	5/6/2001	0		LGE	Koven, John		
+Henry-Frazer, Maxx	Chico Rooks	San Fernando Valley Heroes	Chico Rooks	5/6/2001	0		LGE	Munoz, Joe		
+Kaplan, Brandon	Chico Rooks	San Fernando Valley Heroes	Chico Rooks	5/6/2001	0		LGE	Freeman, Dean		
+Zametkin, Alex	Chico Rooks	San Fernando Valley Heroes	Chico Rooks	5/6/2001	0		LGE	Munoz, Joe		
+Kaplan, Brandon	Chico Rooks	San Fernando Valley Heroes	Chico Rooks	5/6/2001	0		LGE	Koven, John		
+Bajek, Gregory	Jersey Falcons	Jersey Falcons	Chesapeake Dragons	5/6/2001	0		LGE			
+Olsen, Ryan	Chesapeake Dragons	Jersey Falcons	Chesapeake Dragons	5/6/2001	0		LGE			
+Olsen, Ryan	Chesapeake Dragons	Jersey Falcons	Chesapeake Dragons	5/6/2001	0		LGE			
+Hicks, Andy	Chesapeake Dragons	Jersey Falcons	Chesapeake Dragons	5/6/2001	0		LGE			
+Karcz, Chris	North Jersey Imperials	North Jersey Imperials	Cape Cod Crusaders	5/6/2001	0		LGE	Iacono, Michael		
+Buchanan, Adam	Cape Cod Crusaders	North Jersey Imperials	Cape Cod Crusaders	5/6/2001	0		LGE	Walker, Geoff		
+Schmidt, Casey	Cape Cod Crusaders	North Jersey Imperials	Cape Cod Crusaders	5/6/2001	0		LGE			
+Morrow, Bryce	Texas Spurs	Louisiana Outlaws	Texas Spurs	5/6/2001	0		LGE	Groneau, Joel		
+Nicholson, Aaron	Texas Spurs	Louisiana Outlaws	Texas Spurs	5/6/2001	0		LGE	Wylie, Robert		
+Veselka, Chris	Lafayette Lightning	Lafayette Lightning	West Dallas Kings	5/6/2001	0		LGE	Brown, Beau		
+Yerby, Scott	Lafayette Lightning	Lafayette Lightning	West Dallas Kings	5/6/2001	0		LGE	Rebuck, Daniel		
+Rebuck, Daniel	Lafayette Lightning	Lafayette Lightning	West Dallas Kings	5/6/2001	0		LGE			
+Harrigan, Jamie	West Dallas Kings	Lafayette Lightning	West Dallas Kings	5/6/2001	0		LGE			
+Harrigan, Jamie	West Dallas Kings	Lafayette Lightning	West Dallas Kings	5/6/2001	0		LGE			
+Harr, Phillip	Bradenton Academics	Bradenton Academics	Cocoa Expos	5/6/2001	0		LGE			
+Figuerola, Alvaro	Bradenton Academics	Bradenton Academics	Cocoa Expos	5/6/2001	0		LGE			
+Jefferson-Dow, Ben	Bradenton Academics	Bradenton Academics	Cocoa Expos	5/6/2001	0		LGE	Soffe, John		
+Wyrick, David	Bradenton Academics	Bradenton Academics	Cocoa Expos	5/6/2001	0		LGE	Soffe, John		
+Freeman, Steven	Cocoa Expos	Bradenton Academics	Cocoa Expos	5/6/2001	0		LGE			
+Flavius, David	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Indiana Blast	4/28/2001	79		LGE			
+Farias, Carlos	El Paso Patriots	El Paso Patriots	Portland Timbers	4/28/2001	23		LGE			
+Leal-Gustavo, Oscar	El Paso Patriots	El Paso Patriots	Portland Timbers	4/28/2001	100		LGE	Rowland, Mark		
+Sawatzky, Darren	Portland Timbers	El Paso Patriots	Portland Timbers	4/28/2001	21		LGE	Baena, Mark		
+Klein, Stephen	Hershey Wildcats	Hershey Wildcats	Indiana Blast	4/29/2001	86		LGE	Watson, Doug		
+Roberto, Ze	Hershey Wildcats	Hershey Wildcats	Indiana Blast	4/29/2001	34		LGE	Jackson, Kevin		
+Jackson, Kevin	Hershey Wildcats	Hershey Wildcats	Indiana Blast	4/29/2001	49		LGE	Lindenmayer, Christof		
+Viera, Romulo	Hershey Wildcats	Hershey Wildcats	Indiana Blast	4/29/2001	76		LGE	Watson, Doug		
+Tanner, Tommy	Rochester Rhinos	Rochester Rhinos	Connecticut Wolves	5/5/2001	2		LGE			
+Zuniga, Fabio	Connecticut Wolves	Rochester Rhinos	Connecticut Wolves	5/5/2001	55		LGE			
+Tilley, Darren	Vancouver Whitecaps	Seattle Sounders	Vancouver Whitecaps	5/5/2001	17		LGE			
+Keenan, Tom	Indiana Blast	Indiana Blast	Richmond Kickers	5/31/2001	80		LGE			
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Richmond Kickers	5/31/2001	64		LGE			
+Alvero, Kevin	Richmond Kickers	Indiana Blast	Richmond Kickers	5/31/2001	94		LGE			
+Feruzzi, Marco	Richmond Kickers	Indiana Blast	Richmond Kickers	5/31/2001	51		LGE			
+Burke, Michael	Richmond Kickers	Indiana Blast	Richmond Kickers	5/31/2001	28		LGE			
+Papandreou, George	Montreal Impact	Montreal Impact	Long Island Rough Riders	6/1/2001	61		LGE	Oliviero, Giuliano		
+Thompson, Niall	Montreal Impact	Montreal Impact	Long Island Rough Riders	6/1/2001	87		LGE			
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	San Diego Flash	6/1/2001	22		LGE			
+Jenkins, Scott	Seattle Sounders	Seattle Sounders	San Diego Flash	6/1/2001	9		LGE	Farrell, Jason		
+Adair, Chugger	San Diego Flash	Seattle Sounders	San Diego Flash	6/1/2001	70		LGE	Watson, Jerome		
+Oyuga, Paul	Connecticut Wolves	Connecticut Wolves	Long Island Rough Riders	6/2/2001	34		LGE	Suarez, Temoc		
+Klinger, Fausto	Long Island Rough Riders	Connecticut Wolves	Long Island Rough Riders	6/2/2001	59		LGE			
+Sy, Moussa	Long Island Rough Riders	Connecticut Wolves	Long Island Rough Riders	6/2/2001	73		LGE			
+Sy, Moussa	Long Island Rough Riders	Connecticut Wolves	Long Island Rough Riders	6/2/2001	30		LGE			
+Burlew, Robert	Cincinnati Riverhawks	Cincinnati Riverhawks	Nashville Metros	6/2/2001	28		LGE	Rockey, Shawn		
+Rockey, Shawn	Cincinnati Riverhawks	Cincinnati Riverhawks	Nashville Metros	6/2/2001	55		LGE			
+Fenger-Larsen, Jakob	Nashville Metros	Cincinnati Riverhawks	Nashville Metros	6/2/2001	27		LGE	Bailey, Jaymison (Jaymi)		
+Leib, Ryan	Charlotte Eagles	Charlotte Eagles	Charleston Battery	6/2/2001	109		LGE			
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Charleston Battery	6/2/2001	37		LGE			
+Conway, Paul	Charleston Battery	Charlotte Eagles	Charleston Battery	6/2/2001	80		LGE			
+Magee, Amos	Minnesota Thunder	Minnesota Thunder	Vancouver Whitecaps	6/2/2001	49		LGE			
+Baena, Mark	Portland Timbers	Portland Timbers	San Diego Flash	6/2/2001	21		LGE			
+Kayali, Maher	Arizona Sahuaros	Arizona Sahuaros	Chico Rooks	6/2/2001	65		LGE	Castro, Gabriel		
+Barragan, Arturo	Chico Rooks	Arizona Sahuaros	Chico Rooks	6/2/2001	29		LGE	Robertson, Calvin		
+Henry-Frazer, Maxx	Chico Rooks	Arizona Sahuaros	Chico Rooks	6/2/2001	15		LGE	Kaplan, Brandon		
+Robertson, Calvin	Chico Rooks	Arizona Sahuaros	Chico Rooks	6/2/2001	3		LGE	Munoz, Joe		
+Brasil, Manuel	Stanislaus United Cruisers	Stanislaus United Cruisers	San Fernando Valley Heroes	6/2/2001	80		LGE	Uriz, Patrick		
+Orellana, Luis	Chico Rooks	Chico Rooks	Stanislaus United Cruisers	6/15/2001	0		LGE	Henry-Frazer, Maxx		
+Owen, Joseph	Stanislaus United Cruisers	Chico Rooks	Stanislaus United Cruisers	6/15/2001	0		LGE	Sanchez, Mario		
+Owen, Joseph	Stanislaus United Cruisers	Chico Rooks	Stanislaus United Cruisers	6/15/2001	0		LGE	Cox, Curt		
+Brasil, Manuel	Stanislaus United Cruisers	Chico Rooks	Stanislaus United Cruisers	6/15/2001	0		LGE	Harper, Chad		
+Young, David	Wilmington Hammerheads	Wilmington Hammerheads	Carolina Dynamo	4/28/2001	0		LGE			
+Espindola, Jose	Carolina Dynamo	Wilmington Hammerheads	Carolina Dynamo	4/28/2001	0		LGE			
+Robinson, Colin	Carolina Dynamo	Wilmington Hammerheads	Carolina Dynamo	4/28/2001	0		LGE	Thelen, Scott		
+Robinson, Colin	Carolina Dynamo	Carolina Dynamo	Wilmington Hammerheads	6/2/2001	0		LGE	Espindola, Jose		
+Thelen, Scott	Carolina Dynamo	Carolina Dynamo	Wilmington Hammerheads	6/2/2001	0		LGE	Benjamin, Mario		
+Henriques Jimenez, Guillermo	Carolina Dynamo	Carolina Dynamo	Wilmington Hammerheads	6/2/2001	0		LGE	Benjamin, Mario		
+Benjamin, Mario	Carolina Dynamo	Carolina Dynamo	Wilmington Hammerheads	6/2/2001	0		LGE	Thelen, Scott		
+Benjamin, Mario	Carolina Dynamo	Carolina Dynamo	Wilmington Hammerheads	6/2/2001	0		LGE	Thelen, Scott		
+Ternero, Felipe	Chico Rooks	Chico Rooks	Stanislaus United Cruisers	4/7/2001	40		LGE	Kaplan, Brandon		
+Ternero, Felipe	Chico Rooks	Chico Rooks	Stanislaus United Cruisers	4/7/2001	56		LGE	Gore, Jay		
+Brasil, Manuel	Stanislaus United Cruisers	Chico Rooks	Stanislaus United Cruisers	4/7/2001	43		LGE	Farfan, Erik		
+Houle, Joshua	Western Mass Pioneers	Boston Bulldogs	Western Mass Pioneers	5/18/2001	90		LGE			
+Brodsky, Jacob	Arizona Sahuaros	Arizona Sahuaros	Tucson Fireballs	5/26/2001	0		LGE			
+Cameron, David	Tucson Fireballs	Arizona Sahuaros	Tucson Fireballs	5/26/2001	0		LGE			
+Murphy, Ronald	New Hampshire Phantoms	New Hampshire Phantoms	Boston Bulldogs	5/26/2001	30		LGE			
+Proctor, James	Boston Bulldogs	New Hampshire Phantoms	Boston Bulldogs	5/26/2001	69	Penalty	LGE			
+Deopere, Scott	Mid Michigan Bucks	Mid Michigan Bucks	Indiana Invaders	5/19/2001	0		LGE			
+Mack, Ryan	Mid Michigan Bucks	Mid Michigan Bucks	Indiana Invaders	5/19/2001	0		LGE			
+Mack, Ryan	Mid Michigan Bucks	Mid Michigan Bucks	Indiana Invaders	5/19/2001	0		LGE			
+Piraine, Salvatore	Mid Michigan Bucks	Mid Michigan Bucks	Indiana Invaders	5/19/2001	0		LGE			
+Clark, James	Indiana Invaders	Mid Michigan Bucks	Indiana Invaders	5/19/2001	0		LGE			
+Peirano, Leonardo	Indiana Invaders	Mid Michigan Bucks	Indiana Invaders	5/19/2001	0		LGE			
+Oswin, Matthew	Indiana Invaders	Mid Michigan Bucks	Indiana Invaders	5/19/2001	0		LGE			
+Biffle, Brian	Boulder Nova	Colorado Springs Ascent	Boulder Nova	5/26/2001	0		LGE			
+Olivencia, Nick	Boulder Nova	Colorado Springs Ascent	Boulder Nova	5/26/2001	0		LGE			
+Olivencia, Nick	Boulder Nova	Colorado Springs Ascent	Boulder Nova	5/26/2001	0		LGE			
+Theofiledes, Chris	Boulder Nova	Colorado Springs Ascent	Boulder Nova	5/26/2001	0		LGE			
+Peirano, Leonardo	Indiana Invaders	Indiana Invaders	Des Moines Menace	5/26/2001	0		LGE			
+Peirano, Leonardo	Indiana Invaders	Indiana Invaders	Des Moines Menace	5/26/2001	0		LGE			
+Modersohn, Seth	Des Moines Menace	Indiana Invaders	Des Moines Menace	5/26/2001	0		LGE			
+Brown, Beau	Lafayette Lightning	Lafayette Lightning	Wichita Jets	5/26/2001	0		LGE			
+Neto, Adauto	Lafayette Lightning	Lafayette Lightning	Wichita Jets	5/26/2001	0		LGE			
+Jewett, Randy	Wichita Jets	Lafayette Lightning	Wichita Jets	5/26/2001	0		LGE			
+Quaquio, Luis Cezar	Louisiana Outlaws	Louisiana Outlaws	Kansas City Brass	5/26/2001	0		LGE			
+Quaquio, Luis Cezar	Louisiana Outlaws	Louisiana Outlaws	Kansas City Brass	5/26/2001	0		LGE			
+Lara, Ricardo	Louisiana Outlaws	Louisiana Outlaws	Kansas City Brass	5/26/2001	0		LGE			
+Del Monte, Luiz	Louisiana Outlaws	Louisiana Outlaws	Kansas City Brass	5/26/2001	0		LGE			
+Madsen, Hendrick	Louisiana Outlaws	Louisiana Outlaws	Kansas City Brass	5/26/2001	0		LGE			
+Owens, Danny	Louisiana Outlaws	Louisiana Outlaws	Kansas City Brass	5/26/2001	0		LGE			
+Puckett, Adam	Louisiana Outlaws	Louisiana Outlaws	Kansas City Brass	5/26/2001	0		LGE			
+Anderson, Nathan	Kansas City Brass	Louisiana Outlaws	Kansas City Brass	5/26/2001	0		LGE			
+Rodopoulos, Ari	Kansas City Brass	Louisiana Outlaws	Kansas City Brass	5/26/2001	0		LGE			
+Berardo, Fernando	Kansas City Brass	Louisiana Outlaws	Kansas City Brass	5/26/2001	0		LGE			
+Salazar, Ricardo	San Fernando Valley Heroes	San Fernando Valley Heroes	San Gabriel Valley Highlanders	5/26/2001	0		LGE			
+Miller, Craig	Twin Cities Phoenix	Twin Cities Phoenix	Kalamazoo Kingdom	5/26/2001	0		LGE			
+Hammer, Ryan	Kalamazoo Kingdom	Twin Cities Phoenix	Kalamazoo Kingdom	5/26/2001	0		LGE			
+Mariscalco, Michael	Kalamazoo Kingdom	Twin Cities Phoenix	Kalamazoo Kingdom	5/26/2001	0		LGE			
+Mariscalco, Michael	Kalamazoo Kingdom	Twin Cities Phoenix	Kalamazoo Kingdom	5/26/2001	0		LGE			
+Mariscalco, Michael	Kalamazoo Kingdom	Twin Cities Phoenix	Kalamazoo Kingdom	5/26/2001	0		LGE			
+Mariscalco, Michael	Kalamazoo Kingdom	Twin Cities Phoenix	Kalamazoo Kingdom	5/26/2001	0		LGE			
+Lewis, Dylan	Cocoa Expos	Cocoa Expos	Tampa Bay Hawks	6/2/2001	81		LGE			
+Plunkett, Rob	Cocoa Expos	Cocoa Expos	Tampa Bay Hawks	6/2/2001	103		LGE	Freeman, Steven		
+Plunkett, Rob	Cocoa Expos	Cocoa Expos	Tampa Bay Hawks	6/2/2001	4		LGE			
+Freeman, Steven	Cocoa Expos	Cocoa Expos	Tampa Bay Hawks	6/2/2001	30		LGE			
+Atkinson, David	Cocoa Expos	Cocoa Expos	Tampa Bay Hawks	6/2/2001	86		LGE			
+Wortz, Grant	Tampa Bay Hawks	Cocoa Expos	Tampa Bay Hawks	6/2/2001	39		LGE			
+Scott, Arthur	Tampa Bay Hawks	Cocoa Expos	Tampa Bay Hawks	6/2/2001	73		LGE			
+Ooft, Harold	Tampa Bay Hawks	Cocoa Expos	Tampa Bay Hawks	6/2/2001	22		LGE			
+McKay, David	Tampa Bay Hawks	Cocoa Expos	Tampa Bay Hawks	6/2/2001	8		LGE			
+Biffle, Brian	Boulder Nova	Boulder Nova	Texas Spurs	6/17/2001	0		LGE			
+Thompson, Jason	Texas Spurs	Boulder Nova	Texas Spurs	6/17/2001	0		LGE			
+Short, Tyler	Texas Spurs	Boulder Nova	Texas Spurs	6/17/2001	0		LGE			
+Szetela, Gregory	Jersey Falcons	Jersey Falcons	Vermont Voltage	6/17/2001	0		LGE			
+Popovic, Milenko	Vermont Voltage	Jersey Falcons	Vermont Voltage	6/17/2001	0		LGE			
+Vukovic, Bojan	Vermont Voltage	Jersey Falcons	Vermont Voltage	6/17/2001	0		LGE			
+Farrell, James	Vermont Voltage	Jersey Falcons	Vermont Voltage	6/17/2001	0		LGE			
+Vukovic, Branko	Vermont Voltage	Jersey Falcons	Vermont Voltage	6/17/2001	0		LGE			
+Vukovic, Branko	Vermont Voltage	Jersey Falcons	Vermont Voltage	6/17/2001	0		LGE			
+Vukovic, Branko	Vermont Voltage	Jersey Falcons	Vermont Voltage	6/17/2001	0		LGE			
+DeOliveira, Jose Marcone	Palm Beach Pumas	Palm Beach Pumas	Cocoa Expos	6/17/2001	0		LGE			
+Blount, Ivan	Cocoa Expos	Palm Beach Pumas	Cocoa Expos	6/17/2001	0		LGE			
+Broder, Jordy	Cocoa Expos	Palm Beach Pumas	Cocoa Expos	6/17/2001	0		LGE			
+Broder, Jordy	Cocoa Expos	Palm Beach Pumas	Cocoa Expos	6/17/2001	0		LGE			
+Broder, Jordy	Cocoa Expos	Palm Beach Pumas	Cocoa Expos	6/17/2001	0		LGE			
+Clark, Evan	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	6/17/2001	0		LGE			
+Miranda, Jose de Jesus	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	6/17/2001	0		LGE			
+Risch, Danny	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	6/17/2001	0		LGE			
+Risch, Danny	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	6/17/2001	0		LGE			
+Risch, Danny	Central Coast Roadrunners	San Gabriel Valley Highlanders	Central Coast Roadrunners	6/17/2001	0		LGE			
+Brunt, Christopher	Sioux Falls SpitFire	Sioux Falls SpitFire	Des Moines Menace	6/17/2001	0		LGE			
+Rolfing, Todd	Sioux Falls SpitFire	Sioux Falls SpitFire	Des Moines Menace	6/17/2001	0		LGE			
+Ooft, Harold	Tampa Bay Hawks	Tampa Bay Hawks	Bradenton Academics	6/17/2001	0		LGE			
+Niemann, Justin	Bradenton Academics	Tampa Bay Hawks	Bradenton Academics	6/17/2001	0		LGE			
+Quinn, Jordan	Bradenton Academics	Tampa Bay Hawks	Bradenton Academics	6/17/2001	0		LGE			
+Inneh, Ernest	Westchester Flames	Westchester Flames	Cape Cod Crusaders	6/17/2001	0		LGE			
+Schmidt, Casey	Cape Cod Crusaders	Westchester Flames	Cape Cod Crusaders	6/17/2001	0		LGE			
+Coiner, Ryan	Southern California Seahorse	Southern California Seahorse	San Fernando Valley Heroes	6/1/2001	10		LGE	Retiz, Jose		
+Akopian, Serega	San Fernando Valley Heroes	Southern California Seahorse	San Fernando Valley Heroes	6/1/2001	47		LGE	Abyanli, Arshak		
+Moyssidis, Chris	Miami Strike Force	Miami Strike Force	Central Florida Kraze	4/28/2001	0		LGE	Khalil, Nasser		
+Maullin, Justin	Central Florida Kraze	Miami Strike Force	Central Florida Kraze	4/28/2001	0		LGE	Weeks, Travis		
+Potts, Ryan	Central Florida Kraze	Miami Strike Force	Central Florida Kraze	4/28/2001	0		LGE			
+Sastoque, Juan	West Dallas Kings	West Dallas Kings	Lafayette Lightning	4/28/2001	0		LGE			
+Brown, Beau	Lafayette Lightning	West Dallas Kings	Lafayette Lightning	4/28/2001	0		LGE			
+Brown, Beau	Lafayette Lightning	West Dallas Kings	Lafayette Lightning	4/28/2001	0		LGE			
+Wilkersun, Matthew	Lafayette Lightning	West Dallas Kings	Lafayette Lightning	4/28/2001	0		LGE	Brown, Beau		
+Gormley, Matthew	Chesapeake Dragons	Chesapeake Dragons	New York Freedoms	4/28/2001	64		LGE			
+George, Festus	Chesapeake Dragons	Chesapeake Dragons	New York Freedoms	4/28/2001	33		LGE	Marinenko, Aleksei		
+Roderick, Paul	New York Freedoms	Chesapeake Dragons	New York Freedoms	4/28/2001	75		LGE	Price, David		
+Cotarelo, Pablo	New York Freedoms	Chesapeake Dragons	New York Freedoms	4/28/2001	69		LGE	Price, David		
+Roderick, Paul	New York Freedoms	Chesapeake Dragons	New York Freedoms	4/28/2001	54		LGE			
+Isaac, Jair	Wichita Jets	Wichita Jets	Kansas City Brass	4/28/2001	0		LGE			
+Mazo, Juan	West Dallas Kings	West Dallas Kings	Texas Spurs	4/29/2001	45		LGE	Gentile, Gabriel		
+Morrow, Bryce	Texas Spurs	West Dallas Kings	Texas Spurs	4/29/2001	84		LGE	Ravestijn, Wilco		
+Zuazua, Luis	Texas Spurs	West Dallas Kings	Texas Spurs	4/29/2001	52		LGE	Shamu, Patrick		
+Shamu, Patrick	Texas Spurs	West Dallas Kings	Texas Spurs	4/29/2001	67		LGE	Ravestijn, Wilco		
+Lowery, Amir	Chesapeake Dragons	Chesapeake Dragons	Westchester Flames	4/29/2001	0		LGE			
+Medina, Oliver	Westchester Flames	Chesapeake Dragons	Westchester Flames	4/29/2001	0		LGE	Grando, Ive		
+Bojovic, Radoslav	Westchester Flames	Chesapeake Dragons	Westchester Flames	4/29/2001	0		LGE	Medina, Oliver		
+Bojovic, Radoslav	Westchester Flames	Chesapeake Dragons	Westchester Flames	4/29/2001	0		LGE	Medina, Oliver		
+Grando, Ive	Westchester Flames	Chesapeake Dragons	Westchester Flames	4/29/2001	0		LGE	Nava, Fredy		
+Salazar, Ricardo	San Fernando Valley Heroes	San Fernando Valley Heroes	Orange County Blue Star	4/29/2001	63		LGE	Shakbandaryan, Vrezh		
+Mkrtchyan, Tigran	San Fernando Valley Heroes	San Fernando Valley Heroes	Orange County Blue Star	4/29/2001	30		LGE	Shakbandaryan, Vrezh		
+Babakhanyan, Karlo	San Fernando Valley Heroes	San Fernando Valley Heroes	Orange County Blue Star	4/29/2001	93		LGE	Abyanli, Arshak		
+Guerrero, Victor	Orange County Blue Star	San Fernando Valley Heroes	Orange County Blue Star	4/29/2001	52		LGE			
+George, Seth	Orange County Blue Star	San Fernando Valley Heroes	Orange County Blue Star	4/29/2001	15		LGE			
+Marshall, Brian	Reading Rage	Reading Rage	Northern Virginia Royals	4/28/2001	0		LGE			
+Hearn, Brian	Reading Rage	Reading Rage	Northern Virginia Royals	4/28/2001	0		LGE			
+Puls, Eric	Reading Rage	Reading Rage	Northern Virginia Royals	4/28/2001	0		LGE	Marshall, Brian		
+Marshall, Brian	Reading Rage	Reading Rage	Northern Virginia Royals	4/28/2001	0		LGE			
+Crawford, Patrick	Northern Virginia Royals	Reading Rage	Northern Virginia Royals	4/28/2001	0		LGE			
+Peirano, Leonardo	Indiana Invaders	Indiana Invaders	Dayton Gemini	5/5/2001	0		LGE	Rodriguez, Andy		
+Brown, Beau	Lafayette Lightning	Lafayette Lightning	Texas Spurs	5/5/2001	0		LGE	Edwards, Dale		
+Yerby, Scott	Lafayette Lightning	Lafayette Lightning	Texas Spurs	5/5/2001	0		LGE	Veselka, Chris		
+Nicholson, Aaron	Texas Spurs	Lafayette Lightning	Texas Spurs	5/5/2001	0		LGE	Zuazua, Luis		
+Nicholson, Aaron	Texas Spurs	Lafayette Lightning	Texas Spurs	5/5/2001	0		LGE			
+Owens, Danny	Louisiana Outlaws	Louisiana Outlaws	West Dallas Kings	5/5/2001	0		LGE	Madsen, Hendrick		
+Owens, Danny	Louisiana Outlaws	Louisiana Outlaws	West Dallas Kings	5/5/2001	0		LGE	Lara, Ricardo		
+Owens, Danny	Louisiana Outlaws	Louisiana Outlaws	West Dallas Kings	5/5/2001	0		LGE			
+Angell, Reagan	West Dallas Kings	Louisiana Outlaws	West Dallas Kings	5/5/2001	0		LGE	Harrigan, Jamie		
+Pampillonia, Anthony	West Dallas Kings	Louisiana Outlaws	West Dallas Kings	5/5/2001	0		LGE	Sastoque, Juan		
+Gordon, Michael	West Dallas Kings	Louisiana Outlaws	West Dallas Kings	5/5/2001	0		LGE			
+Gordon, Michael	West Dallas Kings	Louisiana Outlaws	West Dallas Kings	5/5/2001	0		LGE			
+Pachowicz, Marcin	New York Freedoms	New York Freedoms	Cape Cod Crusaders	5/5/2001	0		LGE	Price, David		
+Roderick, Paul	New York Freedoms	New York Freedoms	Cape Cod Crusaders	5/5/2001	0		LGE			
+Proctor, James	Cape Cod Crusaders	New York Freedoms	Cape Cod Crusaders	5/5/2001	0		LGE			
+Galustian, James	Orange County Blue Star	San Gabriel Valley Highlanders	Orange County Blue Star	5/5/2001	0		LGE	Soto, Eddie		
+Soto, Eddie	Orange County Blue Star	San Gabriel Valley Highlanders	Orange County Blue Star	5/5/2001	0		LGE			
+Bingham, Benjamin	Southern California Seahorse	San Fernando Valley Heroes	Southern California Seahorse	5/5/2001	0		LGE			
+Bingham, Benjamin	Southern California Seahorse	San Fernando Valley Heroes	Southern California Seahorse	5/5/2001	0		LGE			
+Hess, Matthew	Southern California Seahorse	San Fernando Valley Heroes	Southern California Seahorse	5/5/2001	0		LGE			
+Medina, Oliver	Westchester Flames	Westchester Flames	Chesapeake Dragons	5/5/2001	0		LGE	Nava, Fredy		
+Bojovic, Radoslav	Westchester Flames	Westchester Flames	Chesapeake Dragons	5/5/2001	0		LGE	Nava, Fredy		
+Hutson, Renwick	Westchester Flames	Westchester Flames	Chesapeake Dragons	5/5/2001	0		LGE	Nava, Fredy		
+Cooper, Timothy	Tampa Bay Hawks	Tampa Bay Hawks	Cocoa Expos	5/5/2001	0		LGE	Scott, Arthur		
+Plunkett, Rob	Cocoa Expos	Tampa Bay Hawks	Cocoa Expos	5/5/2001	0		LGE	Freeman, Steven		
+Plunkett, Rob	Cocoa Expos	Tampa Bay Hawks	Cocoa Expos	5/5/2001	0		LGE			
+Modersohn, Seth	Des Moines Menace	Des Moines Menace	Sioux Falls SpitFire	5/5/2001	0		LGE			
+Murad, Joshua	Des Moines Menace	Des Moines Menace	Sioux Falls SpitFire	5/5/2001	0		LGE	Modersohn, Seth		
+Duax, Brian	Des Moines Menace	Des Moines Menace	Sioux Falls SpitFire	5/5/2001	0		LGE			
+Lawrence, Edwin	Sioux Falls SpitFire	Des Moines Menace	Sioux Falls SpitFire	5/5/2001	0		LGE			
+Grau, Dustin	Sioux Falls SpitFire	Des Moines Menace	Sioux Falls SpitFire	5/5/2001	0		LGE			
+Melono, Gerardo	Greenville Lions	Greenville Lions	Wilmington Hammerheads	5/5/2001	0		LGE			
+Hansen, Bjorn	Rhode Island Stingrays	Rhode Island Stingrays	New Jersey Stallions	5/5/2001	0		LGE	Simmons, Jesse		
+Sogbie, Jonathan	Rhode Island Stingrays	Rhode Island Stingrays	New Jersey Stallions	5/5/2001	0		LGE	Hansen, Bjorn		
+Geltz, Tim	Central Florida Kraze	Central Florida Kraze	Palm Beach Pumas	5/5/2001	0		LGE	Riegler, Jason		
+Gay, James	Central Florida Kraze	Central Florida Kraze	Palm Beach Pumas	5/5/2001	0		LGE	Raad, Sergei		
+DeOliveira, Jose Marcone	Palm Beach Pumas	Central Florida Kraze	Palm Beach Pumas	5/5/2001	0		LGE			
+Perdew, Mark	Denver Cougars	Denver Cougars	Wichita Jets	5/5/2001	0		LGE	Riley, James		
+Cobo, Christian	Denver Cougars	Denver Cougars	Wichita Jets	5/5/2001	0		LGE	Concha, Guillermo		
+Murphy, Ronald	New Hampshire Phantoms	New Hampshire Phantoms	New Jersey Stallions	5/6/2001	0		LGE			
+Mendoza, Luis	New Jersey Stallions	New Hampshire Phantoms	New Jersey Stallions	5/6/2001	0		LGE			
+Mendoza, Luis	New Jersey Stallions	New Hampshire Phantoms	New Jersey Stallions	5/6/2001	0		LGE			
+DaSilva, Rogerio	New Jersey Stallions	New Jersey Stallions	South Jersey Barons	5/19/2001	0		LGE			
+Kelly, Kevin	South Jersey Barons	New Jersey Stallions	South Jersey Barons	5/19/2001	0		LGE			
+Detter, Justin	Mid Michigan Bucks	Mid Michigan Bucks	West Michigan Edge	5/31/2001	0		LGE	Scicluna, Valentino		
+Piraine, Salvatore	Mid Michigan Bucks	Mid Michigan Bucks	West Michigan Edge	5/31/2001	0		LGE			
+Bailey, Joel	West Michigan Edge	Mid Michigan Bucks	West Michigan Edge	5/31/2001	0		LGE	Piza, Fernando		
+Bailey, Joel	West Michigan Edge	Mid Michigan Bucks	West Michigan Edge	5/31/2001	0		LGE	Piza, Fernando		
+Bailey, Joel	West Michigan Edge	Mid Michigan Bucks	West Michigan Edge	5/31/2001	0		LGE	Ahebwa, Dennis		
+Bailey, Joel	West Michigan Edge	Mid Michigan Bucks	West Michigan Edge	5/31/2001	0		LGE	Kelto, Anders		
+Piza, Fernando	West Michigan Edge	Mid Michigan Bucks	West Michigan Edge	5/31/2001	0		LGE			
+Marshall, Brian	Reading Rage	Reading Rage	New Jersey Stallions	6/2/2001	32		LGE	Henes, Robert (Bobby)		
+Marshall, Brian	Reading Rage	Reading Rage	New Jersey Stallions	6/2/2001	30		LGE	Kvello, Eric		
+Cairns, Jason	New Jersey Stallions	Reading Rage	New Jersey Stallions	6/2/2001	98		LGE	DaSilva, Rogerio		
+DaSilva, Rogerio	New Jersey Stallions	Reading Rage	New Jersey Stallions	6/2/2001	57		LGE	Hennessey, Ian		
+DaSilva, Rogerio	New Jersey Stallions	Reading Rage	New Jersey Stallions	6/2/2001	50		LGE			
+Ovalle-Wood, Adolfo	Utah Blitzz	Utah Blitzz	Northern Nevada Aces	6/2/2001	57		LGE	Estrada, Jorge		
+Ovalle-Wood, Adolfo	Utah Blitzz	Utah Blitzz	Northern Nevada Aces	6/2/2001	82		LGE	Cassella, Shawn		
+Breza, Richard	Utah Blitzz	Utah Blitzz	Northern Nevada Aces	6/2/2001	12		LGE	Estrada, Jorge		
+Westcott, Sterling	Utah Blitzz	Utah Blitzz	Northern Nevada Aces	6/2/2001	67		LGE	Puckrin, Glenn		
+Afash, Fadi	Utah Blitzz	Utah Blitzz	Northern Nevada Aces	6/2/2001	60		LGE	Westcott, Sterling		
+Oliden-Cardenas, Ernesto	Northern Nevada Aces	Utah Blitzz	Northern Nevada Aces	6/2/2001	8		LGE			
+Loera, Rafael	Northern Nevada Aces	Utah Blitzz	Northern Nevada Aces	6/2/2001	79		LGE			
+Stimpson, Richard	Boston Bulldogs	Boston Bulldogs	Western Mass Pioneers	6/3/2001	0		LGE	Manganello, James (Jim)		
+Proctor, James	Boston Bulldogs	Boston Bulldogs	Western Mass Pioneers	6/3/2001	0		LGE			
+Jones, Kevin	Boston Bulldogs	Boston Bulldogs	Western Mass Pioneers	6/3/2001	0		LGE			
+Kodiat, Ebbie	Boston Bulldogs	Boston Bulldogs	Western Mass Pioneers	6/3/2001	0		LGE			
+Skumawitz, Adam	Boston Bulldogs	Boston Bulldogs	Western Mass Pioneers	6/3/2001	0		LGE			
+Black, Adam	Western Mass Pioneers	Boston Bulldogs	Western Mass Pioneers	6/3/2001	0		LGE	Chevalier, Kevin		
+Monje, Ricardo	Western Mass Pioneers	Boston Bulldogs	Western Mass Pioneers	6/3/2001	0		LGE	Chevalier, Kevin		
+Miller, Brad	Western Mass Pioneers	Boston Bulldogs	Western Mass Pioneers	6/3/2001	0		LGE	Black, Adam		
+Miller, Brad	Western Mass Pioneers	Boston Bulldogs	Western Mass Pioneers	6/3/2001	0		LGE	Monje, Ricardo		
+Hollingworth, Glen	New Hampshire Phantoms	New Hampshire Phantoms	Western Mass Pioneers	6/5/2001	0		LGE	Ogbunamiri, Joel		
+Dimouski, Chris	Western Mass Pioneers	New Hampshire Phantoms	Western Mass Pioneers	6/5/2001	0		LGE			
+Wilkinson, Adam	Western Mass Pioneers	New Hampshire Phantoms	Western Mass Pioneers	6/5/2001	0		LGE			
+Zarate, Juvenal	Wilmington Hammerheads	Wilmington Hammerheads	Greenville Lions	6/15/2001	0		LGE			
+Cubillas, Coco	Wilmington Hammerheads	Wilmington Hammerheads	Greenville Lions	6/15/2001	0		LGE			
+Manganello, Mark	Rhode Island Stingrays	Rhode Island Stingrays	South Jersey Barons	6/15/2001	0		LGE	Hansen, Bjorn		
+Hansen, Bjorn	Rhode Island Stingrays	Rhode Island Stingrays	South Jersey Barons	6/15/2001	0		LGE	Manganello, Mark		
+Hansen, Bjorn	Rhode Island Stingrays	Rhode Island Stingrays	South Jersey Barons	6/15/2001	0		LGE	Manganello, Mark		
+Hansen, Bjorn	Rhode Island Stingrays	Rhode Island Stingrays	South Jersey Barons	6/15/2001	0		LGE	Manganello, Mark		
+Hansen, Bjorn	Rhode Island Stingrays	Rhode Island Stingrays	South Jersey Barons	6/15/2001	0		LGE			
+Middlemass, Scott	South Jersey Barons	Rhode Island Stingrays	South Jersey Barons	6/15/2001	0		LGE			
+Begazo-Pantigoso, Erick	Tucson Fireballs	Tucson Fireballs	Utah Blitzz	6/15/2001	0		LGE			
+Scotti, Chris	Tucson Fireballs	Tucson Fireballs	Utah Blitzz	6/15/2001	0		LGE			
+Cameron, David	Tucson Fireballs	Tucson Fireballs	Utah Blitzz	6/15/2001	0		LGE			
+Estrada, Jorge	Utah Blitzz	Tucson Fireballs	Utah Blitzz	6/15/2001	0		LGE			
+Breza, Richard	Utah Blitzz	Tucson Fireballs	Utah Blitzz	6/15/2001	0		LGE			
+Breza, Richard	Utah Blitzz	Tucson Fireballs	Utah Blitzz	6/15/2001	0		LGE			
+Noleen, Kevin	Utah Blitzz	Tucson Fireballs	Utah Blitzz	6/15/2001	0		LGE			
+Cubillas, Coco	Wilmington Hammerheads	Wilmington Hammerheads	Western Mass Pioneers	6/16/2001	0		LGE	Zarate, Juvenal		
+Cubillas, Coco	Wilmington Hammerheads	Wilmington Hammerheads	Western Mass Pioneers	6/16/2001	0		LGE			
+Panos, Charles	Wilmington Hammerheads	Wilmington Hammerheads	Western Mass Pioneers	6/16/2001	0		LGE			
+Cartiera, Antonio	Western Mass Pioneers	Wilmington Hammerheads	Western Mass Pioneers	6/16/2001	0		LGE			
+Black, Adam	Western Mass Pioneers	Wilmington Hammerheads	Western Mass Pioneers	6/16/2001	0		LGE			
+Black, Adam	Western Mass Pioneers	Wilmington Hammerheads	Western Mass Pioneers	6/16/2001	0		LGE			
+Mogavaro, Chris	Western Mass Pioneers	Wilmington Hammerheads	Western Mass Pioneers	6/16/2001	0		LGE			
+Ward, David	Northern Virginia Royals	Northern Virginia Royals	Wilmington Hammerheads	6/22/2001	0		LGE			
+Panos, Charles	Wilmington Hammerheads	Northern Virginia Royals	Wilmington Hammerheads	6/22/2001	0		LGE	Shockley, Deryk		
+Cubillas, Coco	Wilmington Hammerheads	Northern Virginia Royals	Wilmington Hammerheads	6/22/2001	0		LGE	Nikocaj, Jeff		
+Cubillas, Coco	Wilmington Hammerheads	Northern Virginia Royals	Wilmington Hammerheads	6/22/2001	0		LGE	Corrie, George		
+Zarate, Juvenal	Wilmington Hammerheads	Northern Virginia Royals	Wilmington Hammerheads	6/22/2001	0		LGE			
+Oshoniyi, Adetoye	Wilmington Hammerheads	Northern Virginia Royals	Wilmington Hammerheads	6/22/2001	0		LGE			
+Jantz, Brandon	Boston Bulldogs	Rhode Island Stingrays	Boston Bulldogs	6/1/2001	41		LGE	Manganello, James (Jim)		
+Kodiat, Ebbie	Boston Bulldogs	Rhode Island Stingrays	Boston Bulldogs	6/1/2001	74		LGE	Lucas, Ryan		
+Phillips, Sullivan	Boston Bulldogs	Rhode Island Stingrays	Boston Bulldogs	6/1/2001	90		LGE			
+Skumawitz, Adam	Boston Bulldogs	Rhode Island Stingrays	Boston Bulldogs	6/1/2001	84		LGE			
+Estrada, Jorge	Utah Blitzz	Utah Blitzz	Northern Nevada Aces	6/1/2001	0		LGE	Noleen, Kevin		
+Afash, Fadi	Utah Blitzz	Utah Blitzz	Northern Nevada Aces	6/1/2001	0		LGE	Westcott, Sterling		
+Noleen, Kevin	Utah Blitzz	Utah Blitzz	Northern Nevada Aces	6/1/2001	0		LGE	Ovalle-Wood, Adolfo		
+Noleen, Kevin	Utah Blitzz	Utah Blitzz	Northern Nevada Aces	6/1/2001	0		LGE	Puckrin, Glenn		
+Westcott, Sterling	Utah Blitzz	Utah Blitzz	Northern Nevada Aces	6/1/2001	0		LGE	McNicol, William (BJ)		
+DiPlacido, David	Toronto Lynx	Toronto Lynx	Pittsburgh Riverhounds	6/3/2001	62		LGE	Hooper, Lyndon		
+Hayes, David	Milwaukee Rampage	Milwaukee Rampage	Vancouver Whitecaps	6/3/2001	80		LGE			
+Wilson, Kirk	Rochester Rhinos	Connecticut Wolves	Rochester Rhinos	6/6/2001	103		LGE	Annan, Dan		
+Baena, Mark	Portland Timbers	Portland Timbers	Minnesota Thunder	6/6/2001	45		LGE			
+Baena, Mark	Portland Timbers	Portland Timbers	Minnesota Thunder	6/6/2001	90		LGE			
+Sawatzky, Darren	Portland Timbers	Portland Timbers	Minnesota Thunder	6/6/2001	87		LGE			
+Lagos, Gerard	Minnesota Thunder	Portland Timbers	Minnesota Thunder	6/6/2001	38		LGE			
+Bustos, Javier	San Diego Flash	San Diego Flash	Milwaukee Rampage	6/7/2001	90		LGE			
+Hayes, David	Milwaukee Rampage	San Diego Flash	Milwaukee Rampage	6/7/2001	83		LGE			
+Ellsworth, Oliver	Milwaukee Rampage	San Diego Flash	Milwaukee Rampage	6/7/2001	85		LGE			
+Thompson, Niall	Montreal Impact	Montreal Impact	Hershey Wildcats	6/8/2001	55		LGE			
+Biello, Mauro	Montreal Impact	Montreal Impact	Hershey Wildcats	6/8/2001	86		LGE			
+Papandreou, George	Montreal Impact	Montreal Impact	Hershey Wildcats	6/8/2001	104		LGE			
+Lindenmayer, Christof	Hershey Wildcats	Montreal Impact	Hershey Wildcats	6/8/2001	53	Penalty	LGE			
+Sebrango, Eduardo	Hershey Wildcats	Montreal Impact	Hershey Wildcats	6/8/2001	78		LGE			
+Schweitzer, Scott	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	6/8/2001	20		LGE			
+Nash, Martin	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	6/8/2001	33		LGE			
+Iribarren, Ricardo	Pittsburgh Riverhounds	Rochester Rhinos	Pittsburgh Riverhounds	6/8/2001	89	Penalty	LGE			
+Matis, Marcel	Cincinnati Riverhawks	Cincinnati Riverhawks	Charleston Battery	6/8/2001	20		LGE			
+Iotov, Velko	Charleston Battery	Cincinnati Riverhawks	Charleston Battery	6/8/2001	57		LGE	Piesner, Brian		
+Ball, John	Charleston Battery	Cincinnati Riverhawks	Charleston Battery	6/8/2001	107		LGE			
+Craveiro, Chris	Vancouver Whitecaps	Vancouver Whitecaps	Minnesota Thunder	6/8/2001	35		LGE	Skinner, Jeff		
+Callahan, Sean Michael	Atlanta Silverbacks	Atlanta Silverbacks	Charlotte Eagles	6/9/2001	23		LGE	Schneider, Paul		
+Schneider, Paul	Atlanta Silverbacks	Atlanta Silverbacks	Charlotte Eagles	6/9/2001	62		LGE	Callahan, Sean Michael		
+Parry, Ben	Charlotte Eagles	Atlanta Silverbacks	Charlotte Eagles	6/9/2001	65		LGE	Norkus, Caleb		
+Mucino, Michael	Cincinnati Riverhawks	Cincinnati Riverhawks	Indiana Blast	6/9/2001	24		LGE	Kaszuba, RJ		
+Labastida, Luis	Cincinnati Riverhawks	Cincinnati Riverhawks	Indiana Blast	6/9/2001	83		LGE			
+Estrada, Alfredo	Cincinnati Riverhawks	Cincinnati Riverhawks	Indiana Blast	6/9/2001	90		LGE	Labastida, Luis		
+Alcerro, Ricardo	Cincinnati Riverhawks	Cincinnati Riverhawks	Indiana Blast	6/9/2001	109		LGE	Labastida, Luis		
+McDermott, Andrew	Indiana Blast	Cincinnati Riverhawks	Indiana Blast	6/9/2001	11		LGE			
+Donaldson, Craig	Indiana Blast	Cincinnati Riverhawks	Indiana Blast	6/9/2001	13		LGE			
+Allen, Mark	Indiana Blast	Cincinnati Riverhawks	Indiana Blast	6/9/2001	80		LGE	Donaldson, Craig		
+Valencia, Gabriel	Nashville Metros	Nashville Metros	Charleston Battery	6/9/2001	8		LGE			
+Bailey, Jaymison (Jaymi)	Nashville Metros	Nashville Metros	Charleston Battery	6/9/2001	45		LGE			
+Conway, Paul	Charleston Battery	Nashville Metros	Charleston Battery	6/9/2001	43		LGE			
+Iotov, Velko	Charleston Battery	Nashville Metros	Charleston Battery	6/9/2001	45		LGE			
+Sebrango, Eduardo	Hershey Wildcats	Toronto Lynx	Hershey Wildcats	6/10/2001	75		LGE			
+Zieky, Max	Connecticut Wolves	Connecticut Wolves	Montreal Impact	6/10/2001	27		LGE	Suarez, Temoc		
+Suarez, Temoc	Connecticut Wolves	Connecticut Wolves	Montreal Impact	6/10/2001	90		LGE			
+Biello, Mauro	Montreal Impact	Connecticut Wolves	Montreal Impact	6/10/2001	41		LGE	Thompson, Niall		
+Bettinger, Rees	Seattle Sounders	Seattle Sounders	Minnesota Thunder	6/10/2001	31		LGE			
+Tolstolutsky, Vadim	Portland Timbers	Portland Timbers	Vancouver Whitecaps	6/13/2001	90		LGE			
+St. Louis, Terry	Vancouver Whitecaps	Portland Timbers	Vancouver Whitecaps	6/13/2001	73		LGE			
+Conway, Paul	Charleston Battery	Richmond Kickers	Charleston Battery	6/13/2001	6		LGE			
+Papandreou, George	Montreal Impact	Montreal Impact	Toronto Lynx	6/15/2001	88		LGE			
+Johnson, Joey	Charlotte Eagles	Charlotte Eagles	Cincinnati Riverhawks	6/15/2001	85		LGE			
+Watkins, Nathan	Charlotte Eagles	Charlotte Eagles	Cincinnati Riverhawks	6/15/2001	104		LGE			
+Burlew, Robert	Cincinnati Riverhawks	Charlotte Eagles	Cincinnati Riverhawks	6/15/2001	31		LGE			
+Dumitru, Mugurel	El Paso Patriots	El Paso Patriots	Seattle Sounders	6/15/2001	77		LGE	Farias, Carlos		
+Dumitru, Mugurel	El Paso Patriots	El Paso Patriots	Seattle Sounders	6/15/2001	89		LGE	Rowland, Mark		
+Mora, Omar	El Paso Patriots	El Paso Patriots	Seattle Sounders	6/15/2001	90		LGE	Rowland, Mark		
+Nguyen, Viet	Seattle Sounders	El Paso Patriots	Seattle Sounders	6/15/2001	11		LGE			
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Nashville Metros	6/16/2001	58		LGE			
+Fenger-Larsen, Jakob	Nashville Metros	Richmond Kickers	Nashville Metros	6/16/2001	76		LGE			
+Mattacchione, Joe	Toronto Lynx	Toronto Lynx	Montreal Impact	6/16/2001	74		LGE			
+Dugas, Martin	Montreal Impact	Toronto Lynx	Montreal Impact	6/16/2001	15		LGE			
+Thompson, Niall	Montreal Impact	Toronto Lynx	Montreal Impact	6/16/2001	63		LGE			
+Papandreou, George	Montreal Impact	Toronto Lynx	Montreal Impact	6/16/2001	75		LGE			
+Akin, Jon	Charleston Battery	Charleston Battery	Indiana Blast	6/16/2001	77		LGE			
+Farris, Matt	Charleston Battery	Charleston Battery	Indiana Blast	6/16/2001	88		LGE			
+Costa, Rodrigo	Indiana Blast	Charleston Battery	Indiana Blast	6/16/2001	12		LGE			
+Costa, Rodrigo	Indiana Blast	Charleston Battery	Indiana Blast	6/16/2001	45		LGE			
+Demmin, Dwayne	Indiana Blast	Charleston Battery	Indiana Blast	6/16/2001	90		LGE			
+Wolyniec, John	Rochester Rhinos	Hershey Wildcats	Rochester Rhinos	6/16/2001	90		LGE			
+Baena, Mark	Portland Timbers	Minnesota Thunder	Portland Timbers	6/16/2001	55		LGE			
+Alcaraz-Cuellar, Hugo	San Diego Flash	San Diego Flash	Seattle Sounders	6/16/2001	40		LGE			
+Makumbu, Destin	Milwaukee Rampage	Milwaukee Rampage	Minnesota Thunder	6/17/2001	44		LGE			
+Zeba, Morgan	Minnesota Thunder	Milwaukee Rampage	Minnesota Thunder	6/17/2001	9	Penalty	LGE			
+Godoy, Philippe	Minnesota Thunder	Milwaukee Rampage	Minnesota Thunder	6/17/2001	84	Own Goal	LGE			
+Leventhal, Aaron	Minnesota Thunder	Milwaukee Rampage	Minnesota Thunder	6/17/2001	90		LGE			
+Karn, Phil	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Connecticut Wolves	6/17/2001	79		LGE			
+Suarez, Temoc	Connecticut Wolves	Pittsburgh Riverhounds	Connecticut Wolves	6/17/2001	33		LGE			
+Suarez, Temoc	Connecticut Wolves	Pittsburgh Riverhounds	Connecticut Wolves	6/17/2001	61		LGE			
+Knights, Irasto	Connecticut Wolves	Pittsburgh Riverhounds	Connecticut Wolves	6/17/2001	64		LGE			
+Oyuga, Paul	Connecticut Wolves	Pittsburgh Riverhounds	Connecticut Wolves	6/17/2001	90		LGE			
+Klein, Stephen	Hershey Wildcats	Long Island Rough Riders	Hershey Wildcats	6/20/2001	95		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	San Diego Flash	6/22/2001	42		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	San Diego Flash	6/22/2001	71		LGE			
+Hayes, David	Milwaukee Rampage	Milwaukee Rampage	San Diego Flash	6/22/2001	66		LGE			
+Hayes, David	Milwaukee Rampage	Milwaukee Rampage	San Diego Flash	6/22/2001	79		LGE			
+Makumbu, Destin	San Diego Flash	Milwaukee Rampage	San Diego Flash	6/22/2001	9	Own Goal	LGE			
+Alcaraz-Cuellar, Hugo	San Diego Flash	Milwaukee Rampage	San Diego Flash	6/22/2001	56		LGE			
+Calderson, Carlos	San Diego Flash	Milwaukee Rampage	San Diego Flash	6/22/2001	70		LGE			
+Flavius, David	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Toronto Lynx	6/22/2001	31		LGE			
+Vilda, Alfredo	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Toronto Lynx	6/22/2001	41		LGE			
+Sweeney, Casey	Indiana Blast	Indiana Blast	Cincinnati Riverhawks	6/22/2001	53		LGE	Otteson, Dustin		
+Dresser, Jeff	Indiana Blast	Indiana Blast	Cincinnati Riverhawks	6/22/2001	57		LGE			
+Matis, Marcel	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	6/22/2001	76	Penalty	LGE			
+Lowey, Simon	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	6/22/2001	80		LGE	Mucino, Michael		
+Longo, Mario	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	6/22/2001	103		LGE	Roettker, Richard		
+Magee, Amos	Minnesota Thunder	Minnesota Thunder	El Paso Patriots	6/22/2001	12		LGE			
+Armas, Anibal (Steve)	Minnesota Thunder	Minnesota Thunder	El Paso Patriots	6/22/2001	15		LGE			
+Dumitru, Mugurel	El Paso Patriots	Minnesota Thunder	El Paso Patriots	6/22/2001	39		LGE			
+Cozier, Mangea (Mac)	Charleston Battery	Atlanta Silverbacks	Charleston Battery	6/23/2001	85		LGE	Akin, Jon		
+Jeffrey, Kevin	Richmond Kickers	Charlotte Eagles	Richmond Kickers	6/23/2001	17		LGE			
+Valencia, Gabriel	Nashville Metros	Nashville Metros	Indiana Blast	6/24/2001	34		LGE			
+Valencia, Gabriel	Nashville Metros	Nashville Metros	Indiana Blast	6/24/2001	85		LGE			
+Houser, Jeff	Nashville Metros	Nashville Metros	Indiana Blast	6/24/2001	53		LGE			
+Maurer, Adam	San Diego Flash	Minnesota Thunder	San Diego Flash	6/24/2001	22		LGE			
+Ablett, Gary	Long Island Rough Riders	Long Island Rough Riders	Pittsburgh Riverhounds	6/24/2001	69	Penalty	LGE			
+DePalma, Gary	Pittsburgh Riverhounds	Long Island Rough Riders	Pittsburgh Riverhounds	6/24/2001	63		LGE			
+Heald, Oliver	Vancouver Whitecaps	Vancouver Whitecaps	Seattle Sounders	6/24/2001	33	Penalty	LGE			
+Bettinger, Rees	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	6/24/2001	12		LGE			
+Bettinger, Rees	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	6/24/2001	16		LGE			
+Bettinger, Rees	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	6/24/2001	75		LGE			
+Farrell, Jason	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	6/24/2001	68		LGE			
+Hattrup, Peter	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	6/24/2001	74		LGE			
+Watson, Jerome	San Diego Flash	El Paso Patriots	San Diego Flash	6/29/2001	64		LGE			
+Valente, Alfredo	Vancouver Whitecaps	Portland Timbers	Vancouver Whitecaps	6/29/2001	0		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	6/30/2001	3		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	6/30/2001	23		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	6/30/2001	85		LGE			
+Soso, Igor	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	6/30/2001	67		LGE			
+Soso, Igor	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	6/30/2001	74		LGE			
+O'Brien, Leighton	Seattle Sounders	Milwaukee Rampage	Seattle Sounders	6/30/2001	36		LGE			
+Nguyen, Viet	Seattle Sounders	Milwaukee Rampage	Seattle Sounders	6/30/2001	49		LGE			
+Henderson, Joshua	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	6/30/2001	20		LGE			
+Knight, Kevin	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	6/30/2001	28		LGE			
+Ukrop, Rob	Richmond Kickers	Richmond Kickers	Atlanta Silverbacks	6/30/2001	101		LGE			
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Richmond Kickers	Atlanta Silverbacks	6/30/2001	39		LGE			
+Schneider, Paul	Atlanta Silverbacks	Richmond Kickers	Atlanta Silverbacks	6/30/2001	90		LGE			
+Oparaku, Mobi	Connecticut Wolves	Connecticut Wolves	Toronto Lynx	6/30/2001	48		LGE	Sewell, Dean		
+Mattacchione, Joe	Toronto Lynx	Connecticut Wolves	Toronto Lynx	6/30/2001	80		LGE	DiPlacido, David		
+Roberto, Ze	Hershey Wildcats	Hershey Wildcats	Charlotte Eagles	6/30/2001	63		LGE			
+Leib, Ryan	Charlotte Eagles	Hershey Wildcats	Charlotte Eagles	6/30/2001	77		LGE	Pinch, Mark		
+Gomez, Jose	Charlotte Eagles	Hershey Wildcats	Charlotte Eagles	6/30/2001	100		LGE	Leib, Ryan		
+Daligcon, Nate	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	6/30/2001	41		LGE			
+Daligcon, Nate	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	6/30/2001	60		LGE			
+Daligcon, Nate	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	6/30/2001	61		LGE			
+Lowey, Simon	Cincinnati Riverhawks	Cincinnati Riverhawks	Charleston Battery	6/30/2001	32		LGE	Rockey, Shawn		
+Conway, Paul	Charleston Battery	Cincinnati Riverhawks	Charleston Battery	6/30/2001	78		LGE			
+Conway, Paul	Charleston Battery	Cincinnati Riverhawks	Charleston Battery	6/30/2001	98		LGE	Wilson, John		
+Apple, Michael	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Long Island Rough Riders	7/1/2001	74		LGE			
+Woolfolk, Corey	Minnesota Thunder	Minnesota Thunder	Seattle Sounders	7/1/2001	17		LGE			
+Sweet, Jeremy	Seattle Sounders	Minnesota Thunder	Seattle Sounders	7/1/2001	20		LGE			
+Hattrup, Peter	Seattle Sounders	Minnesota Thunder	Seattle Sounders	7/1/2001	82		LGE			
+Craveiro, Chris	Vancouver Whitecaps	Vancouver Whitecaps	San Diego Flash	7/1/2001	28		LGE			
+Craveiro, Chris	Vancouver Whitecaps	Vancouver Whitecaps	San Diego Flash	7/1/2001	45		LGE			
+Tilley, Darren	Vancouver Whitecaps	Vancouver Whitecaps	San Diego Flash	7/1/2001	76		LGE			
+Calderson, Carlos	San Diego Flash	Vancouver Whitecaps	San Diego Flash	7/1/2001	50		LGE			
+O'Connor, Brian	San Diego Flash	Vancouver Whitecaps	San Diego Flash	7/1/2001	58		LGE			
+Farris, Matt	Charleston Battery	Charleston Battery	Indiana Blast	7/3/2001	18		LGE			
+Conway, Paul	Charleston Battery	Charleston Battery	Indiana Blast	7/3/2001	90		LGE			
+Ball, John	Charleston Battery	Charleston Battery	Indiana Blast	7/3/2001	99		LGE			
+Costa, Rodrigo	Indiana Blast	Charleston Battery	Indiana Blast	7/3/2001	20		LGE			
+Keenan, Tom	Indiana Blast	Charleston Battery	Indiana Blast	7/3/2001	63		LGE			
+Howes, Gregory	Portland Timbers	Portland Timbers	San Diego Flash	7/3/2001	48		LGE			
+Howes, Gregory	Portland Timbers	Portland Timbers	San Diego Flash	7/3/2001	71		LGE			
+Sawatzky, Darren	Portland Timbers	Portland Timbers	San Diego Flash	7/3/2001	79		LGE			
+Adair, Chugger	San Diego Flash	Portland Timbers	San Diego Flash	7/3/2001	89		LGE			
+Morales, Carlos	San Diego Flash	Portland Timbers	San Diego Flash	7/3/2001	90		LGE			
+Biello, Mauro	Montreal Impact	Montreal Impact	Connecticut Wolves	7/4/2001	36	Penalty	LGE			
+Biello, Mauro	Montreal Impact	Montreal Impact	Connecticut Wolves	7/4/2001	77	Penalty	LGE			
+Beech, Patrick	Connecticut Wolves	Montreal Impact	Connecticut Wolves	7/4/2001	32		LGE			
+Lomeli, Jose	El Paso Patriots	El Paso Patriots	Pittsburgh Riverhounds	7/4/2001	45		LGE			
+Rowland, Mark	El Paso Patriots	El Paso Patriots	Pittsburgh Riverhounds	7/4/2001	56		LGE			
+DiPlacido, David	Toronto Lynx	Toronto Lynx	Vancouver Whitecaps	7/6/2001	44		LGE			
+Craveiro, Chris	Vancouver Whitecaps	Toronto Lynx	Vancouver Whitecaps	7/6/2001	2		LGE			
+Craveiro, Chris	Vancouver Whitecaps	Toronto Lynx	Vancouver Whitecaps	7/6/2001	52		LGE			
+Morris, David	Vancouver Whitecaps	Toronto Lynx	Vancouver Whitecaps	7/6/2001	70		LGE			
+Leib, Ryan	Charlotte Eagles	Charlotte Eagles	Rochester Rhinos	7/6/2001	32		LGE			
+Matis, Marcel	Cincinnati Riverhawks	Cincinnati Riverhawks	Atlanta Silverbacks	7/6/2001	69		LGE			
+Roberts, JT	Cincinnati Riverhawks	Cincinnati Riverhawks	Atlanta Silverbacks	7/6/2001	78		LGE			
+Schneider, Paul	Atlanta Silverbacks	Cincinnati Riverhawks	Atlanta Silverbacks	7/6/2001	90		LGE			
+Henderson, Joshua	Richmond Kickers	Nashville Metros	Richmond Kickers	7/6/2001	18		LGE			
+Henderson, Joshua	Richmond Kickers	Nashville Metros	Richmond Kickers	7/6/2001	69		LGE			
+McDermott, Andrew	Indiana Blast	Indiana Blast	El Paso Patriots	7/6/2001	12		LGE	Baah, Peter		
+Oyuga, Paul	Connecticut Wolves	Connecticut Wolves	Long Island Rough Riders	7/7/2001	84		LGE	Zieky, Max		
+Griffiths, Winston	Connecticut Wolves	Connecticut Wolves	Long Island Rough Riders	7/7/2001	86		LGE			
+Camara, Aboubacar	Long Island Rough Riders	Connecticut Wolves	Long Island Rough Riders	7/7/2001	90		LGE			
+Bustos, Javier	San Diego Flash	San Diego Flash	Pittsburgh Riverhounds	7/7/2001	38		LGE			
+Hetherington, Nate	San Diego Flash	San Diego Flash	Pittsburgh Riverhounds	7/7/2001	64		LGE			
+Adair, Chugger	San Diego Flash	San Diego Flash	Pittsburgh Riverhounds	7/7/2001	69		LGE			
+Suazo, Miguel	San Diego Flash	San Diego Flash	Pittsburgh Riverhounds	7/7/2001	75		LGE			
+Alcaraz-Cuellar, Hugo	San Diego Flash	San Diego Flash	Pittsburgh Riverhounds	7/7/2001	79		LGE			
+Martins, Thiago	San Diego Flash	San Diego Flash	Pittsburgh Riverhounds	7/7/2001	90		LGE			
+Jakins, Tahj	Pittsburgh Riverhounds	San Diego Flash	Pittsburgh Riverhounds	7/7/2001	51		LGE			
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Portland Timbers	9/8/2001	76		LGE	Griego, Michael		
+Benedetti, Scott	Portland Timbers	El Paso Patriots	Portland Timbers	9/8/2001	30		LGE			
+Benedetti, Scott	Portland Timbers	El Paso Patriots	Portland Timbers	9/8/2001	15		LGE	Costigan, Keith		
+Baena, Mark	Portland Timbers	El Paso Patriots	Portland Timbers	9/8/2001	69		LGE	O'Neill, Michael		
+Mitchell, Jamel	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	9/8/2001	66		LGE	Zavala, Carlos		
+Mitchell, Jamel	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	9/8/2001	84		LGE	Schweitzer, Scott		
+Tanner, James (Jimmy)	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	9/8/2001	76		LGE	Steenkamp, Lenin		
+Etienne, Derrick	Long Island Rough Riders	Rochester Rhinos	Long Island Rough Riders	9/8/2001	75		LGE	Franzke, Stephen		
+Roberts, JT	Cincinnati Riverhawks	Cincinnati Riverhawks	Richmond Kickers	9/8/2001	2		LGE	Kaszuba, RJ		
+Lowey, Simon	Cincinnati Riverhawks	Cincinnati Riverhawks	Richmond Kickers	9/8/2001	23		LGE	Descombes, Eric		
+Matis, Marcel	Cincinnati Riverhawks	Cincinnati Riverhawks	Richmond Kickers	9/8/2001	64		LGE	Rockey, Shawn		
+Rafferty, Jared	Cincinnati Riverhawks	Cincinnati Riverhawks	Richmond Kickers	9/8/2001	101		LGE	Roberts, JT		
+Luzak, Peter	Richmond Kickers	Cincinnati Riverhawks	Richmond Kickers	9/8/2001	48		LGE	Williams, Tony		
+Ukrop, Rob	Richmond Kickers	Cincinnati Riverhawks	Richmond Kickers	9/8/2001	53		LGE	Adu-Gyamfi, Kwaku		
+Burke, Michael	Richmond Kickers	Cincinnati Riverhawks	Richmond Kickers	9/8/2001	78		LGE	Ukrop, Rob		
+Adair, Chugger	San Diego Flash	San Diego Flash	Portland Timbers	9/7/2001	81		LGE			
+Alcaraz-Cuellar, Hugo	San Diego Flash	San Diego Flash	Portland Timbers	9/7/2001	87		LGE			
+Wilkinson, Gavin	Portland Timbers	San Diego Flash	Portland Timbers	9/7/2001	60	Penalty	LGE			
+Less, Vorgen	Indiana Blast	Indiana Blast	Richmond Kickers	9/7/2001	67		LGE			
+Winner, David	Indiana Blast	Indiana Blast	Richmond Kickers	9/7/2001	90		LGE			
+Williams, Tony	Richmond Kickers	Indiana Blast	Richmond Kickers	9/7/2001	2		LGE			
+Byaruhanga, Peter	Richmond Kickers	Indiana Blast	Richmond Kickers	9/7/2001	8		LGE			
+Feruzzi, Marco	Richmond Kickers	Indiana Blast	Richmond Kickers	9/7/2001	45		LGE			
+Giuffrida, Chris	Long Island Rough Riders	Toronto Lynx	Long Island Rough Riders	9/7/2001	90		LGE			
+Papandreou, George	Montreal Impact	Montreal Impact	Pittsburgh Riverhounds	9/7/2001	8		LGE	Biello, Mauro		
+Welton Melo	Pittsburgh Riverhounds	Montreal Impact	Pittsburgh Riverhounds	9/7/2001	61		LGE	Jones, John		
+Dougherty, Paul	Pittsburgh Riverhounds	Montreal Impact	Pittsburgh Riverhounds	9/7/2001	78		LGE	Flavius, David		
+Karn, Phil	Pittsburgh Riverhounds	Montreal Impact	Pittsburgh Riverhounds	9/7/2001	90		LGE	Flavius, David		
+Kopp, Drew	Hershey Wildcats	Hershey Wildcats	Connecticut Wolves	9/7/2001	23		LGE	Henning, Michael		
+Bernal, Steve	Milwaukee Rampage	Milwaukee Rampage	Vancouver Whitecaps	9/5/2001	13		LGE			
+Butcher, Steve	Milwaukee Rampage	Milwaukee Rampage	Vancouver Whitecaps	9/5/2001	28		LGE			
+Soso, Igor	Vancouver Whitecaps	Milwaukee Rampage	Vancouver Whitecaps	9/5/2001	10	Own Goal	LGE			
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Charleston Battery	9/5/2001	40		LGE	Finn, Sean		
+Jordan, Jason	Vancouver Whitecaps	Minnesota Thunder	Vancouver Whitecaps	9/3/2001	47		LGE	St. Louis, Terry		
+Lowey, Simon	Cincinnati Riverhawks	Cincinnati Riverhawks	Pittsburgh Riverhounds	9/3/2001	32		LGE	Pickup, Jon		
+Welton Melo	Pittsburgh Riverhounds	Cincinnati Riverhawks	Pittsburgh Riverhounds	9/3/2001	58		LGE	Flavius, David		
+Welton Melo	Pittsburgh Riverhounds	Cincinnati Riverhawks	Pittsburgh Riverhounds	9/3/2001	66		LGE	Terlecky, Nicholas		
+Tripoli, Jaman	Pittsburgh Riverhounds	Cincinnati Riverhawks	Pittsburgh Riverhounds	9/3/2001	24		LGE	Gutierrez, Henry		
+Alcaraz-Cuellar, Hugo	San Diego Flash	Indiana Blast	San Diego Flash	9/2/2001	4		LGE	Adair, Chugger		
+Alcaraz-Cuellar, Hugo	San Diego Flash	Indiana Blast	San Diego Flash	9/2/2001	34		LGE	Lee, Ryan		
+Luna, Miguel	San Diego Flash	Indiana Blast	San Diego Flash	9/2/2001	83		LGE	Bustos, Javier		
+Mora, Omar	El Paso Patriots	El Paso Patriots	Seattle Sounders	9/1/2001	20		LGE	Lomeli, Jose		
+Griego, Michael	El Paso Patriots	El Paso Patriots	Seattle Sounders	9/1/2001	89	Penalty	LGE			
+O'Brien, Leighton	Seattle Sounders	El Paso Patriots	Seattle Sounders	9/1/2001	59	Penalty	LGE			
+O'Brien, Leighton	Seattle Sounders	El Paso Patriots	Seattle Sounders	9/1/2001	70	Penalty	LGE			
+O'Brien, Leighton	Seattle Sounders	El Paso Patriots	Seattle Sounders	9/1/2001	80	Penalty	LGE			
+Houser, Jeff	Nashville Metros	Nashville Metros	Charlotte Eagles	9/1/2001	0		LGE			
+Adams, Dwayne	Nashville Metros	Nashville Metros	Charlotte Eagles	9/1/2001	109	Own Goal	LGE			
+Coggins, Jacob	Charlotte Eagles	Nashville Metros	Charlotte Eagles	9/1/2001	14		LGE			
+Jones, John	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Toronto Lynx	9/1/2001	36		LGE			
+Sponton, Waldo	Toronto Lynx	Pittsburgh Riverhounds	Toronto Lynx	9/1/2001	34		LGE			
+Mattacchione, Joe	Toronto Lynx	Pittsburgh Riverhounds	Toronto Lynx	9/1/2001	45		LGE			
+Roberto, Ze	Hershey Wildcats	Hershey Wildcats	Montreal Impact	9/1/2001	55		LGE	Miller, Doug		
+Miller, Doug	Hershey Wildcats	Hershey Wildcats	Montreal Impact	9/1/2001	63		LGE	Evans, Chad		
+Feniger, Michael	Hershey Wildcats	Hershey Wildcats	Montreal Impact	9/1/2001	84		LGE	Miller, Doug		
+Lowey, Simon	Cincinnati Riverhawks	Cincinnati Riverhawks	San Diego Flash	9/1/2001	6		LGE	Kaszuba, RJ		
+Kaszuba, RJ	Cincinnati Riverhawks	Cincinnati Riverhawks	San Diego Flash	9/1/2001	55		LGE	Matis, Marcel		
+Hetherington, Nate	San Diego Flash	Cincinnati Riverhawks	San Diego Flash	9/1/2001	38		LGE	Legg, Kevin		
+Bustos, Javier	San Diego Flash	Cincinnati Riverhawks	San Diego Flash	9/1/2001	40		LGE	Martins, Thiago		
+Martins, Thiago	San Diego Flash	Cincinnati Riverhawks	San Diego Flash	9/1/2001	45	Penalty	LGE			
+Legg, Kevin	San Diego Flash	Cincinnati Riverhawks	San Diego Flash	9/1/2001	83		LGE	Adair, Chugger		
+Morris, David	Vancouver Whitecaps	Vancouver Whitecaps	Milwaukee Rampage	8/31/2001	81		LGE	Kindel, Steve		
+Bobo, Matthew	Milwaukee Rampage	Vancouver Whitecaps	Milwaukee Rampage	8/31/2001	61		LGE	Hayes, David		
+Conway, Paul	Charleston Battery	Charleston Battery	Richmond Kickers	8/31/2001	57		LGE	Cozier, Mangea (Mac)		
+Howes, Gregory	Portland Timbers	Portland Timbers	Milwaukee Rampage	8/30/2001	33		LGE			
+Howes, Gregory	Portland Timbers	Portland Timbers	Milwaukee Rampage	8/30/2001	40		LGE			
+O'Neill, Michael	Portland Timbers	Portland Timbers	Milwaukee Rampage	8/30/2001	72		LGE			
+O'Neill, Michael	Portland Timbers	Portland Timbers	Milwaukee Rampage	8/30/2001	83	Penalty	LGE			
+Baena, Mark	Portland Timbers	Portland Timbers	Milwaukee Rampage	8/30/2001	7		LGE			
+Cooks, Judah	Milwaukee Rampage	Portland Timbers	Milwaukee Rampage	8/30/2001	10		LGE			
+Slivinski, Mike	Milwaukee Rampage	Portland Timbers	Milwaukee Rampage	8/30/2001	89		LGE			
+Ayim, Emmanuel	San Diego Flash	San Diego Flash	Seattle Sounders	8/29/2001	56		LGE	Martins, Thiago		
+Martins, Thiago	San Diego Flash	San Diego Flash	Seattle Sounders	8/29/2001	57		LGE	Hetherington, Nate		
+Hetherington, Nate	San Diego Flash	San Diego Flash	Seattle Sounders	8/29/2001	59		LGE	Ayim, Emmanuel		
+Kinoshita, Kei	Seattle Sounders	San Diego Flash	Seattle Sounders	8/29/2001	43		LGE	Farrell, Jason		
+Howes, Gregory	Portland Timbers	Portland Timbers	Charleston Battery	8/26/2001	6		LGE	Costigan, Keith		
+O'Neill, Michael	Portland Timbers	Portland Timbers	Charleston Battery	8/26/2001	25	Penalty	LGE			
+Oliviero, Giuliano	Montreal Impact	Montreal Impact	Long Island Rough Riders	8/26/2001	67		LGE			
+Ragusa, Joe	Long Island Rough Riders	Montreal Impact	Long Island Rough Riders	8/26/2001	12		LGE			
+Etienne, Derrick	Long Island Rough Riders	Montreal Impact	Long Island Rough Riders	8/26/2001	43		LGE			
+Fernandes, Fernando	Long Island Rough Riders	Montreal Impact	Long Island Rough Riders	8/26/2001	90	Penalty	LGE			
+Pillay, Dylin	Seattle Sounders	Seattle Sounders	Charlotte Eagles	8/25/2001	55		LGE			
+Jenkins, Scott	Seattle Sounders	Seattle Sounders	Charlotte Eagles	8/25/2001	92		LGE			
+Swinehart, Dustin	Charlotte Eagles	Seattle Sounders	Charlotte Eagles	8/25/2001	48		LGE			
+Woolfolk, Corey	Minnesota Thunder	Minnesota Thunder	El Paso Patriots	8/25/2001	64		LGE			
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Nashville Metros	8/25/2001	22		LGE	Parrish, Andy		
+Fundenberger, Matt	Indiana Blast	Indiana Blast	Nashville Metros	8/25/2001	89		LGE	McDermott, Andrew		
+Houser, Jeff	Nashville Metros	Indiana Blast	Nashville Metros	8/25/2001	2		LGE	Fenger-Larsen, Jakob		
+Fenger-Larsen, Jakob	Nashville Metros	Indiana Blast	Nashville Metros	8/25/2001	32		LGE	Houser, Jeff		
+Bailey, Jaymison (Jaymi)	Nashville Metros	Indiana Blast	Nashville Metros	8/25/2001	78		LGE			
+Feniger, Michael	Hershey Wildcats	Hershey Wildcats	Cincinnati Riverhawks	8/25/2001	59		LGE	Radovic, Aleksandar		
+Sebrango, Eduardo	Hershey Wildcats	Hershey Wildcats	Cincinnati Riverhawks	8/25/2001	49		LGE	Roberto, Ze		
+Swords, Kyle	Hershey Wildcats	Hershey Wildcats	Cincinnati Riverhawks	8/25/2001	71		LGE	Sebrango, Eduardo		
+Bokole, Bonyoko (Bobo)	Cincinnati Riverhawks	Hershey Wildcats	Cincinnati Riverhawks	8/25/2001	62		LGE	Giacobbone, Alessio		
+Baena, Mark	Portland Timbers	Portland Timbers	Charlotte Eagles	8/24/2001	19		LGE	Howes, Gregory		
+Baena, Mark	Portland Timbers	Portland Timbers	Charlotte Eagles	8/24/2001	69		LGE	O'Neill, Michael		
+Wilkinson, Gavin	Portland Timbers	Portland Timbers	Charlotte Eagles	8/24/2001	66		LGE	Howes, Gregory		
+Gajardo-San Martin, Leonardo	Charlotte Eagles	Portland Timbers	Charlotte Eagles	8/24/2001	67		LGE	Galeano, Hugo		
+Gajardo-San Martin, Leonardo	Charlotte Eagles	Portland Timbers	Charlotte Eagles	8/24/2001	79		LGE			
+Swinehart, Dustin	Charlotte Eagles	Portland Timbers	Charlotte Eagles	8/24/2001	73		LGE			
+Sulentic, John	Vancouver Whitecaps	Vancouver Whitecaps	Charleston Battery	8/24/2001	39		LGE			
+Sulentic, John	Vancouver Whitecaps	Vancouver Whitecaps	Charleston Battery	8/24/2001	55		LGE			
+Valente, Alfredo	Vancouver Whitecaps	Vancouver Whitecaps	Charleston Battery	8/24/2001	30		LGE			
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	8/24/2001	51		LGE			
+Zavala, Carlos	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	8/24/2001	58		LGE			
+Bankov, Kalin	Toronto Lynx	Rochester Rhinos	Toronto Lynx	8/24/2001	73	Own Goal	LGE			
+Vaughn, Myron	Cincinnati Riverhawks	Pittsburgh Riverhounds	Cincinnati Riverhawks	8/24/2001	25		LGE	Pickup, Jon		
+Clarke, Jeff	Portland Timbers	Portland Timbers	Minnesota Thunder	8/22/2001	21		LGE			
+Clarke, Jeff	Portland Timbers	Portland Timbers	Minnesota Thunder	8/22/2001	98		LGE			
+Armas, Anibal (Steve)	Minnesota Thunder	Portland Timbers	Minnesota Thunder	8/22/2001	28		LGE			
+Henderson, Sean	Seattle Sounders	Seattle Sounders	Minnesota Thunder	8/20/2001	5		LGE	Nguyen, Viet		
+Barton, Kieron	Seattle Sounders	Seattle Sounders	Minnesota Thunder	8/20/2001	35		LGE	Farrell, Jason		
+Woolfolk, Corey	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/20/2001	14		LGE	Gentile, Mike		
+Woolfolk, Corey	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/20/2001	75		LGE	Menyongar, Johnny		
+Menyongar, Johnny	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/20/2001	15		LGE	Woolfolk, Corey		
+Lagos, Gerard	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/20/2001	29		LGE	Schulte, Mark		
+Zeba, Morgan	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	8/20/2001	50		LGE	Gramenz, Don		
+Papandreou, George	Montreal Impact	Montreal Impact	Rochester Rhinos	8/19/2001	51		LGE	Bernier, Patrice		
+Papandreou, George	Montreal Impact	Montreal Impact	Rochester Rhinos	8/19/2001	84		LGE	Tsironis, Kosta		
+Hetherington, Nate	San Diego Flash	San Diego Flash	Vancouver Whitecaps	8/18/2001	75		LGE	Martins, Thiago		
+Hetherington, Nate	San Diego Flash	San Diego Flash	Vancouver Whitecaps	8/18/2001	98		LGE	Alcaraz-Cuellar, Hugo		
+Calderson, Carlos	San Diego Flash	San Diego Flash	Vancouver Whitecaps	8/18/2001	49		LGE			
+Jordan, Jason	Vancouver Whitecaps	San Diego Flash	Vancouver Whitecaps	8/18/2001	8		LGE			
+Holness, Kevin	Vancouver Whitecaps	San Diego Flash	Vancouver Whitecaps	8/18/2001	86		LGE			
+Wright, Brandon	Nashville Metros	Nashville Metros	Indiana Blast	8/18/2001	55		LGE			
+Dominguez, Jeff	Nashville Metros	Nashville Metros	Indiana Blast	8/18/2001	90		LGE			
+Baah, Peter	Indiana Blast	Nashville Metros	Indiana Blast	8/18/2001	41		LGE			
+Manganello, Mark	Connecticut Wolves	Connecticut Wolves	Milwaukee Rampage	8/18/2001	30		LGE	Pogue, Eric		
+Dancy, Jake	Connecticut Wolves	Connecticut Wolves	Milwaukee Rampage	8/18/2001	31		LGE			
+Butcher, Steve	Milwaukee Rampage	Connecticut Wolves	Milwaukee Rampage	8/18/2001	87		LGE			
+Johnson, Benjamin	Charlotte Eagles	Charlotte Eagles	Richmond Kickers	8/18/2001	41		LGE			
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Richmond Kickers	8/18/2001	81		LGE	Johnson, Jeff		
+Jeffrey, Kevin	Richmond Kickers	Charlotte Eagles	Richmond Kickers	8/18/2001	52	Penalty	LGE			
+Rodriguez, Esmundo	El Paso Patriots	El Paso Patriots	Vancouver Whitecaps	8/17/2001	62		LGE			
+Griego, Michael	El Paso Patriots	El Paso Patriots	Vancouver Whitecaps	8/17/2001	79	Penalty	LGE			
+Kindel, Steve	Vancouver Whitecaps	El Paso Patriots	Vancouver Whitecaps	8/17/2001	15		LGE	Holness, Kevin		
+Kindel, Steve	Vancouver Whitecaps	El Paso Patriots	Vancouver Whitecaps	8/17/2001	58		LGE	Morris, David		
+Skinner, Jeff	Vancouver Whitecaps	El Paso Patriots	Vancouver Whitecaps	8/17/2001	27		LGE	Kindel, Steve		
+Steenkamp, Lenin	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Rochester Rhinos	8/17/2001	33	Own Goal	LGE			
+Roberts, JT	Cincinnati Riverhawks	Cincinnati Riverhawks	Nashville Metros	8/17/2001	31		LGE	Vaughn, Myron		
+Cain, Russell	Nashville Metros	Cincinnati Riverhawks	Nashville Metros	8/17/2001	6		LGE	Wall, James		
+Houser, Jeff	Nashville Metros	Cincinnati Riverhawks	Nashville Metros	8/17/2001	10		LGE	Fenger-Larsen, Jakob		
+Papandreou, George	Montreal Impact	Montreal Impact	Seattle Sounders	8/12/2001	10		LGE			
+Biello, Mauro	Montreal Impact	Montreal Impact	Seattle Sounders	8/12/2001	108		LGE			
+Ching, Brian	Seattle Sounders	Montreal Impact	Seattle Sounders	8/12/2001	38		LGE			
+Kaszuba, RJ	Cincinnati Riverhawks	Cincinnati Riverhawks	Charlotte Eagles	8/12/2001	35		LGE	Giacobbone, Alessio		
+Norkus, Caleb	Charlotte Eagles	Cincinnati Riverhawks	Charlotte Eagles	8/12/2001	17		LGE	Sorzano, Jeremy		
+Swinehart, Dustin	Charlotte Eagles	Cincinnati Riverhawks	Charlotte Eagles	8/12/2001	18		LGE	Norkus, Caleb		
+Gajardo-San Martin, Leonardo	Charlotte Eagles	Cincinnati Riverhawks	Charlotte Eagles	8/12/2001	83	Penalty	LGE			
+Pinch, Mark	Charlotte Eagles	Cincinnati Riverhawks	Charlotte Eagles	8/12/2001	88		LGE	Johnson, Jeff		
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Seattle Sounders	8/11/2001	34		LGE			
+Wilson, Kirk	Rochester Rhinos	Rochester Rhinos	Seattle Sounders	8/11/2001	56		LGE			
+Ching, Brian	Seattle Sounders	Rochester Rhinos	Seattle Sounders	8/11/2001	80		LGE			
+Rowland, Mark	El Paso Patriots	El Paso Patriots	Minnesota Thunder	8/11/2001	70		LGE	Griego, Michael		
+Nowak, Paul	Minnesota Thunder	El Paso Patriots	Minnesota Thunder	8/11/2001	90		LGE	Menyongar, Johnny		
+Lindenmayer, Christof	Hershey Wildcats	Hershey Wildcats	Long Island Rough Riders	8/11/2001	43		LGE			
+Kvello, Eric	Hershey Wildcats	Hershey Wildcats	Long Island Rough Riders	8/11/2001	62		LGE	Lindenmayer, Christof		
+Kvello, Eric	Hershey Wildcats	Hershey Wildcats	Long Island Rough Riders	8/11/2001	48		LGE	Henning, Michael		
+Green, Michael	Pittsburgh Riverhounds	Connecticut Wolves	Pittsburgh Riverhounds	8/11/2001	7		LGE			
+Flavius, David	Pittsburgh Riverhounds	Connecticut Wolves	Pittsburgh Riverhounds	8/11/2001	31		LGE			
+Welton Melo	Pittsburgh Riverhounds	Connecticut Wolves	Pittsburgh Riverhounds	8/11/2001	55		LGE			
+Johnson, Brian	Pittsburgh Riverhounds	Connecticut Wolves	Pittsburgh Riverhounds	8/11/2001	70		LGE			
+Karn, Phil	Pittsburgh Riverhounds	Connecticut Wolves	Pittsburgh Riverhounds	8/11/2001	89		LGE			
+Henderson, Joshua	Richmond Kickers	Richmond Kickers	Toronto Lynx	8/11/2001	44		LGE			
+Reda, Marco	Richmond Kickers	Richmond Kickers	Toronto Lynx	8/11/2001	52	Own Goal	LGE			
+Adu-Gyamfi, Kwaku	Richmond Kickers	Richmond Kickers	Toronto Lynx	8/11/2001	87		LGE			
+Mason, Caswain	Toronto Lynx	Richmond Kickers	Toronto Lynx	8/11/2001	42		LGE			
+Cooks, Judah	Milwaukee Rampage	Milwaukee Rampage	Nashville Metros	8/11/2001	51		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Nashville Metros	8/11/2001	70		LGE			
+Russell, Jason	Milwaukee Rampage	Milwaukee Rampage	Nashville Metros	8/11/2001	72		LGE			
+Butcher, Steve	Milwaukee Rampage	Milwaukee Rampage	Nashville Metros	8/11/2001	82		LGE			
+Legg, Kevin	San Diego Flash	San Diego Flash	Minnesota Thunder	8/10/2001	34		LGE			
+Hetherington, Nate	San Diego Flash	San Diego Flash	Minnesota Thunder	8/10/2001	60		LGE			
+Woolfolk, Corey	Minnesota Thunder	San Diego Flash	Minnesota Thunder	8/10/2001	69		LGE			
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	8/10/2001	13		LGE			
+Morris, David	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	8/10/2001	69		LGE			
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	8/10/2001	89		LGE			
+Howes, Gregory	Portland Timbers	Vancouver Whitecaps	Portland Timbers	8/10/2001	29		LGE			
+McDermott, Andrew	Indiana Blast	Indiana Blast	Charlotte Eagles	8/10/2001	8		LGE			
+Weiger, Steve	Indiana Blast	Indiana Blast	Charlotte Eagles	8/10/2001	61		LGE			
+Gomez, Jose	Charlotte Eagles	Indiana Blast	Charlotte Eagles	8/10/2001	51		LGE			
+Swinehart, Dustin	Charlotte Eagles	Indiana Blast	Charlotte Eagles	8/10/2001	72		LGE			
+Norkus, Caleb	Charlotte Eagles	Indiana Blast	Charlotte Eagles	8/10/2001	90		LGE			
+Ball, John	Charleston Battery	Charleston Battery	Toronto Lynx	8/10/2001	32		LGE			
+Conway, Paul	Charleston Battery	Charleston Battery	Toronto Lynx	8/10/2001	105		LGE			
+Messam, Gregory	Toronto Lynx	Charleston Battery	Toronto Lynx	8/10/2001	90		LGE			
+Biello, Mauro	Montreal Impact	Montreal Impact	Rochester Rhinos	8/8/2001	0		LGE			
+Biello, Mauro	Montreal Impact	Montreal Impact	Rochester Rhinos	8/8/2001	0		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	8/8/2001	51		LGE			
+Butcher, Steve	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	8/8/2001	63		LGE			
+Edwards, Ryan	Milwaukee Rampage	Milwaukee Rampage	Seattle Sounders	8/8/2001	68	Own Goal	LGE			
+Mitchell, Jamel	Rochester Rhinos	Rochester Rhinos	Portland Timbers	8/5/2001	95		LGE			
+Butcher, Steve	Milwaukee Rampage	Milwaukee Rampage	San Diego Flash	8/5/2001	38		LGE			
+Butcher, Steve	Milwaukee Rampage	Milwaukee Rampage	San Diego Flash	8/5/2001	69		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	San Diego Flash	8/5/2001	60		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	San Diego Flash	8/5/2001	88		LGE			
+Godoy, Philippe	Milwaukee Rampage	Milwaukee Rampage	San Diego Flash	8/5/2001	25		LGE			
+Bustos, Javier	San Diego Flash	Milwaukee Rampage	San Diego Flash	8/5/2001	76	Penalty	LGE			
+Bustos, Javier	San Diego Flash	Milwaukee Rampage	San Diego Flash	8/5/2001	78		LGE			
+Watson, Jerome	San Diego Flash	Milwaukee Rampage	San Diego Flash	8/5/2001	42		LGE			
+Papandreou, George	Montreal Impact	Montreal Impact	Toronto Lynx	8/5/2001	67		LGE			
+Borsellino, Gaspare	Montreal Impact	Montreal Impact	Toronto Lynx	8/5/2001	82		LGE			
+Bernier, Patrice	Montreal Impact	Montreal Impact	Toronto Lynx	8/5/2001	84		LGE			
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	El Paso Patriots	8/5/2001	27		LGE			
+Kinoshita, Kei	Seattle Sounders	Seattle Sounders	El Paso Patriots	8/5/2001	89		LGE			
+Rowland, Mark	El Paso Patriots	Seattle Sounders	El Paso Patriots	8/5/2001	35		LGE			
+Conway, Paul	Charleston Battery	Nashville Metros	Charleston Battery	8/4/2001	44		LGE			
+Ball, John	Charleston Battery	Nashville Metros	Charleston Battery	8/4/2001	47		LGE			
+Cozier, Mangea (Mac)	Charleston Battery	Nashville Metros	Charleston Battery	8/4/2001	51		LGE			
+Leon-Penaranda, Daniel	Long Island Rough Riders	Long Island Rough Riders	Pittsburgh Riverhounds	8/4/2001	27	Penalty	LGE			
+Dougherty, Paul	Pittsburgh Riverhounds	Long Island Rough Riders	Pittsburgh Riverhounds	8/4/2001	43		LGE			
+Dougherty, Paul	Pittsburgh Riverhounds	Long Island Rough Riders	Pittsburgh Riverhounds	8/4/2001	65		LGE			
+Jones, John	Pittsburgh Riverhounds	Long Island Rough Riders	Pittsburgh Riverhounds	8/4/2001	41		LGE			
+Flavius, David	Pittsburgh Riverhounds	Long Island Rough Riders	Pittsburgh Riverhounds	8/4/2001	54		LGE			
+Norkus, Caleb	Charlotte Eagles	Charlotte Eagles	Indiana Blast	8/4/2001	1		LGE			
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Indiana Blast	8/4/2001	46		LGE			
+Tenoff, Godfrey	Indiana Blast	Charlotte Eagles	Indiana Blast	8/4/2001	16		LGE			
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	El Paso Patriots	8/3/2001	47		LGE			
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	El Paso Patriots	8/3/2001	66		LGE			
+Schulte, Mark	Minnesota Thunder	Minnesota Thunder	San Diego Flash	8/3/2001	51		LGE			
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Hershey Wildcats	8/3/2001	38		LGE			
+Leib, Ryan	Charlotte Eagles	Charlotte Eagles	Cincinnati Riverhawks	8/3/2001	67	Penalty	LGE			
+Leib, Ryan	Charlotte Eagles	Charlotte Eagles	Cincinnati Riverhawks	8/3/2001	79		LGE			
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Cincinnati Riverhawks	8/3/2001	26		LGE			
+Watkins, Nathan	Charlotte Eagles	Charlotte Eagles	Cincinnati Riverhawks	8/3/2001	60		LGE			
+Galeano, Hugo	Charlotte Eagles	Charlotte Eagles	Cincinnati Riverhawks	8/3/2001	69		LGE			
+Kaszuba, RJ	Cincinnati Riverhawks	Charlotte Eagles	Cincinnati Riverhawks	8/3/2001	9		LGE			
+Arango, Juan Pablo	Toronto Lynx	Toronto Lynx	Portland Timbers	8/3/2001	26		LGE			
+Arango, Juan Pablo	Toronto Lynx	Toronto Lynx	Portland Timbers	8/3/2001	41		LGE			
+Sponton, Waldo	Toronto Lynx	Toronto Lynx	Portland Timbers	8/3/2001	39		LGE			
+Henderson, Joshua	Richmond Kickers	Richmond Kickers	Indiana Blast	8/3/2001	13		LGE			
+Williams, Tony	Richmond Kickers	Richmond Kickers	Indiana Blast	8/3/2001	23		LGE			
+Feruzzi, Marco	Richmond Kickers	Richmond Kickers	Indiana Blast	8/3/2001	66		LGE			
+McDermott, Andrew	Indiana Blast	Richmond Kickers	Indiana Blast	8/3/2001	90	Penalty	LGE			
+Aristodemo, Robbie	Toronto Lynx	Toronto Lynx	Pittsburgh Riverhounds	8/2/2001	45		LGE			
+Ashton, Brian	Toronto Lynx	Toronto Lynx	Pittsburgh Riverhounds	8/2/2001	74		LGE			
+Flavius, David	Pittsburgh Riverhounds	Toronto Lynx	Pittsburgh Riverhounds	8/2/2001	15		LGE			
+Rowland, Mark	El Paso Patriots	Seattle Sounders	El Paso Patriots	8/1/2001	35		LGE			
+Houser, Jeff	Nashville Metros	Nashville Metros	Atlanta Silverbacks	8/1/2001	13		LGE			
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	Richmond Kickers	7/29/2001	14		LGE			
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	Richmond Kickers	7/29/2001	78		LGE			
+Morris, David	Vancouver Whitecaps	Vancouver Whitecaps	Richmond Kickers	7/29/2001	93		LGE			
+Henderson, Joshua	Richmond Kickers	Vancouver Whitecaps	Richmond Kickers	7/29/2001	28		LGE			
+Jeffrey, Kevin	Richmond Kickers	Vancouver Whitecaps	Richmond Kickers	7/29/2001	46		LGE			
+Fenger-Larsen, Jakob	Nashville Metros	Nashville Metros	Cincinnati Riverhawks	7/29/2001	13		LGE	Maier, Andreas		
+Fenger-Larsen, Jakob	Nashville Metros	Nashville Metros	Cincinnati Riverhawks	7/29/2001	45		LGE	Bailey, Jaymison (Jaymi)		
+Fenger-Larsen, Jakob	Nashville Metros	Nashville Metros	Cincinnati Riverhawks	7/29/2001	53		LGE	Houser, Jeff		
+Houser, Jeff	Nashville Metros	Nashville Metros	Cincinnati Riverhawks	7/29/2001	18		LGE	Bailey, Jaymison (Jaymi)		
+Valencia, Gabriel	Nashville Metros	Nashville Metros	Cincinnati Riverhawks	7/29/2001	69		LGE	Bailey, Jaymison (Jaymi)		
+Rockey, Shawn	Cincinnati Riverhawks	Nashville Metros	Cincinnati Riverhawks	7/29/2001	12		LGE			
+Kaszuba, RJ	Cincinnati Riverhawks	Nashville Metros	Cincinnati Riverhawks	7/29/2001	73		LGE			
+Farrell, Jason	Seattle Sounders	Seattle Sounders	Richmond Kickers	7/28/2001	18		LGE			
+Farrell, Jason	Seattle Sounders	Seattle Sounders	Richmond Kickers	7/28/2001	71		LGE			
+Tomlinson, Craig	Seattle Sounders	Seattle Sounders	Richmond Kickers	7/28/2001	3		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Portland Timbers	7/28/2001	27		LGE			
+Soso, Igor	Milwaukee Rampage	Milwaukee Rampage	Portland Timbers	7/28/2001	77		LGE			
+Howes, Gregory	Portland Timbers	Milwaukee Rampage	Portland Timbers	7/28/2001	110		LGE			
+Tolstolutsky, Vadim	Portland Timbers	Milwaukee Rampage	Portland Timbers	7/28/2001	35		LGE			
+Clarke, Jeff	Portland Timbers	Milwaukee Rampage	Portland Timbers	7/28/2001	90		LGE			
+Garry, Benjamin	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Rochester Rhinos	7/28/2001	9		LGE			
+Jones, John	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Rochester Rhinos	7/28/2001	78		LGE			
+Welton Melo	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Rochester Rhinos	7/28/2001	81		LGE			
+Mladenov, Stoian	Rochester Rhinos	Pittsburgh Riverhounds	Rochester Rhinos	7/28/2001	8	Penalty	LGE			
+Mladenov, Stoian	Rochester Rhinos	Pittsburgh Riverhounds	Rochester Rhinos	7/28/2001	68		LGE			
+Steenkamp, Lenin	Rochester Rhinos	Pittsburgh Riverhounds	Rochester Rhinos	7/28/2001	78		LGE			
+Mitchell, Jamel	Rochester Rhinos	Pittsburgh Riverhounds	Rochester Rhinos	7/28/2001	98		LGE			
+Zuniga, Fabio	Connecticut Wolves	Connecticut Wolves	Montreal Impact	7/28/2001	15		LGE	Graham, Ray		
+Biello, Mauro	Montreal Impact	Connecticut Wolves	Montreal Impact	7/28/2001	45		LGE	Placentino, Rocco		
+Kolic, Darko	Montreal Impact	Connecticut Wolves	Montreal Impact	7/28/2001	96		LGE	Bernier, Patrice		
+Martinez, Carlos	El Paso Patriots	El Paso Patriots	Hershey Wildcats	7/27/2001	30		LGE			
+Mora, Omar	El Paso Patriots	El Paso Patriots	Hershey Wildcats	7/27/2001	96		LGE			
+Sebrango, Eduardo	Hershey Wildcats	El Paso Patriots	Hershey Wildcats	7/27/2001	22		LGE			
+Zeba, Morgan	Minnesota Thunder	Minnesota Thunder	Portland Timbers	7/27/2001	31	Penalty	LGE			
+Magee, Amos	Minnesota Thunder	Minnesota Thunder	Portland Timbers	7/27/2001	99		LGE			
+Baena, Mark	Portland Timbers	Minnesota Thunder	Portland Timbers	7/27/2001	22		LGE			
+Fundenberger, Matt	Indiana Blast	Indiana Blast	Charlotte Eagles	7/27/2001	67		LGE			
+Fenger-Larsen, Jakob	Nashville Metros	Nashville Metros	Long Island Rough Riders	7/27/2001	3		LGE			
+Fenger-Larsen, Jakob	Nashville Metros	Nashville Metros	Long Island Rough Riders	7/27/2001	40		LGE			
+Fernandes, Fernando	Long Island Rough Riders	Nashville Metros	Long Island Rough Riders	7/27/2001	47		LGE			
+Mladenov, Stoian	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	7/27/2001	13		LGE			
+Mladenov, Stoian	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	7/27/2001	81		LGE			
+Castma, Joenal	Pittsburgh Riverhounds	Rochester Rhinos	Pittsburgh Riverhounds	7/27/2001	44		LGE			
+Terlecky, Nicholas	Pittsburgh Riverhounds	Rochester Rhinos	Pittsburgh Riverhounds	7/27/2001	68		LGE			
+Gervais, Gabriel	Rochester Rhinos	Rochester Rhinos	Montreal Impact	7/25/2001	58		LGE			
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Montreal Impact	7/25/2001	75		LGE			
+Kojic, Milan	Montreal Impact	Rochester Rhinos	Montreal Impact	7/25/2001	65		LGE			
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Cincinnati Riverhawks	7/22/2001	25		LGE			
+Adu-Gyamfi, Kwaku	Richmond Kickers	Richmond Kickers	Cincinnati Riverhawks	7/22/2001	67		LGE			
+Henderson, Joshua	Richmond Kickers	Richmond Kickers	Cincinnati Riverhawks	7/22/2001	90		LGE			
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	San Diego Flash	7/22/2001	1		LGE			
+St. Louis, Terry	Vancouver Whitecaps	Vancouver Whitecaps	San Diego Flash	7/22/2001	73		LGE			
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	San Diego Flash	7/22/2001	83		LGE			
+Gentile, Mike	Minnesota Thunder	Minnesota Thunder	Milwaukee Rampage	7/21/2001	28		LGE			
+Ching, Brian	Seattle Sounders	Portland Timbers	Seattle Sounders	7/21/2001	7		LGE			
+Coggins, Jacob	Charlotte Eagles	Charlotte Eagles	Indiana Blast	7/21/2001	25		LGE			
+Coggins, Jacob	Charlotte Eagles	Charlotte Eagles	Indiana Blast	7/21/2001	52		LGE			
+Gajardo-San Martin, Leonardo	Charlotte Eagles	Charlotte Eagles	Indiana Blast	7/21/2001	90		LGE			
+McDermott, Andrew	Indiana Blast	Charlotte Eagles	Indiana Blast	7/21/2001	34		LGE			
+Prosser, James	Indiana Blast	Charlotte Eagles	Indiana Blast	7/21/2001	72		LGE			
+DePalma, Gary	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Montreal Impact	7/21/2001	67	Penalty	LGE			
+DePalma, Gary	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Montreal Impact	7/21/2001	73		LGE			
+Flavius, David	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Montreal Impact	7/21/2001	10		LGE			
+Iribarren, Ricardo	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Montreal Impact	7/21/2001	51		LGE			
+Apple, Michael	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Montreal Impact	7/21/2001	90		LGE			
+Placentino, Rocco	Montreal Impact	Pittsburgh Riverhounds	Montreal Impact	7/21/2001	12		LGE			
+Thompson, Niall	Montreal Impact	Pittsburgh Riverhounds	Montreal Impact	7/21/2001	34	Penalty	LGE			
+Arango, Juan Pablo	Toronto Lynx	Toronto Lynx	Long Island Rough Riders	7/21/2001	28		LGE			
+Ayim, Emmanuel	San Diego Flash	San Diego Flash	El Paso Patriots	7/20/2001	85		LGE			
+O'Connor, Brian	San Diego Flash	San Diego Flash	El Paso Patriots	7/20/2001	88		LGE			
+Lomeli, Jose	El Paso Patriots	San Diego Flash	El Paso Patriots	7/20/2001	24		LGE			
+Rowland, Mark	El Paso Patriots	San Diego Flash	El Paso Patriots	7/20/2001	42		LGE			
+Bailey, Jaymison (Jaymi)	Nashville Metros	Nashville Metros	Connecticut Wolves	7/20/2001	69		LGE			
+Fenger-Larsen, Jakob	Nashville Metros	Nashville Metros	Connecticut Wolves	7/20/2001	84		LGE			
+Suarez, Temoc	Connecticut Wolves	Nashville Metros	Connecticut Wolves	7/20/2001	26		LGE			
+Nash, Martin	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	7/20/2001	3		LGE			
+Sedgewick, Bill	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	7/20/2001	9		LGE			
+Mladenov, Stoian	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	7/20/2001	24		LGE			
+Annan, Dan	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	7/20/2001	37		LGE			
+Gervais, Gabriel	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	7/20/2001	66		LGE			
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Long Island Rough Riders	7/20/2001	81		LGE			
+Weinstein, Cordt	Long Island Rough Riders	Rochester Rhinos	Long Island Rough Riders	7/20/2001	3		LGE			
+Weinstein, Cordt	Long Island Rough Riders	Rochester Rhinos	Long Island Rough Riders	7/20/2001	47		LGE			
+Sebrango, Eduardo	Hershey Wildcats	Hershey Wildcats	Montreal Impact	7/20/2001	40		LGE			
+Ukrop, Rob	Richmond Kickers	Richmond Kickers	Cincinnati Riverhawks	7/18/2001	17		LGE			
+Ukrop, Rob	Richmond Kickers	Richmond Kickers	Cincinnati Riverhawks	7/18/2001	75		LGE			
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Cincinnati Riverhawks	7/18/2001	3		LGE			
+Lowey, Simon	Cincinnati Riverhawks	Richmond Kickers	Cincinnati Riverhawks	7/18/2001	32		LGE			
+Roberts, JT	Cincinnati Riverhawks	Richmond Kickers	Cincinnati Riverhawks	7/18/2001	45		LGE			
+Manganello, Mark	Connecticut Wolves	Connecticut Wolves	Toronto Lynx	7/17/2001	52		LGE			
+Ashton, Brian	Toronto Lynx	Connecticut Wolves	Toronto Lynx	7/17/2001	80		LGE			
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	7/15/2001	16		LGE			
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	7/15/2001	42		LGE			
+Heald, Oliver	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	7/15/2001	56	Penalty	LGE			
+Sulentic, John	Vancouver Whitecaps	Vancouver Whitecaps	Portland Timbers	7/15/2001	88		LGE			
+Armas, Anibal (Steve)	Minnesota Thunder	Minnesota Thunder	Nashville Metros	7/15/2001	79		LGE			
+Woolfolk, Corey	Minnesota Thunder	Minnesota Thunder	Nashville Metros	7/15/2001	84		LGE			
+Lagos, Gerard	Minnesota Thunder	Minnesota Thunder	Nashville Metros	7/15/2001	90		LGE			
+Houser, Jeff	Nashville Metros	Minnesota Thunder	Nashville Metros	7/15/2001	31		LGE			
+Houser, Jeff	Nashville Metros	Minnesota Thunder	Nashville Metros	7/15/2001	39		LGE			
+Sebrango, Eduardo	Hershey Wildcats	Montreal Impact	Hershey Wildcats	7/15/2001	20		LGE			
+Klein, Stephen	Hershey Wildcats	Montreal Impact	Hershey Wildcats	7/15/2001	75		LGE			
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Vancouver Whitecaps	7/14/2001	78		LGE			
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Vancouver Whitecaps	7/14/2001	90		LGE			
+Rowland, Mark	El Paso Patriots	El Paso Patriots	Vancouver Whitecaps	7/14/2001	18		LGE			
+Morris, David	Vancouver Whitecaps	El Paso Patriots	Vancouver Whitecaps	7/14/2001	64		LGE	Jordan, Jason		
+Titus, Rick	Vancouver Whitecaps	El Paso Patriots	Vancouver Whitecaps	7/14/2001	84		LGE	Morris, David		
+Mladenov, Stoian	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	7/14/2001	22		LGE			
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Toronto Lynx	7/14/2001	100		LGE			
+Ashton, Brian	Toronto Lynx	Rochester Rhinos	Toronto Lynx	7/14/2001	36		LGE			
+Griffiths, Winston	Connecticut Wolves	Pittsburgh Riverhounds	Connecticut Wolves	7/14/2001	30		LGE			
+Sewell, Dean	Connecticut Wolves	Pittsburgh Riverhounds	Connecticut Wolves	7/14/2001	80		LGE			
+Parra, (Juan) Carlos	Atlanta Silverbacks	Minnesota Thunder	Atlanta Silverbacks	7/13/2001	55		LGE			
+Walker, Ryan	Atlanta Silverbacks	Minnesota Thunder	Atlanta Silverbacks	7/13/2001	56		LGE			
+Schmitt, Carl	Nashville Metros	Nashville Metros	Charlotte Eagles	7/13/2001	0		LGE			
+Houser, Jeff	Nashville Metros	Nashville Metros	Charlotte Eagles	7/13/2001	95		LGE			
+Gomez, Jose	Charlotte Eagles	Nashville Metros	Charlotte Eagles	7/13/2001	52		LGE			
+Roberts, JT	Cincinnati Riverhawks	Cincinnati Riverhawks	Indiana Blast	7/13/2001	4		LGE			
+McDermott, Andrew	Indiana Blast	Cincinnati Riverhawks	Indiana Blast	7/13/2001	6		LGE	Costa, Rodrigo		
+Tenoff, Godfrey	Indiana Blast	Cincinnati Riverhawks	Indiana Blast	7/13/2001	70		LGE			
+Cozier, Mangea (Mac)	Charleston Battery	Charleston Battery	Richmond Kickers	7/13/2001	87		LGE			
+Jeffrey, Kevin	Richmond Kickers	Charleston Battery	Richmond Kickers	7/13/2001	61		LGE			
+Williams, Tony	Richmond Kickers	Charleston Battery	Richmond Kickers	7/13/2001	67		LGE			
+Arango, Juan Pablo	Toronto Lynx	Toronto Lynx	Hershey Wildcats	7/13/2001	2		LGE			
+Watkins, Shane	Long Island Rough Riders	Long Island Rough Riders	Hershey Wildcats	7/10/2001	13		LGE			
+Butler, Michael	Long Island Rough Riders	Long Island Rough Riders	Hershey Wildcats	7/10/2001	60		LGE			
+Fernandes, Fernando	Long Island Rough Riders	Long Island Rough Riders	Hershey Wildcats	7/10/2001	76		LGE			
+Kvello, Eric	Hershey Wildcats	Long Island Rough Riders	Hershey Wildcats	7/10/2001	86		LGE			
+Kvello, Eric	Hershey Wildcats	Long Island Rough Riders	Hershey Wildcats	7/10/2001	89		LGE			
+Chrisanthon, Nicholas	Hershey Wildcats	Long Island Rough Riders	Hershey Wildcats	7/10/2001	29	Penalty	LGE			
+O'Neill, Michael	Portland Timbers	Portland Timbers	Milwaukee Rampage	7/9/2001	21		LGE			
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Milwaukee Rampage	7/8/2001	21		LGE			
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Milwaukee Rampage	7/8/2001	72		LGE			
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Seattle Sounders	Milwaukee Rampage	7/8/2001	60		LGE			
+Suarez, Temoc	Connecticut Wolves	Long Island Rough Riders	Connecticut Wolves	7/8/2001	51	Penalty	LGE			
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Rochester Rhinos	7/8/2001	78		LGE			
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Rochester Rhinos	7/8/2001	96		LGE			
+Wilson, Kirk	Rochester Rhinos	Richmond Kickers	Rochester Rhinos	7/8/2001	57		LGE			
+Sebrango, Eduardo	Hershey Wildcats	Hershey Wildcats	Toronto Lynx	7/8/2001	0		LGE			
+Sebrango, Eduardo	Hershey Wildcats	Hershey Wildcats	Toronto Lynx	7/8/2001	0		LGE			
+Mucino, Michael	Cincinnati Riverhawks	Cincinnati Riverhawks	El Paso Patriots	7/8/2001	4		LGE	Roberts, JT		
+Lowey, Simon	Cincinnati Riverhawks	Cincinnati Riverhawks	El Paso Patriots	7/8/2001	44		LGE	Pickup, Jon		
+Macias, Luis Antonio	El Paso Patriots	Cincinnati Riverhawks	El Paso Patriots	7/8/2001	11		LGE	Lomeli, Jose		
+Macias, Luis Antonio	El Paso Patriots	Cincinnati Riverhawks	El Paso Patriots	7/8/2001	48		LGE	Rowland, Mark		
+Macias, Luis Antonio	El Paso Patriots	Cincinnati Riverhawks	El Paso Patriots	7/8/2001	59		LGE	Rowland, Mark		
+Macias, Luis Antonio	El Paso Patriots	Cincinnati Riverhawks	El Paso Patriots	7/8/2001	70		LGE	Pratt, Justin		
+Macias, Luis Antonio	El Paso Patriots	Cincinnati Riverhawks	El Paso Patriots	7/8/2001	83		LGE	Rowland, Mark		
+Mora, Omar	El Paso Patriots	Cincinnati Riverhawks	El Paso Patriots	7/8/2001	36		LGE	Griego, Michael		
+Mora, Omar	El Paso Patriots	Cincinnati Riverhawks	El Paso Patriots	7/8/2001	45		LGE			
+Rowland, Mark	El Paso Patriots	Cincinnati Riverhawks	El Paso Patriots	7/8/2001	89		LGE			
+Kindel, Steve	Vancouver Whitecaps	Montreal Impact	Vancouver Whitecaps	7/8/2001	55		LGE			
+Fenger-Larsen, Jakob	Nashville Metros	Nashville Metros	Milwaukee Rampage	9/19/2001	82		PLO	Wall, James		
+Bailey, Jaymison (Jaymi)	Nashville Metros	Nashville Metros	Milwaukee Rampage	9/19/2001	90		PLO			
+Butcher, Steve	Milwaukee Rampage	Nashville Metros	Milwaukee Rampage	9/19/2001	30		PLO	Hayes, David		
+Butcher, Steve	Milwaukee Rampage	Nashville Metros	Milwaukee Rampage	9/19/2001	62		PLO	Takawira, Vitalis (Digital)		
+Soso, Igor	Milwaukee Rampage	Nashville Metros	Milwaukee Rampage	9/19/2001	83		PLO			
+Martins, Thiago	San Diego Flash	San Diego Flash	Atlanta Silverbacks	9/19/2001	63		PLO	Suazo, Miguel		
+Martins, Thiago	San Diego Flash	San Diego Flash	Atlanta Silverbacks	9/19/2001	72		PLO	Suazo, Miguel		
+Gomez, Jose	Charlotte Eagles	Atlanta Silverbacks	Charlotte Eagles	8/31/2001	25		LGE	Leib, Ryan		
+Swinehart, Dustin	Charlotte Eagles	Atlanta Silverbacks	Charlotte Eagles	8/31/2001	79		LGE	Leib, Ryan		
+Sorzano, Jeremy	Charlotte Eagles	Atlanta Silverbacks	Charlotte Eagles	8/31/2001	82		LGE			
+Callahan, Sean Michael	Atlanta Silverbacks	Atlanta Silverbacks	Cincinnati Riverhawks	8/4/2001	24		LGE	McSkimming, Shaun		
+Walker, Ryan	Atlanta Silverbacks	Atlanta Silverbacks	Cincinnati Riverhawks	8/4/2001	34		LGE	Moleka, Ignace (Iggy)		
+Walker, Ryan	Atlanta Silverbacks	Atlanta Silverbacks	Cincinnati Riverhawks	8/4/2001	46		LGE	Moleka, Ignace (Iggy)		
+Callahan, Sean Michael	Atlanta Silverbacks	Atlanta Silverbacks	Cincinnati Riverhawks	8/4/2001	47		LGE	Rodriguez, Edmundo		
+Annicchero, Jason	Atlanta Silverbacks	Atlanta Silverbacks	Cincinnati Riverhawks	8/4/2001	56	Penalty	LGE			
+Parra, (Juan) Carlos	Atlanta Silverbacks	Atlanta Silverbacks	Cincinnati Riverhawks	8/4/2001	65		LGE	Merkel, Randy		
+Najarro, Roberto	Atlanta Silverbacks	Atlanta Silverbacks	Cincinnati Riverhawks	8/4/2001	76		LGE	Walker, Ryan		
+Schneider, Paul	Atlanta Silverbacks	Atlanta Silverbacks	Cincinnati Riverhawks	6/16/2001	57		LGE	Walker, Ryan		
+Finn, Sean	Atlanta Silverbacks	Atlanta Silverbacks	Cincinnati Riverhawks	6/16/2001	62		LGE			
+Callahan, Sean Michael	Atlanta Silverbacks	Atlanta Silverbacks	Cincinnati Riverhawks	6/16/2001	73		LGE	Parra, (Juan) Carlos		
+Walker, Ryan	Atlanta Silverbacks	Atlanta Silverbacks	Indiana Blast	8/17/2001	51		LGE	Moleka, Ignace (Iggy)		
+Callahan, Sean Michael	Atlanta Silverbacks	Atlanta Silverbacks	Indiana Blast	8/17/2001	58		LGE	Moleka, Ignace (Iggy)		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Indiana Blast	8/17/2001	69		LGE			
+Fundenberger, Matt	Indiana Blast	Atlanta Silverbacks	Indiana Blast	8/17/2001	32		LGE	Allen, Mark		
+Aldrich, Jeremy	Indiana Blast	Atlanta Silverbacks	Indiana Blast	8/17/2001	65		LGE			
+Rodriguez, Edmundo	Atlanta Silverbacks	Atlanta Silverbacks	Indiana Blast	7/19/2001	74		LGE	Merkel, Randy		
+Rodriguez, Edmundo	Atlanta Silverbacks	Atlanta Silverbacks	Long Island Rough Riders	7/28/2001	20		LGE			
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Long Island Rough Riders	7/28/2001	29		LGE	Callahan, Sean Michael		
+Callahan, Sean Michael	Atlanta Silverbacks	Atlanta Silverbacks	Long Island Rough Riders	7/28/2001	51		LGE	Moleka, Ignace (Iggy)		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Long Island Rough Riders	7/28/2001	79		LGE	Callahan, Sean Michael		
+Finn, Sean	Atlanta Silverbacks	Atlanta Silverbacks	Long Island Rough Riders	7/28/2001	90		LGE	Bednar, Sylvan		
+Sy, Moussa	Long Island Rough Riders	Atlanta Silverbacks	Long Island Rough Riders	7/28/2001	23		LGE	Leon-Penaranda, Daniel		
+Ragusa, Joe	Long Island Rough Riders	Atlanta Silverbacks	Long Island Rough Riders	7/28/2001	56		LGE	McDermott, Mick		
+Peirano, Pablo	Atlanta Silverbacks	Atlanta Silverbacks	Nashville Metros	5/5/2001	43		LGE	Merkel, Randy		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Nashville Metros	5/5/2001	79		LGE	Peirano, Pablo		
+Wall, James	Nashville Metros	Atlanta Silverbacks	Nashville Metros	5/5/2001	85		LGE	Davies, Christopher		
+Byaruhanga, Peter	Atlanta Silverbacks	Atlanta Silverbacks	Nashville Metros	5/19/2001	87		LGE			
+Fisher, Ben	Nashville Metros	Atlanta Silverbacks	Nashville Metros	5/19/2001	22		LGE	Bailey, Jaymison (Jaymi)		
+Houser, Jeff	Nashville Metros	Atlanta Silverbacks	Nashville Metros	5/19/2001	33		LGE			
+Bailey, Jaymison (Jaymi)	Nashville Metros	Atlanta Silverbacks	Nashville Metros	5/19/2001	75		LGE	Wright, Brandon		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Richmond Kickers	8/25/2001	82		LGE	Benjamin, Mario		
+Byaruhanga, Peter	Richmond Kickers	Atlanta Silverbacks	Richmond Kickers	8/25/2001	55		LGE	McKay, Josh		
+Williams, Tony	Richmond Kickers	Atlanta Silverbacks	Richmond Kickers	8/25/2001	106		LGE			
+Conway, Paul	Charleston Battery	Charleston Battery	Atlanta Silverbacks	8/20/2001	37		LGE	Anderson, Kevin		
+Cozier, Mangea (Mac)	Charleston Battery	Charleston Battery	Atlanta Silverbacks	8/20/2001	47		LGE	Rantala, Jukka		
+Conway, Paul	Charleston Battery	Charleston Battery	Atlanta Silverbacks	8/20/2001	63		LGE	Farris, Matt		
+Walker, Ryan	Atlanta Silverbacks	Charleston Battery	Atlanta Silverbacks	8/20/2001	15		LGE			
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Charleston Battery	Atlanta Silverbacks	8/20/2001	38		LGE	Dotshenko, Ihor		
+Coggins, Jacob	Charlotte Eagles	Charlotte Eagles	Atlanta Silverbacks	6/8/2001	16		LGE	Norkus, Caleb		
+Schneider, Paul	Atlanta Silverbacks	Charlotte Eagles	Atlanta Silverbacks	6/8/2001	27		LGE	Rodriguez, Edmundo		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Charlotte Eagles	Atlanta Silverbacks	6/8/2001	35		LGE	Armas, Anibal (Steve)		
+Conway, Paul	Charleston Battery	Charleston Battery	Charlotte Eagles	5/5/2001	66		LGE			
+Farris, Matt	Charleston Battery	Charleston Battery	Charlotte Eagles	5/5/2001	85		LGE	Cozier, Mangea (Mac)		
+Conway, Paul	Charleston Battery	Charleston Battery	Charlotte Eagles	5/5/2001	90		LGE	Cozier, Mangea (Mac)		
+Allen, Christopher	Charleston Battery	Charleston Battery	Charlotte Eagles	5/5/2001	25	Own Goal	LGE			
+Watkins, Nathan	Charlotte Eagles	Charleston Battery	Charlotte Eagles	5/5/2001	14	Penalty	LGE			
+Ball, John	Charleston Battery	Charleston Battery	Charlotte Eagles	4/28/2001	53		LGE	Piesner, Brian		
+Conway, Paul	Charleston Battery	Charleston Battery	Charlotte Eagles	4/28/2001	63		LGE	Wilson, John		
+Ball, John	Charleston Battery	Charleston Battery	Charlotte Eagles	4/28/2001	82		LGE	Rantala, Jukka		
+Conway, Paul	Charleston Battery	Charleston Battery	Cincinnati Riverhawks	7/20/2001	47		LGE	Farris, Matt		
+Cozier, Mangea (Mac)	Charleston Battery	Charleston Battery	Cincinnati Riverhawks	7/20/2001	74		LGE	Conway, Paul		
+Cozier, Mangea (Mac)	Charleston Battery	Charleston Battery	Cincinnati Riverhawks	7/27/2001	35	Penalty	LGE			
+Cozier, Mangea (Mac)	Charleston Battery	Charleston Battery	Cincinnati Riverhawks	7/27/2001	41		LGE			
+Jean-Baptiste, Gilbert	Charleston Battery	Charleston Battery	Cincinnati Riverhawks	7/27/2001	73		LGE	Piesner, Brian		
+Simmonds, Greg	Charleston Battery	Charleston Battery	Cincinnati Riverhawks	7/27/2001	75		LGE	Akin, Jon		
+Masturzo, Scott	Cincinnati Riverhawks	Charleston Battery	Cincinnati Riverhawks	7/27/2001	47		LGE			
+Kaszuba, RJ	Cincinnati Riverhawks	Charleston Battery	Cincinnati Riverhawks	7/27/2001	66		LGE	Giacobbone, Alessio		
+Bertsch, Kristofer	North Jersey Imperials	North Jersey Imperials	New York Freedoms	5/16/2001	0		LGE	Soloman, Eric		
+McGowan, Ryan	North Jersey Imperials	North Jersey Imperials	New York Freedoms	5/16/2001	0		LGE	Sheppard, Dustin		
+Sullivan, Gary	New York Freedoms	North Jersey Imperials	New York Freedoms	5/16/2001	0		LGE	Ovalle, Raul		
+Sullivan, Gary	New York Freedoms	North Jersey Imperials	New York Freedoms	5/16/2001	0		LGE	Ovalle, Raul		
+Gonzalez, Luis	Miami Strike Force	Miami Strike Force	Palm Beach Pumas	6/1/2001	0		LGE	Asorey, Matis		
+Reyes, Rafael	Miami Strike Force	Miami Strike Force	Palm Beach Pumas	6/1/2001	0		LGE	Lopez, Arturo		
+Gil-Alzate, Oscar	Palm Beach Pumas	Miami Strike Force	Palm Beach Pumas	6/1/2001	0		LGE	DeOliveira, Jose Marcone		
+Pereira, Adriano	Palm Beach Pumas	Miami Strike Force	Palm Beach Pumas	6/1/2001	0		LGE	Zetterstrom, Jens		
+Ho'sang, Pierre	Palm Beach Pumas	Miami Strike Force	Palm Beach Pumas	6/1/2001	0		LGE			
+Freeman, Steven	Cocoa Expos	Cocoa Expos	Bradenton Academics	6/1/2001	0		LGE			
+Broder, Jordy	Cocoa Expos	Cocoa Expos	Bradenton Academics	6/1/2001	0		LGE			
+Wymer, Dan	Bradenton Academics	Cocoa Expos	Bradenton Academics	6/1/2001	0		LGE			
+Galavis, Juan	Cascade Surge	Cascade Surge	Yakima Reds	6/1/2001	0		LGE	Andrade, Isidro		
+Galavis, Juan	Cascade Surge	Cascade Surge	Yakima Reds	6/1/2001	0		LGE	Andrade, Isidro		
+Chavez, Antonio	Cascade Surge	Cascade Surge	Yakima Reds	6/1/2001	0		LGE	Gardner, Donald		
+Lane, Jeff	Yakima Reds	Cascade Surge	Yakima Reds	6/1/2001	0		LGE	Rivera, Santa Maria		
+Harrigan, Jamie	West Dallas Kings	West Dallas Kings	Colorado Springs Ascent	6/3/2001	0		LGE	Butzke, Cody		
+Waters, Jonathan	West Dallas Kings	West Dallas Kings	Colorado Springs Ascent	6/3/2001	0		LGE			
+Browne, Nicholas	Colorado Springs Ascent	West Dallas Kings	Colorado Springs Ascent	6/3/2001	0		LGE	Conterey, Brian		
+Williams, Jonathan	Colorado Springs Ascent	West Dallas Kings	Colorado Springs Ascent	6/3/2001	0		LGE			
+Pappas, James	Colorado Springs Ascent	West Dallas Kings	Colorado Springs Ascent	6/3/2001	0		LGE			
+Clark, Matthew	Texas Spurs	Texas Spurs	Boulder Nova	6/3/2001	0		LGE	Shamu, Patrick		
+Shamu, Patrick	Texas Spurs	Texas Spurs	Boulder Nova	6/3/2001	0		LGE			
+Hotchkin, Jason	Southern California Seahorse	Southern California Seahorse	Central Coast Roadrunners	6/3/2001	6		LGE			
+Clark, Evan	Central Coast Roadrunners	Southern California Seahorse	Central Coast Roadrunners	6/3/2001	60		LGE	McGregor, Dana		
+Chowana, Chade	Central Coast Roadrunners	Southern California Seahorse	Central Coast Roadrunners	6/3/2001	49		LGE	McGregor, Dana		
+Feeney, Sean	North Jersey Imperials	North Jersey Imperials	Vermont Voltage	6/3/2001	11		LGE	Bertsch, Kristofer		
+Sheppard, Dustin	North Jersey Imperials	North Jersey Imperials	Vermont Voltage	6/3/2001	43		LGE	Ruth, Brian		
+Bernstein, Gabe	North Jersey Imperials	North Jersey Imperials	Vermont Voltage	6/3/2001	76		LGE			
+Farrell, James	Vermont Voltage	North Jersey Imperials	Vermont Voltage	6/3/2001	81		LGE	Allen, Jason		
+Kolar, Eric	Jersey Falcons	Jersey Falcons	Chesapeake Dragons	6/3/2001	0		LGE			
+Klug, Rob	Chesapeake Dragons	Jersey Falcons	Chesapeake Dragons	6/3/2001	0		LGE	Lewis, Keston		
+Phillips, Derek	Chesapeake Dragons	Jersey Falcons	Chesapeake Dragons	6/3/2001	0		LGE			
+Olsen, Ryan	Chesapeake Dragons	Jersey Falcons	Chesapeake Dragons	6/3/2001	0		LGE			
+Brown, Ricky	Chesapeake Dragons	Jersey Falcons	Chesapeake Dragons	6/3/2001	0		LGE			
+Brown, Ricky	Chesapeake Dragons	Jersey Falcons	Chesapeake Dragons	6/3/2001	0		LGE			
+Marcantonio, Nino	Chesapeake Dragons	Jersey Falcons	Chesapeake Dragons	6/3/2001	0		LGE			
+DeSousa, Carlos	Brooklyn Knights	Brooklyn Knights	Cape Cod Crusaders	6/3/2001	0		LGE	Niebles, Hemir		
+DeSousa, Carlos	Brooklyn Knights	Brooklyn Knights	Cape Cod Crusaders	6/3/2001	0		LGE			
+DeSousa, Carlos	Brooklyn Knights	Brooklyn Knights	Cape Cod Crusaders	6/3/2001	0		LGE			
+Niebles, Hemir	Brooklyn Knights	Brooklyn Knights	Cape Cod Crusaders	6/3/2001	0		LGE			
+Sobers, Travis	Dayton Gemini	Dayton Gemini	West Michigan Edge	6/5/2001	0		LGE	Strong, Rick		
+Ahebwa, Dennis	West Michigan Edge	Dayton Gemini	West Michigan Edge	6/5/2001	0		LGE	Eller, Tom		
+Eller, Tom	West Michigan Edge	Dayton Gemini	West Michigan Edge	6/5/2001	0		LGE	Kelto, Anders		
+Alexander, Ryan	West Michigan Edge	Dayton Gemini	West Michigan Edge	6/5/2001	0		LGE			
+Christopher, Nick	New York Freedoms	New York Freedoms	Vermont Voltage	6/9/2001	0		LGE	Babula, John		
+Farrell, James	Vermont Voltage	New York Freedoms	Vermont Voltage	6/9/2001	0		LGE	Popovic, Milenko		
+Vukovic, Bojan	Vermont Voltage	New York Freedoms	Vermont Voltage	6/9/2001	0		LGE			
+Tennyson, McKinley	Orange County Blue Star	Orange County Blue Star	Southern California Seahorse	6/10/2001	0		LGE			
+Tennyson, McKinley	Orange County Blue Star	Orange County Blue Star	Southern California Seahorse	6/10/2001	0		LGE			
+Hotchkin, Jason	Southern California Seahorse	Orange County Blue Star	Southern California Seahorse	6/10/2001	0		LGE			
+Coiner, Ryan	Southern California Seahorse	Orange County Blue Star	Southern California Seahorse	6/10/2001	0		LGE			
+Figuerola, Alvaro	Bradenton Academics	Bradenton Academics	Miami Strike Force	6/10/2001	0		LGE			
+Asorey, Matis	Miami Strike Force	Bradenton Academics	Miami Strike Force	6/10/2001	0		LGE	Walsh, Diego		
+Asorey, Matis	Miami Strike Force	Bradenton Academics	Miami Strike Force	6/10/2001	0		LGE	Wilson, Adam		
+McCloskey, Kevin	Dayton Gemini	Kalamazoo Kingdom	Dayton Gemini	6/14/2001	0		LGE	Jones, Bret		
+McCloskey, Kevin	Dayton Gemini	Kalamazoo Kingdom	Dayton Gemini	6/14/2001	0		LGE			
+Concha, Guillermo	Denver Cougars	Denver Cougars	Texas Spurs	6/14/2001	0		LGE	Simmonds, Michael		
+Harrell, Matt	Denver Cougars	Denver Cougars	Texas Spurs	6/14/2001	0		LGE	Piserchio, Mike		
+Niebles, Hemir	Brooklyn Knights	Brooklyn Knights	New York Freedoms	6/14/2001	0		LGE	Chambers, Rinaldo		
+Gogic, Sinisia	New York Freedoms	Brooklyn Knights	New York Freedoms	6/14/2001	0		LGE			
+Hansen, Richard	Boulder Nova	Boulder Nova	West Dallas Kings	6/14/2001	0		LGE	Folbrycht, Robert		
+Hansen, Richard	Boulder Nova	Boulder Nova	West Dallas Kings	6/14/2001	0		LGE	Zeldner, Zachary		
+Hansen, Richard	Boulder Nova	Boulder Nova	West Dallas Kings	6/14/2001	0		LGE	Zeldner, Zachary		
+Olivencia, Nick	Boulder Nova	Boulder Nova	West Dallas Kings	6/14/2001	0		LGE	Lauber, Todd		
+Anderson, Jackie	West Dallas Kings	Boulder Nova	West Dallas Kings	6/14/2001	0		LGE	Harrigan, Jamie		
+Ready, Troy	Spokane Shadow	Spokane Shadow	Yakima Reds	6/15/2001	0		LGE	Wells, Charles		
+Ready, Troy	Spokane Shadow	Spokane Shadow	Yakima Reds	6/15/2001	0		LGE	Wells, Charles		
+Ready, Troy	Spokane Shadow	Spokane Shadow	Yakima Reds	6/15/2001	0		LGE	Huet, Dan		
+Gledhill, James	Spokane Shadow	Spokane Shadow	Yakima Reds	6/15/2001	0		LGE			
+Schefter, Johnny	Yakima Reds	Spokane Shadow	Yakima Reds	6/15/2001	0		LGE	Rivera, Santa Maria		
+Moreno, Alejandro	Palm Beach Pumas	Palm Beach Pumas	Bradenton Academics	6/15/2001	0		LGE			
+Quinn, Jordan	Bradenton Academics	Palm Beach Pumas	Bradenton Academics	6/15/2001	0		LGE			
+Quinn, Jordan	Bradenton Academics	Palm Beach Pumas	Bradenton Academics	6/15/2001	0		LGE			
+Pearce, Heath	Bradenton Academics	Palm Beach Pumas	Bradenton Academics	6/15/2001	0		LGE			
+Vinciguerra, Brad	Bradenton Academics	Palm Beach Pumas	Bradenton Academics	6/15/2001	0		LGE			
+Millas, Dimitri	Louisiana Outlaws	Louisiana Outlaws	Lafayette Lightning	6/15/2001	0		LGE	Kee, PJ		
+Cooley, Justin	Louisiana Outlaws	Louisiana Outlaws	Lafayette Lightning	6/15/2001	0		LGE	Millas, Dimitri		
+Brown, Beau	Lafayette Lightning	Louisiana Outlaws	Lafayette Lightning	6/15/2001	0		LGE			
+Brown, Beau	Lafayette Lightning	Louisiana Outlaws	Lafayette Lightning	6/15/2001	0		LGE			
+Veselka, Chris	Lafayette Lightning	Louisiana Outlaws	Lafayette Lightning	6/15/2001	0		LGE			
+Olivas, Carlos	Kansas City Brass	Kansas City Brass	Sioux Falls SpitFire	6/15/2001	0		LGE			
+Mintah, Ishmael	Sioux Falls SpitFire	Kansas City Brass	Sioux Falls SpitFire	6/15/2001	0		LGE	Grau, Dustin		
+Byers, Matthew	Sioux Falls SpitFire	Kansas City Brass	Sioux Falls SpitFire	6/15/2001	0		LGE	Mintah, Ishmael		
+Kose, Ahmet	Jersey Falcons	Jersey Falcons	Westchester Flames	6/15/2001	0		LGE	Niziolek, Derik		
+Swenda, Phil	Jersey Falcons	Jersey Falcons	Westchester Flames	6/15/2001	0		LGE			
+Afful, Joseph	Westchester Flames	Jersey Falcons	Westchester Flames	6/15/2001	0		LGE	Nava, Fredy		
+Matteo, Jeffrey	Westchester Flames	Jersey Falcons	Westchester Flames	6/15/2001	0		LGE	Afful, Joseph		
+Medina, Oliver	Westchester Flames	Jersey Falcons	Westchester Flames	6/15/2001	0		LGE	Hutson, Renwick		
+Grando, Ive	Westchester Flames	Jersey Falcons	Westchester Flames	6/15/2001	0		LGE			
+Grando, Ive	Westchester Flames	Jersey Falcons	Westchester Flames	6/15/2001	0		LGE			
+Sellas, Nikolaos	Westchester Flames	Jersey Falcons	Westchester Flames	6/15/2001	0		LGE			
+Olsen, Ryan	Chesapeake Dragons	Chesapeake Dragons	Cape Cod Crusaders	6/15/2001	0		LGE	Herrera, AJ		
+Pate, Stephen	Cape Cod Crusaders	Chesapeake Dragons	Cape Cod Crusaders	6/15/2001	0		LGE	Worthen, Joey		
+Chicco, Nicola	Cape Cod Crusaders	Chesapeake Dragons	Cape Cod Crusaders	6/15/2001	0		LGE			
+Strong, Rick	Dayton Gemini	Dayton Gemini	Chicago Eagles Select	6/16/2001	0		LGE	Bammel, Joshua		
+Romo, Jorge	Denver Cougars	Denver Cougars	West Dallas Kings	6/16/2001	0		LGE	Ward, Brent		
+Black, Jesse	Denver Cougars	Denver Cougars	West Dallas Kings	6/16/2001	0		LGE	Mason, Donaie		
+Kayali, Mazen	Denver Cougars	Denver Cougars	West Dallas Kings	6/16/2001	0		LGE	Mason, Donaie		
+Anderson, Jackie	West Dallas Kings	Denver Cougars	West Dallas Kings	6/16/2001	0		LGE	DeBois, James		
+Medina, Anthony	Des Moines Menace	Des Moines Menace	Kansas City Brass	6/16/2001	0		LGE	Modersohn, Seth		
+Riddle, Stuart	Des Moines Menace	Des Moines Menace	Kansas City Brass	6/16/2001	0		LGE	Murad, Joshua		
+Dzowa, Thando	Des Moines Menace	Des Moines Menace	Kansas City Brass	6/16/2001	0		LGE			
+Brown, Beau	Lafayette Lightning	Lafayette Lightning	Louisiana Outlaws	6/16/2001	0		LGE	Johnson, Mathius		
+Brown, Beau	Lafayette Lightning	Lafayette Lightning	Louisiana Outlaws	6/16/2001	0		LGE	Rhodis, Craig		
+Millet, David	Louisiana Outlaws	Lafayette Lightning	Louisiana Outlaws	6/16/2001	0		LGE			
+Raad, Sergei	Central Florida Kraze	Central Florida Kraze	Tampa Bay Hawks	6/16/2001	0		LGE	Potts, Ryan		
+Avli, Sven	Tampa Bay Hawks	Central Florida Kraze	Tampa Bay Hawks	6/16/2001	0		LGE			
+Metrius, Darick	Tampa Bay Hawks	Central Florida Kraze	Tampa Bay Hawks	6/16/2001	0		LGE			
+Atkinson, David	Cocoa Expos	Miami Strike Force	Cocoa Expos	6/16/2001	0		LGE	Freeman, Steven		
+Dutt, Eric	Cocoa Expos	Miami Strike Force	Cocoa Expos	6/16/2001	0		LGE	Broder, Jordy		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Atlanta Silverbacks	9/8/2001	18		LGE	Norkus, Caleb		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Atlanta Silverbacks	9/8/2001	59		LGE	Norkus, Caleb		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Atlanta Silverbacks	9/8/2001	73		LGE	Gomez, Jose		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Atlanta Silverbacks	9/8/2001	85		LGE	Norkus, Caleb		
+Mouw, Robert	Charlotte Eagles	Charlotte Eagles	Atlanta Silverbacks	9/8/2001	89		LGE	Johnson, Joey		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Charlotte Eagles	Atlanta Silverbacks	9/8/2001	24		LGE	Finn, Sean		
+Walker, Ryan	Atlanta Silverbacks	Charlotte Eagles	Atlanta Silverbacks	9/8/2001	90		LGE	Benjamin, Mario		
+Jean-Baptiste, Gilbert	Charleston Battery	Charleston Battery	Nashville Metros	9/8/2001	39		LGE	Anderson, Kevin		
+Jean-Baptiste, Gilbert	Charleston Battery	Charleston Battery	Nashville Metros	9/8/2001	47		LGE	Cozier, Mangea (Mac)		
+Cozier, Mangea (Mac)	Charleston Battery	Charleston Battery	Nashville Metros	9/8/2001	19		LGE			
+Conway, Paul	Charleston Battery	Charleston Battery	Nashville Metros	9/8/2001	8		LGE	Cozier, Mangea (Mac)		
+Maier, Andreas	Nashville Metros	Charleston Battery	Nashville Metros	9/8/2001	76		LGE			
+Griffiths, Winston	Connecticut Wolves	Connecticut Wolves	Hershey Wildcats	9/8/2001	74		LGE	DeBrito, John		
+Watson, Doug	Hershey Wildcats	Connecticut Wolves	Hershey Wildcats	9/8/2001	29		LGE	Miller, Doug		
+Feniger, Michael	Hershey Wildcats	Connecticut Wolves	Hershey Wildcats	9/8/2001	59		LGE			
+Miller, Doug	Hershey Wildcats	Connecticut Wolves	Hershey Wildcats	9/8/2001	90		LGE	Swords, Kyle		
+Storkson, Erik	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	9/8/2001	20		LGE	Bettinger, Rees		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	9/8/2001	34		LGE	Farrell, Jason		
+O'Brien, Leighton	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	9/8/2001	49		LGE	Barton, Kieron		
+Smith, Kyle	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	9/8/2001	62		LGE	Storkson, Erik		
+Bettinger, Rees	Seattle Sounders	Seattle Sounders	Vancouver Whitecaps	9/8/2001	66		LGE	O'Brien, Leighton		
+Heald, Oliver	Vancouver Whitecaps	Vancouver Whitecaps	Seattle Sounders	9/7/2001	75		LGE			
+Jordan, Jason	Vancouver Whitecaps	Vancouver Whitecaps	Seattle Sounders	9/7/2001	25		LGE	Valente, Alfredo		
+Storkson, Erik	Seattle Sounders	Vancouver Whitecaps	Seattle Sounders	9/7/2001	88		LGE	Tomlinson, Craig		
+Roberto, Ze	Hershey Wildcats	Hershey Wildcats	Rochester Rhinos	6/1/2001	64		LGE	Henning, Michael		
+Lindenmayer, Christof	Hershey Wildcats	Hershey Wildcats	Toronto Lynx	8/18/2001	30		LGE	Roberto, Ze		
+Kopp, Drew	Hershey Wildcats	Hershey Wildcats	Toronto Lynx	8/18/2001	45		LGE	Lindenmayer, Christof		
+Feniger, Michael	Hershey Wildcats	Hershey Wildcats	Toronto Lynx	8/18/2001	68		LGE	Swords, Kyle		
+Feniger, Michael	Hershey Wildcats	Hershey Wildcats	Toronto Lynx	8/18/2001	79		LGE	Kvello, Eric		
+Kvello, Eric	Hershey Wildcats	Hershey Wildcats	Toronto Lynx	8/18/2001	82		LGE	Feniger, Michael		
+Prosser, James	Indiana Blast	Indiana Blast	Atlanta Silverbacks	7/9/2001	86		LGE			
+Walker, Ryan	Atlanta Silverbacks	Indiana Blast	Atlanta Silverbacks	7/9/2001	84		LGE	Care, Danny		
+Finn, Sean	Atlanta Silverbacks	Indiana Blast	Atlanta Silverbacks	7/9/2001	97		LGE	Peirano, Pablo		
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Charleston Battery	7/15/2001	11		LGE	Sweeney, Casey		
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Nashville Metros	6/29/2001	5		LGE	McDermott, Andrew		
+Costa, Rodrigo	Indiana Blast	Indiana Blast	Nashville Metros	6/29/2001	89		LGE	Weiger, Steve		
+Klinger, Fausto	Long Island Rough Riders	Long Island Rough Riders	Connecticut Wolves	8/1/2001	21	Penalty	LGE			
+Ragusa, Joe	Long Island Rough Riders	Long Island Rough Riders	Connecticut Wolves	8/1/2001	56		LGE	Leon-Penaranda, Daniel		
+Sewell, Dean	Connecticut Wolves	Long Island Rough Riders	Connecticut Wolves	8/1/2001	17		LGE	DeBrito, John		
+Leon-Penaranda, Daniel	Long Island Rough Riders	Long Island Rough Riders	Milwaukee Rampage	8/17/2001	64		LGE	Weinstein, Cordt		
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Long Island Rough Riders	Milwaukee Rampage	8/17/2001	15		LGE	Russell, Jason		
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Long Island Rough Riders	Milwaukee Rampage	8/17/2001	37		LGE	Soso, Igor		
+Leon-Penaranda, Daniel	Long Island Rough Riders	Long Island Rough Riders	Minnesota Thunder	4/28/2001	15	Penalty	LGE			
+Butler, Michael	Long Island Rough Riders	Long Island Rough Riders	Minnesota Thunder	4/28/2001	78		LGE	Fernandes, Fernando		
+Diallo, Ben	Long Island Rough Riders	Long Island Rough Riders	Minnesota Thunder	4/28/2001	78		LGE	Fernandes, Fernando		
+Winkel, Nate	Minnesota Thunder	Long Island Rough Riders	Minnesota Thunder	4/28/2001	19		LGE			
+Sebwe, Dionysius	Minnesota Thunder	Long Island Rough Riders	Minnesota Thunder	4/28/2001	43		LGE			
+Etienne, Derrick	Long Island Rough Riders	Long Island Rough Riders	Richmond Kickers	6/10/2001	76		LGE	Ragusa, Joe		
+Henderson, Joshua	Richmond Kickers	Long Island Rough Riders	Richmond Kickers	6/10/2001	55		LGE	Jeffrey, Kevin		
+Burke, Michael	Richmond Kickers	Long Island Rough Riders	Richmond Kickers	6/10/2001	65		LGE			
+Fernandes, Fernando	Long Island Rough Riders	Long Island Rough Riders	Rochester Rhinos	8/31/2001	68	Penalty	LGE			
+Mladenov, Stoian	Rochester Rhinos	Long Island Rough Riders	Rochester Rhinos	8/31/2001	69		LGE	Mitchell, Jamel		
+Tanner, Tommy	Rochester Rhinos	Long Island Rough Riders	Rochester Rhinos	8/31/2001	82		LGE	Wilson, Kirk		
+Nash, Martin	Rochester Rhinos	Long Island Rough Riders	Rochester Rhinos	8/31/2001	11		LGE			
+Fernandes, Fernando	Long Island Rough Riders	Long Island Rough Riders	Toronto Lynx	6/28/2001	36		LGE	Beskovic, Mersim		
+Watkins, Shane	Long Island Rough Riders	Long Island Rough Riders	Toronto Lynx	6/28/2001	73		LGE	Franzke, Stephen		
+Ragusa, Joe	Long Island Rough Riders	Long Island Rough Riders	Toronto Lynx	6/28/2001	77		LGE	McDermott, Mick		
+McSkimming, Shaun	Atlanta Silverbacks	Milwaukee Rampage	Atlanta Silverbacks	7/15/2001	5		LGE			
+Dotshenko, Ihor	Atlanta Silverbacks	Milwaukee Rampage	Atlanta Silverbacks	7/15/2001	41		LGE	Callahan, Sean Michael		
+Dotshenko, Ihor	Atlanta Silverbacks	Milwaukee Rampage	Atlanta Silverbacks	7/15/2001	45		LGE	Callahan, Sean Michael		
+Callahan, Sean Michael	Atlanta Silverbacks	Milwaukee Rampage	Atlanta Silverbacks	7/15/2001	72		LGE	Rodriguez, Edmundo		
+Bernal, Steve	Milwaukee Rampage	Milwaukee Rampage	El Paso Patriots	8/24/2001	55		LGE	Soso, Igor		
+Soso, Igor	Milwaukee Rampage	Milwaukee Rampage	El Paso Patriots	6/24/2001	74		LGE	Takawira, Vitalis (Digital)		
+MacFarlane, Guillermo	Milwaukee Rampage	Milwaukee Rampage	El Paso Patriots	6/24/2001	72	Own Goal	LGE			
+Soso, Igor	Milwaukee Rampage	Milwaukee Rampage	Minnesota Thunder	5/9/2001	50		LGE	Lavrienko, Yuri		
+Sagare, Jacob	Seattle Sounders Select	Seattle Sounders Select	Spokane Shadow	5/5/2001	0		LGE			
+Raymond, Chris	Seattle Sounders Select	Seattle Sounders Select	Spokane Shadow	5/5/2001	0		LGE			
+Raymond, Chris	Seattle Sounders Select	Seattle Sounders Select	Spokane Shadow	5/5/2001	0		LGE			
+Prichard, Matt	Spokane Shadow	Seattle Sounders Select	Spokane Shadow	5/5/2001	0		LGE			
+Thompson, Mike	Spokane Shadow	Seattle Sounders Select	Spokane Shadow	5/5/2001	0		LGE			
+Whittaker, Tom	Cascade Surge	Cascade Surge	Seattle Sounders Select	5/6/2001	0		LGE			
+Armstrong, Casey	Seattle Sounders Select	Cascade Surge	Seattle Sounders Select	5/6/2001	0		LGE			
+Sagare, Jacob	Seattle Sounders Select	Cascade Surge	Seattle Sounders Select	5/6/2001	0		LGE			
+Bammel, Joshua	Dayton Gemini	Dayton Gemini	Chicago Fire Reserves	5/11/2001	0		LGE			
+Eastland, Robert	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	5/11/2001	0		LGE			
+Eastland, Robert	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	5/11/2001	0		LGE			
+Paul, Lee	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	5/11/2001	0		LGE			
+Wesseh, Doco	Chicago Eagles Select	Chicago Eagles Select	Thunder Bay Chill	5/12/2001	0		LGE			
+Galvao, Marcelo	Chicago Eagles Select	Chicago Eagles Select	Thunder Bay Chill	5/12/2001	0		LGE			
+Galavis, Juan	Cascade Surge	Okanagan Challenge	Cascade Surge	5/12/2001	0		LGE			
+Galavis, Juan	Cascade Surge	Okanagan Challenge	Cascade Surge	5/12/2001	0		LGE			
+Whittaker, Tom	Cascade Surge	Okanagan Challenge	Cascade Surge	5/12/2001	0		LGE			
+Reti, Sean	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	5/13/2001	0		LGE			
+Reti, Sean	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	5/13/2001	0		LGE			
+Willson, Eric	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	5/13/2001	0		LGE			
+Paul, Lee	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	5/13/2001	0		LGE			
+Whittaker, Tom	Cascade Surge	Cascade Surge	Calgary Storm	5/18/2001	0		LGE			
+Rivera, Santa Maria	Yakima Reds	Seattle Sounders Select	Yakima Reds	5/18/2001	0		LGE			
+Scott, Zach	Spokane Shadow	Spokane Shadow	Okanagan Challenge	5/18/2001	0		LGE			
+Ready, Troy	Spokane Shadow	Spokane Shadow	Okanagan Challenge	5/18/2001	0		LGE			
+Modersohn, Seth	Des Moines Menace	Des Moines Menace	Thunder Bay Chill	5/19/2001	0		LGE			
+Suhm, Brad	Yakima Reds	Yakima Reds	Okanagan Challenge	5/19/2001	0		LGE			
+Clanton, Denny	Chicago Fire Reserves	Chicago Fire Reserves	Kalamazoo Kingdom	5/20/2001	0		LGE			
+Peattie, Geoff	Twin Cities Phoenix	Twin Cities Phoenix	Thunder Bay Chill	5/20/2001	0		LGE			
+Wilson, William	West Michigan Edge	West Michigan Edge	Chicago Fire Reserves	5/24/2001	27		LGE	Smith, Pepe		
+Lara, David	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	5/24/2001	63		LGE	Reti, Sean		
+Mehreioskouei, Hamid	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	5/24/2001	38		LGE			
+Paul, Lee	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	5/24/2001	27		LGE	Reti, Sean		
+Paul, Lee	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	5/24/2001	7		LGE	Klaas, CJ		
+Rivera, Santa Maria	Yakima Reds	Okanagan Challenge	Yakima Reds	5/26/2001	0		LGE			
+Stueckle, Matt	Spokane Shadow	Spokane Shadow	Seattle Sounders Select	5/26/2001	0		LGE			
+Quinn, Connor	Spokane Shadow	Spokane Shadow	Seattle Sounders Select	5/26/2001	0		LGE			
+Johnson, Paul	Spokane Shadow	Spokane Shadow	Seattle Sounders Select	5/26/2001	0		LGE			
+Lockhart, Sean	Orange County Blue Star	Orange County Blue Star	Stanislaus United Cruisers	5/27/2001	0		LGE			
+Poltl, Thomas	Orange County Blue Star	Orange County Blue Star	Stanislaus United Cruisers	5/27/2001	0		LGE			
+Futagaki, Ryan	Orange County Blue Star	Orange County Blue Star	Stanislaus United Cruisers	5/27/2001	0		LGE			
+Brasil, Manuel	Stanislaus United Cruisers	Orange County Blue Star	Stanislaus United Cruisers	5/27/2001	24		LGE			
+Detter, Justin	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	5/27/2001	0		LGE			
+Mariscalco, Michael	Kalamazoo Kingdom	Kalamazoo Kingdom	Chicago Fire Reserves	6/1/2001	84		LGE			
+Willson, Eric	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	6/1/2001	90		LGE			
+DaSilva, Nino	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	6/1/2001	73		LGE			
+Paul, Lee	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	6/1/2001	60		LGE			
+Glinton, Gavin	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	6/1/2001	79		LGE	DaSilva, Nino		
+Koroma, Alhassan	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	6/1/2001	20		LGE	Oliver, Allan		
+Brunt, Christopher	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	6/1/2001	76		LGE	Oliver, Allan		
+Ruberto, Frank	Thunder Bay Chill	Sioux Falls SpitFire	Thunder Bay Chill	6/1/2001	7		LGE			
+Johnson, Paul	Spokane Shadow	Calgary Storm	Spokane Shadow	6/2/2001	0		LGE			
+Byers, Matthew	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	6/2/2001	2		LGE	Fosu, John		
+Rolfing, Todd	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	6/2/2001	40		LGE	Koroma, Alhassan		
+Rolfing, Todd	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	6/2/2001	87		LGE			
+Grau, Dustin	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	6/2/2001	8		LGE	Rolfing, Todd		
+Munson, Patrick	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	6/2/2001	80		LGE	Rolfing, Todd		
+Cierny, Rudy	Thunder Bay Chill	Sioux Falls SpitFire	Thunder Bay Chill	6/2/2001	42		LGE	Rosenfeld, Matt		
+Rivera, Santa Maria	Yakima Reds	Yakima Reds	Seattle Sounders Select	6/2/2001	76		LGE	Budner, Chad		
+Rivera, Santa Maria	Yakima Reds	Yakima Reds	Seattle Sounders Select	6/2/2001	69		LGE			
+Sagare, Jacob	Seattle Sounders Select	Yakima Reds	Seattle Sounders Select	6/2/2001	49		LGE			
+McNeley, Evan	Seattle Sounders Select	Yakima Reds	Seattle Sounders Select	6/2/2001	109		LGE			
+Watson, Joe	Seattle Sounders Select	Yakima Reds	Seattle Sounders Select	6/2/2001	11		LGE			
+Branan, Dustin	Twin Cities Phoenix	Chicago Fire Reserves	Twin Cities Phoenix	6/3/2001	0		LGE			
+Wesseh, Doco	Chicago Eagles Select	Chicago Eagles Select	Chicago Fire Reserves	6/6/2001	0		LGE			
+Glinton, Gavin	Chicago Fire Reserves	Chicago Eagles Select	Chicago Fire Reserves	6/6/2001	0		LGE			
+Glinton, Gavin	Chicago Fire Reserves	Chicago Eagles Select	Chicago Fire Reserves	6/6/2001	0		LGE			
+Meek, Benjamin	Southern California Seahorse	Southern California Seahorse	Arizona Sahuaros	6/8/2001	0		LGE			
+Lawson, Beau	Southern California Seahorse	Southern California Seahorse	Arizona Sahuaros	6/8/2001	0		LGE			
+Willson, Eric	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	6/10/2001	0		LGE			
+Reti, Sean	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	6/10/2001	0		LGE			
+Glinton, Gavin	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	6/10/2001	0		LGE			
+Glinton, Gavin	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	6/10/2001	0		LGE			
+Castro, Gabriel	Arizona Sahuaros	San Gabriel Valley Highlanders	Arizona Sahuaros	6/10/2001	87		LGE			
+Willson, Eric	Chicago Fire Reserves	Chicago Fire Reserves	West Michigan Edge	6/13/2001	0		LGE			
+Glinton, Gavin	Chicago Fire Reserves	Chicago Fire Reserves	West Michigan Edge	6/13/2001	0		LGE			
+Rodriguez, Andy	Indiana Invaders	Indiana Invaders	Chicago Fire Reserves	6/15/2001	0		LGE			
+Collins, John	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	6/15/2001	0		LGE			
+Maliza, Johanes	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	6/15/2001	0		LGE			
+Kuska, Jason	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	6/15/2001	0		LGE			
+Lane, Jeff	Yakima Reds	Okanagan Challenge	Yakima Reds	6/16/2001	0		LGE			
+Knox, Nathan	Twin Cities Phoenix	Twin Cities Phoenix	Thunder Bay Chill	6/16/2001	0		LGE			
+Raftery, Jared	Dayton Gemini	Dayton Gemini	Chicago Fire Reserves	6/17/2001	0		LGE			
+Paul, Lee	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	6/17/2001	0		LGE			
+Glinton, Gavin	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	6/17/2001	0		LGE			
+Glinton, Gavin	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	6/17/2001	0		LGE			
+Glinton, Gavin	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	6/17/2001	0		LGE			
+Maragh, Allan	Cascade Surge	Okanagan Challenge	Cascade Surge	6/17/2001	0		LGE			
+Rivard, Justin	Cascade Surge	Okanagan Challenge	Cascade Surge	6/17/2001	0		LGE			
+Diaz, Jose	Cascade Surge	Okanagan Challenge	Cascade Surge	6/17/2001	0		LGE			
+Diaz, Jose	Cascade Surge	Okanagan Challenge	Cascade Surge	6/17/2001	0		LGE			
+Cravy, Glenn	Cascade Surge	Okanagan Challenge	Cascade Surge	6/17/2001	0		LGE			
+Berg, Eric	Twin Cities Phoenix	Twin Cities Phoenix	Thunder Bay Chill	6/17/2001	0		LGE			
+Scanlon, Chris	Twin Cities Phoenix	Twin Cities Phoenix	Thunder Bay Chill	6/17/2001	0		LGE			
+Miller, Craig	Twin Cities Phoenix	Twin Cities Phoenix	Thunder Bay Chill	6/17/2001	0		LGE			
+Peattie, Geoff	Twin Cities Phoenix	Twin Cities Phoenix	Thunder Bay Chill	6/17/2001	0		LGE			
+Peattie, Geoff	Twin Cities Phoenix	Twin Cities Phoenix	Thunder Bay Chill	6/17/2001	0		LGE			
+Gledhill, James	Spokane Shadow	Okanagan Challenge	Spokane Shadow	6/22/2001	0		LGE			
+Gledhill, James	Spokane Shadow	Okanagan Challenge	Spokane Shadow	6/22/2001	0		LGE			
+Ready, Troy	Spokane Shadow	Okanagan Challenge	Spokane Shadow	6/22/2001	0		LGE			
+San Filippo, Frankie	Des Moines Menace	Thunder Bay Chill	Des Moines Menace	6/22/2001	0		LGE			
+Riddle, Stuart	Des Moines Menace	Thunder Bay Chill	Des Moines Menace	6/22/2001	0		LGE			
+Riddle, Stuart	Des Moines Menace	Thunder Bay Chill	Des Moines Menace	6/22/2001	0		LGE			
+Murad, Joshua	Des Moines Menace	Thunder Bay Chill	Des Moines Menace	6/22/2001	0		LGE			
+DePalma, Gary	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Charleston Battery	9/20/2001	45		PLO	Johnson, Brian		
+Karn, Phil	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Charleston Battery	9/20/2001	86		PLO	Welton Melo		
+Conway, Paul	Charleston Battery	Pittsburgh Riverhounds	Charleston Battery	9/20/2001	38		PLO	Jean-Baptiste, Gilbert		
+Lewis, Darin	Portland Timbers	Portland Timbers	Charlotte Eagles	9/20/2001	9		PLO	Baena, Mark		
+Baena, Mark	Portland Timbers	Portland Timbers	Charlotte Eagles	9/20/2001	19		PLO	Winters, Brian		
+Houser, Jeff	Nashville Metros	Milwaukee Rampage	Nashville Metros	9/22/2001	90		PLO	Morman, Christopher		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Portland Timbers	9/22/2001	16		PLO	Coggins, Jacob		
+Johnson, Joey	Charlotte Eagles	Charlotte Eagles	Portland Timbers	9/22/2001	36		PLO	Parry, Ben		
+O'Neill, Michael	Portland Timbers	Charlotte Eagles	Portland Timbers	9/22/2001	23		PLO	Benedetti, Scott		
+Benedetti, Scott	Portland Timbers	Charlotte Eagles	Portland Timbers	9/22/2001	82		PLO			
+Howes, Gregory	Portland Timbers	Charlotte Eagles	Portland Timbers	9/22/2001	85		PLO	Winters, Brian		
+Cozier, Mangea (Mac)	Charleston Battery	Charleston Battery	Pittsburgh Riverhounds	9/22/2001	22		PLO	Jean-Baptiste, Gilbert		
+DePalma, Gary	Pittsburgh Riverhounds	Charleston Battery	Pittsburgh Riverhounds	9/22/2001	3		PLO			
+Dougherty, Paul	Pittsburgh Riverhounds	Charleston Battery	Pittsburgh Riverhounds	9/22/2001	45		PLO	Gutierrez, Henry		
+Jones, John	Pittsburgh Riverhounds	Charleston Battery	Pittsburgh Riverhounds	9/22/2001	54		PLO	DePalma, Gary		
+Lee Yaw, Jerome	Greenville Lions	Greenville Lions	Atlanta Silverbacks	4/22/2001	68		LGE	Parkinson, Keith		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Greenville Lions	Atlanta Silverbacks	4/22/2001	73		LGE	Ilarionov, Ivailo		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Greenville Lions	Atlanta Silverbacks	4/22/2001	95	Penalty	LGE			
+Finn, Sean	Atlanta Silverbacks	Atlanta Silverbacks	San Diego Flash	9/23/2001	45		PLO	Dotshenko, Ihor		
+Finn, Sean	Atlanta Silverbacks	Atlanta Silverbacks	San Diego Flash	9/23/2001	90		PLO	Walker, Ryan		
+Adair, Chugger	San Diego Flash	Atlanta Silverbacks	San Diego Flash	9/23/2001	41		PLO	Bustos, Javier		
+Martins, Thiago	San Diego Flash	Atlanta Silverbacks	San Diego Flash	9/23/2001	66		PLO	Suazo, Miguel		
+Welton Melo	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Rochester Rhinos	9/26/2001	62		PLO			
+Jones, John	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Rochester Rhinos	9/26/2001	81		PLO	Gutierrez, Henry		
+Mladenov, Stoian	Rochester Rhinos	Pittsburgh Riverhounds	Rochester Rhinos	9/26/2001	25	Penalty	PLO			
+Alcaraz-Cuellar, Hugo	San Diego Flash	San Diego Flash	Vancouver Whitecaps	9/26/2001	67		PLO	O'Connor, Brian		
+Ayim, Emmanuel	San Diego Flash	San Diego Flash	Vancouver Whitecaps	9/26/2001	84		PLO	Brown, PJ		
+Watson, Doug	Hershey Wildcats	Portland Timbers	Hershey Wildcats	9/27/2001	71		PLO	Roberto, Ze		
+DeGand, Fred	Hershey Wildcats	Portland Timbers	Hershey Wildcats	9/27/2001	85		PLO	Williams, Michael		
+Godoy, Philippe	Milwaukee Rampage	Milwaukee Rampage	Richmond Kickers	9/28/2001	18		PLO	Takawira, Vitalis (Digital)		
+Takawira, Vitalis (Digital)	Milwaukee Rampage	Milwaukee Rampage	Richmond Kickers	9/28/2001	73		PLO	Russell, Jason		
+Henderson, Joshua	Richmond Kickers	Milwaukee Rampage	Richmond Kickers	9/28/2001	17		PLO	Jeffrey, Kevin		
+Knight, Kevin	Richmond Kickers	Milwaukee Rampage	Richmond Kickers	9/28/2001	74		PLO	Williams, Tony		
+Feniger, Michael	Hershey Wildcats	Hershey Wildcats	Portland Timbers	9/29/2001	28		PLO	Miller, Doug		
+Nash, Martin	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	9/29/2001	30		PLO	Mladenov, Stoian		
+Gibson, Neathan	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	9/29/2001	52		PLO	Daligcon, Nate		
+Tanner, Tommy	Rochester Rhinos	Rochester Rhinos	Pittsburgh Riverhounds	9/29/2001	90		PLO	Wilson, Kirk		
+Tilley, Darren	Vancouver Whitecaps	Vancouver Whitecaps	San Diego Flash	9/29/2001	6		PLO	Sulentic, John		
+Sulentic, John	Vancouver Whitecaps	Vancouver Whitecaps	San Diego Flash	9/29/2001	17		PLO	Holness, Kevin		
+Kindel, Steve	Vancouver Whitecaps	Vancouver Whitecaps	San Diego Flash	9/29/2001	42		PLO	Jordan, Jason		
+Sulentic, John	Vancouver Whitecaps	Vancouver Whitecaps	San Diego Flash	9/29/2001	90		PLO	Tilley, Darren		
+Adair, Chugger	San Diego Flash	Vancouver Whitecaps	San Diego Flash	9/29/2001	25		PLO	Calderson, Carlos		
+Henderson, Joshua	Richmond Kickers	Richmond Kickers	Milwaukee Rampage	9/30/2001	90	Penalty	PLO			
+Curtin, Jim	Milwaukee Rampage	Richmond Kickers	Milwaukee Rampage	9/30/2001	35		PLO			
+Soso, Alen	Milwaukee Rampage	Richmond Kickers	Milwaukee Rampage	9/30/2001	93		PLO			
+Swords, Kyle	Hershey Wildcats	Vancouver Whitecaps	Hershey Wildcats	10/3/2001	21		PLO			
+Swords, Kyle	Hershey Wildcats	Vancouver Whitecaps	Hershey Wildcats	10/3/2001	39		PLO	Watson, Doug		
+Roberto, Ze	Hershey Wildcats	Vancouver Whitecaps	Hershey Wildcats	10/3/2001	85		PLO	Miller, Doug		
+Miller, Doug	Hershey Wildcats	Vancouver Whitecaps	Hershey Wildcats	10/3/2001	90		PLO	Evans, Chad		
+Godoy, Philippe	Milwaukee Rampage	Milwaukee Rampage	Rochester Rhinos	10/4/2001	24		PLO	Soso, Igor		
+Bobo, Matthew	Milwaukee Rampage	Milwaukee Rampage	Rochester Rhinos	10/4/2001	61		PLO	Soso, Igor		
+Steenkamp, Lenin	Rochester Rhinos	Milwaukee Rampage	Rochester Rhinos	10/4/2001	2		PLO	Daligcon, Nate		
+Daligcon, Nate	Rochester Rhinos	Milwaukee Rampage	Rochester Rhinos	10/4/2001	15		PLO	Sedgewick, Bill		
+Gibson, Neathan	Rochester Rhinos	Milwaukee Rampage	Rochester Rhinos	10/4/2001	76		PLO	Nash, Martin		
+Tilley, Darren	Vancouver Whitecaps	Hershey Wildcats	Vancouver Whitecaps	10/6/2001	66		PLO	Jordan, Jason		
+Gibson, Neathan	Rochester Rhinos	Rochester Rhinos	Milwaukee Rampage	10/6/2001	41		PLO	Mladenov, Stoian		
+Mladenov, Stoian	Rochester Rhinos	Rochester Rhinos	Hershey Wildcats	10/13/2001	69		PLO	Nash, Martin		
+Mladenov, Stoian	Rochester Rhinos	Rochester Rhinos	Hershey Wildcats	10/13/2001	87		PLO	Tanner, James (Jimmy)		
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	South Jersey Barons	6/2/2001	8		ILG	Burke, Michael		
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	South Jersey Barons	6/2/2001	10		ILG	Feruzzi, Marco		
+Henderson, Joshua	Richmond Kickers	Richmond Kickers	South Jersey Barons	6/2/2001	85		ILG	Adu-Gyamfi, Kwaku		
+William, Gary	South Jersey Barons	Richmond Kickers	South Jersey Barons	6/2/2001	30		ILG	Morris, Patrick		
+Adu-Gyamfi, Kwaku	Richmond Kickers	New Jersey Stallions	Richmond Kickers	4/29/2001	19		ILG	Feruzzi, Marco		
+Jeffrey, Kevin	Richmond Kickers	New Jersey Stallions	Richmond Kickers	4/29/2001	33		ILG			
+Jeffrey, Kevin	Richmond Kickers	New Jersey Stallions	Richmond Kickers	4/29/2001	75		ILG	Alvero, Kevin		
+Murad, Joshua	Des Moines Menace	Twin Cities Phoenix	Des Moines Menace	6/1/2001	10		LGE	Modersohn, Seth		
+Nash, Martin	Rochester Rhinos	Rochester Rhinos	Connecticut Wolves	9/2/2001	25		LGE	Steenkamp, Lenin		
+Steenkamp, Lenin	Rochester Rhinos	Rochester Rhinos	Connecticut Wolves	9/2/2001	35		LGE			
+Wilson, Kirk	Rochester Rhinos	Rochester Rhinos	Connecticut Wolves	9/2/2001	57		LGE	Steenkamp, Lenin		
+Mitchell, Jamel	Rochester Rhinos	Rochester Rhinos	Connecticut Wolves	9/2/2001	90		LGE	Kirmse, Michael		
+Manganello, Mark	Connecticut Wolves	Rochester Rhinos	Connecticut Wolves	9/2/2001	16		LGE	Suarez, Temoc		
+Suarez, Temoc	Connecticut Wolves	Rochester Rhinos	Connecticut Wolves	9/2/2001	72		LGE	Oparaku, Mobi		
+Suarez, Temoc	Connecticut Wolves	Connecticut Wolves	Rhode Island Stingrays	5/12/2001	13		ILG			
+Beech, Patrick	Connecticut Wolves	Connecticut Wolves	Rhode Island Stingrays	5/12/2001	39		ILG	Barbieri, Erik		
+Zuniga, Fabio	Connecticut Wolves	Connecticut Wolves	Rhode Island Stingrays	5/12/2001	58		ILG			
+Williams, Bert	Connecticut Wolves	Connecticut Wolves	Rhode Island Stingrays	5/12/2001	83		ILG			
+Wood, Brian	Connecticut Wolves	Connecticut Wolves	Rhode Island Stingrays	5/12/2001	84		ILG			
+Akin, Jon	Charleston Battery	Charleston Battery	Wilmington Hammerheads	5/19/2001	12		ILG	Iotov, Velko		
+Iotov, Velko	Charleston Battery	Charleston Battery	Wilmington Hammerheads	5/19/2001	29		ILG	Rantala, Jukka		
+Weinstein, Cordt	Long Island Rough Riders	Long Island Rough Riders	New Jersey Stallions	4/21/2001	61		ILG	Sy, Moussa		
+Fernandes, Fernando	Long Island Rough Riders	Long Island Rough Riders	New Jersey Stallions	4/21/2001	79		ILG	Watkins, Shane		
+Ablett, Gary	Long Island Rough Riders	Long Island Rough Riders	New Jersey Stallions	4/21/2001	82		ILG	Ragusa, Joe		
+Dos Santos, Julio Cesar	New Jersey Stallions	Long Island Rough Riders	New Jersey Stallions	4/21/2001	17		ILG	Cairns, Jason		
+Dos Santos, Julio Cesar	New Jersey Stallions	Long Island Rough Riders	New Jersey Stallions	4/21/2001	25		ILG	Johnson, Kobie		
+Risch, Danny	Central Coast Roadrunners	Central Coast Roadrunners	Orange County Blue Star	6/2/2001	53		LGE	Clark, Evan		
+Poltl, Thomas	Orange County Blue Star	Central Coast Roadrunners	Orange County Blue Star	6/2/2001	49		LGE	Davis, Chadd		
+Futagaki, Ryan	Orange County Blue Star	Central Coast Roadrunners	Orange County Blue Star	6/2/2001	65		LGE			
+Hutson, Renwick	Westchester Flames	Westchester Flames	Vermont Voltage	6/2/2001	94		LGE	Matteo, Jeffrey		
+Bojovic, Radoslav	Westchester Flames	Westchester Flames	Vermont Voltage	6/2/2001	59		LGE	Matteo, Jeffrey		
+Simic, Bozidar	Vermont Voltage	Westchester Flames	Vermont Voltage	6/2/2001	46		LGE	Popovic, Milenko		
+Asorey, Matis	Miami Strike Force	Miami Strike Force	Bradenton Academics	6/2/2001	14		LGE	Reyes, Rafael		
+Gonzalez, Luis	Miami Strike Force	Miami Strike Force	Bradenton Academics	6/2/2001	82		LGE	Reyes, Rafael		
+Lucas, Ryan	Boston Bulldogs	Boston Bulldogs	Connecticut Wolves	4/21/2001	66		ILG	Phillips, Sullivan		
+Oyuga, Paul	Connecticut Wolves	Boston Bulldogs	Connecticut Wolves	4/21/2001	66		ILG			
+Hinkey, Brian	Nashville Metros	Nashville Metros	Greenville Lions	6/1/2001	38		ILG	DeVall, Danny		
+Fenger-Larsen, Jakob	Nashville Metros	Nashville Metros	Greenville Lions	6/1/2001	43		ILG	DeVall, Danny		
+Wall, James	Nashville Metros	Nashville Metros	Greenville Lions	6/1/2001	60		ILG	Schell, Dominic		
+Swords, Kyle	Hershey Wildcats	Reading Rage	Hershey Wildcats	6/3/2001	50		ILG	Klein, Stephen		
+Lindenmayer, Christof	Hershey Wildcats	Reading Rage	Hershey Wildcats	6/3/2001	61		ILG			
+Sebrango, Eduardo	Hershey Wildcats	Reading Rage	Hershey Wildcats	6/3/2001	68		ILG	Henning, Michael		
+Sebrango, Eduardo	Hershey Wildcats	Reading Rage	Hershey Wildcats	6/3/2001	86		ILG	Feniger, Michael		
+Flavius, David	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Northern Virginia Royals	6/1/2001	16		ILG	Vilda, Alfredo		
+Karn, Phil	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Northern Virginia Royals	6/1/2001	18		ILG	Iribarren, Ricardo		
+Karn, Phil	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Northern Virginia Royals	6/1/2001	77		ILG	Child, Edward		
+Karn, Phil	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Northern Virginia Royals	6/1/2001	88		ILG	Vilda, Alfredo		
+Garry, Benjamin	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Northern Virginia Royals	6/1/2001	50		ILG	Gutierrez, Henry		
+Terlecky, Nicholas	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Northern Virginia Royals	6/1/2001	61		ILG	DePalma, Gary		
+Tripoli, Jaman	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Northern Virginia Royals	6/1/2001	71		ILG	Karn, Phil		
+Klotz, Leidy	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Northern Virginia Royals	6/1/2001	75		ILG	DePalma, Gary		
+Henes, Robert (Bobby)	Reading Rage	Reading Rage	Pittsburgh Riverhounds	5/11/2001	45		ILG	Chrisanthon, Nick		
+Wright, David	Pittsburgh Riverhounds	Reading Rage	Pittsburgh Riverhounds	5/11/2001	5		ILG	Jones, John		
+Green, Michael	Pittsburgh Riverhounds	Reading Rage	Pittsburgh Riverhounds	5/11/2001	52		ILG	Wright, David		
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Arizona Sahuaros	4/15/2001	79		ILG	Farias, Carlos		
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Arizona Sahuaros	4/15/2001	20		ILG	Rodriguez, Esmundo		
+Mercado, Salvador	El Paso Patriots	El Paso Patriots	Arizona Sahuaros	4/15/2001	15		ILG	Macias, Luis Antonio		
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Arizona Sahuaros	4/15/2001	64		ILG			
+Leal-Gustavo, Oscar	El Paso Patriots	El Paso Patriots	Arizona Sahuaros	4/15/2001	36		ILG			
+Leal-Gustavo, Oscar	El Paso Patriots	El Paso Patriots	Arizona Sahuaros	4/15/2001	42		ILG			
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Arizona Sahuaros	4/15/2001	56		ILG			
+Leib, Ryan	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	4/27/2001	53		ILG			
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	4/27/2001	80		ILG	Norkus, Caleb		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	4/27/2001	75		ILG	Gonzalez, Marcelo		
+Watkins, Nathan	Charlotte Eagles	Charlotte Eagles	Wilmington Hammerheads	4/27/2001	60	Penalty	ILG			
+Walker, Ryan	Atlanta Silverbacks	Atlanta Silverbacks	Greenville Lions	4/28/2001	23		ILG	Merkel, Randy		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Greenville Lions	4/28/2001	55		ILG			
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Greenville Lions	4/28/2001	85		ILG	Callahan, Sean Michael		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Greenville Lions	4/28/2001	35		ILG	Walker, Ryan		
+Moleka, Ignace (Iggy)	Atlanta Silverbacks	Atlanta Silverbacks	Greenville Lions	4/28/2001	90		ILG			
+Adair, Chugger	San Diego Flash	San Diego Flash	Chico Rooks	5/5/2001	82		ILG	Livett, Simon		
+Ayim, Emmanuel	San Diego Flash	San Diego Flash	Chico Rooks	5/5/2001	85		ILG	O'Connor, Brian		
+Karn, Phil	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Reading Rage	5/5/2001	84		ILG			
+Klotz, Leidy	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Reading Rage	5/5/2001	99		ILG			
+Kvello, Eric	Reading Rage	Pittsburgh Riverhounds	Reading Rage	5/5/2001	82		ILG			
+Lagos, Gerard	Minnesota Thunder	Minnesota Thunder	Indiana Blast	5/5/2001	40		ILG	Miller, Kirk		
+Schulte, Mark	Minnesota Thunder	Minnesota Thunder	Indiana Blast	5/5/2001	42		ILG	Magee, Amos		
+Lagos, Gerard	Minnesota Thunder	Minnesota Thunder	Indiana Blast	5/5/2001	49		ILG	Magee, Amos		
+Miller, Kirk	Minnesota Thunder	Minnesota Thunder	Indiana Blast	5/5/2001	58		ILG	Zeba, Morgan		
+Mouw, Robert	Charlotte Eagles	Charlotte Eagles	Carolina Dynamo	5/18/2001	62		ILG	Miller, Matthew (Matt)		
+Swinehart, Dustin	Charlotte Eagles	Charlotte Eagles	Carolina Dynamo	5/18/2001	14		ILG	Galeano, Hugo		
+Forsberg, Christer	Seattle Sounders	Seattle Sounders	Northern Nevada Aces	5/18/2001	58		ILG	Jenkins, Scott		
+Bettinger, Rees	Seattle Sounders	Seattle Sounders	Northern Nevada Aces	5/18/2001	39		ILG	Forsberg, Christer		
+Bettinger, Rees	Seattle Sounders	Seattle Sounders	Northern Nevada Aces	5/18/2001	31		ILG	Forsberg, Christer		
+Garner, James (Troy)	Carolina Dynamo	Carolina Dynamo	Charlotte Eagles	5/19/2001	17		ILG	Hylton, Andrew		
+Norkus, Caleb	Charlotte Eagles	Carolina Dynamo	Charlotte Eagles	5/19/2001	19		ILG	Gomez, Jose		
+Coggins, Jacob	Charlotte Eagles	Carolina Dynamo	Charlotte Eagles	5/19/2001	57		ILG	O'Brien, Kevin		
+Norkus, Caleb	Charlotte Eagles	Carolina Dynamo	Charlotte Eagles	5/19/2001	85		ILG	Mouw, Robert		
+Howes, Gregory	Portland Timbers	Portland Timbers	Northern Nevada Aces	5/19/2001	25		ILG	Benedetti, Scott		
+Zeba, Morgan	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	5/26/2001	22		ILG	Gentile, Mike		
+Menyongar, Johnny	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	5/26/2001	61		ILG	Zeba, Morgan		
+Zeba, Morgan	Minnesota Thunder	Minnesota Thunder	Cincinnati Riverhawks	5/26/2001	79		ILG	Menyongar, Johnny		
+Kaszuba, RJ	Cincinnati Riverhawks	Minnesota Thunder	Cincinnati Riverhawks	5/26/2001	75		ILG	Mercik, Joe		
+Nguyen, Viet	Seattle Sounders	Northern Nevada Aces	Seattle Sounders	5/27/2001	36		ILG			
+Nguyen, Viet	Seattle Sounders	Northern Nevada Aces	Seattle Sounders	5/27/2001	23		ILG			
+Farrell, Jason	Seattle Sounders	Northern Nevada Aces	Seattle Sounders	5/27/2001	32		ILG			
+Brown, Chad	Seattle Sounders	Northern Nevada Aces	Seattle Sounders	5/27/2001	81		ILG	Hattrup, Peter		
+Hattrup, Peter	Seattle Sounders	Northern Nevada Aces	Seattle Sounders	5/27/2001	45		ILG	Edwards, Ryan		
+Tomlinson, Craig	Seattle Sounders	Seattle Sounders	Utah Blitzz	6/8/2001	72		ILG	Brown, Chad		
+Ching, Brian	Seattle Sounders	Seattle Sounders	Utah Blitzz	6/8/2001	24		ILG	Nguyen, Viet		
+Nguyen, Viet	Seattle Sounders	Seattle Sounders	Utah Blitzz	6/8/2001	65		ILG	Tomlinson, Craig		
+Williams, Bert	Connecticut Wolves	Connecticut Wolves	Boston Bulldogs	5/19/2001	53	Penalty	ILG			
+Oyuga, Paul	Connecticut Wolves	Connecticut Wolves	Boston Bulldogs	5/19/2001	68		ILG			
+Phillips, Sullivan	Boston Bulldogs	Connecticut Wolves	Boston Bulldogs	5/19/2001	12		ILG			
+Cubillas, Coco	Wilmington Hammerheads	Wilmington Hammerheads	Charlotte Eagles	6/1/2001	74		ILG			
+Cubillas, Coco	Wilmington Hammerheads	Wilmington Hammerheads	Charlotte Eagles	6/1/2001	75		ILG			
+Lomeli, Jose	El Paso Patriots	El Paso Patriots	Tucson Fireballs	5/28/2001	29		ILG	Rowland, Mark		
+Rowland, Mark	El Paso Patriots	El Paso Patriots	Tucson Fireballs	5/28/2001	34		ILG	Lomeli, Jose		
+Griego, Michael	El Paso Patriots	El Paso Patriots	Tucson Fireballs	5/28/2001	45		ILG	Lomeli, Jose		
+Mercado, Salvador	El Paso Patriots	El Paso Patriots	Tucson Fireballs	5/28/2001	60		ILG	Rodriguez, Esmundo		
+Mercado, Salvador	El Paso Patriots	El Paso Patriots	Tucson Fireballs	5/28/2001	86		ILG	Rodriguez, Esmundo		
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Tucson Fireballs	5/28/2001	75		ILG	Farias, Carlos		
+Farias, Carlos	El Paso Patriots	El Paso Patriots	Tucson Fireballs	5/28/2001	87		ILG			
+Scotti, Chris	Tucson Fireballs	El Paso Patriots	Tucson Fireballs	5/28/2001	62		ILG			
+Sawatzky, Darren	Portland Timbers	Portland Timbers	Utah Blitzz	6/9/2001	49		ILG			
+Ovalle-Wood, Adolfo	Utah Blitzz	Portland Timbers	Utah Blitzz	6/9/2001	32		ILG	McNicol, William (BJ)		
+Westcott, Sterling	Utah Blitzz	Portland Timbers	Utah Blitzz	6/9/2001	71		ILG			
+Koubouras, Nasees	Utah Blitzz	Portland Timbers	Utah Blitzz	6/9/2001	76		ILG	McNicol, William (BJ)		
+Ochoa, Jesus	Portland Timbers	Portland Timbers	San Jose Earthquakes	6/10/2001	24		ILG	Baena, Mark		
+Legg, Kevin	Portland Timbers	Portland Timbers	San Jose Earthquakes	6/10/2001	74		ILG	Costigan, Keith		
+Corrales, Ramiro	San Jose Earthquakes	Portland Timbers	San Jose Earthquakes	6/10/2001	45	Penalty	ILG			
+Burcar, Scott	Seattle Sounders Select	Seattle Sounders Select	Olympia	6/9/2001	35		USOC			
+Kingsley, Zachary	Seattle Sounders Select	Seattle Sounders Select	Olympia	6/9/2001	85		USOC			
+Foisie, Greg	Seattle Sounders Select	Seattle Sounders Select	Olympia	6/9/2001	60		USOC			
+Foisie, Greg	Seattle Sounders Select	Seattle Sounders Select	Olympia	6/9/2001	64		USOC			
+Segovia, Keith	Olympia	Seattle Sounders Select	Olympia	6/9/2001	41	Penalty	USOC			
+Djeukeng, Benjamin	Mid Michigan Bucks	Mid Michigan Bucks	Chaldean Arsenal	6/13/2001	35		USOC			
+Detter, Justin	Mid Michigan Bucks	Mid Michigan Bucks	Chaldean Arsenal	6/13/2001	20		USOC			
+Deopere, Scott	Mid Michigan Bucks	Mid Michigan Bucks	Chaldean Arsenal	6/13/2001	88		USOC			
+Asorey, Matis	Miami Strike Force	Miami Strike Force	Uruguay SC	6/13/2001	32		USOC			
+Khalil, Joseph	Miami Strike Force	Miami Strike Force	Uruguay SC	6/13/2001	73		USOC			
+Zurita, Sebastian	Uruguay SC	Miami Strike Force	Uruguay SC	6/13/2001	65		USOC			
+Zurita, Sebastian	Uruguay SC	Miami Strike Force	Uruguay SC	6/13/2001	60		USOC			
+Barrios, Julio	Uruguay SC	Miami Strike Force	Uruguay SC	6/13/2001	10		USOC			
+Knights, Irasto	Connecticut Wolves	Connecticut Wolves	Tampa Bay Mutiny	6/26/2001	86		USOC			
+Griffiths, Winston	Connecticut Wolves	Connecticut Wolves	Tampa Bay Mutiny	6/26/2001	58		USOC			
+Oparaku, Mobi	Connecticut Wolves	Connecticut Wolves	Tampa Bay Mutiny	6/26/2001	50		USOC			
+Kingsley, Zachary	Seattle Sounders Select	Dallas Burn	Seattle Sounders Select	6/27/2001	69		USOC			
+Ness, Kurt	Seattle Sounders Select	Dallas Burn	Seattle Sounders Select	6/27/2001	97		USOC			
+Foisie, Greg	Seattle Sounders Select	Dallas Burn	Seattle Sounders Select	6/27/2001	45		USOC			
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Chico Rooks	6/27/2001	52		USOC			
+Rodriguez, Esmundo	El Paso Patriots	El Paso Patriots	Chico Rooks	6/27/2001	65		USOC			
+Rowland, Mark	El Paso Patriots	El Paso Patriots	Chico Rooks	6/27/2001	28		USOC			
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Chico Rooks	6/27/2001	48		USOC			
+Campos, German	Chico Rooks	El Paso Patriots	Chico Rooks	6/27/2001	54		USOC			
+Barragan, Arturo	Chico Rooks	El Paso Patriots	Chico Rooks	6/27/2001	67		USOC			
+Barragan, Arturo	Chico Rooks	El Paso Patriots	Chico Rooks	6/27/2001	77		USOC			
+Karn, Phil	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Colorado Rapids	6/27/2001	90		USOC			
+Ulloa, Alfredo	Pittsburgh Riverhounds	Pittsburgh Riverhounds	Colorado Rapids	6/27/2001	54		USOC			
+Hayes, David	Milwaukee Rampage	Milwaukee Rampage	Utah Blitzz	6/27/2001	62		USOC			
+Soso, Igor	Milwaukee Rampage	Milwaukee Rampage	Utah Blitzz	6/27/2001	89		USOC			
+Cozier, Mangea (Mac)	Charleston Battery	Charleston Battery	MetroStars	6/27/2001	79		USOC			
+Jean-Baptiste, Gilbert	Charleston Battery	Charleston Battery	MetroStars	6/27/2001	47		USOC			
+Conway, Paul	Charleston Battery	Charleston Battery	MetroStars	6/27/2001	69		USOC			
+Piesner, Brian	Charleston Battery	Charleston Battery	MetroStars	6/27/2001	77		USOC			
+Alvero, Kevin	Richmond Kickers	Richmond Kickers	Reading Rage	6/27/2001	37		USOC	Jeffrey, Kevin		
+Knight, Kevin	Richmond Kickers	Richmond Kickers	Reading Rage	6/27/2001	33		USOC	Williams, Tony		
+Adu-Gyamfi, Kwaku	Richmond Kickers	Richmond Kickers	Reading Rage	6/27/2001	63		USOC			
+Burke, Michael	Richmond Kickers	Richmond Kickers	Reading Rage	6/27/2001	59		USOC	Williams, Tony		
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Reading Rage	6/27/2001	49		USOC	Alvero, Kevin		
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Reading Rage	6/27/2001	28		USOC	Adu-Gyamfi, Kwaku		
+Alvero, Kevin	Richmond Kickers	Richmond Kickers	Reading Rage	6/27/2001	26		USOC	Knight, Kevin		
+Kennedy, Roger	Reading Rage	Richmond Kickers	Reading Rage	6/27/2001	39		USOC	Connor, James		
+Henes, Robert (Bobby)	Reading Rage	Richmond Kickers	Reading Rage	6/27/2001	83		USOC	Miza, Mackey		
+Hennessey, Ian	DC United	DC United	New Jersey Stallions	6/27/2001	56	Own Goal	USOC			
+Klein, Stephen	Hershey Wildcats	Rochester Rhinos	Hershey Wildcats	7/2/2001	71		USOC			
+Reeves, Sy	Seattle Sounders Select	Los Angeles Galaxy	Seattle Sounders Select	7/11/2001	58		USOC			
+Macias, Luis Antonio	El Paso Patriots	El Paso Patriots	Pittsburgh Riverhounds	7/11/2001	48		USOC			
+Flavius, David	Pittsburgh Riverhounds	El Paso Patriots	Pittsburgh Riverhounds	7/11/2001	1		USOC			
+Gutierrez, Henry	Pittsburgh Riverhounds	El Paso Patriots	Pittsburgh Riverhounds	7/11/2001	48	Penalty	USOC			
+Conway, Paul	Charleston Battery	New England Revolution	Charleston Battery	7/11/2001	26		USOC			
+Feruzzi, Marco	Richmond Kickers	Richmond Kickers	Connecticut Wolves	7/11/2001	7		USOC			
+Jeffrey, Kevin	Richmond Kickers	Richmond Kickers	Connecticut Wolves	7/11/2001	89		USOC	Williams, Tony		
+Griffiths, Winston	Connecticut Wolves	Richmond Kickers	Connecticut Wolves	7/11/2001	38		USOC			
+Jeffrey, Kevin	Richmond Kickers	DC United	Richmond Kickers	7/24/2001	88		USOC			
+Dougherty, Paul	Pittsburgh Riverhounds	Chicago Fire	Pittsburgh Riverhounds	7/24/2001	70		USOC			
+Welton Melo	Pittsburgh Riverhounds	Chicago Fire	Pittsburgh Riverhounds	7/24/2001	9		USOC			
