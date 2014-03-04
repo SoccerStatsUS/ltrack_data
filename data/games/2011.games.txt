@@ -397,7 +397,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/19/2011	Portland Timbers	New York Red Bulls	3	3	18,627	League Game	LGE		Salazar, Ricardo	As Scored	0	0	
 6/19/2011	Puerto Rico Islanders	Atlanta Silverbacks	3	1	1,377	League Game	LGE			As Scored	0	0	
 6/19/2011	U.S. USNT	Jamaica	2	0	45,423	Gold Cup	GCup			As Scored	0	0	
-6/19/2011	Czech Republic	U.S. U-17 MNT	0	3	15,083	World Cup	WC			As Scored	0	0	
+6/19/2011	Czech Republic	U.S. U-17 MNT	0	3	15,083	World Cup	WC17			As Scored	0	0	
 6/20/2011	Los Angeles Galaxy	Vancouver Whitecaps	2	1	100	MLS Reserve League	ResL			As Scored	0	0	
 6/21/2011	Charleston Battery	Orlando City	0	1	100	US Open Cup	USOC			As Scored	0	0	
 6/21/2011	FC New York	NY Pancyprian-Freedoms	0	0	100	US Open Cup	USOC			As Scored	0	0	
@@ -413,7 +413,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/22/2011	Michigan Bucks	Akron Summit Assault	2	0	359	League Game	LGE		Agusta, Giuseppe	As Scored	0	0	
 6/22/2011	Philadephia Union	Sporting Kansas City	0	0	18,127	League Game	LGE		Vaughn, Terry	As Scored	0	0	
 6/22/2011	U.S. USNT	Panama	1	0	70,267	Gold Cup	GCup			As Scored	0	0	
-6/22/2011	Uzbekistan	U.S. U-17 MNT	2	1	4,133	World Cup	WC			As Scored	0	0	
+6/22/2011	Uzbekistan	U.S. U-17 MNT	2	1	4,133	World Cup	WC17			As Scored	0	0	
 6/23/2011	Seattle Sounders	New York Red Bulls	4	2	46,065	League Game	LGE		Kennedy, Michael	As Scored	0	0	
 6/24/2011	Antigua Barracuda FC	Orlando City	1	3	1,200	League Game	LGE		Charles, Curtis	As Scored	0	0	
 6/24/2011	Charlotte Eagles	Pittsburgh Riverhounds	2	0	910	League Game	LGE		Cleland, Mark	As Scored	0	0	
@@ -433,7 +433,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/25/2011	San Jose Earthquakes	Los Angeles Galaxy	0	0	10,872	League Game	LGE	Magee in goal at 43 min	Guzman, Juan	As Scored	0	0	
 6/25/2011	Victoria Highlanders	Abbotsford Mariners	1	0	805	League Game	LGE		Slinn, Justin	As Scored	0	0	
 6/25/2011	U.S. USNT	Mexico	2	4	93,420	Gold Cup	GCup			As Scored	0	0	
-6/25/2011	New Zealand	U.S. U-17 MNT	0	0	8,556	World Cup	WC			As Scored	0	0	
+6/25/2011	New Zealand	U.S. U-17 MNT	0	0	8,556	World Cup	WC17			As Scored	0	0	
 6/26/2011	Akron Summit Assault	River City Rovers	3	1	148	League Game	LGE		Stoica, Sorin	As Scored	0	0	
 6/26/2011	Antigua Barracuda FC	Orlando City	1	2	1,200	League Game	LGE		Willet, Bryan	As Scored	0	0	
 6/26/2011	Chicago Fire	New York Red Bulls	1	1	16,961	League Game	LGE		Stott, Kevin	As Scored	0	0	
@@ -456,7 +456,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/29/2011	Ft. Lauderdale Strikers	Tampa Bay Rowdies	1	1	5,848	League Game	LGE			As Scored	0	0	
 6/29/2011	Montreal Impact	Puerto Rico Islanders	0	0	10,256	League Game	LGE			As Scored	0	0	
 6/29/2011	Toronto FC	Vancouver Whitecaps	1	0	19,816	League Game	LGE		Geiger, Mark	As Scored	0	0	
-6/30/2011	Germany	U.S. U-17 MNT	4	0	16,191	World Cup	WC			As Scored	0	0	
+6/30/2011	Germany	U.S. U-17 MNT	4	0	16,191	World Cup	WC17			As Scored	0	0	
 7/1/2011	Charleston Battery	Los Angeles Blues	0	0	3,497	League Game	LGE			As Scored	0	0	
 7/1/2011	FC New York	Antigua Barracuda FC	2	0	1,653	League Game	LGE		Al-Saibi, Nabil	As Scored	0	0	
 7/1/2011	Pittsburgh Riverhounds	Orlando City	0	0	963	League Game	LGE		D'Ambrosia, Ron	As Scored	0	0	

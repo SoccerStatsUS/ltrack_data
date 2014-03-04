@@ -23,6 +23,9 @@ def process_lineups_file(p, determine_competition):
     data = text[1:]
 
     l = []
+
+    order = 1
+    previous_team = None
     
     for line in data:
         s = line.strip()
@@ -37,8 +40,13 @@ def process_lineups_file(p, determine_competition):
 
             competition = determine_competition(comp, team, season)
 
-
             n = format_name(name)
+
+            if previous_team == team:
+                order += 1
+            else:
+                order = 1
+                
 
 
             l.append({
@@ -49,12 +57,12 @@ def process_lineups_file(p, determine_competition):
                     'date': d,
                     'season': season,
                     'competition': competition,
+                    'order': order,
                     })
 
+    return l
+    #return [e for e in l if e['competition'] != 'Major League Soccer']
 
-    return [e for e in l if e['competition'] != 'Major League Soccer']
-
-        
 
 def process_games_file(p, determine_competition):
     """
@@ -116,6 +124,7 @@ def process_games_file(p, determine_competition):
                     'sources': ['Scott Leach'],
                     })
 
+    return l
     return [e for e in l if e['competition'] != 'Major League Soccer']
 
 
@@ -165,9 +174,8 @@ def process_goals_file(p, determine_competition):
                     'competition': competition,
                     })
 
+    return l
     return [e for e in l if e['competition'] != 'Major League Soccer']
-
-                    
 
 
 def process_goals(root, cm):
@@ -183,8 +191,6 @@ def process_goals(root, cm):
     return l
         
 
-
-
 def process_games(root, cm):
     """
     Process all game data from Leach.
@@ -198,7 +204,6 @@ def process_games(root, cm):
     return l
      
 
-
 def process_lineups(root, cm):
     """
     Process all game data from Leach.
@@ -209,6 +214,4 @@ def process_lineups(root, cm):
         p = os.path.join(directory, fn)
         data = process_lineups_file(p, cm)
         l.extend(data)
-        print(fn)
-
     return l
