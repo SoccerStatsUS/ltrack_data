@@ -1,5 +1,5 @@
 Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Referee	Awarded	Round	Period	
-1/22/2010	USNT	Chile	1	1	18,580	Friendly	FDLY		Gutierrez, Francisco Chacon	As Scored	0	0	
+
 1/27/2010	Jamaica	U.S. U-17	0	0	100	Friendly	FDLY			As Scored	0	0	
 2/24/2010	USNT	El Salvador	2	1	21,737	Friendly	FDLY		Petrescu, Silviu	As Scored	0	0	
 2/24/2010	U.S. U-17	Mexico	4	1	100	Friendly	FDLY		Penso, Chris	As Scored	0	0	
