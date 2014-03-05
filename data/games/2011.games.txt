@@ -1,4 +1,5 @@
 Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Referee	Awarded	Round	Period	
+1/22/2011	USNT	Chile	1	1	18,580	Friendly	FDLY		Gutierrez, Francisco Chacon	As Scored	0	0	
 1/17/2011	Jamaica	U.S. U-17 MNT	0	0	100	Friendly	FDLY			As Scored	0	0	
 1/22/2011	U.S. USNT	Chile	1	1	18,580	Friendly	FDLY			As Scored	0	0	
 1/30/2011	Jamaica	U.S. U-17 MNT	1	2	100	Friendly	FDLY			As Scored	0	0	

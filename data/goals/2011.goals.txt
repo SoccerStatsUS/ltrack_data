@@ -1,4 +1,5 @@
 Player	Team-For	Home-Team	Away-Team	Date	Goal-Time	Goal-Type	Comp	Assist	Assist2	
+Bunbury, Teal	USNT	USNT	Chile	1/22/2011	75	Penalty	FDLY			
 Saborio, Alvaro	Real Salt Lake	Real Salt Lake	Columbus Crew	3/3/2011	23		CCL	Morales, Javier		
 Morales, Javier	Real Salt Lake	Real Salt Lake	Columbus Crew	3/3/2011	36		CCL	Williams, Andy		
 Morales, Javier	Real Salt Lake	Real Salt Lake	Columbus Crew	3/3/2011	77		CCL	Paulo Araujo Jr		

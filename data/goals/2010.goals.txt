@@ -1391,7 +1391,6 @@ Chavez, Marvin	FC Dallas 96	Los Angeles Galaxy	FC Dallas 96	11/14/2010	73		PLO	F
 Ferreira, David Arturo	FC Dallas 96	FC Dallas 96	Colorado Rapids	11/21/2010	35		PLO			
 Casey, Conor	Colorado Rapids	FC Dallas 96	Colorado Rapids	11/21/2010	57		PLO			
 John, George	Colorado Rapids	FC Dallas 96	Colorado Rapids	11/21/2010	107	Own Goal	PLO			
-Bunbury, Teal	USNT	USNT	Chile	1/22/2010	75	Penalty	FDLY			
 Gulley, Kellen	U.S. U-17	U.S. U-17	Mexico	2/24/2010	25		FDLY			
 Guido, Alejandro	U.S. U-17	U.S. U-17	Mexico	2/24/2010	39	Penalty	FDLY			
 Gulley, Kellen	U.S. U-17	U.S. U-17	Mexico	2/24/2010	54		FDLY			

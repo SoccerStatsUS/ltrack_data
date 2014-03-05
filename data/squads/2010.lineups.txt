@@ -1,21 +1,4 @@
 Comp	Date	Home Team	Away Team	Squad-Team	Player	Rating	Time On	Time Off	YC1	YC2	RC	YC Time	Substituted By	Time On+	Time Off+	YC Time+	
-FDLY	1/22/2010	USNT	Chile	USNT	Rimando, Nick	0	0	46	N	N	N	0	Johnson, Sean	0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Franklin, Sean	0	0	90	N	N	N	0		0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Gonzalez, Omar	0	0	46	N	N	N	0	Wynne, Marvell	0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Loyd, Zach	0	0	73	Y	N	N	23	Wallace, Anthony	0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Ream, Tim	0	0	90	N	N	N	0		0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Bedoya, Alejandro	0	0	83	N	N	N	0	Alexander, Eric	0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Diskerud, Mikkel	0	0	90	N	N	N	0		0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Larentowicz, Jeff	0	0	90	N	N	N	0		0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	McCarty, Dax	0	0	90	N	N	N	0		0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Shea, Brek	0	0	60	N	N	N	0	Agudelo, Juan	0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Wondolowski, Chris	0	0	60	N	N	N	0	Bunbury, Teal	0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Johnson, Sean	0	46	90	N	N	N	0		0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Wynne, Marvell	0	46	90	N	N	N	0		0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Agudelo, Juan	0	60	90	N	N	N	0		0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Bunbury, Teal	0	60	90	N	N	N	0		0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Wallace, Anthony	0	73	90	N	N	N	0		0	0	0	
-FDLY	1/22/2010	USNT	Chile	USNT	Alexander, Eric	0	83	90	N	N	N	0		0	0	0	
 FDLY	2/24/2010	USNT	El Salvador	USNT	Rimando, Nick	0	0	90	N	N	N	0		0	0	0	
 FDLY	2/24/2010	USNT	El Salvador	USNT	Bornstein, Jonathan	0	0	90	N	N	N	0		0	0	0	
 FDLY	2/24/2010	USNT	El Salvador	USNT	Goodson, Clarence	0	0	90	N	N	N	0		0	0	0	
