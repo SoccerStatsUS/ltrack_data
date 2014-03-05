@@ -47,7 +47,10 @@ def process_lineups_file(p, determine_competition):
             else:
                 order = 1
                 
+            on = int(on)
+            off = int(off)
 
+            unused = (on == 0 and off == 0)
 
             l.append({
                     'name': n,
@@ -58,6 +61,7 @@ def process_lineups_file(p, determine_competition):
                     'season': season,
                     'competition': competition,
                     'order': order,
+                    'unused': unused
                     })
 
     return l

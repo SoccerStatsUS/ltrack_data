@@ -16024,41 +16024,41 @@ USOC	7/11/2007	Harrisburg City Islanders	DC United - MLS	DC United - MLS	Gros, J
 USOC	7/11/2007	Harrisburg City Islanders	DC United - MLS	DC United - MLS	McTavish, Devon	0	45	90	Y	N	N	87		0	0	0	
 USOC	7/11/2007	Harrisburg City Islanders	DC United - MLS	DC United - MLS	Mupier, Mira	0	58	90	N	N	N	0		0	0	0	
 USOC	7/11/2007	Harrisburg City Islanders	DC United - MLS	DC United - MLS	Moose, Justin	0	65	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Pascale, Ronnie	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Jones, Kelvin	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	McEachron, Trevor	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Wolfe, Steven	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Watson, Matthew	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Harding, Evan	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Alexander, Robert (Trey)	0	0	86	N	N	N	0	Dotsenko, Ihor	0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Burke, Michael	0	0	59	N	N	N	0	Smith, Wilfred (Praddy)	0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Gorres, Sascha	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Bulow, David	0	0	45	N	N	N	0	Jaman, Nowaf	0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Ssejjemba, Robert	0	0	86	N	N	N	0	Howe, Charlie	0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Jaman, Nowaf	0	45	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Smith, Wilfred (Praddy)	0	59	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Howe, Charlie	0	86	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Dotsenko, Ihor	0	86	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Murphy, Mark	0	0	0	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Edwards, Kevin	0	0	0	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Schramm, Frederick (Ricky)	0	0	0	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Cronin, Steve	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Buddle, Edson	0	0	45	N	N	N	0	Donovan, Landon	0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Glinton, Gavin	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Gray, Kelly	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Harden, Ty	0	0	90	Y	N	N	26		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Jazic, Ante	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Kirk, Quavas	0	0	45	N	N	N	0	Vagenas, Peter	0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Martino, Kyle	0	0	45	N	N	N	0	Gordon, Alan	0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Randolph, Mike	0	0	75	N	N	N	0	Roberts, Troy	0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Tudela, Josh	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Xavier, Abel	0	0	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Donovan, Landon	0	45	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Gordon, Alan	0	45	90	Y	N	N	48		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Vagenas, Peter	0	45	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Roberts, Troy	0	75	90	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Caso, Mike	0	0	0	N	N	N	0		0	0	0	
-USOC	7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Friesz, Lance	0	0	0	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Pascale, Ronnie	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Jones, Kelvin	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	McEachron, Trevor	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Wolfe, Steven	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Watson, Matthew	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Harding, Evan	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Alexander, Robert (Trey)	0	0	86	N	N	N	0	Dotsenko, Ihor	0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Burke, Michael	0	0	59	N	N	N	0	Smith, Wilfred (Praddy)	0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Gorres, Sascha	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Bulow, David	0	0	45	N	N	N	0	Jaman, Nowaf	0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Ssejjemba, Robert	0	0	86	N	N	N	0	Howe, Charlie	0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Jaman, Nowaf	0	45	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Smith, Wilfred (Praddy)	0	59	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Howe, Charlie	0	86	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Dotsenko, Ihor	0	86	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Murphy, Mark	0	0	0	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Edwards, Kevin	0	0	0	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Richmond Kickers	Schramm, Frederick (Ricky)	0	0	0	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Cronin, Steve	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Buddle, Edson	0	0	45	N	N	N	0	Donovan, Landon	0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Glinton, Gavin	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Gray, Kelly	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Harden, Ty	0	0	90	Y	N	N	26		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Jazic, Ante	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Kirk, Quavas	0	0	45	N	N	N	0	Vagenas, Peter	0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Martino, Kyle	0	0	45	N	N	N	0	Gordon, Alan	0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Randolph, Mike	0	0	75	N	N	N	0	Roberts, Troy	0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Tudela, Josh	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Xavier, Abel	0	0	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Donovan, Landon	0	45	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Gordon, Alan	0	45	90	Y	N	N	48		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Vagenas, Peter	0	45	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Roberts, Troy	0	75	90	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Caso, Mike	0	0	0	N	N	N	0		0	0	0	
+USOC	7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	Los Angeles Galaxy - MLS	Friesz, Lance	0	0	0	N	N	N	0		0	0	0	
 PDL	7/11/2007	BYU Cougars	Ogden Outlaws	BYU Cougars	Gilliam, Brandon	0	0	90	N	N	N	0		0	0	0	
 PDL	7/11/2007	BYU Cougars	Ogden Outlaws	BYU Cougars	Van Wagenen, Hugh	0	0	90	N	N	N	0		0	0	0	
 PDL	7/11/2007	BYU Cougars	Ogden Outlaws	BYU Cougars	Bindrup, Richard	0	0	90	N	N	N	0		0	0	0	

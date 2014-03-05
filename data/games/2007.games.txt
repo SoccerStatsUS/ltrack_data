@@ -521,7 +521,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/10/2007	Rochester Rhinos	New England Revolution - MLS	2	4	8,551	US Open Cup	USOC			As Scored	0	0	
 7/10/2007	Colorado Rapids - MLS	California Victory	3	1	100	US Open Cup	USOC			As Scored	0	0	
 7/11/2007	Harrisburg City Islanders	DC United - MLS	1	0	5,219	US Open Cup	USOC			As Scored	0	0	
-7/11/2007	Richmond Kickers	Los Angeles Galaxy - MLS	1	0	2,500	US Open Cup	USOC			As Scored	0	0	
+7/10/2007	Richmond Kickers	Los Angeles Galaxy - MLS	1	0	2,500	US Open Cup	USOC			As Scored	0	0	
 7/11/2007	BYU Cougars	Ogden Outlaws	1	0	467	PDL	PDL			As Scored	0	0	
 7/11/2007	Cary Railhawks U-23's	Carolina Dynamo	1	4	100	PDL	PDL			As Scored	0	0	
 7/11/2007	Orange County Blue Star	Ventura County Fusion	2	3	1	PDL	PDL			As Scored	0	0	

@@ -1455,7 +1455,7 @@ Cancela, Jose	Colorado Rapids - MLS	Colorado Rapids - MLS	California Victory	7/1
 Gomez, Herculez	Colorado Rapids - MLS	Colorado Rapids - MLS	California Victory	7/10/2007	50		USOC	Cancela, Jose		
 Cummings, Omar	Colorado Rapids - MLS	Colorado Rapids - MLS	California Victory	7/10/2007	89		USOC	Gomez, Herculez		
 Epitie, Juan	California Victory	Colorado Rapids - MLS	California Victory	7/10/2007	79		USOC			
-Bulow, David	Richmond Kickers	Richmond Kickers	Los Angeles Galaxy - MLS	7/11/2007	28		USOC			
+Bulow, David	Richmond Kickers	Richmond Kickers	Los Angeles Galaxy - MLS	7/10/2007	28		USOC			
 Le Toux, Sebastian	Seattle Sounders	Seattle Sounders	CD Chivas USA - MLS	7/18/2007	44		USOC	Levesque, Roger		
 Le Toux, Sebastian	Seattle Sounders	Seattle Sounders	CD Chivas USA - MLS	7/18/2007	51		USOC	Levesque, Roger		
 Levesque, Roger	Seattle Sounders	Seattle Sounders	CD Chivas USA - MLS	7/18/2007	81		USOC	Gardner, Joshua		
