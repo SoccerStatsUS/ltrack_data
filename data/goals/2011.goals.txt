@@ -1019,10 +1019,10 @@ Jackson Goncalves	FC Dallas 96	Alianza FC - El Salvador	FC Dallas 96	7/28/2011	7
 Lindpere, Joel	New York Red Bulls	New York Red Bulls	Paris Saint-Germain - France	7/30/2011	27		WFC	Agudelo, Juan		
 McCrary, Jordan	U.S. U-18 MNT	U.S. U-18 MNT	Georgia	7/29/2011	39		Milk			
 Kiesewetter, Jerome	U.S. U-18 MNT	U.S. U-18 MNT	Georgia	7/29/2011	58		Milk	Salgado, Omar		
-Koroma, Alfred	U.S. U-17 MNT	Uzbekistan	U.S. U-17 MNT	6/22/2011	47		WC	Dunn, Matt		
-Guido, Alejandro	U.S. U-17 MNT	Czech Republic	U.S. U-17 MNT	6/19/2011	5		WC			
-Rodriguez, Esteban	U.S. U-17 MNT	Czech Republic	U.S. U-17 MNT	6/19/2011	52		WC	Arriola, Paul		
-Koroma, Alfred	U.S. U-17 MNT	Czech Republic	U.S. U-17 MNT	6/19/2011	89		WC	Pelosi, Marc		
+Koroma, Alfred	U.S. U-17 MNT	Uzbekistan	U.S. U-17 MNT	6/22/2011	47		WC17	Dunn, Matt		
+Guido, Alejandro	U.S. U-17 MNT	Czech Republic	U.S. U-17 MNT	6/19/2011	5		WC17			
+Rodriguez, Esteban	U.S. U-17 MNT	Czech Republic	U.S. U-17 MNT	6/19/2011	52		WC17	Arriola, Paul		
+Koroma, Alfred	U.S. U-17 MNT	Czech Republic	U.S. U-17 MNT	6/19/2011	89		WC17	Pelosi, Marc		
 Altidore, Jozy	U.S. USNT	U.S. USNT	Canada	6/7/2011	15		GCup	Donovan, Landon		
 Dempsey, Clint	U.S. USNT	U.S. USNT	Canada	6/7/2011	62		GCup	Agudelo, Juan		
 Goodson, Clarence	U.S. USNT	U.S. USNT	Panama	6/11/2011	68		GCup	Bradley, Michael		

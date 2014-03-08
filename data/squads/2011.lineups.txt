@@ -12324,26 +12324,26 @@ GCup	6/19/2011	U.S. USNT	Jamaica	U.S. USNT	Hahnemann, Marcus	0	0	0	N	N	N	0		0	0	
 GCup	6/19/2011	U.S. USNT	Jamaica	U.S. USNT	Adu, Freddy	0	0	0	N	N	N	0		0	0	0	
 GCup	6/19/2011	U.S. USNT	Jamaica	U.S. USNT	Ream, Tim	0	0	0	N	N	N	0		0	0	0	
 GCup	6/19/2011	U.S. USNT	Jamaica	U.S. USNT	Bornstein, Jonathan	0	0	0	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	McIntosh, Kendall	0	0	90	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Carroll, Zach	0	0	90	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Amon, Joe	0	0	90	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Fehr, Mobi	0	0	90	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Acosta, Kellyn	0	0	90	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Esteban	0	0	90	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Guido, Alejandro	0	0	75	N	N	N	0	Salkicic, Tarik	0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Pelosi, Marc	0	0	90	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Dunn, Matt	0	0	90	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Arriola, Paul	0	0	89	N	N	N	0	Melo, Nico	0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Mario	0	0	87	N	N	N	0	Koroma, Alfred	0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Salkicic, Tarik	0	75	90	Y	N	N	86		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Koroma, Alfred	0	87	90	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Melo, Nico	0	89	90	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Pina, Fernando	0	0	0	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Smith, Nathan	0	0	0	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Mino, Alessandro	0	0	0	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Souders, Andrew	0	0	0	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Serna, Dillon	0	0	0	N	N	N	0		0	0	0	
-WC	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	McBean, Jack	0	0	0	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	McIntosh, Kendall	0	0	90	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Carroll, Zach	0	0	90	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Amon, Joe	0	0	90	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Fehr, Mobi	0	0	90	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Acosta, Kellyn	0	0	90	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Esteban	0	0	90	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Guido, Alejandro	0	0	75	N	N	N	0	Salkicic, Tarik	0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Pelosi, Marc	0	0	90	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Dunn, Matt	0	0	90	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Arriola, Paul	0	0	89	N	N	N	0	Melo, Nico	0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Mario	0	0	87	N	N	N	0	Koroma, Alfred	0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Salkicic, Tarik	0	75	90	Y	N	N	86		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Koroma, Alfred	0	87	90	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Melo, Nico	0	89	90	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Pina, Fernando	0	0	0	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Smith, Nathan	0	0	0	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Mino, Alessandro	0	0	0	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Souders, Andrew	0	0	0	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	Serna, Dillon	0	0	0	N	N	N	0		0	0	0	
+WC17	6/19/2011	Czech Republic	U.S. U-17 MNT	U.S. U-17 MNT	McBean, Jack	0	0	0	N	N	N	0		0	0	0	
 ResL	6/20/2011	Los Angeles Galaxy	Vancouver Whitecaps	Los Angeles Galaxy	Perk, Brian	0	0	90	N	N	N	0		0	0	0	
 ResL	6/20/2011	Los Angeles Galaxy	Vancouver Whitecaps	Los Angeles Galaxy	Berhalter, Gregg	0	0	90	N	N	N	0		0	0	0	
 ResL	6/20/2011	Los Angeles Galaxy	Vancouver Whitecaps	Los Angeles Galaxy	Jordan, Bryan	0	0	90	N	N	N	0		0	0	0	
@@ -12781,26 +12781,26 @@ GCup	6/22/2011	U.S. USNT	Panama	U.S. USNT	Ream, Tim	0	0	0	N	N	N	0		0	0	0
 GCup	6/22/2011	U.S. USNT	Panama	U.S. USNT	Edu, Maurice	0	0	0	N	N	N	0		0	0	0	
 GCup	6/22/2011	U.S. USNT	Panama	U.S. USNT	Wondolowski, Chris	0	0	0	N	N	N	0		0	0	0	
 GCup	6/22/2011	U.S. USNT	Panama	U.S. USNT	Bornstein, Jonathan	0	0	0	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	McIntosh, Kendall	0	0	90	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Carroll, Zach	0	0	90	Y	N	N	57		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Amon, Joe	0	0	46	Y	N	N	34	Smith, Nathan	0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Fehr, Mobi	0	0	90	Y	N	N	57		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Acosta, Kellyn	0	0	90	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Esteban	0	0	46	N	N	N	0	Koroma, Alfred	0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Guido, Alejandro	0	0	83	N	N	N	0	Melo, Nico	0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Pelosi, Marc	0	0	90	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Dunn, Matt	0	0	90	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Arriola, Paul	0	0	90	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Mario	0	0	90	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Smith, Nathan	0	46	90	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Koroma, Alfred	0	46	90	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Melo, Nico	0	83	90	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Pina, Fernando	0	0	0	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Mino, Alessandro	0	0	0	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Souders, Andrew	0	0	0	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Salkicic, Tarik	0	0	0	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Serna, Dillon	0	0	0	N	N	N	0		0	0	0	
-WC	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	McBean, Jack	0	0	0	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	McIntosh, Kendall	0	0	90	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Carroll, Zach	0	0	90	Y	N	N	57		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Amon, Joe	0	0	46	Y	N	N	34	Smith, Nathan	0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Fehr, Mobi	0	0	90	Y	N	N	57		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Acosta, Kellyn	0	0	90	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Esteban	0	0	46	N	N	N	0	Koroma, Alfred	0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Guido, Alejandro	0	0	83	N	N	N	0	Melo, Nico	0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Pelosi, Marc	0	0	90	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Dunn, Matt	0	0	90	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Arriola, Paul	0	0	90	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Mario	0	0	90	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Smith, Nathan	0	46	90	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Koroma, Alfred	0	46	90	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Melo, Nico	0	83	90	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Pina, Fernando	0	0	0	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Mino, Alessandro	0	0	0	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Souders, Andrew	0	0	0	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Salkicic, Tarik	0	0	0	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	Serna, Dillon	0	0	0	N	N	N	0		0	0	0	
+WC17	6/22/2011	Uzbekistan	U.S. U-17 MNT	U.S. U-17 MNT	McBean, Jack	0	0	0	N	N	N	0		0	0	0	
 LGE	6/23/2011	Seattle Sounders	New York Red Bulls	Seattle Sounders	Keller, Kasey	0	0	90	N	N	N	0		0	0	0	
 LGE	6/23/2011	Seattle Sounders	New York Red Bulls	Seattle Sounders	Riley, James	0	0	90	Y	N	N	52		0	0	0	
 LGE	6/23/2011	Seattle Sounders	New York Red Bulls	Seattle Sounders	Gonzalez, Leo	0	0	90	Y	N	N	90		0	0	0	
@@ -13443,27 +13443,27 @@ GCup	6/25/2011	U.S. USNT	Mexico	U.S. USNT	Hahnemann, Marcus	0	0	0	N	N	N	0		0	0	0
 GCup	6/25/2011	U.S. USNT	Mexico	U.S. USNT	Spector, Jonathan	0	0	0	N	N	N	0		0	0	0	
 GCup	6/25/2011	U.S. USNT	Mexico	U.S. USNT	Ream, Tim	0	0	0	N	N	N	0		0	0	0	
 GCup	6/25/2011	U.S. USNT	Mexico	U.S. USNT	Edu, Maurice	0	0	0	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	McIntosh, Kendall	0	0	90	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Carroll, Zach	0	0	90	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Amon, Joe	0	0	90	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Fehr, Mobi	0	0	90	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Acosta, Kellyn	0	0	90	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Esteban	0	0	90	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Guido, Alejandro	0	0	90	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Pelosi, Marc	0	0	68	Y	Y	Y	27		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Dunn, Matt	0	0	90	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Koroma, Alfred	0	0	90	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Mario	0	0	88	N	N	N	0	Mino, Alessandro	0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Mino, Alessandro	0	88	90	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Hamilton, Wade	0	0	0	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Pina, Fernando	0	0	0	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Smith, Nathan	0	0	0	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Souders, Andrew	0	0	0	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Salkicic, Tarik	0	0	0	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Melo, Nico	0	0	0	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Serna, Dillon	0	0	0	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Arriola, Paul	0	0	0	N	N	N	0		0	0	0	
-WC	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	McBean, Jack	0	0	0	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	McIntosh, Kendall	0	0	90	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Carroll, Zach	0	0	90	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Amon, Joe	0	0	90	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Fehr, Mobi	0	0	90	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Acosta, Kellyn	0	0	90	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Esteban	0	0	90	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Guido, Alejandro	0	0	90	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Pelosi, Marc	0	0	68	Y	Y	Y	27		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Dunn, Matt	0	0	90	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Koroma, Alfred	0	0	90	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Mario	0	0	88	N	N	N	0	Mino, Alessandro	0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Mino, Alessandro	0	88	90	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Hamilton, Wade	0	0	0	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Pina, Fernando	0	0	0	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Smith, Nathan	0	0	0	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Souders, Andrew	0	0	0	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Salkicic, Tarik	0	0	0	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Melo, Nico	0	0	0	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Serna, Dillon	0	0	0	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	Arriola, Paul	0	0	0	N	N	N	0		0	0	0	
+WC17	6/25/2011	New Zealand	U.S. U-17 MNT	U.S. U-17 MNT	McBean, Jack	0	0	0	N	N	N	0		0	0	0	
 LGE	6/26/2011	Akron Summit Assault	River City Rovers	Akron Summit Assault	Contrasciere, Carl	0	0	90	N	N	N	0		0	0	0	
 LGE	6/26/2011	Akron Summit Assault	River City Rovers	Akron Summit Assault	Matlock, Mike	0	0	90	N	N	N	0		0	0	0	
 LGE	6/26/2011	Akron Summit Assault	River City Rovers	Akron Summit Assault	Sikich, Sean	0	0	87	N	N	N	0	Cannella, Rhys	0	0	0	
@@ -14153,26 +14153,26 @@ LGE	6/29/2011	Toronto FC	Vancouver Whitecaps	Vancouver Whitecaps	Cannon, Joe	0	0
 LGE	6/29/2011	Toronto FC	Vancouver Whitecaps	Vancouver Whitecaps	Duckett, Bilal	0	0	0	N	N	N	0		0	0	0	
 LGE	6/29/2011	Toronto FC	Vancouver Whitecaps	Vancouver Whitecaps	Leathers, Jonathan	0	0	0	N	N	N	0		0	0	0	
 LGE	6/29/2011	Toronto FC	Vancouver Whitecaps	Vancouver Whitecaps	Dunfield, Terry	0	0	0	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	McIntosh, Kendall	0	0	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Carroll, Zach	0	0	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Amon, Joe	0	0	46	N	N	N	0	Smith, Nathan	0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Fehr, Mobi	0	0	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Acosta, Kellyn	0	0	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Esteban	0	0	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Guido, Alejandro	0	0	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Dunn, Matt	0	0	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Arriola, Paul	0	0	13	N	N	N	0	Melo, Nico	0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Koroma, Alfred	0	0	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Mario	0	0	57	N	N	N	0	McBean, Jack	0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Melo, Nico	0	13	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Smith, Nathan	0	46	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	McBean, Jack	0	57	90	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Hamilton, Wade	0	0	0	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Pina, Fernando	0	0	0	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Mino, Alessandro	0	0	0	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Souders, Andrew	0	0	0	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Salkicic, Tarik	0	0	0	N	N	N	0		0	0	0	
-WC	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Serna, Dillon	0	0	0	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	McIntosh, Kendall	0	0	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Carroll, Zach	0	0	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Amon, Joe	0	0	46	N	N	N	0	Smith, Nathan	0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Fehr, Mobi	0	0	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Acosta, Kellyn	0	0	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Esteban	0	0	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Guido, Alejandro	0	0	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Dunn, Matt	0	0	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Arriola, Paul	0	0	13	N	N	N	0	Melo, Nico	0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Koroma, Alfred	0	0	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Rodriguez, Mario	0	0	57	N	N	N	0	McBean, Jack	0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Melo, Nico	0	13	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Smith, Nathan	0	46	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	McBean, Jack	0	57	90	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Hamilton, Wade	0	0	0	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Pina, Fernando	0	0	0	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Mino, Alessandro	0	0	0	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Souders, Andrew	0	0	0	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Salkicic, Tarik	0	0	0	N	N	N	0		0	0	0	
+WC17	6/30/2011	Germany	U.S. U-17 MNT	U.S. U-17 MNT	Serna, Dillon	0	0	0	N	N	N	0		0	0	0	
 LGE	7/1/2011	Charleston Battery	Los Angeles Blues	Charleston Battery	Dykstra, Andrew	0	0	90	N	N	N	0		0	0	0	
 LGE	7/1/2011	Charleston Battery	Los Angeles Blues	Charleston Battery	Marples, Nigel	0	0	90	N	N	N	0		0	0	0	
 LGE	7/1/2011	Charleston Battery	Los Angeles Blues	Charleston Battery	Zaher, Michael R.	0	0	90	N	N	N	0		0	0	0	
