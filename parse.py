@@ -182,7 +182,7 @@ def process_goals_file(p, determine_competition):
     return [e for e in l if e['competition'] != 'Major League Soccer']
 
 
-def process_goals(root, cm):
+def process_goals(root, cm=lambda c, team, season: c):
     """
     Process all goal data from Leach.
     """
@@ -195,7 +195,7 @@ def process_goals(root, cm):
     return l
         
 
-def process_games(root, cm):
+def process_games(root, cm=lambda c, team, season: c):
     """
     Process all game data from Leach.
     """
@@ -208,7 +208,7 @@ def process_games(root, cm):
     return l
      
 
-def process_lineups(root, cm):
+def process_lineups(root, cm=lambda c, team, season: c):
     """
     Process all game data from Leach.
     """
