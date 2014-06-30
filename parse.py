@@ -17,6 +17,148 @@ def format_name(s):
     return ns
 
 
+
+
+# Grouped.
+
+def make_team_to_competition_dict():
+    """
+    Create a dict mapping a team and season to a competition based on standings
+    """
+
+    from donelli.parse.standings import process_standings_file
+    from smid.build.load import USD1_DIR, US_MINOR_DIR
+    from smid.alias.teams import get_team
+
+
+    standings = [
+        ('data/standings/mls', USD1_DIR),
+        ('standings/d2/apsl', US_MINOR_DIR),
+        ('standings/d2/usl0', US_MINOR_DIR),
+        ('standings/d2/premier', US_MINOR_DIR),
+        ('standings/d2/usisl', US_MINOR_DIR),
+        ('standings/d2/12', US_MINOR_DIR),
+        ('standings/d2/nasl2', US_MINOR_DIR),
+        ('standings/d2/ussf2', US_MINOR_DIR),
+
+        ('standings/d3/pro', US_MINOR_DIR),
+        ('standings/d3/usl_pro', US_MINOR_DIR),
+        ('standings/d3/select', US_MINOR_DIR),
+
+        ('standings/d4/pdl', US_MINOR_DIR),
+        ('standings/d4/pdl_2012', US_MINOR_DIR),
+        ('standings/d4/pdl_2013', US_MINOR_DIR),
+
+
+        ]
+
+    l = []
+    for path, dir in standings:
+        p = os.path.join(dir, path)
+        l.extend(process_standings_file(p))
+
+    d = {}
+    for e in l:
+        key = (get_team(e['team']), e['season'])
+        if key not in d:
+            d[key] = [e['competition']]
+
+    return d
+
+
+
+competition_map = make_team_to_competition_dict()
+
+
+# Only used by ltrack.
+def determine_competition(comp, team, season):
+    from smid.alias.teams import get_team
+
+    
+
+    # Pull this out.
+    abbreviations = {
+        'CCC': 'CONCACAF Champions\' Cup',
+        'CCL': 'CONCACAF Champions League',
+
+        'CCup': 'Canadian Championship',
+        'CanC': 'Canadian Championship',
+
+        'SL': 'North American SuperLiga',
+        'CFU': 'CFU Club Championship',
+
+        'IAC': 'Interamerican Cup',
+        'GC': 'CONCACAF Giants Cup',
+        'FDLY': 'Friendly',
+        'MerC': 'Merconorte Cup',
+        'CCWC': 'CONCACAF Cup Winners Cup',
+        'LMC': 'La Manga Cup',
+
+        'RC': 'Recopa CONCACAF',
+        'PCK': 'Peace Cup',
+        'CQ': 'Caribbean Qualification',
+        #'CQ': 'Concacaf Champions\' Cup',
+        'PPC': 'Pan-Pacific Championship',
+        'INDC': 'Independence Cup',
+        'USOC': 'US Open Cup',
+        'ASG': 'Friendly',
+        'PDL': 'USL Premier Developmental League',
+        'DC': 'Dallas Cup',
+
+        'LT': 'Friendly', # Lisbon Tournament
+        'WC': 'FIFA World Cup',
+
+        'MkC': 'Friendly', # Milk Cup
+        'Milk': 'Friendly', # Milk Cup
+
+        'GCup': 'Gold Cup',
+
+        'VDMT': 'Friendly', #'Val-de-Marne Tournament',
+
+        'APT': 'Friendly', # Asia-Pacific Tour
+        'NIF': 'Friendly', #'Nike International',
+
+        'NLG': 'Friendly', # Non-League
+        'SCC': 'Friendly', #'Sister Cities Cup'
+
+        'MMF': 'FIFA U-17 World Cup', # not sure... 'Mondial Minimes Fra'
+        'WC17': 'FIFA U-17 World Cup', 
+
+        'ResL': 'MLS Reserve League',
+        'CU17': 'FIFA U-17 World Cup',
+        'CU20': 'FIFA U-20 World Cup',
+
+        'WFC': 'Friendly', # World Football Challenge',
+        'RGP': 'Friendly', # Rio Grande Plate
+        }
+
+    if comp in abbreviations:
+        return abbreviations[comp]
+
+    # ILG -> Interleague
+
+    elif comp in ('LGE', 'ILG', 'PLO', 'PLOF'):  
+        try:
+            competitions = competition_map[(get_team(team), season)]
+        except:
+            competitions = []
+            #import pdb; pdb.set_trace()
+
+        if len(competitions) == 0:
+            return comp
+        elif len(competitions) > 1:
+            import pdb; pdb.set_trace()
+        else:
+            return competitions[0]
+
+    else:
+        import pdb; pdb.set_trace()
+        return comp
+
+
+    
+
+
 def process_lineups_file(p, determine_competition):
     text = open(p).read().replace('\r', '').split('\n')
     header = text[0]
@@ -97,9 +239,6 @@ def process_games_file(p, determine_competition):
 
             season = str(d.year)
 
-            #team1 = get_team(home_team)
-            #team2 = get_team(away_team)
-
             competition = determine_competition(comp, home_team, season)
 
             try:
@@ -163,8 +302,6 @@ def process_goals_file(p, determine_competition):
             else:
                 assists = []
 
-            #team = get_team(team)
-
             competition = determine_competition(comp, team, season)
 
             l.append({
@@ -182,7 +319,7 @@ def process_goals_file(p, determine_competition):
     return [e for e in l if e['competition'] != 'Major League Soccer']
 
 
-def process_goals(root, cm=lambda c, team, season: c):
+def process_goals(root):
     """
     Process all goal data from Leach.
     """
@@ -190,12 +327,12 @@ def process_goals(root, cm=lambda c, team, season: c):
     directory = os.path.join(root, 'goals')
     for fn in os.listdir(directory):
         p = os.path.join(directory, fn)
-        data = process_goals_file(p, cm)
+        data = process_goals_file(p, determine_competition)
         l.extend(data)
     return l
         
 
-def process_games(root, cm=lambda c, team, season: c):
+def process_games(root):
     """
     Process all game data from Leach.
     """
@@ -203,12 +340,12 @@ def process_games(root, cm=lambda c, team, season: c):
     directory = os.path.join(root, 'games')
     for fn in [e for e in os.listdir(directory) if not e.endswith('~')]:
         p = os.path.join(directory, fn)
-        data = process_games_file(p, cm)
+        data = process_games_file(p, determine_competition)
         l.extend(data)
     return l
      
 
-def process_lineups(root, cm=lambda c, team, season: c):
+def process_lineups(root):
     """
     Process all game data from Leach.
     """
@@ -216,6 +353,6 @@ def process_lineups(root, cm=lambda c, team, season: c):
     directory = os.path.join(root, 'squads')
     for fn in os.listdir(directory):
         p = os.path.join(directory, fn)
-        data = process_lineups_file(p, cm)
+        data = process_lineups_file(p, determine_competition)
         l.extend(data)
     return l
