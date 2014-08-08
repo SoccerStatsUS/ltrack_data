@@ -2224,41 +2224,41 @@ LGE	5/10/2003	Cincinnati Riverhawks	El Paso Patriots	El Paso Patriots	Abarca, Jo
 LGE	5/10/2003	Cincinnati Riverhawks	El Paso Patriots	El Paso Patriots	Lopez, Sam	0	70	90	N	N	N	0		0	0	0	
 LGE	5/10/2003	Cincinnati Riverhawks	El Paso Patriots	El Paso Patriots	Millan-Guerra, Omar	0	28	90	N	N	N	0		0	0	0	
 LGE	5/10/2003	Cincinnati Riverhawks	El Paso Patriots	El Paso Patriots	Alexander, Scott	0	0	0	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Martos, Rastislav	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Brazeau, Daryl	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Junuzovic, Adnan	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Grau, Dustin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Redhage, Christopher	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	O'Neil, Kris	0	0	62	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Sithonnorath, Khampratana(Joe)	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Shirley, Stephen	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Boltnar, Tomas	0	0	80	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Rodrigues-Osorio, Joao	0	0	77	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Kabwe, Joseph	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Bourne, Matthew (Matt)	0	62	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Lovell, Peter	0	77	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Mujdzic, Armin	0	80	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Peercy, Lane	0	0	0	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Siberz, Jonathan (Blake)	0	0	0	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	Mason, Christian	0	0	0	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	DeClute, Jacob	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Tanner, Kyle	0	0	57	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Strang, Brett	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Piotkin,  Brian	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Hamburger, Chris	0	0	64	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Mouw, Robert	0	0	75	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	64	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Zayner, Jedidiah	0	57	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Weis, Jarrod	0	64	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Lance, Kyle	0	64	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Rupsis, Charles	0	75	90	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Boy, Alberto	0	0	0	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Dunsheath, Christopher	0	0	0	N	N	N	0		0	0	0	
-LGE	5/10/2003	Des Moines Menace	Chicago Fire Reserves	Chicago Fire Reserves	Chromik, Steve	0	0	0	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Martos, Rastislav	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Brazeau, Daryl	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Junuzovic, Adnan	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Grau, Dustin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Redhage, Christopher	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	O'Neil, Kris	0	0	62	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Sithonnorath, Khampratana(Joe)	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Shirley, Stephen	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Boltnar, Tomas	0	0	80	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Rodrigues-Osorio, Joao	0	0	77	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Kabwe, Joseph	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Bourne, Matthew (Matt)	0	62	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Lovell, Peter	0	77	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Mujdzic, Armin	0	80	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Peercy, Lane	0	0	0	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Siberz, Jonathan (Blake)	0	0	0	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	Mason, Christian	0	0	0	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	DeClute, Jacob	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Tanner, Kyle	0	0	57	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Strang, Brett	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Piotkin,  Brian	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Hamburger, Chris	0	0	64	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Mouw, Robert	0	0	75	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	64	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Zayner, Jedidiah	0	57	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Weis, Jarrod	0	64	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Lance, Kyle	0	64	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Rupsis, Charles	0	75	90	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Boy, Alberto	0	0	0	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Dunsheath, Christopher	0	0	0	N	N	N	0		0	0	0	
+LGE	5/10/2003	Des Moines Menace	Chicago Fire (PDL)	Chicago Fire (PDL)	Chromik, Steve	0	0	0	N	N	N	0		0	0	0	
 LGE	5/10/2003	Ft. Wayne Fever	Columbus Shooting Stars	Ft. Wayne Fever	Knitter, Michael	0	0	90	N	N	N	0		0	0	0	
 LGE	5/10/2003	Ft. Wayne Fever	Columbus Shooting Stars	Ft. Wayne Fever	Sharpe, Dennis	0	0	90	N	N	N	0		0	0	0	
 LGE	5/10/2003	Ft. Wayne Fever	Columbus Shooting Stars	Ft. Wayne Fever	Mariscalco, John	0	0	90	N	N	N	0		0	0	0	
@@ -4440,41 +4440,41 @@ LGE	5/17/2003	San Diego Gauchos	Fresno Fuego	Fresno Fuego	Hammond, Nick	0	85	90	
 LGE	5/17/2003	San Diego Gauchos	Fresno Fuego	Fresno Fuego	Souza, Jarrod	0	0	0	N	N	N	0		0	0	0	
 LGE	5/17/2003	San Diego Gauchos	Fresno Fuego	Fresno Fuego	Vega, Ernesto	0	0	0	N	N	N	0		0	0	0	
 LGE	5/17/2003	San Diego Gauchos	Fresno Fuego	Fresno Fuego	Mora-Ramirez, Heber	0	0	0	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Jones, Martin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Cole, Justin	0	0	33	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Lee, Shawn	0	0	77	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Watson, Joe	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Newland, Brian	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Haynes, Michael	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Levesque, Jim	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Joseph, Roger	0	0	45	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Wylie, Brandon	0	0	80	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Guzman, Eric	0	0	45	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Bogdanov, Lubo	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Newland, Brandon	0	33	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	McCabe, Tim	0	45	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Lascody, Doug	0	45	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Bennett, Paul	0	77	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Johnson, Chris	0	80	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Meich, Jesse	0	0	0	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Sioux Falls SpitFire	Ochoa, Bernabe	0	0	0	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Dunsheath, Christopher	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	El Ahmed, Khaled	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Smith, Jordan	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Piotkin,  Brian	0	0	38	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Mouw, Robert	0	0	80	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Dombrowski, Tighe	0	0	75	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Harwat, Kirk	0	0	80	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Blake, BJ	0	0	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Hamburger, Chris	0	38	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Boy, Alberto	0	66	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Weis, Jarrod	0	80	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Grange, Patrick	0	80	90	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
-LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	Chicago Fire Reserves	Babcock, Sean	0	0	0	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Jones, Martin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Cole, Justin	0	0	33	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Lee, Shawn	0	0	77	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Watson, Joe	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Newland, Brian	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Haynes, Michael	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Levesque, Jim	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Joseph, Roger	0	0	45	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Wylie, Brandon	0	0	80	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Guzman, Eric	0	0	45	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Bogdanov, Lubo	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Newland, Brandon	0	33	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	McCabe, Tim	0	45	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Lascody, Doug	0	45	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Bennett, Paul	0	77	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Johnson, Chris	0	80	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Meich, Jesse	0	0	0	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Sioux Falls SpitFire	Ochoa, Bernabe	0	0	0	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Dunsheath, Christopher	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	El Ahmed, Khaled	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Smith, Jordan	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Piotkin,  Brian	0	0	38	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Mouw, Robert	0	0	80	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	75	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Harwat, Kirk	0	0	80	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Blake, BJ	0	0	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Hamburger, Chris	0	38	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Boy, Alberto	0	66	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Weis, Jarrod	0	80	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Grange, Patrick	0	80	90	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
+LGE	5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	Chicago Fire (PDL)	Babcock, Sean	0	0	0	N	N	N	0		0	0	0	
 LGE	5/17/2003	St. Louis Strikers	Boulder Rapids Reserve	St. Louis Strikers	Schreck, Joshua	0	0	90	N	N	N	0		0	0	0	
 LGE	5/17/2003	St. Louis Strikers	Boulder Rapids Reserve	St. Louis Strikers	Costello, Ken	0	0	90	N	N	N	0		0	0	0	
 LGE	5/17/2003	St. Louis Strikers	Boulder Rapids Reserve	St. Louis Strikers	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
@@ -5351,38 +5351,38 @@ LGE	5/23/2003	Central Florida Kraze	Palm Beach Pumas	Palm Beach Pumas	Marvin, Ky
 LGE	5/23/2003	Central Florida Kraze	Palm Beach Pumas	Palm Beach Pumas	Garrambone, Scott	0	75	90	N	N	N	0		0	0	0	
 LGE	5/23/2003	Central Florida Kraze	Palm Beach Pumas	Palm Beach Pumas	Tolar, Matt	0	0	0	N	N	N	0		0	0	0	
 LGE	5/23/2003	Central Florida Kraze	Palm Beach Pumas	Palm Beach Pumas	Lennon, Robert (Bobby)	0	0	0	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	El Ahmed, Khaled	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Smith, Jordan	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Hamburger, Chris	0	0	72	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Mouw, Robert	0	0	80	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Wickart, Kevin	0	0	36	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Harwat, Kirk	0	0	48	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Blake, BJ	0	0	57	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Grabavoy, Ned	0	48	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Babcock, Sean	0	72	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Zayner, Jedidiah	0	76	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Robinson, Dason	0	80	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Dunsheath, Christopher	0	0	0	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	Weis, Jarrod	0	0	0	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Schreck, Joshua	0	0	79	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Lamping, John	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Thibodeau, Kevin	0	0	55	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Hopson, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Zarzecki, Lee	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Kreamalmeyer, Luke	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Kirchhoff, Michael	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Hoff, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Matteson, Alex	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Quattrocchi, Ian	0	0	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Guffey, Daniel	0	55	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Evers, Matthew	0	79	90	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Santel, Mark	0	0	0	N	N	N	0		0	0	0	
-LGE	5/23/2003	Chicago Fire Reserves	St. Louis Strikers	St. Louis Strikers	Quigley, Kevin	0	0	0	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	El Ahmed, Khaled	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Smith, Jordan	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Hamburger, Chris	0	0	72	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Mouw, Robert	0	0	80	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Wickart, Kevin	0	0	36	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Harwat, Kirk	0	0	48	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Blake, BJ	0	0	57	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Grabavoy, Ned	0	48	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Babcock, Sean	0	72	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Zayner, Jedidiah	0	76	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Robinson, Dason	0	80	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Dunsheath, Christopher	0	0	0	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	Weis, Jarrod	0	0	0	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Schreck, Joshua	0	0	79	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Lamping, John	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Thibodeau, Kevin	0	0	55	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Hopson, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Zarzecki, Lee	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Kreamalmeyer, Luke	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Kirchhoff, Michael	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Hoff, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Matteson, Alex	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Quattrocchi, Ian	0	0	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Guffey, Daniel	0	55	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Evers, Matthew	0	79	90	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Santel, Mark	0	0	0	N	N	N	0		0	0	0	
+LGE	5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	St. Louis Strikers	Quigley, Kevin	0	0	0	N	N	N	0		0	0	0	
 LGE	5/23/2003	El Paso Patriots	Indiana Blast	El Paso Patriots	Cabrera, Paul	0	0	79	N	N	N	0		0	0	0	
 LGE	5/23/2003	El Paso Patriots	Indiana Blast	El Paso Patriots	Cervantes, Enrique Ivan	0	0	65	N	N	N	0		0	0	0	
 LGE	5/23/2003	El Paso Patriots	Indiana Blast	El Paso Patriots	Narita, Junro	0	0	77	N	N	N	0		0	0	0	
@@ -6803,40 +6803,40 @@ LGE	5/25/2003	Calgary Storm	Portland Timbers	Portland Timbers	Vaughn, Jacob	0	0	
 LGE	5/25/2003	Calgary Storm	Portland Timbers	Portland Timbers	Youngblood, Ryan	0	87	90	N	N	N	0		0	0	0	
 LGE	5/25/2003	Calgary Storm	Portland Timbers	Portland Timbers	Antoniuk, Daniel	0	59	90	N	N	N	0		0	0	0	
 LGE	5/25/2003	Calgary Storm	Portland Timbers	Portland Timbers	Burgman, Cole	0	0	0	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Tanner, Kyle	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	El Ahmed, Khaled	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Clanton, Denny	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Smith, Jordan	0	0	45	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Hamburger, Chris	0	0	85	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Grabavoy, Ned	0	0	71	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Mouw, Robert	0	0	62	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Dombrowski, Tighe	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Wickart, Kevin	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	103	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Robinson, Dason	0	45	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Blake, BJ	0	62	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Harwat, Kirk	0	71	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Babcock, Sean	0	85	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Boy, Alberto	0	103	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Chicago Fire Reserves	Zayner, Jedidiah	0	0	0	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Hutton, Martin	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Lampert, Joseph	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Merritt, Tim	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Folbrycht, Robert (Robbie)	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Wagenfuhr, David	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Lowder, Justin	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Cronkite, Erik	0	0	98	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Wilson, Kevin	0	0	81	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Fink, Roy	0	0	106	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Salazar, Alejandro	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Thompson, Abe	0	0	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Goodson, Clarence	0	81	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Thompson, Jason	0	98	110	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Robles, Luis	0	0	0	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Wellen, Mark	0	0	0	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Hartman, Nick	0	0	0	N	N	N	0		0	0	0	
-LGE	5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	Boulder Rapids Reserve	Deacon, Craig	0	0	0	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Tanner, Kyle	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	El Ahmed, Khaled	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Clanton, Denny	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Smith, Jordan	0	0	45	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Hamburger, Chris	0	0	85	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Grabavoy, Ned	0	0	71	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Mouw, Robert	0	0	62	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Wickart, Kevin	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	103	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Robinson, Dason	0	45	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Blake, BJ	0	62	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Harwat, Kirk	0	71	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Babcock, Sean	0	85	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Boy, Alberto	0	103	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Chicago Fire (PDL)	Zayner, Jedidiah	0	0	0	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Hutton, Martin	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Lampert, Joseph	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Merritt, Tim	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Folbrycht, Robert (Robbie)	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Wagenfuhr, David	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Lowder, Justin	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Cronkite, Erik	0	0	98	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Wilson, Kevin	0	0	81	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Fink, Roy	0	0	106	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Salazar, Alejandro	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Thompson, Abe	0	0	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Goodson, Clarence	0	81	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Thompson, Jason	0	98	110	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Robles, Luis	0	0	0	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Wellen, Mark	0	0	0	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Hartman, Nick	0	0	0	N	N	N	0		0	0	0	
+LGE	5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	Boulder Rapids Reserve	Deacon, Craig	0	0	0	N	N	N	0		0	0	0	
 LGE	5/25/2003	El Paso Patriots	Indiana Blast	El Paso Patriots	Cabrera, Paul	0	0	90	N	N	N	0		0	0	0	
 LGE	5/25/2003	El Paso Patriots	Indiana Blast	El Paso Patriots	Cervantes, Enrique Ivan	0	0	45	N	N	N	0		0	0	0	
 LGE	5/25/2003	El Paso Patriots	Indiana Blast	El Paso Patriots	Figueroa-Jimenez, Ahmed	0	0	90	N	N	N	0		0	0	0	
@@ -7850,40 +7850,40 @@ LGE	5/30/2003	Reading Rage	New York Freedoms	New York Freedoms	Haba, Georges	0	0
 LGE	5/30/2003	Reading Rage	New York Freedoms	New York Freedoms	Bojovic, Radoslav (Rocky)	0	0	90	N	N	N	0		0	0	0	
 LGE	5/30/2003	Reading Rage	New York Freedoms	New York Freedoms	Dos Santos, Julio Cesar	0	0	90	N	N	N	0		0	0	0	
 LGE	5/30/2003	Reading Rage	New York Freedoms	New York Freedoms	Baxter, Darren	0	69	90	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Schreck, Joshua	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Lamping, John	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Pollard, Nicholas	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	DiMaria, Jeffrey	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Hopson, Kyle	0	0	73	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Zarzecki, Lee	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Kreamalmeyer, Luke	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Kirchhoff, Michael	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Hoff, Matthew	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Quattrocchi, Ian	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Alberts, James (Jay)	0	0	34	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Quigley, Kevin	0	34	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Guffey, Daniel	0	73	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Evers, Matthew	0	0	0	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Costello, Ken	0	0	0	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Caution, Matthew	0	0	0	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Matteson, Alex	0	0	0	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Tanner, Kyle	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	El Ahmed, Khaled	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Robinson, Dason	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Piotkin,  Brian	0	0	34	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Hamburger, Chris	0	0	55	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Wickart, Kevin	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Harwat, Kirk	0	0	65	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Blake, BJ	0	0	34	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Grabavoy, Ned	0	34	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Rolfe, Christopher	0	34	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Babcock, Sean	0	55	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Chromik, Steve	0	87	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Grange, Patrick	0	87	109	N	N	N	0		0	0	0	
-LGE	5/30/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Schreck, Joshua	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Lamping, John	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Pollard, Nicholas	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	DiMaria, Jeffrey	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Hopson, Kyle	0	0	73	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Zarzecki, Lee	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Kreamalmeyer, Luke	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Kirchhoff, Michael	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Hoff, Matthew	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Quattrocchi, Ian	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Alberts, James (Jay)	0	0	34	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Quigley, Kevin	0	34	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Guffey, Daniel	0	73	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Evers, Matthew	0	0	0	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Costello, Ken	0	0	0	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Caution, Matthew	0	0	0	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Matteson, Alex	0	0	0	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Tanner, Kyle	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	El Ahmed, Khaled	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Robinson, Dason	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Piotkin,  Brian	0	0	34	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Hamburger, Chris	0	0	55	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Wickart, Kevin	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Harwat, Kirk	0	0	65	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Blake, BJ	0	0	34	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Grabavoy, Ned	0	34	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Rolfe, Christopher	0	34	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Babcock, Sean	0	55	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Chromik, Steve	0	87	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Grange, Patrick	0	87	109	N	N	N	0		0	0	0	
+LGE	5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
 LGE	5/30/2003	Thunder Bay Chill	Sioux Falls SpitFire	Thunder Bay Chill	Peura, Petri	0	0	90	N	N	N	0		0	0	0	
 LGE	5/30/2003	Thunder Bay Chill	Sioux Falls SpitFire	Thunder Bay Chill	Gorton, Steve	0	0	87	N	N	N	0		0	0	0	
 LGE	5/30/2003	Thunder Bay Chill	Sioux Falls SpitFire	Thunder Bay Chill	Pollastrone, Angelo	0	0	90	N	N	N	0		0	0	0	
@@ -10229,40 +10229,40 @@ LGE	6/7/2003	Central Florida Kraze	Palm Beach Pumas	Palm Beach Pumas	Logan, Chri
 LGE	6/7/2003	Central Florida Kraze	Palm Beach Pumas	Palm Beach Pumas	Lennon, Robert (Bobby)	0	0	0	N	N	N	0		0	0	0	
 LGE	6/7/2003	Central Florida Kraze	Palm Beach Pumas	Palm Beach Pumas	Whitmore, Christopher	0	0	0	N	N	N	0		0	0	0	
 LGE	6/7/2003	Central Florida Kraze	Palm Beach Pumas	Palm Beach Pumas	Marvin, Kyle	0	0	0	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	El Ahmed, Khaled	0	0	39	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Clanton, Denny	0	0	16	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Grabavoy, Ned	0	0	63	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	70	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Babcock, Sean	0	0	88	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Rolfe, Christopher	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Piotkin,  Brian	0	16	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Odwell, Alexander	0	39	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Harwat, Kirk	0	63	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Blake, BJ	0	70	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	DeClute, Jacob	0	88	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Chromik, Steve	0	0	0	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Hamburger, Chris	0	0	0	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Agu, Alloysius	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Lopez, Oscar	0	0	82	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Roman, Austin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Krause, Jeffrey	0	0	63	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Ara, Ignacia	0	0	76	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Martin, Greg	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Hausler, Dario	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Marques, Ryan	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Francis, Ricky	0	0	76	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Novas-Lomonaca, Ignacio	0	0	33	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Garcia, Rafael	0	0	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Dargout, Jefferson	0	72	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Snyder, Dustin	0	76	90	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Sanders, Aaron	0	0	0	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Suflita, Samuel	0	0	0	N	N	N	0		0	0	0	
-LGE	6/7/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Bills, Daniel	0	0	0	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	El Ahmed, Khaled	0	0	39	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Clanton, Denny	0	0	16	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Grabavoy, Ned	0	0	63	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	70	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Babcock, Sean	0	0	88	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Rolfe, Christopher	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Piotkin,  Brian	0	16	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Odwell, Alexander	0	39	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Harwat, Kirk	0	63	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Blake, BJ	0	70	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	DeClute, Jacob	0	88	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Chromik, Steve	0	0	0	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Hamburger, Chris	0	0	0	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Agu, Alloysius	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Lopez, Oscar	0	0	82	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Roman, Austin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Krause, Jeffrey	0	0	63	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Ara, Ignacia	0	0	76	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Martin, Greg	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Hausler, Dario	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Marques, Ryan	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Francis, Ricky	0	0	76	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Novas-Lomonaca, Ignacio	0	0	33	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Garcia, Rafael	0	0	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Dargout, Jefferson	0	72	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Snyder, Dustin	0	76	90	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Sanders, Aaron	0	0	0	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Suflita, Samuel	0	0	0	N	N	N	0		0	0	0	
+LGE	6/7/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Bills, Daniel	0	0	0	N	N	N	0		0	0	0	
 LGE	6/7/2003	Columbus Shooting Stars	Ft. Wayne Fever	Columbus Shooting Stars	Salvati, Ronald (Craig)	0	0	45	N	N	N	0		0	0	0	
 LGE	6/7/2003	Columbus Shooting Stars	Ft. Wayne Fever	Columbus Shooting Stars	Crew, Daniel	0	0	90	N	N	N	0		0	0	0	
 LGE	6/7/2003	Columbus Shooting Stars	Ft. Wayne Fever	Columbus Shooting Stars	Goggins, Jason	0	0	90	N	N	N	0		0	0	0	
@@ -11616,39 +11616,39 @@ LGE	6/13/2003	Charleston Battery	Charlotte Eagles	Charlotte Eagles	Johnson, Benj
 LGE	6/13/2003	Charleston Battery	Charlotte Eagles	Charlotte Eagles	Sorzano, Jeremy	0	88	91	N	N	N	0		0	0	0	
 LGE	6/13/2003	Charleston Battery	Charlotte Eagles	Charlotte Eagles	Coggins, Jacob	0	0	0	N	N	N	0		0	0	0	
 LGE	6/13/2003	Charleston Battery	Charlotte Eagles	Charlotte Eagles	Paul, Lee	0	72	91	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Robinson, Dason	0	0	79	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Odwell, Alexander	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Blake, BJ	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Babcock, Sean	0	0	64	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Rolfe, Christopher	0	0	54	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Grange, Patrick	0	54	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	DeClute, Jacob	0	79	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Chromik, Steve	0	0	0	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	0	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Tonianse, Armen	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Gorton, Steve	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Rose, Andrew	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Pollastrone, Angelo	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Christey, Fitzroy	0	0	81	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Kolinski, Mike	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Goetting, Jordan	0	0	85	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Valente, Tony	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Bandanai, Ron	0	0	83	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Androutsos, Vasilis	0	0	81	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Wesseh, Doco	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Iorianni, Emanuel	0	81	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Nordin, Brett	0	81	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Camara, Glen	0	83	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Colistro, Dave	0	85	90	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Peura, Petri	0	0	0	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Ruberto, Frank	0	0	0	N	N	N	0		0	0	0	
-LGE	6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Dhillon, Parminder	0	0	0	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Robinson, Dason	0	0	79	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Odwell, Alexander	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Blake, BJ	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Babcock, Sean	0	0	64	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Rolfe, Christopher	0	0	54	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Grange, Patrick	0	54	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	DeClute, Jacob	0	79	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Chromik, Steve	0	0	0	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	0	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Tonianse, Armen	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Gorton, Steve	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Rose, Andrew	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Pollastrone, Angelo	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Christey, Fitzroy	0	0	81	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Kolinski, Mike	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Goetting, Jordan	0	0	85	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Valente, Tony	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Bandanai, Ron	0	0	83	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Androutsos, Vasilis	0	0	81	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Wesseh, Doco	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Iorianni, Emanuel	0	81	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Nordin, Brett	0	81	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Camara, Glen	0	83	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Colistro, Dave	0	85	90	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Peura, Petri	0	0	0	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Ruberto, Frank	0	0	0	N	N	N	0		0	0	0	
+LGE	6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Dhillon, Parminder	0	0	0	N	N	N	0		0	0	0	
 LGE	6/13/2003	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	Cipriani, John	0	0	90	N	N	N	0		0	0	0	
 LGE	6/13/2003	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	Dore, Christopher	0	0	90	N	N	N	0		0	0	0	
 LGE	6/13/2003	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	Eller, Allen	0	0	90	N	N	N	0		0	0	0	
@@ -12209,41 +12209,41 @@ LGE	6/14/2003	Charlotte Eagles	Charleston Battery	Charleston Battery	Lara, David
 LGE	6/14/2003	Charlotte Eagles	Charleston Battery	Charleston Battery	Scoullar, Blair	0	40	90	N	N	N	0		0	0	0	
 LGE	6/14/2003	Charlotte Eagles	Charleston Battery	Charleston Battery	Dixon, Linval (Rudi)	0	0	0	N	N	N	0		0	0	0	
 LGE	6/14/2003	Charlotte Eagles	Charleston Battery	Charleston Battery	Doyle, Christopher	0	0	0	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Chromik, Steve	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Grabavoy, Ned	0	0	71	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Wickart, Kevin	0	0	88	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Harwat, Kirk	0	0	54	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Babcock, Sean	0	0	80	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Halcrow, Ryan	0	54	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Duda, Eric	0	71	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Grange, Patrick	0	80	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	DeClute, Jacob	0	88	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Odwell, Alexander	0	89	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Hamburger, Chris	0	0	0	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Rolfe, Christopher	0	0	0	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Tonianse, Armen	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Rose, Andrew	0	0	24	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Pollastrone, Angelo	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Christey, Fitzroy	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Dhillon, Parminder	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Kolinski, Mike	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Goetting, Jordan	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Valente, Tony	0	0	52	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Bandanai, Ron	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Androutsos, Vasilis	0	0	85	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Wesseh, Doco	0	0	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Gorton, Steve	0	24	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Nordin, Brett	0	52	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Iorianni, Emanuel	0	85	90	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Ruberto, Frank	0	0	0	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Colistro, Dave	0	0	0	N	N	N	0		0	0	0	
-LGE	6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Camara, Glen	0	0	0	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Chromik, Steve	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Grabavoy, Ned	0	0	71	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Wickart, Kevin	0	0	88	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Harwat, Kirk	0	0	54	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Babcock, Sean	0	0	80	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Halcrow, Ryan	0	54	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Duda, Eric	0	71	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Grange, Patrick	0	80	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	DeClute, Jacob	0	88	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Odwell, Alexander	0	89	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Hamburger, Chris	0	0	0	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Rolfe, Christopher	0	0	0	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Tonianse, Armen	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Rose, Andrew	0	0	24	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Pollastrone, Angelo	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Christey, Fitzroy	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Dhillon, Parminder	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Kolinski, Mike	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Goetting, Jordan	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Valente, Tony	0	0	52	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Bandanai, Ron	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Androutsos, Vasilis	0	0	85	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Wesseh, Doco	0	0	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Gorton, Steve	0	24	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Nordin, Brett	0	52	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Iorianni, Emanuel	0	85	90	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Ruberto, Frank	0	0	0	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Colistro, Dave	0	0	0	N	N	N	0		0	0	0	
+LGE	6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Camara, Glen	0	0	0	N	N	N	0		0	0	0	
 LGE	6/14/2003	Fresno Fuego	Southern California Seahorses	Fresno Fuego	Hammond, Nick	0	0	91	N	N	N	0		0	0	0	
 LGE	6/14/2003	Fresno Fuego	Southern California Seahorses	Fresno Fuego	Lopez, Derek	0	0	91	N	N	N	0		0	0	0	
 LGE	6/14/2003	Fresno Fuego	Southern California Seahorses	Fresno Fuego	Rivas-Flores, Jose	0	0	91	N	N	N	0		0	0	0	
@@ -14353,37 +14353,37 @@ LGE	6/21/2003	Charlotte Eagles	Richmond Kickers	Richmond Kickers	Lekics, Paul	0	
 LGE	6/21/2003	Charlotte Eagles	Richmond Kickers	Richmond Kickers	Strawbridge, Benjamin	0	0	0	N	N	N	0		0	0	0	
 LGE	6/21/2003	Charlotte Eagles	Richmond Kickers	Richmond Kickers	Simmonds, Gregory	0	89	90	N	N	N	0		0	0	0	
 LGE	6/21/2003	Charlotte Eagles	Richmond Kickers	Richmond Kickers	Ankiel, Steve	0	0	0	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Odwell, Alexander	0	0	72	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Dombrowski, Tighe	0	0	84	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Zayner, Jedidiah	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	62	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Babcock, Sean	0	0	84	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Rolfe, Christopher	0	0	82	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Grange, Patrick	0	62	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Mouw, Robert	0	72	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Chromik, Steve	0	82	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Halcrow, Ryan	0	84	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Duda, Eric	0	84	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	Guzan, Brad	0	0	0	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Dohlman, Todd	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Kincaid, Scott	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Barber, Ryan	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Duffy, Joshua	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Raybould, Ryan	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Ryan, Blake	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Miles, Geoff	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Shaw, Ryan	0	0	65	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Sebus, Kyle	0	0	88	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Bleyenberg, Jake	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Scheller, Lawrence (Larry)	0	0	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Blinzler, Adam	0	65	90	N	N	N	0		0	0	0	
-LGE	6/21/2003	Chicago Fire Reserves	Kansas City Brass	Kansas City Brass	Patton, Michael	0	0	0	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Odwell, Alexander	0	0	72	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	84	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Zayner, Jedidiah	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	62	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Babcock, Sean	0	0	84	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Rolfe, Christopher	0	0	82	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Grange, Patrick	0	62	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Mouw, Robert	0	72	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Chromik, Steve	0	82	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Halcrow, Ryan	0	84	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Duda, Eric	0	84	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	Guzan, Brad	0	0	0	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Dohlman, Todd	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Kincaid, Scott	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Barber, Ryan	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Duffy, Joshua	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Raybould, Ryan	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Ryan, Blake	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Miles, Geoff	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Shaw, Ryan	0	0	65	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Sebus, Kyle	0	0	88	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Bleyenberg, Jake	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Scheller, Lawrence (Larry)	0	0	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Blinzler, Adam	0	65	90	N	N	N	0		0	0	0	
+LGE	6/21/2003	Chicago Fire (PDL)	Kansas City Brass	Kansas City Brass	Patton, Michael	0	0	0	N	N	N	0		0	0	0	
 LGE	6/21/2003	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	Child, Edward (Eddie)	0	0	89	N	N	N	0		0	0	0	
 LGE	6/21/2003	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	Eller, Allen	0	0	90	N	N	N	0		0	0	0	
 LGE	6/21/2003	Cincinnati Riverhawks	Indiana Blast	Cincinnati Riverhawks	Matis, Teoder (Marcel)	0	0	45	N	N	N	0		0	0	0	
@@ -15788,40 +15788,40 @@ LGE	6/27/2003	Spokane Shadow	Cascade Surge	Cascade Surge	Holbrook, Dustin	0	53	1
 LGE	6/27/2003	Spokane Shadow	Cascade Surge	Cascade Surge	Curley, Kevin	0	89	110	N	N	N	0		0	0	0	
 LGE	6/27/2003	Spokane Shadow	Cascade Surge	Cascade Surge	Boehne, Brian	0	107	110	N	N	N	0		0	0	0	
 LGE	6/27/2003	Spokane Shadow	Cascade Surge	Cascade Surge	Boss, Terry	0	0	0	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Schreck, Joshua	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Lamping, John	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	DiMaria, Jeffrey	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Thibodeau, Kevin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Hopson, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Pancio, Andrew	0	0	74	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Zarzecki, Lee	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Kirchhoff, Michael	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Ibisevic, Vedod	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Quattrocchi, Ian	0	0	74	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Kafedzic, Elvir	0	0	45	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Quigley, Kevin	0	45	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Ward, James	0	74	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Bujarski, Stephen	0	74	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Evers, Matthew	0	0	0	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	Bayne, Lethon	0	0	0	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	DeClute, Jacob	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Piotkin,  Brian	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Blake, BJ	0	0	62	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Babcock, Sean	0	0	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Odwell, Alexander	0	52	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Duda, Eric	0	83	90	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Chromik, Steve	0	0	0	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Halcrow, Ryan	0	0	0	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Hamburger, Chris	0	0	0	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Mouw, Robert	0	0	0	N	N	N	0		0	0	0	
-LGE	6/27/2003	St. Louis Strikers	Chicago Fire Reserves	Chicago Fire Reserves	Grange, Patrick	0	0	0	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Schreck, Joshua	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Lamping, John	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	DiMaria, Jeffrey	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Thibodeau, Kevin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Hopson, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Pancio, Andrew	0	0	74	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Zarzecki, Lee	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Kirchhoff, Michael	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Ibisevic, Vedod	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Quattrocchi, Ian	0	0	74	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Kafedzic, Elvir	0	0	45	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Quigley, Kevin	0	45	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Ward, James	0	74	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Bujarski, Stephen	0	74	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Evers, Matthew	0	0	0	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	Bayne, Lethon	0	0	0	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	DeClute, Jacob	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Piotkin,  Brian	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Blake, BJ	0	0	62	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Babcock, Sean	0	0	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Odwell, Alexander	0	52	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Duda, Eric	0	83	90	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Chromik, Steve	0	0	0	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Halcrow, Ryan	0	0	0	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Hamburger, Chris	0	0	0	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Mouw, Robert	0	0	0	N	N	N	0		0	0	0	
+LGE	6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	Chicago Fire (PDL)	Grange, Patrick	0	0	0	N	N	N	0		0	0	0	
 LGE	6/27/2003	Virginia Beach Mariners	Richmond Kickers	Virginia Beach Mariners	Bilyk, Jeff	0	0	90	N	N	N	0		0	0	0	
 LGE	6/27/2003	Virginia Beach Mariners	Richmond Kickers	Virginia Beach Mariners	Fenger-Larsen, Jakob	0	0	73	N	N	N	0		0	0	0	
 LGE	6/27/2003	Virginia Beach Mariners	Richmond Kickers	Virginia Beach Mariners	Vargas-Aguilera, Roland (Pato)	0	0	90	N	N	N	0		0	0	0	
@@ -16415,39 +16415,39 @@ LGE	6/28/2003	Jersey Shore Boca	Worcester Kings	Worcester Kings	Pietropinto, Cla
 LGE	6/28/2003	Jersey Shore Boca	Worcester Kings	Worcester Kings	Villatoro, Allan	0	0	102	N	N	N	0		0	0	0	
 LGE	6/28/2003	Jersey Shore Boca	Worcester Kings	Worcester Kings	Jusczk, Glen	0	0	0	N	N	N	0		0	0	0	
 LGE	6/28/2003	Jersey Shore Boca	Worcester Kings	Worcester Kings	Walker, Geofrey	0	0	0	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Patton, Michael	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Rosenthal, Mike	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Barber, Ryan	0	0	89	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Green, Dustin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Duffy, Joshua	0	0	54	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Ryan, Blake	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Miles, Geoff	0	0	78	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Baker, Jesse	0	0	78	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Sebus, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Bleyenberg, Jake	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Scheller, Lawrence (Larry)	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Blinzler, Adam	0	54	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Nekuda, Allan	0	78	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Clifton, Andrew	0	78	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Kansas City Brass	Dohlman, Todd	0	89	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Odwell, Alexander	0	0	37	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Grabavoy, Ned	0	0	61	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Duda, Eric	0	0	57	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Mouw, Robert	0	0	70	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Grange, Patrick	0	0	66	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Chromik, Steve	0	37	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Halcrow, Ryan	0	57	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Babcock, Sean	0	61	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Harwat, Kirk	0	66	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	70	90	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Piotkin,  Brian	0	0	0	N	N	N	0		0	0	0	
-LGE	6/28/2003	Kansas City Brass	Chicago Fire Reserves	Chicago Fire Reserves	Hamburger, Chris	0	0	0	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Patton, Michael	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Rosenthal, Mike	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Barber, Ryan	0	0	89	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Green, Dustin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Duffy, Joshua	0	0	54	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Ryan, Blake	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Miles, Geoff	0	0	78	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Baker, Jesse	0	0	78	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Sebus, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Bleyenberg, Jake	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Scheller, Lawrence (Larry)	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Blinzler, Adam	0	54	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Nekuda, Allan	0	78	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Clifton, Andrew	0	78	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Kansas City Brass	Dohlman, Todd	0	89	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Odwell, Alexander	0	0	37	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Grabavoy, Ned	0	0	61	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Duda, Eric	0	0	57	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Mouw, Robert	0	0	70	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Grange, Patrick	0	0	66	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Chromik, Steve	0	37	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Halcrow, Ryan	0	57	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Babcock, Sean	0	61	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Harwat, Kirk	0	66	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	70	90	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Piotkin,  Brian	0	0	0	N	N	N	0		0	0	0	
+LGE	6/28/2003	Kansas City Brass	Chicago Fire (PDL)	Chicago Fire (PDL)	Hamburger, Chris	0	0	0	N	N	N	0		0	0	0	
 LGE	6/28/2003	New Hampshire Phantoms	Westchester Flames	New Hampshire Phantoms	Singer, Kyle	0	0	90	N	N	N	0		0	0	0	
 LGE	6/28/2003	New Hampshire Phantoms	Westchester Flames	New Hampshire Phantoms	Evans, David	0	0	90	N	N	N	0		0	0	0	
 LGE	6/28/2003	New Hampshire Phantoms	Westchester Flames	New Hampshire Phantoms	Curran, Brandon	0	0	90	N	N	N	0		0	0	0	
@@ -17380,42 +17380,42 @@ LGE	7/1/2003	Vancouver Whitecaps	Portland Timbers	Portland Timbers	Youngblood, R
 LGE	7/1/2003	Vancouver Whitecaps	Portland Timbers	Portland Timbers	Antoniuk, Daniel	0	0	0	N	N	N	0		0	0	0	
 LGE	7/1/2003	Vancouver Whitecaps	Portland Timbers	Portland Timbers	Wilson, Adam	0	0	0	N	N	N	0		0	0	0	
 LGE	7/1/2003	Vancouver Whitecaps	Portland Timbers	Portland Timbers	Burgman, Cole	0	0	0	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Strang, Brett	0	0	82	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Grabavoy, Ned	0	0	86	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Mouw, Robert	0	0	77	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	89	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Babcock, Sean	0	0	88	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Duda, Eric	0	69	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Chromik, Steve	0	77	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Zayner, Jedidiah	0	78	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Halcrow, Ryan	0	82	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Grange, Patrick	0	86	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Chicago Fire Reserves	Piotkin,  Brian	0	0	0	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Wicks, Josh	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Brazeau, Daryl	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Redhage, Christopher	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Henning, David	0	0	45	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Cuevas-Carrasco, Cristian	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Jones Ii, John	0	0	60	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	O'Neil, Kris	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Boltnar, Tomas	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Rodrigues-Osorio, Joao	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Kabwe, Joseph	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Disang, Edwin	0	0	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Shirley, Stephen	0	45	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Sithonnorath, Khampratana(Joe)	0	60	90	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Reis-Wandrey, Josh	0	0	0	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Peercy, Lane	0	0	0	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Doss-Carter, Jason	0	0	0	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Brackett, Benjamin	0	0	0	N	N	N	0		0	0	0	
-LGE	7/2/2003	Chicago Fire Reserves	Des Moines Menace	Des Moines Menace	Harris, Jacob	0	0	0	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Robinson, Dason	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Strang, Brett	0	0	82	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Grabavoy, Ned	0	0	86	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Mouw, Robert	0	0	77	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	89	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Babcock, Sean	0	0	88	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Duda, Eric	0	69	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Chromik, Steve	0	77	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Zayner, Jedidiah	0	78	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Halcrow, Ryan	0	82	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Grange, Patrick	0	86	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Chicago Fire (PDL)	Piotkin,  Brian	0	0	0	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Wicks, Josh	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Brazeau, Daryl	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Redhage, Christopher	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Henning, David	0	0	45	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Cuevas-Carrasco, Cristian	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Jones Ii, John	0	0	60	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	O'Neil, Kris	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Boltnar, Tomas	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Rodrigues-Osorio, Joao	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Kabwe, Joseph	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Disang, Edwin	0	0	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Shirley, Stephen	0	45	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Sithonnorath, Khampratana(Joe)	0	60	90	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Reis-Wandrey, Josh	0	0	0	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Peercy, Lane	0	0	0	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Doss-Carter, Jason	0	0	0	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Brackett, Benjamin	0	0	0	N	N	N	0		0	0	0	
+LGE	7/2/2003	Chicago Fire (PDL)	Des Moines Menace	Des Moines Menace	Harris, Jacob	0	0	0	N	N	N	0		0	0	0	
 LGE	7/2/2003	Long Island Rough Riders	Western Mass Pioneers	Long Island Rough Riders	Gatti, Guillermo (Bill)	0	0	90	N	N	N	0		0	0	0	
 LGE	7/2/2003	Long Island Rough Riders	Western Mass Pioneers	Long Island Rough Riders	Brooks, Paul	0	0	90	N	N	N	0		0	0	0	
 LGE	7/2/2003	Long Island Rough Riders	Western Mass Pioneers	Long Island Rough Riders	Odour, Moffat	0	0	90	N	N	N	0		0	0	0	
@@ -17923,41 +17923,41 @@ LGE	7/4/2003	New Orleans Shell Shockers	Nashville Metros	Nashville Metros	Buerge
 LGE	7/4/2003	New Orleans Shell Shockers	Nashville Metros	Nashville Metros	Cobbs, Bradley	0	59	90	N	N	N	0		0	0	0	
 LGE	7/4/2003	New Orleans Shell Shockers	Nashville Metros	Nashville Metros	Troglen, Ryan	0	76	90	N	N	N	0		0	0	0	
 LGE	7/4/2003	New Orleans Shell Shockers	Nashville Metros	Nashville Metros	Said, David	0	88	90	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Tonianse, Armen	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Gorton, Steve	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Rose, Andrew	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Pollastrone, Angelo	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Christey, Fitzroy	0	0	62	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Dhillon, Parminder	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Colistro, Dave	0	0	57	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Kolinski, Mike	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Bandanai, Ron	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Androutsos, Vasilis	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Wesseh, Doco	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Goetting, Jordan	0	57	83	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Valente, Tony	0	62	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Nordin, Brett	0	83	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Peura, Petri	0	0	0	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Iorianni, Emanuel	0	0	0	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Papa, Angelo	0	0	0	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Camara, Glen	0	0	0	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Tanner, Kyle	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Robinson, Dason	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Pollard, Nicholas	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Halcrow, Ryan	0	0	68	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Odwell, Alexander	0	0	57	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Piotkin,  Brian	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Grabavoy, Ned	0	0	68	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Duda, Eric	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Mouw, Robert	0	0	68	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Dombrowski, Tighe	0	0	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	57	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Chromik, Steve	0	68	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Harwat, Kirk	0	68	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Babcock, Sean	0	68	110	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
-LGE	7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Blake, BJ	0	0	0	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Tonianse, Armen	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Gorton, Steve	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Rose, Andrew	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Pollastrone, Angelo	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Christey, Fitzroy	0	0	62	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Dhillon, Parminder	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Colistro, Dave	0	0	57	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Kolinski, Mike	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Bandanai, Ron	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Androutsos, Vasilis	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Wesseh, Doco	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Goetting, Jordan	0	57	83	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Valente, Tony	0	62	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Nordin, Brett	0	83	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Peura, Petri	0	0	0	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Iorianni, Emanuel	0	0	0	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Papa, Angelo	0	0	0	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Camara, Glen	0	0	0	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Tanner, Kyle	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Robinson, Dason	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Pollard, Nicholas	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Halcrow, Ryan	0	0	68	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Odwell, Alexander	0	0	57	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Piotkin,  Brian	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Grabavoy, Ned	0	0	68	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Duda, Eric	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Mouw, Robert	0	0	68	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	57	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Chromik, Steve	0	68	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Harwat, Kirk	0	68	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Babcock, Sean	0	68	110	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
+LGE	7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Blake, BJ	0	0	0	N	N	N	0		0	0	0	
 LGE	7/4/2003	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	Anderson, Kevin	0	0	90	N	N	N	0		0	0	0	
 LGE	7/4/2003	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	Ferruzzi, Marco	0	0	59	N	N	N	0		0	0	0	
 LGE	7/4/2003	Minnesota Thunder	Seattle Sounders	Minnesota Thunder	Wheaton, Greg	0	0	90	N	N	N	0		0	0	0	
@@ -18381,40 +18381,40 @@ LGE	7/5/2003	Texas Spurs	Austin Lightning	Austin Lightning	Cuero, Diego Mauricio
 LGE	7/5/2003	Texas Spurs	Austin Lightning	Austin Lightning	Toman, Jason	0	77	90	N	N	N	0		0	0	0	
 LGE	7/5/2003	Texas Spurs	Austin Lightning	Austin Lightning	Galicia-Resendiz, Juan	0	88	90	N	N	N	0		0	0	0	
 LGE	7/5/2003	Texas Spurs	Austin Lightning	Austin Lightning	Handy, Chris	0	0	0	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Tonianse, Armen	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Gorton, Steve	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Rose, Andrew	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Pollastrone, Angelo	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Christey, Fitzroy	0	0	62	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Dhillon, Parminder	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Kolinski, Mike	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Goetting, Jordan	0	0	54	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Bandanai, Ron	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Androutsos, Vasilis	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Wesseh, Doco	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Valente, Tony	0	54	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Nordin, Brett	0	62	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Iorianni, Emanuel	0	90	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Peura, Petri	0	0	0	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Blankley, Martyn	0	0	0	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Thunder Bay Chill	Papa, Angelo	0	0	0	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Tanner, Kyle	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Chromik, Steve	0	0	45	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Robinson, Dason	0	0	22	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Pollard, Nicholas	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Halcrow, Ryan	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Odwell, Alexander	0	0	45	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Duda, Eric	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Dombrowski, Tighe	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Harwat, Kirk	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Babcock, Sean	0	0	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Blake, BJ	0	22	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Grabavoy, Ned	0	45	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Mouw, Robert	0	45	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	45	94	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
-LGE	7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	Chicago Fire Reserves	Piotkin,  Brian	0	0	0	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Tonianse, Armen	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Gorton, Steve	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Rose, Andrew	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Pollastrone, Angelo	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Christey, Fitzroy	0	0	62	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Dhillon, Parminder	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Kolinski, Mike	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Goetting, Jordan	0	0	54	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Bandanai, Ron	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Androutsos, Vasilis	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Wesseh, Doco	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Valente, Tony	0	54	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Nordin, Brett	0	62	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Iorianni, Emanuel	0	90	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Peura, Petri	0	0	0	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Blankley, Martyn	0	0	0	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Thunder Bay Chill	Papa, Angelo	0	0	0	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Tanner, Kyle	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Chromik, Steve	0	0	45	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Robinson, Dason	0	0	22	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Pollard, Nicholas	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Halcrow, Ryan	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Odwell, Alexander	0	0	45	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Duda, Eric	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Harwat, Kirk	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Babcock, Sean	0	0	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Blake, BJ	0	22	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Grabavoy, Ned	0	45	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Mouw, Robert	0	45	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	45	94	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	DeClute, Jacob	0	0	0	N	N	N	0		0	0	0	
+LGE	7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	Chicago Fire (PDL)	Piotkin,  Brian	0	0	0	N	N	N	0		0	0	0	
 LGE	7/5/2003	Vermont Voltage	Cape Cod Crusaders	Vermont Voltage	Olivieri, Andrew	0	0	90	N	N	N	0		0	0	0	
 LGE	7/5/2003	Vermont Voltage	Cape Cod Crusaders	Vermont Voltage	Tomaro, Paul	0	0	90	N	N	N	0		0	0	0	
 LGE	7/5/2003	Vermont Voltage	Cape Cod Crusaders	Vermont Voltage	Obradovic, Srdjan	0	0	90	N	N	N	0		0	0	0	
@@ -20240,42 +20240,42 @@ LGE	7/11/2003	Western Mass Pioneers	New Jersey Stallions	New Jersey Stallions	Ba
 LGE	7/11/2003	Western Mass Pioneers	New Jersey Stallions	New Jersey Stallions	Sir, Christian Roberto	0	0	0	N	N	N	0		0	0	0	
 LGE	7/11/2003	Western Mass Pioneers	New Jersey Stallions	New Jersey Stallions	Shlichtmann, Saul	0	0	0	N	N	N	0		0	0	0	
 LGE	7/11/2003	Western Mass Pioneers	New Jersey Stallions	New Jersey Stallions	McGregor, Leeben (Peter)	0	0	0	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Hansen, Eric	0	0	45	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Chin, David	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Furtsch, Trent	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Hyde, David (Nathan)	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Gehrt, Adam	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	McCaughey, Cort	0	0	26	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Merzlicker, Scott	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Brisson, Christopher (Chris)	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	German, Joel	0	0	86	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Sanchez, Eric	0	0	78	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Sillars, Kyle	0	0	66	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Lish, Robert (Bobby)	0	26	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Ubert, Adam	0	45	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Vollmer, Steve	0	66	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Morrison, Jacob	0	78	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Doyle, Terry	0	86	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Meyer, Jerad	0	0	0	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Dziatkiewicz, Stephen	0	0	0	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Strang, Brett	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Halcrow, Ryan	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Piotkin,  Brian	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Grabavoy, Ned	0	0	62	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Mouw, Robert	0	0	45	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Dombrowski, Tighe	0	0	85	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	66	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Odwell, Alexander	0	45	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Harwat, Kirk	0	62	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Rolfe, Christopher	0	66	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	DeClute, Jacob	0	85	90	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Tanner, Kyle	0	0	0	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Blake, BJ	0	0	0	N	N	N	0		0	0	0	
-LGE	7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Babcock, Sean	0	0	0	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Hansen, Eric	0	0	45	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Chin, David	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Furtsch, Trent	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Hyde, David (Nathan)	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Gehrt, Adam	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	McCaughey, Cort	0	0	26	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Merzlicker, Scott	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Brisson, Christopher (Chris)	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	German, Joel	0	0	86	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Sanchez, Eric	0	0	78	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Sillars, Kyle	0	0	66	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Lish, Robert (Bobby)	0	26	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Ubert, Adam	0	45	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Vollmer, Steve	0	66	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Morrison, Jacob	0	78	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Doyle, Terry	0	86	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Meyer, Jerad	0	0	0	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Dziatkiewicz, Stephen	0	0	0	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Strang, Brett	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Halcrow, Ryan	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Piotkin,  Brian	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Grabavoy, Ned	0	0	62	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Mouw, Robert	0	0	45	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	85	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	66	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Odwell, Alexander	0	45	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Harwat, Kirk	0	62	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Rolfe, Christopher	0	66	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	DeClute, Jacob	0	85	90	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Tanner, Kyle	0	0	0	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Blake, BJ	0	0	0	N	N	N	0		0	0	0	
+LGE	7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Babcock, Sean	0	0	0	N	N	N	0		0	0	0	
 LGE	7/11/2003	Yakima Reds	Cascade Surge	Yakima Reds	Waltman, Danny	0	0	110	N	N	N	0		0	0	0	
 LGE	7/11/2003	Yakima Reds	Cascade Surge	Yakima Reds	Esterhuizen, Hans	0	0	110	N	N	N	0		0	0	0	
 LGE	7/11/2003	Yakima Reds	Cascade Surge	Yakima Reds	Roberts, Tyler	0	0	110	N	N	N	0		0	0	0	
@@ -20403,37 +20403,37 @@ LGE	7/12/2003	Charleston Battery	Toronto Lynx	Toronto Lynx	Faria, Shawn	0	0	0	N	
 LGE	7/12/2003	Charleston Battery	Toronto Lynx	Toronto Lynx	Mayard, Josue	0	0	0	N	N	N	0		0	0	0	
 LGE	7/12/2003	Charleston Battery	Toronto Lynx	Toronto Lynx	Thomas, Elvis	0	0	0	N	N	N	0		0	0	0	
 LGE	7/12/2003	Charleston Battery	Toronto Lynx	Toronto Lynx	Rowland, Brian	0	0	0	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Strang, Brett	0	0	45	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Halcrow, Ryan	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Odwell, Alexander	0	0	58	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Wickart, Kevin	0	0	45	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Harwat, Kirk	0	0	61	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Babcock, Sean	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Rolfe, Christopher	0	0	70	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	DeClute, Jacob	0	45	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Miller, Ryan	0	45	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Chromik, Steve	0	58	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Grange, Patrick	0	61	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Blake, BJ	0	70	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Brown, Gregory (Chad)	0	0	0	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	Grabavoy, Ned	0	0	0	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Ubert, Adam	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Vollmer, Steve	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Chin, David	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Hyde, David (Nathan)	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Meyer, Jerad	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Dziatkiewicz, Stephen	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	German, Joel	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Sanchez, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Sillars, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Merzlicker, Scott	0	0	80	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Doyle, Terry	0	0	42	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Morrison, Jacob	0	42	90	N	N	N	0		0	0	0	
-LGE	7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	Wisconsin Rebels	Goines, Thomas	0	80	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Strang, Brett	0	0	45	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Halcrow, Ryan	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Odwell, Alexander	0	0	58	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Wickart, Kevin	0	0	45	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Harwat, Kirk	0	0	61	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Babcock, Sean	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Rolfe, Christopher	0	0	70	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	DeClute, Jacob	0	45	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Miller, Ryan	0	45	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Chromik, Steve	0	58	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Grange, Patrick	0	61	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Blake, BJ	0	70	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Brown, Gregory (Chad)	0	0	0	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	Grabavoy, Ned	0	0	0	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Ubert, Adam	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Vollmer, Steve	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Chin, David	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Hyde, David (Nathan)	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Meyer, Jerad	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Dziatkiewicz, Stephen	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	German, Joel	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Sanchez, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Sillars, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Merzlicker, Scott	0	0	80	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Doyle, Terry	0	0	42	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Morrison, Jacob	0	42	90	N	N	N	0		0	0	0	
+LGE	7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	Wisconsin Rebels	Goines, Thomas	0	80	90	N	N	N	0		0	0	0	
 LGE	7/12/2003	Cocoa Expos	Bradenton Academics	Cocoa Expos	Bull, Liam	0	0	110	N	N	N	0		0	0	0	
 LGE	7/12/2003	Cocoa Expos	Bradenton Academics	Cocoa Expos	Collins, Peter (Dan)	0	0	110	N	N	N	0		0	0	0	
 LGE	7/12/2003	Cocoa Expos	Bradenton Academics	Cocoa Expos	Bigham, Daniel	0	0	110	N	N	N	0		0	0	0	
@@ -22578,40 +22578,40 @@ LGE	7/19/2003	Charleston Battery	Rochester Rhinos	Rochester Rhinos	Dinunzio, Rya
 LGE	7/19/2003	Charleston Battery	Rochester Rhinos	Rochester Rhinos	Commodore, Frederick	0	70	98	N	N	N	0		0	0	0	
 LGE	7/19/2003	Charleston Battery	Rochester Rhinos	Rochester Rhinos	Mitchell, Jamel	0	87	98	N	N	N	0		0	0	0	
 LGE	7/19/2003	Charleston Battery	Rochester Rhinos	Rochester Rhinos	Johnson, Soren	0	0	0	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Clanton, Denny	0	0	72	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Strang, Brett	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Mouw, Robert	0	0	76	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Babcock, Sean	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Watson, Daniel	0	72	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Chromik, Steve	0	76	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Brown, Gregory (Chad)	0	0	0	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Halcrow, Ryan	0	0	0	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Miller, Ryan	0	0	0	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Duda, Eric	0	0	0	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	Harwat, Kirk	0	0	0	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Jones, Martin	0	0	83	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Lee, Shawn	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Watson, Jonathan	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Newland, Brian	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Newland, Brandon	0	0	71	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Joseph, Roger	0	0	83	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Ochoa, Bernabe	0	0	71	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	McCabe, Tim	0	0	45	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Tranchilla, Mike	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Bogdanov, Lubo	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Lascody, Doug	0	0	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Bennett, Paul	0	45	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Nelson, Joel	0	71	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Wylie, Brandon	0	71	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Meich, Jesse	0	83	90	N	N	N	0		0	0	0	
-LGE	7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	Sioux Falls SpitFire	Mumm, Benjamin	0	83	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Clanton, Denny	0	0	72	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Strang, Brett	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Mouw, Robert	0	0	76	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Babcock, Sean	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Watson, Daniel	0	72	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Chromik, Steve	0	76	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Brown, Gregory (Chad)	0	0	0	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Halcrow, Ryan	0	0	0	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Miller, Ryan	0	0	0	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Duda, Eric	0	0	0	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	Harwat, Kirk	0	0	0	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Jones, Martin	0	0	83	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Lee, Shawn	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Watson, Jonathan	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Newland, Brian	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Newland, Brandon	0	0	71	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Joseph, Roger	0	0	83	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Ochoa, Bernabe	0	0	71	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	McCabe, Tim	0	0	45	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Tranchilla, Mike	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Bogdanov, Lubo	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Lascody, Doug	0	0	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Bennett, Paul	0	45	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Nelson, Joel	0	71	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Wylie, Brandon	0	71	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Meich, Jesse	0	83	90	N	N	N	0		0	0	0	
+LGE	7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	Sioux Falls SpitFire	Mumm, Benjamin	0	83	90	N	N	N	0		0	0	0	
 LGE	7/19/2003	Cincinnati Riverhawks	Milwaukee Wave United	Cincinnati Riverhawks	Alavanja, Lazo	0	0	76	N	N	N	0		0	0	0	
 LGE	7/19/2003	Cincinnati Riverhawks	Milwaukee Wave United	Cincinnati Riverhawks	Eller, Allen	0	0	90	N	N	N	0		0	0	0	
 LGE	7/19/2003	Cincinnati Riverhawks	Milwaukee Wave United	Cincinnati Riverhawks	Matis, Teoder (Marcel)	0	0	42	N	N	N	0		0	0	0	
@@ -23545,39 +23545,39 @@ LGE	7/20/2003	Williamsburg Legacy	Richmond Kickers Future	Richmond Kickers Futur
 LGE	7/20/2003	Williamsburg Legacy	Richmond Kickers Future	Richmond Kickers Future	Logan, Michael	0	56	90	N	N	N	0		0	0	0	
 LGE	7/20/2003	Williamsburg Legacy	Richmond Kickers Future	Richmond Kickers Future	Nall, Justin	0	79	90	N	N	N	0		0	0	0	
 LGE	7/20/2003	Williamsburg Legacy	Richmond Kickers Future	Richmond Kickers Future	Creasman, Bartley (Bart)	0	0	0	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Ubert, Adam	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Vollmer, Steve	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Hyde, David (Nathan)	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	McCaughey, Cort	0	0	31	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Bremberger, Adam	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Kobussen, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Meyer, Jerad	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Dziatkiewicz, Stephen	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	German, Joel	0	0	45	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Merzlicker, Scott	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Doyle, Terry	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Goines, Thomas	0	31	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Morrison, Jacob	0	45	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Chin, David	0	0	0	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Gehrt, Adam	0	0	0	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Sanchez, Eric	0	0	0	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Wisconsin Rebels	Sillars, Kyle	0	0	0	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Brown, Gregory (Chad)	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	DeClute, Jacob	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Tanner, Kyle	0	0	45	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Watson, Daniel	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Halcrow, Ryan	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Odwell, Alexander	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Miller, Ryan	0	0	72	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Duda, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Zayner, Jedidiah	0	0	78	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Grange, Patrick	0	0	55	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Rolfe, Christopher	0	0	64	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Blake, BJ	0	45	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Harwat, Kirk	0	55	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Chromik, Steve	0	64	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Babcock, Sean	0	72	90	N	N	N	0		0	0	0	
-LGE	7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	Chicago Fire Reserves	Pollard, Nicholas	0	78	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Ubert, Adam	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Vollmer, Steve	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Hyde, David (Nathan)	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	McCaughey, Cort	0	0	31	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Bremberger, Adam	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Kobussen, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Meyer, Jerad	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Dziatkiewicz, Stephen	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	German, Joel	0	0	45	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Merzlicker, Scott	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Doyle, Terry	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Goines, Thomas	0	31	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Morrison, Jacob	0	45	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Chin, David	0	0	0	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Gehrt, Adam	0	0	0	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Sanchez, Eric	0	0	0	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Wisconsin Rebels	Sillars, Kyle	0	0	0	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Brown, Gregory (Chad)	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	DeClute, Jacob	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Tanner, Kyle	0	0	45	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Watson, Daniel	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Halcrow, Ryan	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Odwell, Alexander	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Miller, Ryan	0	0	72	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Duda, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Zayner, Jedidiah	0	0	78	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Grange, Patrick	0	0	55	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Rolfe, Christopher	0	0	64	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Blake, BJ	0	45	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Harwat, Kirk	0	55	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Chromik, Steve	0	64	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Babcock, Sean	0	72	90	N	N	N	0		0	0	0	
+LGE	7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	Chicago Fire (PDL)	Pollard, Nicholas	0	78	90	N	N	N	0		0	0	0	
 LGE	7/22/2003	Richmond Kickers	Rochester Rhinos	Richmond Kickers	Lekics, Paul	0	0	74	N	N	N	0		0	0	0	
 LGE	7/22/2003	Richmond Kickers	Rochester Rhinos	Richmond Kickers	Russell, Jason	0	0	90	N	N	N	0		0	0	0	
 LGE	7/22/2003	Richmond Kickers	Rochester Rhinos	Richmond Kickers	Williams, Tony	0	0	90	N	N	N	0		0	0	0	
@@ -24082,36 +24082,36 @@ LGE	7/26/2003	Carolina Dynamo	Wilmington Hammerheads	Wilmington Hammerheads	Murr
 LGE	7/26/2003	Carolina Dynamo	Wilmington Hammerheads	Wilmington Hammerheads	Burgess, Daniel	0	73	103	N	N	N	0		0	0	0	
 LGE	7/26/2003	Carolina Dynamo	Wilmington Hammerheads	Wilmington Hammerheads	Corrie, George	0	0	0	N	N	N	0		0	0	0	
 LGE	7/26/2003	Carolina Dynamo	Wilmington Hammerheads	Wilmington Hammerheads	Goulding, Graham	0	0	0	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Strang, Brett	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Mouw, Robert	0	0	49	N	N	N	0	DeClute, Jacob	0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	53	N	N	N	0	Zayner, Jedidiah	0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Grange, Patrick	0	0	57	N	N	N	0	Harwat, Kirk	0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Babcock, Sean	0	0	59	N	N	N	0	Miller, Ryan	0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	DeClute, Jacob	0	49	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Zayner, Jedidiah	0	53	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Harwat, Kirk	0	57	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Miller, Ryan	0	59	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Brown, Gregory (Chad)	0	0	0	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Watson, Daniel	0	0	0	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Duda, Eric	0	0	0	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Roelke, Kyle	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Lopez, Oscar	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Roman, Austin	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Taguinold, Brendon	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Aguiar, Jacob	0	0	29	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Martin, Greg	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Marques, Ryan	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Mault, Jordan	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Snyder, Dustin	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Wakhisi, Francis	0	0	65	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Rowland, Jeffrey	0	0	90	N	N	N	0		0	0	0	
-PLO	7/26/2003	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Agu, Alloysius	0	0	0	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Strang, Brett	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Mouw, Robert	0	0	49	N	N	N	0	DeClute, Jacob	0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	53	N	N	N	0	Zayner, Jedidiah	0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Grange, Patrick	0	0	57	N	N	N	0	Harwat, Kirk	0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Babcock, Sean	0	0	59	N	N	N	0	Miller, Ryan	0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	DeClute, Jacob	0	49	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Zayner, Jedidiah	0	53	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Harwat, Kirk	0	57	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Miller, Ryan	0	59	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Brown, Gregory (Chad)	0	0	0	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Watson, Daniel	0	0	0	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Duda, Eric	0	0	0	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Roelke, Kyle	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Lopez, Oscar	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Roman, Austin	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Taguinold, Brendon	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Aguiar, Jacob	0	0	29	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Martin, Greg	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Marques, Ryan	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Mault, Jordan	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Snyder, Dustin	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Wakhisi, Francis	0	0	65	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Rowland, Jeffrey	0	0	90	N	N	N	0		0	0	0	
+PLO	7/26/2003	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Agu, Alloysius	0	0	0	N	N	N	0		0	0	0	
 LGE	7/26/2003	Long Island Rough Riders	New Jersey Stallions	Long Island Rough Riders	Gatti, Guillermo (Bill)	0	0	90	N	N	N	0		0	0	0	
 LGE	7/26/2003	Long Island Rough Riders	New Jersey Stallions	Long Island Rough Riders	Lonergan, Patrick	0	0	45	N	N	N	0		0	0	0	
 LGE	7/26/2003	Long Island Rough Riders	New Jersey Stallions	Long Island Rough Riders	Brooks, Paul	0	0	90	N	N	N	0		0	0	0	
@@ -24641,41 +24641,41 @@ LGE	7/27/2003	Cincinnati Riverhawks	Vancouver Whitecaps	Vancouver Whitecaps	Dail
 LGE	7/27/2003	Cincinnati Riverhawks	Vancouver Whitecaps	Vancouver Whitecaps	King, Tiarnan	0	0	0	N	N	N	0		0	0	0	
 LGE	7/27/2003	Cincinnati Riverhawks	Vancouver Whitecaps	Vancouver Whitecaps	Valente, Alfredo	0	79	90	N	N	N	0		0	0	0	
 LGE	7/27/2003	Cincinnati Riverhawks	Vancouver Whitecaps	Vancouver Whitecaps	Marques-Delgado, Alexander	0	0	0	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Wiese, Jeff	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Taylor, Kevin	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Perry, Jason	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Geiger, Abraham (Abe)	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Norman, Nathan	0	0	45	N	N	N	0	Heinemann, Adam	0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Snape, Paul	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Nelson, Erik	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	David, Stephen	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Minagawa-Webster, John	0	0	62	N	N	N	0	Omekanda, Simon	0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Craft, Nate	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Ombiji, Brian	0	0	32	N	N	N	0	Turpin, Mychal	0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Turpin, Mychal	0	32	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Heinemann, Adam	0	45	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Omekanda, Simon	0	62	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Dzubay, Peter	0	0	0	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Rzepka, Ryan	0	0	0	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	DeGraw, Nicholas	0	0	0	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	Edwards, Christopher	0	0	0	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Tanner, Kyle	0	0	84	N	N	N	0	Halcrow, Ryan	0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Chromik, Steve	0	0	38	N	N	N	0	Mouw, Robert	0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Strang, Brett	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Odwell, Alexander	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Duda, Eric	0	0	42	N	N	N	0	Drewry-Sutton, Jamal	0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Rolfe, Christopher	0	0	64	N	N	N	0	Grange, Patrick	0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Mouw, Robert	0	38	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	42	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Babcock, Sean	0	52	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Grange, Patrick	0	64	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Halcrow, Ryan	0	84	90	N	N	N	0		0	0	0	
-PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	Chicago Fire Reserves	Watson, Daniel	0	0	0	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Wiese, Jeff	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Taylor, Kevin	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Perry, Jason	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Geiger, Abraham (Abe)	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Norman, Nathan	0	0	45	N	N	N	0	Heinemann, Adam	0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Snape, Paul	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Nelson, Erik	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	David, Stephen	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Minagawa-Webster, John	0	0	62	N	N	N	0	Omekanda, Simon	0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Craft, Nate	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Ombiji, Brian	0	0	32	N	N	N	0	Turpin, Mychal	0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Turpin, Mychal	0	32	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Heinemann, Adam	0	45	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Omekanda, Simon	0	62	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Dzubay, Peter	0	0	0	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Rzepka, Ryan	0	0	0	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	DeGraw, Nicholas	0	0	0	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	Edwards, Christopher	0	0	0	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Tanner, Kyle	0	0	84	N	N	N	0	Halcrow, Ryan	0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Chromik, Steve	0	0	38	N	N	N	0	Mouw, Robert	0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Strang, Brett	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Odwell, Alexander	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Duda, Eric	0	0	42	N	N	N	0	Drewry-Sutton, Jamal	0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Rolfe, Christopher	0	0	64	N	N	N	0	Grange, Patrick	0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Mouw, Robert	0	38	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	42	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Babcock, Sean	0	52	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Grange, Patrick	0	64	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Halcrow, Ryan	0	84	90	N	N	N	0		0	0	0	
+PLO	7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	Chicago Fire (PDL)	Watson, Daniel	0	0	0	N	N	N	0		0	0	0	
 PLO	7/27/2003	New Orleans Shell Shockers	Memphis Express	New Orleans Shell Shockers	Hiebert, Garrett	0	0	90	N	N	N	0		0	0	0	
 PLO	7/27/2003	New Orleans Shell Shockers	Memphis Express	New Orleans Shell Shockers	Rocke, Colin	0	0	64	N	N	N	0	Lambert, Nick	0	0	0	
 PLO	7/27/2003	New Orleans Shell Shockers	Memphis Express	New Orleans Shell Shockers	Webb, Gannon	0	0	90	N	N	N	0		0	0	0	
@@ -25333,41 +25333,41 @@ PLO	8/2/2003	Cape Cod Crusaders	Memphis Express	Memphis Express	Medlock, Steven	
 PLO	8/2/2003	Cape Cod Crusaders	Memphis Express	Memphis Express	Paule, Grant	0	76	90	N	N	N	0		0	0	0	
 PLO	8/2/2003	Cape Cod Crusaders	Memphis Express	Memphis Express	Boone, Houston (Tyler)	0	0	0	N	N	N	0		0	0	0	
 PLO	8/2/2003	Cape Cod Crusaders	Memphis Express	Memphis Express	Burana, Greg	0	0	0	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Clanton, Denny	0	0	83	N	N	N	0	Watson, Daniel	0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Strang, Brett	0	0	24	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Mouw, Robert	0	0	80	N	N	N	0	Odwell, Alexander	0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Grange, Patrick	0	0	33	N	N	N	0	Halcrow, Ryan	0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Babcock, Sean	0	0	73	N	N	N	0	Rolfe, Christopher	0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Halcrow, Ryan	0	33	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Rolfe, Christopher	0	73	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Odwell, Alexander	0	80	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Watson, Daniel	0	83	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Brown, Gregory (Chad)	0	0	0	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Duda, Eric	0	0	0	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Chicago Fire Reserves	Harwat, Kirk	0	0	0	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Kennedy, Daniel	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Griffin, Leonard	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Higgins, Shaun	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Saunders, Shawn	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Lawson, Anthony (Tony)	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Poltl, Thomas	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Gregorio, Adolfo	0	0	24	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Theslof, Nick	0	0	68	N	N	N	0	Kubota, Matt	0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Spencer, Jonathan (Jon)	0	0	83	N	N	N	0	Rogers, Robbie	0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Taylor, Matthew	0	0	83	N	N	N	0	Mcathy, Drew	0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Coiner, Ryan	0	0	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Kubota, Matt	0	68	86	N	N	N	0	Theslof, Tyler	0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Mcathy, Drew	0	83	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Rogers, Robbie	0	83	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Theslof, Tyler	0	86	90	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Pena, Nathan	0	0	0	N	N	N	0		0	0	0	
-PLO	8/2/2003	Chicago Fire Reserves	Orange County Blue Star	Orange County Blue Star	Meissner, Kevin	0	0	0	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Clanton, Denny	0	0	83	N	N	N	0	Watson, Daniel	0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Strang, Brett	0	0	24	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Mouw, Robert	0	0	80	N	N	N	0	Odwell, Alexander	0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Grange, Patrick	0	0	33	N	N	N	0	Halcrow, Ryan	0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Babcock, Sean	0	0	73	N	N	N	0	Rolfe, Christopher	0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Halcrow, Ryan	0	33	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Rolfe, Christopher	0	73	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Odwell, Alexander	0	80	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Watson, Daniel	0	83	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Brown, Gregory (Chad)	0	0	0	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Duda, Eric	0	0	0	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Chicago Fire (PDL)	Harwat, Kirk	0	0	0	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Kennedy, Daniel	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Griffin, Leonard	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Higgins, Shaun	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Saunders, Shawn	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Lawson, Anthony (Tony)	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Poltl, Thomas	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Gregorio, Adolfo	0	0	24	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Theslof, Nick	0	0	68	N	N	N	0	Kubota, Matt	0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Spencer, Jonathan (Jon)	0	0	83	N	N	N	0	Rogers, Robbie	0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Taylor, Matthew	0	0	83	N	N	N	0	Mcathy, Drew	0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Coiner, Ryan	0	0	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Kubota, Matt	0	68	86	N	N	N	0	Theslof, Tyler	0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Mcathy, Drew	0	83	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Rogers, Robbie	0	83	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Theslof, Tyler	0	86	90	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Pena, Nathan	0	0	0	N	N	N	0		0	0	0	
+PLO	8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	Orange County Blue Star	Meissner, Kevin	0	0	0	N	N	N	0		0	0	0	
 LGE	8/2/2003	New Hampshire Phantoms	Western Mass Pioneers	New Hampshire Phantoms	Singer, Kyle	0	0	90	N	N	N	0		0	0	0	
 LGE	8/2/2003	New Hampshire Phantoms	Western Mass Pioneers	New Hampshire Phantoms	Esteves, Alfredo	0	0	90	N	N	N	0		0	0	0	
 LGE	8/2/2003	New Hampshire Phantoms	Western Mass Pioneers	New Hampshire Phantoms	Gould, Steven	0	0	90	N	N	N	0		0	0	0	
@@ -26129,42 +26129,42 @@ LGE	8/9/2003	Charlotte Eagles	Atlanta Silverbacks	Atlanta Silverbacks	Hancock, B
 LGE	8/9/2003	Charlotte Eagles	Atlanta Silverbacks	Atlanta Silverbacks	Felippe, Carlos	0	88	90	N	N	N	0		0	0	0	
 LGE	8/9/2003	Charlotte Eagles	Atlanta Silverbacks	Atlanta Silverbacks	Fletcher, Carl	0	53	90	N	N	N	0		0	0	0	
 LGE	8/9/2003	Charlotte Eagles	Atlanta Silverbacks	Atlanta Silverbacks	Mitchell, Byron	0	82	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Halcrow, Ryan	0	0	76	N	N	N	0	Odwell, Alexander	0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Mouw, Robert	0	0	69	N	N	N	0	Harwat, Kirk	0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Drewry-Sutton, Jamal	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Babcock, Sean	0	0	40	N	N	N	0	Rolfe, Christopher	0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Rolfe, Christopher	0	40	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Harwat, Kirk	0	69	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Odwell, Alexander	0	76	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Brown, Gregory (Chad)	0	0	0	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Watson, Daniel	0	0	0	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Duda, Eric	0	0	0	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Chicago Fire Reserves	Grange, Patrick	0	0	0	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Boudreau, Keith	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	McNutt, Martin	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Chase, Paul	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Palguta, Scott	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Quinn, Damien	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Vercollone, Luke	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Ndlovu, Methembe	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Pilarski, Ian	0	0	73	N	N	N	0	Brillant, Felix	0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Pfeifer, Adam	0	0	63	N	N	N	0	Reuter, Steve	0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Bulow, David	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Ngwenya, Joseph	0	0	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Reuter, Steve	0	63	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Brillant, Felix	0	73	90	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Weber, Andrew	0	0	0	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Ncube, Thucanil	0	0	0	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Flakes, Phillip	0	0	0	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Bonomo, Jeremy	0	0	0	N	N	N	0		0	0	0	
-PLO	8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	Cape Cod Crusaders	Lynch, Eoin	0	0	0	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Pickens, Matthew (Matt)	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Tanner, Kyle	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Pollard, Nicholas	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Halcrow, Ryan	0	0	76	N	N	N	0	Odwell, Alexander	0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Grabavoy, Ned	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Mouw, Robert	0	0	69	N	N	N	0	Harwat, Kirk	0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Dombrowski, Tighe	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Wickart, Kevin	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Drewry-Sutton, Jamal	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Babcock, Sean	0	0	40	N	N	N	0	Rolfe, Christopher	0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Rolfe, Christopher	0	40	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Harwat, Kirk	0	69	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Odwell, Alexander	0	76	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Brown, Gregory (Chad)	0	0	0	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Watson, Daniel	0	0	0	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Duda, Eric	0	0	0	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Chicago Fire (PDL)	Grange, Patrick	0	0	0	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Boudreau, Keith	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	McNutt, Martin	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Chase, Paul	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Palguta, Scott	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Quinn, Damien	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Vercollone, Luke	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Ndlovu, Methembe	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Pilarski, Ian	0	0	73	N	N	N	0	Brillant, Felix	0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Pfeifer, Adam	0	0	63	N	N	N	0	Reuter, Steve	0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Bulow, David	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Ngwenya, Joseph	0	0	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Reuter, Steve	0	63	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Brillant, Felix	0	73	90	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Weber, Andrew	0	0	0	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Ncube, Thucanil	0	0	0	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Flakes, Phillip	0	0	0	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Bonomo, Jeremy	0	0	0	N	N	N	0		0	0	0	
+PLO	8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	Cape Cod Crusaders	Lynch, Eoin	0	0	0	N	N	N	0		0	0	0	
 LGE	8/9/2003	Cincinnati Riverhawks	Minnesota Thunder	Cincinnati Riverhawks	Child, Edward (Eddie)	0	0	82	N	N	N	0		0	0	0	
 LGE	8/9/2003	Cincinnati Riverhawks	Minnesota Thunder	Cincinnati Riverhawks	DiGuardi, Robert (Gino)	0	0	90	N	N	N	0		0	0	0	
 LGE	8/9/2003	Cincinnati Riverhawks	Minnesota Thunder	Cincinnati Riverhawks	Eller, Allen	0	0	90	N	N	N	0		0	0	0	

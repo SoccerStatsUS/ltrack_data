@@ -1549,32 +1549,32 @@ Thompson, Mike	Spokane Shadow	Seattle Sounders Select	Spokane Shadow	5/5/2001	0	
 Whittaker, Tom	Cascade Surge	Cascade Surge	Seattle Sounders Select	5/6/2001	0		LGE			
 Armstrong, Casey	Seattle Sounders Select	Cascade Surge	Seattle Sounders Select	5/6/2001	0		LGE			
 Sagare, Jacob	Seattle Sounders Select	Cascade Surge	Seattle Sounders Select	5/6/2001	0		LGE			
-Bammel, Joshua	Dayton Gemini	Dayton Gemini	Chicago Fire Reserves	5/11/2001	0		LGE			
-Eastland, Robert	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	5/11/2001	0		LGE			
-Eastland, Robert	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	5/11/2001	0		LGE			
-Paul, Lee	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	5/11/2001	0		LGE			
+Bammel, Joshua	Dayton Gemini	Dayton Gemini	Chicago Fire (PDL)	5/11/2001	0		LGE			
+Eastland, Robert	Chicago Fire (PDL)	Dayton Gemini	Chicago Fire (PDL)	5/11/2001	0		LGE			
+Eastland, Robert	Chicago Fire (PDL)	Dayton Gemini	Chicago Fire (PDL)	5/11/2001	0		LGE			
+Paul, Lee	Chicago Fire (PDL)	Dayton Gemini	Chicago Fire (PDL)	5/11/2001	0		LGE			
 Wesseh, Doco	Chicago Eagles Select	Chicago Eagles Select	Thunder Bay Chill	5/12/2001	0		LGE			
 Galvao, Marcelo	Chicago Eagles Select	Chicago Eagles Select	Thunder Bay Chill	5/12/2001	0		LGE			
 Galavis, Juan	Cascade Surge	Okanagan Challenge	Cascade Surge	5/12/2001	0		LGE			
 Galavis, Juan	Cascade Surge	Okanagan Challenge	Cascade Surge	5/12/2001	0		LGE			
 Whittaker, Tom	Cascade Surge	Okanagan Challenge	Cascade Surge	5/12/2001	0		LGE			
-Reti, Sean	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	5/13/2001	0		LGE			
-Reti, Sean	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	5/13/2001	0		LGE			
-Willson, Eric	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	5/13/2001	0		LGE			
-Paul, Lee	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	5/13/2001	0		LGE			
+Reti, Sean	Chicago Fire (PDL)	Chicago Fire (PDL)	Thunder Bay Chill	5/13/2001	0		LGE			
+Reti, Sean	Chicago Fire (PDL)	Chicago Fire (PDL)	Thunder Bay Chill	5/13/2001	0		LGE			
+Willson, Eric	Chicago Fire (PDL)	Chicago Fire (PDL)	Thunder Bay Chill	5/13/2001	0		LGE			
+Paul, Lee	Chicago Fire (PDL)	Chicago Fire (PDL)	Thunder Bay Chill	5/13/2001	0		LGE			
 Whittaker, Tom	Cascade Surge	Cascade Surge	Calgary Storm	5/18/2001	0		LGE			
 Rivera, Santa Maria	Yakima Reds	Seattle Sounders Select	Yakima Reds	5/18/2001	0		LGE			
 Scott, Zach	Spokane Shadow	Spokane Shadow	Okanagan Challenge	5/18/2001	0		LGE			
 Ready, Troy	Spokane Shadow	Spokane Shadow	Okanagan Challenge	5/18/2001	0		LGE			
 Modersohn, Seth	Des Moines Menace	Des Moines Menace	Thunder Bay Chill	5/19/2001	0		LGE			
 Suhm, Brad	Yakima Reds	Yakima Reds	Okanagan Challenge	5/19/2001	0		LGE			
-Clanton, Denny	Chicago Fire Reserves	Chicago Fire Reserves	Kalamazoo Kingdom	5/20/2001	0		LGE			
+Clanton, Denny	Chicago Fire (PDL)	Chicago Fire (PDL)	Kalamazoo Kingdom	5/20/2001	0		LGE			
 Peattie, Geoff	Twin Cities Phoenix	Twin Cities Phoenix	Thunder Bay Chill	5/20/2001	0		LGE			
-Wilson, William	West Michigan Edge	West Michigan Edge	Chicago Fire Reserves	5/24/2001	27		LGE	Smith, Pepe		
-Lara, David	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	5/24/2001	63		LGE	Reti, Sean		
-Mehreioskouei, Hamid	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	5/24/2001	38		LGE			
-Paul, Lee	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	5/24/2001	27		LGE	Reti, Sean		
-Paul, Lee	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	5/24/2001	7		LGE	Klaas, CJ		
+Wilson, William	West Michigan Edge	West Michigan Edge	Chicago Fire (PDL)	5/24/2001	27		LGE	Smith, Pepe		
+Lara, David	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	5/24/2001	63		LGE	Reti, Sean		
+Mehreioskouei, Hamid	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	5/24/2001	38		LGE			
+Paul, Lee	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	5/24/2001	27		LGE	Reti, Sean		
+Paul, Lee	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	5/24/2001	7		LGE	Klaas, CJ		
 Rivera, Santa Maria	Yakima Reds	Okanagan Challenge	Yakima Reds	5/26/2001	0		LGE			
 Stueckle, Matt	Spokane Shadow	Spokane Shadow	Seattle Sounders Select	5/26/2001	0		LGE			
 Quinn, Connor	Spokane Shadow	Spokane Shadow	Seattle Sounders Select	5/26/2001	0		LGE			
@@ -1583,12 +1583,12 @@ Lockhart, Sean	Orange County Blue Star	Orange County Blue Star	Stanislaus United
 Poltl, Thomas	Orange County Blue Star	Orange County Blue Star	Stanislaus United Cruisers	5/27/2001	0		LGE			
 Futagaki, Ryan	Orange County Blue Star	Orange County Blue Star	Stanislaus United Cruisers	5/27/2001	0		LGE			
 Brasil, Manuel	Stanislaus United Cruisers	Orange County Blue Star	Stanislaus United Cruisers	5/27/2001	24		LGE			
-Detter, Justin	Mid Michigan Bucks	Chicago Fire Reserves	Mid Michigan Bucks	5/27/2001	0		LGE			
-Mariscalco, Michael	Kalamazoo Kingdom	Kalamazoo Kingdom	Chicago Fire Reserves	6/1/2001	84		LGE			
-Willson, Eric	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	6/1/2001	90		LGE			
-DaSilva, Nino	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	6/1/2001	73		LGE			
-Paul, Lee	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	6/1/2001	60		LGE			
-Glinton, Gavin	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	6/1/2001	79		LGE	DaSilva, Nino		
+Detter, Justin	Mid Michigan Bucks	Chicago Fire (PDL)	Mid Michigan Bucks	5/27/2001	0		LGE			
+Mariscalco, Michael	Kalamazoo Kingdom	Kalamazoo Kingdom	Chicago Fire (PDL)	6/1/2001	84		LGE			
+Willson, Eric	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	6/1/2001	90		LGE			
+DaSilva, Nino	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	6/1/2001	73		LGE			
+Paul, Lee	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	6/1/2001	60		LGE			
+Glinton, Gavin	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	6/1/2001	79		LGE	DaSilva, Nino		
 Koroma, Alhassan	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	6/1/2001	20		LGE	Oliver, Allan		
 Brunt, Christopher	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	6/1/2001	76		LGE	Oliver, Allan		
 Ruberto, Frank	Thunder Bay Chill	Sioux Falls SpitFire	Thunder Bay Chill	6/1/2001	7		LGE			
@@ -1604,30 +1604,30 @@ Rivera, Santa Maria	Yakima Reds	Yakima Reds	Seattle Sounders Select	6/2/2001	69	
 Sagare, Jacob	Seattle Sounders Select	Yakima Reds	Seattle Sounders Select	6/2/2001	49		LGE			
 McNeley, Evan	Seattle Sounders Select	Yakima Reds	Seattle Sounders Select	6/2/2001	109		LGE			
 Watson, Joe	Seattle Sounders Select	Yakima Reds	Seattle Sounders Select	6/2/2001	11		LGE			
-Branan, Dustin	Twin Cities Phoenix	Chicago Fire Reserves	Twin Cities Phoenix	6/3/2001	0		LGE			
-Wesseh, Doco	Chicago Eagles Select	Chicago Eagles Select	Chicago Fire Reserves	6/6/2001	0		LGE			
-Glinton, Gavin	Chicago Fire Reserves	Chicago Eagles Select	Chicago Fire Reserves	6/6/2001	0		LGE			
-Glinton, Gavin	Chicago Fire Reserves	Chicago Eagles Select	Chicago Fire Reserves	6/6/2001	0		LGE			
+Branan, Dustin	Twin Cities Phoenix	Chicago Fire (PDL)	Twin Cities Phoenix	6/3/2001	0		LGE			
+Wesseh, Doco	Chicago Eagles Select	Chicago Eagles Select	Chicago Fire (PDL)	6/6/2001	0		LGE			
+Glinton, Gavin	Chicago Fire (PDL)	Chicago Eagles Select	Chicago Fire (PDL)	6/6/2001	0		LGE			
+Glinton, Gavin	Chicago Fire (PDL)	Chicago Eagles Select	Chicago Fire (PDL)	6/6/2001	0		LGE			
 Meek, Benjamin	Southern California Seahorse	Southern California Seahorse	Arizona Sahuaros	6/8/2001	0		LGE			
 Lawson, Beau	Southern California Seahorse	Southern California Seahorse	Arizona Sahuaros	6/8/2001	0		LGE			
-Willson, Eric	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	6/10/2001	0		LGE			
-Reti, Sean	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	6/10/2001	0		LGE			
-Glinton, Gavin	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	6/10/2001	0		LGE			
-Glinton, Gavin	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	6/10/2001	0		LGE			
+Willson, Eric	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	6/10/2001	0		LGE			
+Reti, Sean	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	6/10/2001	0		LGE			
+Glinton, Gavin	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	6/10/2001	0		LGE			
+Glinton, Gavin	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	6/10/2001	0		LGE			
 Castro, Gabriel	Arizona Sahuaros	San Gabriel Valley Highlanders	Arizona Sahuaros	6/10/2001	87		LGE			
-Willson, Eric	Chicago Fire Reserves	Chicago Fire Reserves	West Michigan Edge	6/13/2001	0		LGE			
-Glinton, Gavin	Chicago Fire Reserves	Chicago Fire Reserves	West Michigan Edge	6/13/2001	0		LGE			
-Rodriguez, Andy	Indiana Invaders	Indiana Invaders	Chicago Fire Reserves	6/15/2001	0		LGE			
-Collins, John	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	6/15/2001	0		LGE			
-Maliza, Johanes	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	6/15/2001	0		LGE			
-Kuska, Jason	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	6/15/2001	0		LGE			
+Willson, Eric	Chicago Fire (PDL)	Chicago Fire (PDL)	West Michigan Edge	6/13/2001	0		LGE			
+Glinton, Gavin	Chicago Fire (PDL)	Chicago Fire (PDL)	West Michigan Edge	6/13/2001	0		LGE			
+Rodriguez, Andy	Indiana Invaders	Indiana Invaders	Chicago Fire (PDL)	6/15/2001	0		LGE			
+Collins, John	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	6/15/2001	0		LGE			
+Maliza, Johanes	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	6/15/2001	0		LGE			
+Kuska, Jason	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	6/15/2001	0		LGE			
 Lane, Jeff	Yakima Reds	Okanagan Challenge	Yakima Reds	6/16/2001	0		LGE			
 Knox, Nathan	Twin Cities Phoenix	Twin Cities Phoenix	Thunder Bay Chill	6/16/2001	0		LGE			
-Raftery, Jared	Dayton Gemini	Dayton Gemini	Chicago Fire Reserves	6/17/2001	0		LGE			
-Paul, Lee	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	6/17/2001	0		LGE			
-Glinton, Gavin	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	6/17/2001	0		LGE			
-Glinton, Gavin	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	6/17/2001	0		LGE			
-Glinton, Gavin	Chicago Fire Reserves	Dayton Gemini	Chicago Fire Reserves	6/17/2001	0		LGE			
+Raftery, Jared	Dayton Gemini	Dayton Gemini	Chicago Fire (PDL)	6/17/2001	0		LGE			
+Paul, Lee	Chicago Fire (PDL)	Dayton Gemini	Chicago Fire (PDL)	6/17/2001	0		LGE			
+Glinton, Gavin	Chicago Fire (PDL)	Dayton Gemini	Chicago Fire (PDL)	6/17/2001	0		LGE			
+Glinton, Gavin	Chicago Fire (PDL)	Dayton Gemini	Chicago Fire (PDL)	6/17/2001	0		LGE			
+Glinton, Gavin	Chicago Fire (PDL)	Dayton Gemini	Chicago Fire (PDL)	6/17/2001	0		LGE			
 Maragh, Allan	Cascade Surge	Okanagan Challenge	Cascade Surge	6/17/2001	0		LGE			
 Rivard, Justin	Cascade Surge	Okanagan Challenge	Cascade Surge	6/17/2001	0		LGE			
 Diaz, Jose	Cascade Surge	Okanagan Challenge	Cascade Surge	6/17/2001	0		LGE			

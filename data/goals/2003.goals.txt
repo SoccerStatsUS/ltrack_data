@@ -836,8 +836,8 @@ Bracher, Stuart	West Virginia Chaos	West Virginia Chaos	Greenville Lions	5/10/20
 Hein, Matt	Ft. Wayne Fever	Ft. Wayne Fever	Columbus Shooting Stars	5/10/2003	1		LGE	Dulworth, Kyle		
 Sharpe, Dennis	Ft. Wayne Fever	Ft. Wayne Fever	Columbus Shooting Stars	5/10/2003	1		LGE			
 Schauer, Adam	Columbus Shooting Stars	Ft. Wayne Fever	Columbus Shooting Stars	5/10/2003	1		LGE			
-Boltnar, Tomas	Des Moines Menace	Des Moines Menace	Chicago Fire Reserves	5/10/2003	39		LGE			
-Boltnar, Tomas	Des Moines Menace	Des Moines Menace	Chicago Fire Reserves	5/10/2003	39		LGE			
+Boltnar, Tomas	Des Moines Menace	Des Moines Menace	Chicago Fire (PDL)	5/10/2003	39		LGE			
+Boltnar, Tomas	Des Moines Menace	Des Moines Menace	Chicago Fire (PDL)	5/10/2003	39		LGE			
 Ryan, Blake	Kansas City Brass	Kansas City Brass	Wisconsin Rebels	5/10/2003	1		LGE	Perkins, Drew		
 Shaw, Ryan	Kansas City Brass	Kansas City Brass	Wisconsin Rebels	5/10/2003	1		LGE	Bleyenberg, Jake		
 Perkins, Drew	Kansas City Brass	Kansas City Brass	Wisconsin Rebels	5/10/2003	1		LGE	Bleyenberg, Jake		
@@ -938,11 +938,11 @@ Cameron, Knox (Washington)	Mid Michigan Bucks	Mid Michigan Bucks	Ft. Wayne Fever
 Turpin, Mychal	Mid Michigan Bucks	Mid Michigan Bucks	Ft. Wayne Fever	5/17/2003	1		LGE	Cameron, Knox (Washington)		
 Presser, Philip (Phil)	Ft. Wayne Fever	Mid Michigan Bucks	Ft. Wayne Fever	5/17/2003	1		LGE	Crawford, Lee		
 Kabwe, Joseph	Des Moines Menace	Kansas City Brass	Des Moines Menace	5/17/2003	1		LGE	Sithonnorath, Khampratana(Joe)		
-Mouw, Robert	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	5/17/2003	1		LGE	Wickart, Kevin		
-Mouw, Robert	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	5/17/2003	1		LGE	Harwat, Kirk		
-Mouw, Robert	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	5/17/2003	1		LGE	Hamburger, Chris		
-Dombrowski, Tighe	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	5/17/2003	1		LGE			
-Harwat, Kirk	Chicago Fire Reserves	Sioux Falls SpitFire	Chicago Fire Reserves	5/17/2003	1		LGE			
+Mouw, Robert	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	5/17/2003	1		LGE	Wickart, Kevin		
+Mouw, Robert	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	5/17/2003	1		LGE	Harwat, Kirk		
+Mouw, Robert	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	5/17/2003	1		LGE	Hamburger, Chris		
+Dombrowski, Tighe	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	5/17/2003	1		LGE			
+Harwat, Kirk	Chicago Fire (PDL)	Sioux Falls SpitFire	Chicago Fire (PDL)	5/17/2003	1		LGE			
 Blankley, Martyn	Thunder Bay Chill	Wisconsin Rebels	Thunder Bay Chill	5/17/2003	1		LGE	Goetting, Jordan		
 Wesseh, Doco	Thunder Bay Chill	Wisconsin Rebels	Thunder Bay Chill	5/17/2003	1		LGE	Bandanai, Ron		
 Stovall, Anthony	Greenville Lions	Greenville Lions	Chesapeake Dragons	5/17/2003	1		LGE			
@@ -1310,8 +1310,8 @@ Vega, Ernesto	Fresno Fuego	BYU Cougars	Fresno Fuego	6/6/2003	1		LGE
 Contreras-Salazar, Edgardo	Fresno Fuego	BYU Cougars	Fresno Fuego	6/6/2003	1		LGE			
 Contreras-Salazar, Edgardo	Fresno Fuego	BYU Cougars	Fresno Fuego	6/6/2003	1		LGE			
 Espindola, Jose	Fresno Fuego	BYU Cougars	Fresno Fuego	6/6/2003	1		LGE			
-Tanner, Kyle	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	6/7/2003	1		LGE	Grabavoy, Ned		
-Dombrowski, Tighe	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	6/7/2003	1		LGE	Piotkin,  Brian		
+Tanner, Kyle	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	6/7/2003	1		LGE	Grabavoy, Ned		
+Dombrowski, Tighe	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	6/7/2003	1		LGE	Piotkin,  Brian		
 Boltnar, Tomas	Des Moines Menace	Des Moines Menace	Boulder Rapids Reserve	6/7/2003	1		LGE	Kabwe, Joseph		
 Lampert, Joseph	Boulder Rapids Reserve	Des Moines Menace	Boulder Rapids Reserve	6/7/2003	1		LGE	Folbrycht, Robert (Robbie)		
 Fink, Roy	Boulder Rapids Reserve	Des Moines Menace	Boulder Rapids Reserve	6/7/2003	1		LGE			
@@ -1395,10 +1395,10 @@ Borges, Andre	Brooklyn Knights	Brooklyn Knights	South Jersey Barons	6/11/2003	1	
 Novas-Lomonaca, Ignacio	Indiana Invaders	Toledo Slayers	Indiana Invaders	6/11/2003	1		LGE			
 Novas-Lomonaca, Ignacio	Indiana Invaders	Toledo Slayers	Indiana Invaders	6/11/2003	1		LGE	Ara, Ignacia		
 O'Brien, Dayton	Memphis Express	Nashville Metros	Memphis Express	6/12/2003	1		LGE			
-Dombrowski, Tighe	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	6/13/2003	1		LGE	Wickart, Kevin		
-Odwell, Alexander	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	6/13/2003	1		LGE	Dombrowski, Tighe		
-Odwell, Alexander	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	6/13/2003	1		LGE			
-Odwell, Alexander	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	6/13/2003	1		LGE			
+Dombrowski, Tighe	Chicago Fire (PDL)	Chicago Fire (PDL)	Thunder Bay Chill	6/13/2003	1		LGE	Wickart, Kevin		
+Odwell, Alexander	Chicago Fire (PDL)	Chicago Fire (PDL)	Thunder Bay Chill	6/13/2003	1		LGE	Dombrowski, Tighe		
+Odwell, Alexander	Chicago Fire (PDL)	Chicago Fire (PDL)	Thunder Bay Chill	6/13/2003	1		LGE			
+Odwell, Alexander	Chicago Fire (PDL)	Chicago Fire (PDL)	Thunder Bay Chill	6/13/2003	1		LGE			
 Barber, Sasha	Columbus Shooting Stars	West Michigan Edge	Columbus Shooting Stars	6/13/2003	1		LGE			
 Veris, Kyle	Columbus Shooting Stars	West Michigan Edge	Columbus Shooting Stars	6/13/2003	1		LGE			
 Lampert, Joseph	Boulder Rapids Reserve	Boulder Rapids Reserve	Des Moines Menace	6/13/2003	1		LGE	Folbrycht, Robert (Robbie)		
@@ -1423,8 +1423,8 @@ Spencer, Jonathan (Jon)	Orange County Blue Star	BYU Cougars	Orange County Blue S
 Taylor, Matthew	Orange County Blue Star	BYU Cougars	Orange County Blue Star	6/13/2003	1		LGE			
 Snape, Paul	Mid Michigan Bucks	Mid Michigan Bucks	Toledo Slayers	6/14/2003	1		LGE	Turpin, Mychal		
 Omekanda, Simon	Mid Michigan Bucks	Mid Michigan Bucks	Toledo Slayers	6/14/2003	1		LGE	Turpin, Mychal		
-Grabavoy, Ned	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	6/14/2003	1		LGE			
-Chromik, Steve	Chicago Fire Reserves	Chicago Fire Reserves	Thunder Bay Chill	6/14/2003	1		LGE			
+Grabavoy, Ned	Chicago Fire (PDL)	Chicago Fire (PDL)	Thunder Bay Chill	6/14/2003	1		LGE			
+Chromik, Steve	Chicago Fire (PDL)	Chicago Fire (PDL)	Thunder Bay Chill	6/14/2003	1		LGE			
 Garcia, Rafael	Indiana Invaders	Indiana Invaders	Wisconsin Rebels	6/14/2003	1		LGE			
 Garcia, Rafael	Indiana Invaders	Indiana Invaders	Wisconsin Rebels	6/14/2003	1		LGE			
 Porto, Christian	Ft. Wayne Fever	Ft. Wayne Fever	Kalamazoo Kingdom	6/14/2003	1		LGE	Shinabarger, Andrew		
@@ -1547,10 +1547,10 @@ King, Clay	Texas Spurs	New Orleans Shell Shockers	Texas Spurs	6/20/2003	1		LGE
 Rzepka, Ryan	Mid Michigan Bucks	Mid Michigan Bucks	Columbus Shooting Stars	6/21/2003	1		LGE	Norman, Nathan		
 Taylor, Kevin	Mid Michigan Bucks	Mid Michigan Bucks	Columbus Shooting Stars	6/21/2003	1		LGE	Norman, Nathan		
 Koita, Mamady	Columbus Shooting Stars	Mid Michigan Bucks	Columbus Shooting Stars	6/21/2003	1		LGE			
-Dombrowski, Tighe	Chicago Fire Reserves	Chicago Fire Reserves	Kansas City Brass	6/21/2003	1		LGE	Grabavoy, Ned		
-Dombrowski, Tighe	Chicago Fire Reserves	Chicago Fire Reserves	Kansas City Brass	6/21/2003	1		LGE			
-Odwell, Alexander	Chicago Fire Reserves	Chicago Fire Reserves	Kansas City Brass	6/21/2003	1		LGE	Grange, Patrick		
-Chromik, Steve	Chicago Fire Reserves	Chicago Fire Reserves	Kansas City Brass	6/21/2003	1		LGE	Grange, Patrick		
+Dombrowski, Tighe	Chicago Fire (PDL)	Chicago Fire (PDL)	Kansas City Brass	6/21/2003	1		LGE	Grabavoy, Ned		
+Dombrowski, Tighe	Chicago Fire (PDL)	Chicago Fire (PDL)	Kansas City Brass	6/21/2003	1		LGE			
+Odwell, Alexander	Chicago Fire (PDL)	Chicago Fire (PDL)	Kansas City Brass	6/21/2003	1		LGE	Grange, Patrick		
+Chromik, Steve	Chicago Fire (PDL)	Chicago Fire (PDL)	Kansas City Brass	6/21/2003	1		LGE	Grange, Patrick		
 Boltnar, Tomas	Des Moines Menace	Des Moines Menace	Sioux Falls SpitFire	6/21/2003	1		LGE	Kabwe, Joseph		
 Boltnar, Tomas	Des Moines Menace	Des Moines Menace	Sioux Falls SpitFire	6/21/2003	1		LGE	Kabwe, Joseph		
 Kabwe, Joseph	Des Moines Menace	Des Moines Menace	Sioux Falls SpitFire	6/21/2003	1		LGE	Shirley, Stephen		
@@ -1698,11 +1698,11 @@ O'Neil, Kris	Des Moines Menace	Des Moines Menace	Thunder Bay Chill	6/28/2003	1		
 Boltnar, Tomas	Des Moines Menace	Des Moines Menace	Thunder Bay Chill	6/28/2003	1		LGE	O'Neil, Kris		
 Christey, Fitzroy	Thunder Bay Chill	Des Moines Menace	Thunder Bay Chill	6/28/2003	1		LGE			
 Bandanai, Ron	Thunder Bay Chill	Des Moines Menace	Thunder Bay Chill	6/28/2003	1		LGE	Gorton, Steve		
-Scheller, Lawrence (Larry)	Kansas City Brass	Kansas City Brass	Chicago Fire Reserves	6/28/2003	1		LGE	Bleyenberg, Jake		
-Duda, Eric	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	6/28/2003	1		LGE	Mouw, Robert		
-Grange, Patrick	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	6/28/2003	1		LGE	Mouw, Robert		
-Harwat, Kirk	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	6/28/2003	1		LGE			
-Harwat, Kirk	Chicago Fire Reserves	Kansas City Brass	Chicago Fire Reserves	6/28/2003	1		LGE			
+Scheller, Lawrence (Larry)	Kansas City Brass	Kansas City Brass	Chicago Fire (PDL)	6/28/2003	1		LGE	Bleyenberg, Jake		
+Duda, Eric	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	6/28/2003	1		LGE	Mouw, Robert		
+Grange, Patrick	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	6/28/2003	1		LGE	Mouw, Robert		
+Harwat, Kirk	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	6/28/2003	1		LGE			
+Harwat, Kirk	Chicago Fire (PDL)	Kansas City Brass	Chicago Fire (PDL)	6/28/2003	1		LGE			
 Bowman, Scott	Boulder Rapids Reserve	Boulder Rapids Reserve	BYU Cougars	6/28/2003	1		LGE	Smith, Jarrod		
 Smith, Jarrod	Boulder Rapids Reserve	Boulder Rapids Reserve	BYU Cougars	6/28/2003	1		LGE			
 Smith, Jarrod	Boulder Rapids Reserve	Boulder Rapids Reserve	BYU Cougars	6/28/2003	1		LGE			
@@ -1794,10 +1794,10 @@ Neagu, Christian	Richmond Kickers Future	Chesapeake Dragons	Richmond Kickers Fut
 Cephas, McColm	Richmond Kickers Future	Chesapeake Dragons	Richmond Kickers Future	7/1/2003	1		LGE			
 Delicate, Matthew	Richmond Kickers Future	Chesapeake Dragons	Richmond Kickers Future	7/1/2003	1		LGE			
 Delicate, Matthew	Richmond Kickers Future	Chesapeake Dragons	Richmond Kickers Future	7/1/2003	1		LGE			
-Grabavoy, Ned	Chicago Fire Reserves	Chicago Fire Reserves	Des Moines Menace	7/2/2003	1		LGE	Dombrowski, Tighe		
-Grabavoy, Ned	Chicago Fire Reserves	Chicago Fire Reserves	Des Moines Menace	7/2/2003	1		LGE	Robinson, Dason		
-Drewry-Sutton, Jamal	Chicago Fire Reserves	Chicago Fire Reserves	Des Moines Menace	7/2/2003	1		LGE			
-Boltnar, Tomas	Des Moines Menace	Chicago Fire Reserves	Des Moines Menace	7/2/2003	1		LGE			
+Grabavoy, Ned	Chicago Fire (PDL)	Chicago Fire (PDL)	Des Moines Menace	7/2/2003	1		LGE	Dombrowski, Tighe		
+Grabavoy, Ned	Chicago Fire (PDL)	Chicago Fire (PDL)	Des Moines Menace	7/2/2003	1		LGE	Robinson, Dason		
+Drewry-Sutton, Jamal	Chicago Fire (PDL)	Chicago Fire (PDL)	Des Moines Menace	7/2/2003	1		LGE			
+Boltnar, Tomas	Des Moines Menace	Chicago Fire (PDL)	Des Moines Menace	7/2/2003	1		LGE			
 Mankowski, Jesse	Palm Beach Pumas	Palm Beach Pumas	Bradenton Academics	7/3/2003	59		LGE			
 Villalobos, Fernando	Palm Beach Pumas	Palm Beach Pumas	Bradenton Academics	7/3/2003	58		LGE			
 Gold, Jeremy	Bradenton Academics	Palm Beach Pumas	Bradenton Academics	7/3/2003	72		LGE			
@@ -1814,8 +1814,8 @@ Nelson, Nicholas	Kalamazoo Kingdom	Kalamazoo Kingdom	Toledo Slayers	7/4/2003	56	
 Behan, Patrick	Toledo Slayers	Kalamazoo Kingdom	Toledo Slayers	7/4/2003	57		LGE	Bennett, Damion		
 Bokole, Bonyoko (Bobo)	Toledo Slayers	Kalamazoo Kingdom	Toledo Slayers	7/4/2003	43		LGE	Roudbari, Ahmad		
 Royzman, Eugene	Toledo Slayers	Kalamazoo Kingdom	Toledo Slayers	7/4/2003	35		LGE	Bokole, Bonyoko (Bobo)		
-Bandanai, Ron	Thunder Bay Chill	Thunder Bay Chill	Chicago Fire Reserves	7/4/2003	43		LGE			
-Piotkin,  Brian	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	7/4/2003	38		LGE			
+Bandanai, Ron	Thunder Bay Chill	Thunder Bay Chill	Chicago Fire (PDL)	7/4/2003	43		LGE			
+Piotkin,  Brian	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	7/4/2003	38		LGE			
 Chavez, Mauricio	Cascade Surge	Cascade Surge	Spokane Shadow	7/4/2003	44		LGE	Sanchez, Ricardo		
 Chavez, Mauricio	Cascade Surge	Cascade Surge	Spokane Shadow	7/4/2003	44		LGE	Sanchez, Ricardo		
 Moug, Jake	Spokane Shadow	Cascade Surge	Spokane Shadow	7/4/2003	46		LGE			
@@ -1844,9 +1844,9 @@ Cashman, Audren	Boulder Rapids Reserve	Boulder Rapids Reserve	Sioux Falls SpitFi
 Veldhouse, Joel	Sioux Falls SpitFire	Boulder Rapids Reserve	Sioux Falls SpitFire	7/5/2003	1		LGE	Ochoa, Bernabe		
 Wylie, Brandon	Sioux Falls SpitFire	Boulder Rapids Reserve	Sioux Falls SpitFire	7/5/2003	1		LGE			
 Nelson, Joel	Sioux Falls SpitFire	Boulder Rapids Reserve	Sioux Falls SpitFire	7/5/2003	1		LGE			
-Kolinski, Mike	Thunder Bay Chill	Thunder Bay Chill	Chicago Fire Reserves	7/5/2003	1		LGE			
-Duda, Eric	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	7/5/2003	13		LGE			
-Duda, Eric	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	7/5/2003	15		LGE			
+Kolinski, Mike	Thunder Bay Chill	Thunder Bay Chill	Chicago Fire (PDL)	7/5/2003	1		LGE			
+Duda, Eric	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	7/5/2003	13		LGE			
+Duda, Eric	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	7/5/2003	15		LGE			
 Hinkle, Bryan	Williamsburg Legacy	Williamsburg Legacy	West Virginia Chaos	7/5/2003	22		LGE	Matute, Helmis		
 Umana-Romero, Jose	Williamsburg Legacy	Williamsburg Legacy	West Virginia Chaos	7/5/2003	2		LGE	Ugarte-Palma, Randy		
 Umana-Romero, Jose	Williamsburg Legacy	Williamsburg Legacy	West Virginia Chaos	7/5/2003	3		LGE	O'Brien, Robert (Bobby)		
@@ -1939,12 +1939,12 @@ Wesseh, Doco	Thunder Bay Chill	Des Moines Menace	Thunder Bay Chill	7/11/2003	1		
 Kolinski, Mike	Thunder Bay Chill	Des Moines Menace	Thunder Bay Chill	7/11/2003	1		LGE			
 O'Driscoll, Patrick	Ft. Wayne Fever	Sioux Falls SpitFire	Ft. Wayne Fever	7/11/2003	1		LGE	Presser, Philip (Phil)		
 Suzuki, Jeff	Ft. Wayne Fever	Sioux Falls SpitFire	Ft. Wayne Fever	7/11/2003	1		LGE			
-Sanchez, Eric	Wisconsin Rebels	Wisconsin Rebels	Chicago Fire Reserves	7/11/2003	1		LGE			
-Lish, Robert (Bobby)	Wisconsin Rebels	Wisconsin Rebels	Chicago Fire Reserves	7/11/2003	1		LGE			
-Dombrowski, Tighe	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	7/11/2003	12		LGE			
-Grabavoy, Ned	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	7/11/2003	36		LGE			
-Mouw, Robert	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	7/11/2003	55		LGE	Grabavoy, Ned		
-Rolfe, Christopher	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	7/11/2003	40		LGE			
+Sanchez, Eric	Wisconsin Rebels	Wisconsin Rebels	Chicago Fire (PDL)	7/11/2003	1		LGE			
+Lish, Robert (Bobby)	Wisconsin Rebels	Wisconsin Rebels	Chicago Fire (PDL)	7/11/2003	1		LGE			
+Dombrowski, Tighe	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	7/11/2003	12		LGE			
+Grabavoy, Ned	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	7/11/2003	36		LGE			
+Mouw, Robert	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	7/11/2003	55		LGE	Grabavoy, Ned		
+Rolfe, Christopher	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	7/11/2003	40		LGE			
 Pauls, Mathew	Richmond Kickers Future	Greenville Lions	Richmond Kickers Future	7/11/2003	1		LGE	Delicate, Matthew		
 Delicate, Matthew	Richmond Kickers Future	Greenville Lions	Richmond Kickers Future	7/11/2003	1		LGE			
 Cephas, McColm	Richmond Kickers Future	Greenville Lions	Richmond Kickers Future	7/11/2003	1		LGE			
@@ -1987,16 +1987,16 @@ Minagawa-Webster, John	Mid Michigan Bucks	Mid Michigan Bucks	Kalamazoo Kingdom	7
 Turpin, Mychal	Mid Michigan Bucks	Mid Michigan Bucks	Kalamazoo Kingdom	7/12/2003	1		LGE	Heinemann, Adam		
 Turpin, Mychal	Mid Michigan Bucks	Mid Michigan Bucks	Kalamazoo Kingdom	7/12/2003	1		LGE	Snape, Paul		
 Cameron, Knox (Washington)	Mid Michigan Bucks	Mid Michigan Bucks	Kalamazoo Kingdom	7/12/2003	1		LGE	Nelson, Erik		
-Harwat, Kirk	Chicago Fire Reserves	Chicago Fire Reserves	Wisconsin Rebels	7/12/2003	1		LGE			
-Harwat, Kirk	Chicago Fire Reserves	Chicago Fire Reserves	Wisconsin Rebels	7/12/2003	1		LGE	Tanner, Kyle		
-Odwell, Alexander	Chicago Fire Reserves	Chicago Fire Reserves	Wisconsin Rebels	7/12/2003	1		LGE	Harwat, Kirk		
-Odwell, Alexander	Chicago Fire Reserves	Chicago Fire Reserves	Wisconsin Rebels	7/12/2003	1		LGE	Babcock, Sean		
-Rolfe, Christopher	Chicago Fire Reserves	Chicago Fire Reserves	Wisconsin Rebels	7/12/2003	1		LGE	Grange, Patrick		
-Blake, BJ	Chicago Fire Reserves	Chicago Fire Reserves	Wisconsin Rebels	7/12/2003	1		LGE			
-Chromik, Steve	Chicago Fire Reserves	Chicago Fire Reserves	Wisconsin Rebels	7/12/2003	1		LGE	Grange, Patrick		
-Grange, Patrick	Chicago Fire Reserves	Chicago Fire Reserves	Wisconsin Rebels	7/12/2003	1		LGE			
-Miller, Ryan	Chicago Fire Reserves	Chicago Fire Reserves	Wisconsin Rebels	7/12/2003	1		LGE			
-Miller, Ryan	Chicago Fire Reserves	Chicago Fire Reserves	Wisconsin Rebels	7/12/2003	1		LGE			
+Harwat, Kirk	Chicago Fire (PDL)	Chicago Fire (PDL)	Wisconsin Rebels	7/12/2003	1		LGE			
+Harwat, Kirk	Chicago Fire (PDL)	Chicago Fire (PDL)	Wisconsin Rebels	7/12/2003	1		LGE	Tanner, Kyle		
+Odwell, Alexander	Chicago Fire (PDL)	Chicago Fire (PDL)	Wisconsin Rebels	7/12/2003	1		LGE	Harwat, Kirk		
+Odwell, Alexander	Chicago Fire (PDL)	Chicago Fire (PDL)	Wisconsin Rebels	7/12/2003	1		LGE	Babcock, Sean		
+Rolfe, Christopher	Chicago Fire (PDL)	Chicago Fire (PDL)	Wisconsin Rebels	7/12/2003	1		LGE	Grange, Patrick		
+Blake, BJ	Chicago Fire (PDL)	Chicago Fire (PDL)	Wisconsin Rebels	7/12/2003	1		LGE			
+Chromik, Steve	Chicago Fire (PDL)	Chicago Fire (PDL)	Wisconsin Rebels	7/12/2003	1		LGE	Grange, Patrick		
+Grange, Patrick	Chicago Fire (PDL)	Chicago Fire (PDL)	Wisconsin Rebels	7/12/2003	1		LGE			
+Miller, Ryan	Chicago Fire (PDL)	Chicago Fire (PDL)	Wisconsin Rebels	7/12/2003	1		LGE			
+Miller, Ryan	Chicago Fire (PDL)	Chicago Fire (PDL)	Wisconsin Rebels	7/12/2003	1		LGE			
 Kabwe, Joseph	Des Moines Menace	Des Moines Menace	Ft. Wayne Fever	7/12/2003	1		LGE	Peercy, Lane		
 Lascody, Doug	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	7/12/2003	1		LGE			
 Tranchilla, Mike	Sioux Falls SpitFire	Sioux Falls SpitFire	Thunder Bay Chill	7/12/2003	1		LGE	Haynes, Michael		
@@ -2163,8 +2163,8 @@ Spencer, Jonathan (Jon)	Orange County Blue Star	Orange County Blue Star	BYU Coug
 Spencer, Jonathan (Jon)	Orange County Blue Star	Orange County Blue Star	BYU Cougars	7/18/2003	1		LGE			
 Klinsmann, Juergen	Orange County Blue Star	Orange County Blue Star	BYU Cougars	7/18/2003	1		LGE			
 Lamb, Christopher	BYU Cougars	Orange County Blue Star	BYU Cougars	7/18/2003	1		LGE	Bryan, Paul		
-Grabavoy, Ned	Chicago Fire Reserves	Chicago Fire Reserves	Sioux Falls SpitFire	7/19/2003	20		LGE	Mouw, Robert		
-Grabavoy, Ned	Chicago Fire Reserves	Chicago Fire Reserves	Sioux Falls SpitFire	7/19/2003	50		LGE	Mouw, Robert		
+Grabavoy, Ned	Chicago Fire (PDL)	Chicago Fire (PDL)	Sioux Falls SpitFire	7/19/2003	20		LGE	Mouw, Robert		
+Grabavoy, Ned	Chicago Fire (PDL)	Chicago Fire (PDL)	Sioux Falls SpitFire	7/19/2003	50		LGE	Mouw, Robert		
 Challinor, Jon	Kalamazoo Kingdom	Kalamazoo Kingdom	Columbus Shooting Stars	7/19/2003	1		LGE	Luya, Ian		
 Lukungu, Ali	Kalamazoo Kingdom	Kalamazoo Kingdom	Columbus Shooting Stars	7/19/2003	1		LGE	Duhl, Scott		
 Kelto, Anders	Kalamazoo Kingdom	Kalamazoo Kingdom	Columbus Shooting Stars	7/19/2003	1		LGE	Walton, Stephen		
@@ -2232,10 +2232,10 @@ Whittaker, Thomas	West Virginia Chaos	West Virginia Chaos	Chesapeake Dragons	7/2
 Cronkite, Erik	Boulder Rapids Reserve	Boulder Rapids Reserve	Kansas City Brass	7/20/2003	1		LGE	Wagenfuhr, David		
 Cronkite, Erik	Boulder Rapids Reserve	Boulder Rapids Reserve	Kansas City Brass	7/20/2003	1		LGE	Wagenfuhr, David		
 Rosenthal, Mike	Kansas City Brass	Boulder Rapids Reserve	Kansas City Brass	7/20/2003	1		LGE			
-Duda, Eric	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	7/20/2003	1		LGE			
-Rolfe, Christopher	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	7/20/2003	1		LGE	Grange, Patrick		
-Grange, Patrick	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	7/20/2003	1		LGE			
-Odwell, Alexander	Chicago Fire Reserves	Wisconsin Rebels	Chicago Fire Reserves	7/20/2003	1		LGE			
+Duda, Eric	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	7/20/2003	1		LGE			
+Rolfe, Christopher	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	7/20/2003	1		LGE	Grange, Patrick		
+Grange, Patrick	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	7/20/2003	1		LGE			
+Odwell, Alexander	Chicago Fire (PDL)	Wisconsin Rebels	Chicago Fire (PDL)	7/20/2003	1		LGE			
 Garcia-Dominguez, Carlos	Williamsburg Legacy	Williamsburg Legacy	Richmond Kickers Future	7/20/2003	1		LGE			
 Wright, Robbie	Williamsburg Legacy	Williamsburg Legacy	Richmond Kickers Future	7/20/2003	1		LGE	O'Brien, Robert (Bobby)		
 O'Brien, Robert (Bobby)	Williamsburg Legacy	Williamsburg Legacy	Richmond Kickers Future	7/20/2003	1		LGE			
@@ -2838,16 +2838,16 @@ Lovell, Peter	Des Moines Menace	St. Louis Strikers	Des Moines Menace	5/16/2003	1
 Hopson, Kyle	St. Louis Strikers	St. Louis Strikers	Boulder Rapids Reserve	5/17/2003	1		LGE	Pusateri, Andrew		
 Salazar, Alejandro	Boulder Rapids Reserve	St. Louis Strikers	Boulder Rapids Reserve	5/17/2003	1		LGE	Fink, Roy		
 Wagenfuhr, David	Boulder Rapids Reserve	St. Louis Strikers	Boulder Rapids Reserve	5/17/2003	1		LGE	Fink, Roy		
-Wickart, Kevin	Chicago Fire Reserves	Chicago Fire Reserves	St. Louis Strikers	5/23/2003	20		LGE			
-Harwat, Kirk	Chicago Fire Reserves	Chicago Fire Reserves	St. Louis Strikers	5/23/2003	10		LGE			
-Grabavoy, Ned	Chicago Fire Reserves	Chicago Fire Reserves	St. Louis Strikers	5/23/2003	70		LGE			
-Grabavoy, Ned	Chicago Fire Reserves	Chicago Fire Reserves	St. Louis Strikers	5/23/2003	50		LGE			
-Quattrocchi, Ian	St. Louis Strikers	Chicago Fire Reserves	St. Louis Strikers	5/23/2003	1		LGE			
-Hopson, Kyle	St. Louis Strikers	St. Louis Strikers	Chicago Fire Reserves	5/30/2003	1		LGE	DiMaria, Jeffrey		
-Quattrocchi, Ian	St. Louis Strikers	St. Louis Strikers	Chicago Fire Reserves	5/30/2003	1		LGE	Zarzecki, Lee		
-Tanner, Kyle	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	5/30/2003	1		LGE			
-Tanner, Kyle	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	5/30/2003	1		LGE			
-Babcock, Sean	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	5/30/2003	1		LGE			
+Wickart, Kevin	Chicago Fire (PDL)	Chicago Fire (PDL)	St. Louis Strikers	5/23/2003	20		LGE			
+Harwat, Kirk	Chicago Fire (PDL)	Chicago Fire (PDL)	St. Louis Strikers	5/23/2003	10		LGE			
+Grabavoy, Ned	Chicago Fire (PDL)	Chicago Fire (PDL)	St. Louis Strikers	5/23/2003	70		LGE			
+Grabavoy, Ned	Chicago Fire (PDL)	Chicago Fire (PDL)	St. Louis Strikers	5/23/2003	50		LGE			
+Quattrocchi, Ian	St. Louis Strikers	Chicago Fire (PDL)	St. Louis Strikers	5/23/2003	1		LGE			
+Hopson, Kyle	St. Louis Strikers	St. Louis Strikers	Chicago Fire (PDL)	5/30/2003	1		LGE	DiMaria, Jeffrey		
+Quattrocchi, Ian	St. Louis Strikers	St. Louis Strikers	Chicago Fire (PDL)	5/30/2003	1		LGE	Zarzecki, Lee		
+Tanner, Kyle	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	5/30/2003	1		LGE			
+Tanner, Kyle	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	5/30/2003	1		LGE			
+Babcock, Sean	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	5/30/2003	1		LGE			
 Brazeau, Daryl	Des Moines Menace	Des Moines Menace	St. Louis Strikers	5/31/2003	39		LGE	Mason, Christian		
 O'Neil, Kris	Des Moines Menace	Des Moines Menace	St. Louis Strikers	5/31/2003	38		LGE	Boltnar, Tomas		
 Sithonnorath, Khampratana(Joe)	Des Moines Menace	Des Moines Menace	St. Louis Strikers	5/31/2003	37		LGE	Boltnar, Tomas		
@@ -2879,12 +2879,12 @@ Sillars, Kyle	Wisconsin Rebels	Wisconsin Rebels	St. Louis Strikers	6/21/2003	1		
 Bujarski, Stephen	St. Louis Strikers	Wisconsin Rebels	St. Louis Strikers	6/21/2003	1		LGE	Hopson, Kyle		
 Hopson, Kyle	St. Louis Strikers	Wisconsin Rebels	St. Louis Strikers	6/21/2003	1		LGE			
 Kafedzic, Elvir	St. Louis Strikers	Wisconsin Rebels	St. Louis Strikers	6/21/2003	1		LGE			
-Zarzecki, Lee	St. Louis Strikers	St. Louis Strikers	Chicago Fire Reserves	6/27/2003	1		LGE			
-Hopson, Kyle	St. Louis Strikers	St. Louis Strikers	Chicago Fire Reserves	6/27/2003	1		LGE	Zarzecki, Lee		
-Quattrocchi, Ian	St. Louis Strikers	St. Louis Strikers	Chicago Fire Reserves	6/27/2003	1		LGE			
-Quigley, Kevin	St. Louis Strikers	St. Louis Strikers	Chicago Fire Reserves	6/27/2003	1		LGE			
-Dombrowski, Tighe	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	6/27/2003	1		LGE	Blake, BJ		
-Piotkin,  Brian	Chicago Fire Reserves	St. Louis Strikers	Chicago Fire Reserves	6/27/2003	1		LGE	Drewry-Sutton, Jamal		
+Zarzecki, Lee	St. Louis Strikers	St. Louis Strikers	Chicago Fire (PDL)	6/27/2003	1		LGE			
+Hopson, Kyle	St. Louis Strikers	St. Louis Strikers	Chicago Fire (PDL)	6/27/2003	1		LGE	Zarzecki, Lee		
+Quattrocchi, Ian	St. Louis Strikers	St. Louis Strikers	Chicago Fire (PDL)	6/27/2003	1		LGE			
+Quigley, Kevin	St. Louis Strikers	St. Louis Strikers	Chicago Fire (PDL)	6/27/2003	1		LGE			
+Dombrowski, Tighe	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	6/27/2003	1		LGE	Blake, BJ		
+Piotkin,  Brian	Chicago Fire (PDL)	St. Louis Strikers	Chicago Fire (PDL)	6/27/2003	1		LGE	Drewry-Sutton, Jamal		
 Zarzecki, Lee	St. Louis Strikers	St. Louis Strikers	Kansas City Brass	6/29/2003	1		LGE	Lamping, John		
 Ibisevic, Vedod	St. Louis Strikers	St. Louis Strikers	Kansas City Brass	6/29/2003	1		LGE	DiMaria, Jeffrey		
 Kafedzic, Elvir	St. Louis Strikers	St. Louis Strikers	Kansas City Brass	6/29/2003	1		LGE			
@@ -2905,14 +2905,14 @@ Mattison, Landy	Nashville Metros	Nashville Metros	St. Louis Strikers	7/12/2003	5
 Murray, Stephen	Nashville Metros	Nashville Metros	St. Louis Strikers	7/12/2003	35		LGE	Buerger, Ben		
 Murray, Stephen	Nashville Metros	Nashville Metros	St. Louis Strikers	7/12/2003	15		LGE	Buerger, Ben		
 Evers, Matthew	St. Louis Strikers	Nashville Metros	St. Louis Strikers	7/12/2003	1		LGE	Hopson, Kyle		
-Dombrowski, Tighe	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	7/26/2003	0		PLO			
-Grange, Patrick	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	7/26/2003	0		PLO			
-Grange, Patrick	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	7/26/2003	0		PLO			
-Drewry-Sutton, Jamal	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	7/26/2003	0		PLO			
-Drewry-Sutton, Jamal	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	7/26/2003	0		PLO			
-Mouw, Robert	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	7/26/2003	0		PLO			
-Harwat, Kirk	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	7/26/2003	0		PLO			
-Harwat, Kirk	Chicago Fire Reserves	Chicago Fire Reserves	Indiana Invaders	7/26/2003	0		PLO			
+Dombrowski, Tighe	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	7/26/2003	0		PLO			
+Grange, Patrick	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	7/26/2003	0		PLO			
+Grange, Patrick	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	7/26/2003	0		PLO			
+Drewry-Sutton, Jamal	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	7/26/2003	0		PLO			
+Drewry-Sutton, Jamal	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	7/26/2003	0		PLO			
+Mouw, Robert	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	7/26/2003	0		PLO			
+Harwat, Kirk	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	7/26/2003	0		PLO			
+Harwat, Kirk	Chicago Fire (PDL)	Chicago Fire (PDL)	Indiana Invaders	7/26/2003	0		PLO			
 Bulow, David	Cape Cod Crusaders	Richmond Kickers Future	Cape Cod Crusaders	7/26/2003	0		PLO			
 Bulow, David	Cape Cod Crusaders	Richmond Kickers Future	Cape Cod Crusaders	7/26/2003	0		PLO			
 Vercollone, Luke	Cape Cod Crusaders	Richmond Kickers Future	Cape Cod Crusaders	7/26/2003	0		PLO			
@@ -2942,8 +2942,8 @@ McCool, Taylor	Cascade Surge	Orange County Blue Star	Cascade Surge	7/26/2003	0		
 Espindola, Jose	Fresno Fuego	Spokane Shadow	Fresno Fuego	7/26/2003	0		PLO	Codeceira-Lopes, Fabricio		
 Ilari-Bonfico, Mariano	Memphis Express	New Orleans Shell Shockers	Memphis Express	7/27/2003	0		PLO	Lewis, Stephen		
 O'Brien, Dayton	Memphis Express	New Orleans Shell Shockers	Memphis Express	7/27/2003	0		PLO	Ilari-Bonfico, Mariano		
-Wickart, Kevin	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	7/27/2003	0		PLO			
-Mouw, Robert	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	7/27/2003	0		PLO			
+Wickart, Kevin	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	7/27/2003	0		PLO			
+Mouw, Robert	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	7/27/2003	0		PLO			
 Occean, Olivier	Vermont Voltage	Vermont Voltage	Cape Cod Crusaders	7/27/2003	0		PLO			
 Vuckovic, Branko	Vermont Voltage	Vermont Voltage	Cape Cod Crusaders	7/27/2003	0		PLO			
 Palguta, Scott	Cape Cod Crusaders	Vermont Voltage	Cape Cod Crusaders	7/27/2003	0		PLO			
@@ -2956,9 +2956,9 @@ Pilarski, Ian	Cape Cod Crusaders	Cape Cod Crusaders	Memphis Express	8/2/2003	0		
 Quinn, Damien	Cape Cod Crusaders	Cape Cod Crusaders	Memphis Express	8/2/2003	0		PLO			
 Bulow, David	Cape Cod Crusaders	Cape Cod Crusaders	Memphis Express	8/2/2003	0		PLO			
 Ngwenya, Joseph	Cape Cod Crusaders	Cape Cod Crusaders	Memphis Express	8/2/2003	0		PLO			
-Drewry-Sutton, Jamal	Chicago Fire Reserves	Chicago Fire Reserves	Orange County Blue Star	8/2/2003	0		PLO			
-Drewry-Sutton, Jamal	Chicago Fire Reserves	Chicago Fire Reserves	Orange County Blue Star	8/2/2003	0		PLO			
-Rolfe, Christopher	Chicago Fire Reserves	Chicago Fire Reserves	Orange County Blue Star	8/2/2003	0		PLO			
-Theslof, Nick	Orange County Blue Star	Chicago Fire Reserves	Orange County Blue Star	8/2/2003	0		PLO			
-Bulow, David	Cape Cod Crusaders	Chicago Fire Reserves	Cape Cod Crusaders	8/9/2003	0		PLO			
-Ngwenya, Joseph	Cape Cod Crusaders	Chicago Fire Reserves	Cape Cod Crusaders	8/9/2003	0		PLO			
+Drewry-Sutton, Jamal	Chicago Fire (PDL)	Chicago Fire (PDL)	Orange County Blue Star	8/2/2003	0		PLO			
+Drewry-Sutton, Jamal	Chicago Fire (PDL)	Chicago Fire (PDL)	Orange County Blue Star	8/2/2003	0		PLO			
+Rolfe, Christopher	Chicago Fire (PDL)	Chicago Fire (PDL)	Orange County Blue Star	8/2/2003	0		PLO			
+Theslof, Nick	Orange County Blue Star	Chicago Fire (PDL)	Orange County Blue Star	8/2/2003	0		PLO			
+Bulow, David	Cape Cod Crusaders	Chicago Fire (PDL)	Cape Cod Crusaders	8/9/2003	0		PLO			
+Ngwenya, Joseph	Cape Cod Crusaders	Chicago Fire (PDL)	Cape Cod Crusaders	8/9/2003	0		PLO			

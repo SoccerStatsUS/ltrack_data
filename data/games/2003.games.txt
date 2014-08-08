@@ -69,7 +69,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/10/2003	Carolina Dynamo	New York Freedoms	1	0	100	League Game	LGE			As Scored	0	0	
 5/10/2003	Charleston Battery	Charlotte Eagles	2	2	1	League Game	LGE			As Scored	0	0	
 5/10/2003	Cincinnati Riverhawks	El Paso Patriots	3	0	1	League Game	LGE			As Scored	0	0	
-5/10/2003	Des Moines Menace	Chicago Fire Reserves	2	0	100	League Game	LGE			As Scored	0	0	
+5/10/2003	Des Moines Menace	Chicago Fire (PDL)	2	0	100	League Game	LGE			As Scored	0	0	
 5/10/2003	Ft. Wayne Fever	Columbus Shooting Stars	2	1	100	League Game	LGE			As Scored	0	0	
 5/10/2003	Kansas City Brass	Wisconsin Rebels	7	1	100	League Game	LGE			As Scored	0	0	
 5/10/2003	Nashville Metros	Houston Toros	7	0	100	League Game	LGE			As Scored	0	0	
@@ -138,7 +138,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/17/2003	New Orleans Shell Shockers	Memphis Express	3	2	100	League Game	LGE			As Scored	0	0	
 5/17/2003	Rhode Island Stingrays	Vermont Voltage	0	0	100	League Game	LGE			As Scored	0	0	
 5/17/2003	San Diego Gauchos	Fresno Fuego	0	3	100	League Game	LGE			As Scored	0	0	
-5/17/2003	Sioux Falls SpitFire	Chicago Fire Reserves	0	5	100	League Game	LGE			As Scored	0	0	
+5/17/2003	Sioux Falls SpitFire	Chicago Fire (PDL)	0	5	100	League Game	LGE			As Scored	0	0	
 5/17/2003	St. Louis Strikers	Boulder Rapids Reserve	1	2	100	League Game	LGE			As Scored	0	0	
 5/17/2003	Utah Blitzz	Southern California Seahorses	2	2	100	League Game	LGE			As Scored	0	0	
 5/17/2003	Virginia Beach Mariners	Charleston Battery	5	2	1	League Game	LGE			As Scored	0	0	
@@ -165,7 +165,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/22/2003	Calgary Storm	Seattle Sounders	0	1	1	League Game	LGE			As Scored	0	0	
 5/23/2003	Bradenton Academics	Cocoa Expos	5	0	100	League Game	LGE			As Scored	0	0	
 5/23/2003	Central Florida Kraze	Palm Beach Pumas	1	6	100	League Game	LGE			As Scored	0	0	
-5/23/2003	Chicago Fire Reserves	St. Louis Strikers	4	1	100	League Game	LGE			As Scored	0	0	
+5/23/2003	Chicago Fire (PDL)	St. Louis Strikers	4	1	100	League Game	LGE			As Scored	0	0	
 5/23/2003	El Paso Patriots	Indiana Blast	1	0	1	League Game	LGE			As Scored	0	0	
 5/23/2003	Ft. Wayne Fever	West Michigan Edge	2	3	100	League Game	LGE			As Scored	0	0	
 5/23/2003	Long Island Rough Riders	Northern Virginia Royals	1	0	100	League Game	LGE			As Scored	0	0	
@@ -209,7 +209,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/25/2003	Abbotsford Rangers	Cascade Surge	1	2	100	League Game	LGE			As Scored	0	0	
 5/25/2003	Calgary Storm Prospects	Spokane Shadow	1	2	100	League Game	LGE			As Scored	0	0	
 5/25/2003	Calgary Storm	Portland Timbers	2	1	1	League Game	LGE			As Scored	0	0	
-5/25/2003	Chicago Fire Reserves	Boulder Rapids Reserve	3	2	100	League Game	LGE			As Scored	0	0	
+5/25/2003	Chicago Fire (PDL)	Boulder Rapids Reserve	3	2	100	League Game	LGE			As Scored	0	0	
 5/25/2003	El Paso Patriots	Indiana Blast	3	1	1	League Game	LGE			As Scored	0	0	
 5/25/2003	Fresno Fuego	Southern California Seahorses	2	1	100	League Game	LGE			As Scored	0	0	
 5/25/2003	Memphis Express	Texas Spurs	1	1	100	League Game	LGE			As Scored	0	0	
@@ -241,7 +241,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/30/2003	New Orleans Shell Shockers	Louisiana Outlaws	4	2	100	League Game	LGE			As Scored	0	0	
 5/30/2003	Orange County Blue Star	Utah Blitzz	1	0	100	League Game	LGE			As Scored	0	0	
 5/30/2003	Reading Rage	New York Freedoms	1	4	100	League Game	LGE			As Scored	0	0	
-5/30/2003	St. Louis Strikers	Chicago Fire Reserves	2	3	100	League Game	LGE			As Scored	0	0	
+5/30/2003	St. Louis Strikers	Chicago Fire (PDL)	2	3	100	League Game	LGE			As Scored	0	0	
 5/30/2003	Thunder Bay Chill	Sioux Falls SpitFire	2	3	100	League Game	LGE			As Scored	0	0	
 5/30/2003	Richmond Kickers	Cincinnati Riverhawks	4	1	1	League Game	LGE			As Scored	0	0	
 5/30/2003	Vancouver Whitecaps	Montreal Impact	0	1	1	League Game	LGE			As Scored	0	0	
@@ -313,7 +313,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/7/2003	Austin Lightning	Louisiana Outlaws	1	4	100	League Game	LGE			As Scored	0	0	
 6/7/2003	Calgary Storm Prospects	Cascade Surge	0	1	100	League Game	LGE			As Scored	0	0	
 6/7/2003	Central Florida Kraze	Palm Beach Pumas	4	0	100	League Game	LGE			As Scored	0	0	
-6/7/2003	Chicago Fire Reserves	Indiana Invaders	2	0	100	League Game	LGE			As Scored	0	0	
+6/7/2003	Chicago Fire (PDL)	Indiana Invaders	2	0	100	League Game	LGE			As Scored	0	0	
 6/7/2003	Columbus Shooting Stars	Ft. Wayne Fever	1	3	100	League Game	LGE			As Scored	0	0	
 6/7/2003	Des Moines Menace	Boulder Rapids Reserve	1	2	100	League Game	LGE			As Scored	0	0	
 6/7/2003	El Paso Patriots	Portland Timbers	1	3	1	League Game	LGE			As Scored	0	0	
@@ -355,7 +355,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/13/2003	Bradenton Academics	Cocoa Expos	1	2	100	League Game	LGE			As Scored	0	0	
 6/13/2003	BYU Cougars	Orange County Blue Star	0	2	100	League Game	LGE			As Scored	0	0	
 6/13/2003	Charleston Battery	Charlotte Eagles	1	2	1	League Game	LGE			As Scored	0	0	
-6/13/2003	Chicago Fire Reserves	Thunder Bay Chill	4	0	100	League Game	LGE			As Scored	0	0	
+6/13/2003	Chicago Fire (PDL)	Thunder Bay Chill	4	0	100	League Game	LGE			As Scored	0	0	
 6/13/2003	Cincinnati Riverhawks	Indiana Blast	2	1	1	League Game	LGE			As Scored	0	0	
 6/13/2003	El Paso Patriots	Seattle Sounders	0	0	1	League Game	LGE			As Scored	0	0	
 6/13/2003	Ft. Wayne Fever	Wisconsin Rebels	0	0	100	League Game	LGE			As Scored	0	0	
@@ -373,7 +373,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/14/2003	Calgary Storm	Vancouver Whitecaps	0	3	1	League Game	LGE			As Scored	0	0	
 6/14/2003	Carolina Dynamo	Greenville Lions	2	1	100	League Game	LGE			As Scored	0	0	
 6/14/2003	Charlotte Eagles	Charleston Battery	0	2	1	League Game	LGE			As Scored	0	0	
-6/14/2003	Chicago Fire Reserves	Thunder Bay Chill	2	0	100	League Game	LGE			As Scored	0	0	
+6/14/2003	Chicago Fire (PDL)	Thunder Bay Chill	2	0	100	League Game	LGE			As Scored	0	0	
 6/14/2003	Fresno Fuego	Southern California Seahorses	2	1	100	League Game	LGE			As Scored	0	0	
 6/14/2003	Ft. Wayne Fever	Kalamazoo Kingdom	2	1	100	League Game	LGE			As Scored	0	0	
 6/14/2003	Houston Toros	Louisiana Outlaws	1	1	100	League Game	LGE			As Scored	0	0	
@@ -439,7 +439,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/21/2003	Cascade Surge	BYU Cougars	4	2	100	League Game	LGE			As Scored	0	0	
 6/21/2003	Central Florida Kraze	Cocoa Expos	1	1	100	League Game	LGE			As Scored	0	0	
 6/21/2003	Charlotte Eagles	Richmond Kickers	1	3	1	League Game	LGE			As Scored	0	0	
-6/21/2003	Chicago Fire Reserves	Kansas City Brass	4	0	100	League Game	LGE			As Scored	0	0	
+6/21/2003	Chicago Fire (PDL)	Kansas City Brass	4	0	100	League Game	LGE			As Scored	0	0	
 6/21/2003	Cincinnati Riverhawks	Indiana Blast	5	2	1	League Game	LGE			As Scored	0	0	
 6/21/2003	Des Moines Menace	Sioux Falls SpitFire	5	2	100	League Game	LGE			As Scored	0	0	
 6/21/2003	Louisiana Outlaws	Texas Spurs	2	3	100	League Game	LGE			As Scored	0	0	
@@ -484,7 +484,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/27/2003	Rhode Island Stingrays	Jersey Shore Boca	7	2	100	League Game	LGE			As Scored	0	0	
 6/27/2003	Sioux Falls SpitFire	Thunder Bay Chill	4	5	100	League Game	LGE			As Scored	0	0	
 6/27/2003	Spokane Shadow	Cascade Surge	0	0	100	League Game	LGE			As Scored	0	0	
-6/27/2003	St. Louis Strikers	Chicago Fire Reserves	4	3	100	League Game	LGE			As Scored	0	0	
+6/27/2003	St. Louis Strikers	Chicago Fire (PDL)	4	3	100	League Game	LGE			As Scored	0	0	
 6/27/2003	Virginia Beach Mariners	Richmond Kickers	2	3	1	League Game	LGE			As Scored	0	0	
 6/27/2003	Portland Timbers	Calgary Storm	1	0	1	League Game	LGE			As Scored	0	0	
 6/27/2003	Western Mass Pioneers	New Jersey Stallions	4	0	100	League Game	LGE			As Scored	0	0	
@@ -503,7 +503,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/28/2003	El Paso Patriots	Seattle Sounders	0	2	1	League Game	LGE			As Scored	0	0	
 6/28/2003	Houston Toros	New Orleans Shell Shockers	0	2	100	League Game	LGE			As Scored	0	0	
 6/28/2003	Jersey Shore Boca	Worcester Kings	2	1	100	League Game	LGE			As Scored	0	0	
-6/28/2003	Kansas City Brass	Chicago Fire Reserves	1	4	100	League Game	LGE			As Scored	0	0	
+6/28/2003	Kansas City Brass	Chicago Fire (PDL)	1	4	100	League Game	LGE			As Scored	0	0	
 6/28/2003	New Hampshire Phantoms	Westchester Flames	3	0	100	League Game	LGE			As Scored	0	0	
 6/28/2003	Northern Virginia Royals	West Virginia Chaos	2	1	100	League Game	LGE			As Scored	0	0	
 6/28/2003	Reading Rage	Long Island Rough Riders	0	1	100	League Game	LGE			As Scored	0	0	
@@ -533,7 +533,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/1/2003	Calgary Storm	Toronto Lynx	0	2	1	League Game	LGE			As Scored	0	0	
 7/1/2003	Chesapeake Dragons	Richmond Kickers Future	0	4	100	League Game	LGE			As Scored	0	0	
 7/1/2003	Vancouver Whitecaps	Portland Timbers	1	0	1	League Game	LGE			As Scored	0	0	
-7/2/2003	Chicago Fire Reserves	Des Moines Menace	3	1	100	League Game	LGE			As Scored	0	0	
+7/2/2003	Chicago Fire (PDL)	Des Moines Menace	3	1	100	League Game	LGE			As Scored	0	0	
 7/2/2003	Long Island Rough Riders	Western Mass Pioneers	2	0	100	League Game	LGE			As Scored	0	0	
 7/2/2003	Indiana Blast	Cincinnati Riverhawks	1	3	1	League Game	LGE			As Scored	0	0	
 7/2/2003	Minnesota Thunder	Milwaukee Wave United	1	0	1	League Game	LGE			As Scored	0	0	
@@ -549,7 +549,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/4/2003	Fresno Fuego	Nevada Wonders	5	0	100	League Game	LGE			As Scored	0	0	
 7/4/2003	Kalamazoo Kingdom	Toledo Slayers	4	3	100	League Game	LGE			As Scored	0	0	
 7/4/2003	New Orleans Shell Shockers	Nashville Metros	1	0	100	League Game	LGE			As Scored	0	0	
-7/4/2003	Thunder Bay Chill	Chicago Fire Reserves	1	1	100	League Game	LGE			As Scored	0	0	
+7/4/2003	Thunder Bay Chill	Chicago Fire (PDL)	1	1	100	League Game	LGE			As Scored	0	0	
 7/4/2003	Minnesota Thunder	Seattle Sounders	2	3	1	League Game	LGE			As Scored	0	0	
 7/4/2003	Rochester Rhinos	Toronto Lynx	6	1	1	League Game	LGE			As Scored	0	0	
 7/4/2003	Syracuse Salty Dogs	Montreal Impact	1	3	1	League Game	LGE			As Scored	0	0	
@@ -564,7 +564,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/5/2003	San Diego Gauchos	Southern California Seahorses	0	2	100	League Game	LGE			As Scored	0	0	
 7/5/2003	South Jersey Barons	Reading Rage	2	0	100	League Game	LGE			As Scored	0	0	
 7/5/2003	Texas Spurs	Austin Lightning	0	2	100	League Game	LGE			As Scored	0	0	
-7/5/2003	Thunder Bay Chill	Chicago Fire Reserves	1	2	100	League Game	LGE			As Scored	0	0	
+7/5/2003	Thunder Bay Chill	Chicago Fire (PDL)	1	2	100	League Game	LGE			As Scored	0	0	
 7/5/2003	Vermont Voltage	Cape Cod Crusaders	3	1	100	League Game	LGE			As Scored	0	0	
 7/5/2003	Virginia Beach Mariners	Charleston Battery	2	0	1	League Game	LGE			As Scored	0	0	
 7/5/2003	Milwaukee Wave United	Seattle Sounders	1	0	1	League Game	LGE			As Scored	0	0	
@@ -622,12 +622,12 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/11/2003	Seattle Sounders	Milwaukee Wave United	1	0	1	League Game	LGE			As Scored	0	0	
 7/11/2003	Vancouver Whitecaps	Calgary Storm	2	1	1	League Game	LGE			As Scored	0	0	
 7/11/2003	Western Mass Pioneers	New Jersey Stallions	0	1	100	League Game	LGE			As Scored	0	0	
-7/11/2003	Wisconsin Rebels	Chicago Fire Reserves	2	4	100	League Game	LGE			As Scored	0	0	
+7/11/2003	Wisconsin Rebels	Chicago Fire (PDL)	2	4	100	League Game	LGE			As Scored	0	0	
 7/11/2003	Yakima Reds	Cascade Surge	2	1	100	League Game	LGE			As Scored	0	0	
 7/12/2003	Albany Black Watch Highlanders	Worcester Kings	3	2	100	League Game	LGE			As Scored	0	0	
 7/12/2003	Carolina Dynamo	Richmond Kickers Future	1	1	100	League Game	LGE	Called in 98th min. because of weather		As Scored	0	0	
 7/12/2003	Charleston Battery	Toronto Lynx	1	0	1	League Game	LGE			As Scored	0	0	
-7/12/2003	Chicago Fire Reserves	Wisconsin Rebels	10	0	100	League Game	LGE			As Scored	0	0	
+7/12/2003	Chicago Fire (PDL)	Wisconsin Rebels	10	0	100	League Game	LGE			As Scored	0	0	
 7/12/2003	Cocoa Expos	Bradenton Academics	1	1	100	League Game	LGE			As Scored	0	0	
 7/12/2003	Columbus Shooting Stars	Toledo Slayers	3	3	100	League Game	LGE			As Scored	0	0	
 7/12/2003	Des Moines Menace	Ft. Wayne Fever	1	0	100	League Game	LGE			As Scored	0	0	
@@ -699,7 +699,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/19/2003	Carolina Dynamo	Reading Rage	4	0	100	League Game	LGE			As Scored	0	0	
 7/19/2003	Central Florida Kraze	Bradenton Academics	1	3	100	League Game	LGE			As Scored	0	0	
 7/19/2003	Charleston Battery	Rochester Rhinos	1	2	1	League Game	LGE			As Scored	0	0	
-7/19/2003	Chicago Fire Reserves	Sioux Falls SpitFire	2	0	100	League Game	LGE			As Scored	0	0	
+7/19/2003	Chicago Fire (PDL)	Sioux Falls SpitFire	2	0	100	League Game	LGE			As Scored	0	0	
 7/19/2003	Cincinnati Riverhawks	Milwaukee Wave United	2	3	1	League Game	LGE			As Scored	0	0	
 7/19/2003	Fresno Fuego	BYU Cougars	4	2	100	League Game	LGE			As Scored	0	0	
 7/19/2003	Ft. Wayne Fever	Mid Michigan Bucks	0	4	100	League Game	LGE			As Scored	0	0	
@@ -729,7 +729,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/20/2003	Vancouver Whitecaps	Seattle Sounders	2	0	1	League Game	LGE			As Scored	0	0	
 7/20/2003	West Virginia Chaos	Chesapeake Dragons	2	0	100	League Game	LGE			As Scored	0	0	
 7/20/2003	Williamsburg Legacy	Richmond Kickers Future	3	0	100	League Game	LGE			As Scored	0	0	
-7/20/2003	Wisconsin Rebels	Chicago Fire Reserves	0	4	100	League Game	LGE			As Scored	0	0	
+7/20/2003	Wisconsin Rebels	Chicago Fire (PDL)	0	4	100	League Game	LGE			As Scored	0	0	
 7/22/2003	Richmond Kickers	Rochester Rhinos	2	0	1	League Game	LGE			As Scored	0	0	
 7/23/2003	Cincinnati Riverhawks	Portland Timbers	1	2	1	League Game	LGE			As Scored	0	0	
 7/23/2003	New Hampshire Phantoms	Long Island Rough Riders	1	2	100	League Game	LGE			As Scored	0	0	
@@ -745,7 +745,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/25/2003	Western Mass Pioneers	New York Freedoms	1	2	100	League Game	LGE			As Scored	0	0	
 7/26/2003	Atlanta Silverbacks	Montreal Impact	1	2	1	League Game	LGE			As Scored	0	0	
 7/26/2003	Carolina Dynamo	Wilmington Hammerheads	2	3	100	League Game	LGE			As Scored	0	0	
-7/26/2003	Chicago Fire Reserves	Indiana Invaders	8	0	100	Playoffs	PLO			As Scored	0	0	
+7/26/2003	Chicago Fire (PDL)	Indiana Invaders	8	0	100	Playoffs	PLO			As Scored	0	0	
 7/26/2003	Long Island Rough Riders	New Jersey Stallions	2	1	100	League Game	LGE			As Scored	0	0	
 7/26/2003	Memphis Express	Cocoa Expos	5	2	100	Playoffs	PLO			As Scored	0	0	
 7/26/2003	Mid Michigan Bucks	Des Moines Menace	1	0	100	Playoffs	PLO			As Scored	0	0	
@@ -762,7 +762,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/26/2003	Indiana Blast	Vancouver Whitecaps	2	4	1	League Game	LGE			As Scored	0	0	
 7/26/2003	Seattle Sounders	Calgary Storm	6	0	1	League Game	LGE			As Scored	0	0	
 7/27/2003	Cincinnati Riverhawks	Vancouver Whitecaps	1	2	1	League Game	LGE			As Scored	0	0	
-7/27/2003	Mid Michigan Bucks	Chicago Fire Reserves	0	2	100	Playoffs	PLO			As Scored	0	0	
+7/27/2003	Mid Michigan Bucks	Chicago Fire (PDL)	0	2	100	Playoffs	PLO			As Scored	0	0	
 7/27/2003	New Orleans Shell Shockers	Memphis Express	0	2	100	Playoffs	PLO			As Scored	0	0	
 7/27/2003	Orange County Blue Star	Fresno Fuego	2	0	100	Playoffs	PLO			As Scored	0	0	
 7/27/2003	Vermont Voltage	Cape Cod Crusaders	2	4	100	Playoffs	PLO			As Scored	0	0	
@@ -783,7 +783,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 8/1/2003	Vancouver Whitecaps	Cincinnati Riverhawks	5	0	1	League Game	LGE			As Scored	0	0	
 8/2/2003	Atlanta Silverbacks	Virginia Beach Mariners	0	1	1	League Game	LGE			As Scored	0	0	
 8/2/2003	Cape Cod Crusaders	Memphis Express	4	0	100	Playoffs	PLO			As Scored	0	0	
-8/2/2003	Chicago Fire Reserves	Orange County Blue Star	3	1	100	Playoffs	PLO			As Scored	0	0	
+8/2/2003	Chicago Fire (PDL)	Orange County Blue Star	3	1	100	Playoffs	PLO			As Scored	0	0	
 8/2/2003	New Hampshire Phantoms	Western Mass Pioneers	1	0	100	League Game	LGE			As Scored	0	0	
 8/2/2003	New Jersey Stallions	Long Island Rough Riders	3	1	100	League Game	LGE			As Scored	0	0	
 8/2/2003	Utah Blitzz	California Gold	3	1	100	League Game	LGE			As Scored	0	0	
@@ -808,7 +808,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 8/9/2003	Calgary Storm	Milwaukee Wave United	1	2	1	League Game	LGE			As Scored	0	0	
 8/9/2003	Carolina Dynamo	Wilmington Hammerheads	0	2	100	Playoffs	PLO			As Scored	0	0	
 8/9/2003	Charlotte Eagles	Atlanta Silverbacks	1	4	1	League Game	LGE			As Scored	0	0	
-8/9/2003	Chicago Fire Reserves	Cape Cod Crusaders	0	2	100	Playoffs	PLO			As Scored	0	0	
+8/9/2003	Chicago Fire (PDL)	Cape Cod Crusaders	0	2	100	Playoffs	PLO			As Scored	0	0	
 8/9/2003	Cincinnati Riverhawks	Minnesota Thunder	0	1	1	League Game	LGE			As Scored	0	0	
 8/9/2003	Long Island Rough Riders	New Jersey Stallions	0	0	100	Playoffs	PLO			Awarded on Penalties	0	0	
 8/9/2003	New Hampshire Phantoms	Westchester Flames	3	2	100	Playoffs	PLO			As Scored	0	0	

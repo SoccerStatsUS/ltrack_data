@@ -130,7 +130,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/17/2002	Bradenton Academics	Tampa Bay Hawks	2	3	1	League Game	LGE			As Scored	0	0	
 5/17/2002	Central Florida Kraze	Cocoa Expos	1	1	1	League Game	LGE			As Scored	0	0	
 5/17/2002	Charleston Battery	Richmond Kickers	3	0	3,595	League Game	LGE			As Scored	0	0	
-5/17/2002	Dayton Gemini	Chicago Fire Reserves	1	2	1	League Game	LGE			As Scored	0	0	
+5/17/2002	Dayton Gemini	Chicago Fire (PDL)	1	2	1	League Game	LGE			As Scored	0	0	
 5/17/2002	Indiana Blast	Minnesota Thunder	2	1	100	League Game	LGE			As Scored	0	0	
 5/17/2002	Northern Nevada Aces	San Diego Gauchos	0	4	1	League Game	LGE			As Scored	0	0	
 5/17/2002	Orange County Blue Star	Central Coast Roadrunners	3	0	1	League Game	LGE			As Scored	0	0	
@@ -156,7 +156,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/18/2002	Kalamazoo Kingdom	West Michigan Edge	3	4	1	League Game	LGE			As Scored	0	0	
 5/18/2002	Los Angeles Heroes	Santa Barbara Sharks	0	0	0	League Game	LGE			As Scored	0	0	
 5/18/2002	Louisiana Outlaws	Nashville Metros	2	3	1	League Game	LGE			As Scored	0	0	
-5/18/2002	Mid Michigan Bucks	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+5/18/2002	Mid Michigan Bucks	Chicago Fire (PDL)	0	0	0	League Game	LGE			As Scored	0	0	
 5/18/2002	New Jersey Stallions	New Hampshire Phantoms	4	2	1	League Game	LGE			As Scored	0	0	
 5/18/2002	New York Freedoms	Reading Rage	0	0	0	League Game	LGE			As Scored	0	0	
 5/18/2002	Seattle Sounders	Vancouver Whitecaps	1	0	2,274	League Game	LGE			As Scored	0	0	
@@ -176,12 +176,12 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/19/2002	Louisiana Outlaws	Memphis Express	2	3	1	League Game	LGE			As Scored	0	0	
 5/19/2002	Raleigh CASL Elite	Chesapeake Dragons	2	1	1	League Game	LGE			As Scored	0	0	
 5/19/2002	Vancouver Whitecaps	Seattle Sounders	1	2	3,171	League Game	LGE			As Scored	0	0	
-5/22/2002	West Michigan Edge	Chicago Fire Reserves	0	1	1	League Game	LGE			As Scored	0	0	
+5/22/2002	West Michigan Edge	Chicago Fire (PDL)	0	1	1	League Game	LGE			As Scored	0	0	
 5/23/2002	Mid Michigan Bucks	Kalamazoo Kingdom	2	1	1	League Game	LGE			As Scored	0	0	
 5/24/2002	Atlanta Silverbacks	El Paso Patriots	3	0	100	League Game	LGE			As Scored	0	0	
 5/24/2002	Boulder Rapids Reserves	Kansas City Brass	4	2	1	League Game	LGE			As Scored	0	0	
 5/24/2002	Central Coast Roadrunners	Santa Barbara Sharks	0	4	1	League Game	LGE			As Scored	0	0	
-5/24/2002	Chicago Fire Reserves	Des Moines Menace	0	0	1	League Game	LGE			As Scored	0	0	
+5/24/2002	Chicago Fire (PDL)	Des Moines Menace	0	0	1	League Game	LGE			As Scored	0	0	
 5/24/2002	Cocoa Expos	Bradenton Academics	2	1	1	League Game	LGE			As Scored	0	0	
 5/24/2002	Denver Cougars	Sioux Falls SpitFire	1	1	1	League Game	LGE			As Scored	0	0	
 5/24/2002	Greenville Lions	Raleigh CASL Elite	2	1	1	League Game	LGE			As Scored	0	0	
@@ -234,7 +234,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/26/2002	Vancouver Whitecaps	Seattle Sounders	1	4	3,872	League Game	LGE			As Scored	0	0	
 5/26/2002	Vermont Voltage	Cape Cod Crusaders	1	3	1	League Game	LGE			As Scored	0	0	
 5/26/2002	Worcester Kings	Jersey Falcons	0	0	0	League Game	LGE			As Scored	0	0	
-5/27/2002	Chicago Fire Reserves	Chicago Eagles Select	3	0	1	League Game	LGE			As Scored	0	0	
+5/27/2002	Chicago Fire (PDL)	Chicago Eagles Select	3	0	1	League Game	LGE			As Scored	0	0	
 5/27/2002	Dayton Gemini	Indiana Invaders	2	2	1	League Game	LGE			As Scored	0	0	
 5/27/2002	Northern Virginia Royals	Chesapeake Dragons	6	0	1	League Game	LGE			As Scored	0	0	
 5/27/2002	Richmond Kickers	Charlotte Eagles	0	0	1,000	League Game	LGE			As Scored	0	0	
@@ -289,7 +289,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/2/2002	Central Florida Kraze	Palm Beach Pumas	4	3	1	League Game	LGE			As Scored	0	0	
 6/2/2002	Chesapeake Dragons	Wilmington Hammerheads	2	3	1	League Game	LGE			As Scored	0	0	
 6/2/2002	Cincinnati Riverhawks	Vancouver Whitecaps	0	2	1	League Game	LGE	631		As Scored	0	0	
-6/2/2002	Dayton Gemini	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+6/2/2002	Dayton Gemini	Chicago Fire (PDL)	0	0	0	League Game	LGE			As Scored	0	0	
 6/2/2002	Houston Toros	Memphis Express	2	2	1	League Game	LGE			As Scored	0	0	
 6/2/2002	Jersey Falcons	Vermont Voltage	0	4	1	League Game	LGE			As Scored	0	0	
 6/2/2002	Kansas City Brass	Louisiana Outlaws	4	3	1	League Game	LGE			As Scored	0	0	
@@ -307,7 +307,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/5/2002	West Michigan Edge	Dayton Gemini	1	2	1	League Game	LGE			As Scored	0	0	
 6/5/2002	Wilmington Hammerheads	Raleigh CASL Elite	4	2	1	League Game	LGE			As Scored	0	0	
 6/5/2002	Worcester Kings	Cape Cod Crusaders	1	0	1	League Game	LGE			As Scored	0	0	
-6/6/2002	Indiana Invaders	Chicago Fire Reserves	0	2	1	League Game	LGE			As Scored	0	0	
+6/6/2002	Indiana Invaders	Chicago Fire (PDL)	0	2	1	League Game	LGE			As Scored	0	0	
 6/6/2002	Portland Timbers	Calgary Storm	3	2	5,663	League Game	LGE			As Scored	0	0	
 6/7/2002	Atlanta Silverbacks	Charlotte Eagles	4	2	100	League Game	LGE			As Scored	0	0	
 6/7/2002	Carolina Dynamo	Greenville Lions Premier	2	0	1	League Game	LGE			As Scored	0	0	
@@ -329,7 +329,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/8/2002	Carolina Dynamo	Chesapeake Dragons	0	0	0	League Game	LGE			As Scored	0	0	
 6/8/2002	Cascade Surge	Spokane Shadow	0	0	0	League Game	LGE			As Scored	0	0	
 6/8/2002	Charlotte Eagles	Atlanta Silverbacks	0	1	100	League Game	LGE			As Scored	0	0	
-6/8/2002	Chicago Eagles Select	Chicago Fire Reserves	2	5	1	League Game	LGE			As Scored	0	0	
+6/8/2002	Chicago Eagles Select	Chicago Fire (PDL)	2	5	1	League Game	LGE			As Scored	0	0	
 6/8/2002	Chico Rooks	Southern California Seahorses	2	3	1	League Game	LGE			As Scored	0	0	
 6/8/2002	Cocoa Expos	Bradenton Academics	0	0	0	League Game	LGE			As Scored	0	0	
 6/8/2002	Connecticut Wolves	New York Freedoms	3	2	1	League Game	LGE			As Scored	0	0	
@@ -378,7 +378,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/14/2002	Austin Lightning	Houston Toros	0	0	0	League Game	LGE			As Scored	0	0	
 6/14/2002	Cape Cod Crusaders	Vermont Voltage	3	1	1	League Game	LGE			As Scored	0	0	
 6/14/2002	Chicago Eagles Select	Dayton Gemini	0	0	0	League Game	LGE			As Scored	0	0	
-6/14/2002	Chicago Fire Reserves	Mid Michigan Bucks	4	1	1	League Game	LGE			As Scored	0	0	
+6/14/2002	Chicago Fire (PDL)	Mid Michigan Bucks	4	1	1	League Game	LGE			As Scored	0	0	
 6/14/2002	Cincinnati Riverhawks	Seattle Sounders	3	1	672	League Game	LGE			As Scored	0	0	
 6/14/2002	Greenville Lions	Northern Virginia Royals	2	0	1	League Game	LGE			As Scored	0	0	
 6/14/2002	Greenville Lions Premier	Williamsburg Legacy	0	1	1	League Game	LGE			As Scored	0	0	
@@ -406,7 +406,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/15/2002	Houston Toros	Louisiana Outlaws	0	0	0	League Game	LGE			As Scored	0	0	
 6/15/2002	Indiana Blast	Seattle Sounders	2	4	2,147	League Game	LGE			As Scored	0	0	
 6/15/2002	Indiana Invaders	Dayton Gemini	0	0	0	League Game	LGE			As Scored	0	0	
-6/15/2002	Kalamazoo Kingdom	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+6/15/2002	Kalamazoo Kingdom	Chicago Fire (PDL)	0	0	0	League Game	LGE			As Scored	0	0	
 6/15/2002	Los Angeles Heroes	Central Coast Roadrunners	0	1	1	League Game	LGE			As Scored	0	0	
 6/15/2002	Minnesota Thunder	Richmond Kickers	2	2	3,915	League Game	LGE			As Scored	0	0	
 6/15/2002	New Hampshire Phantoms	Westchester Flames	0	3	1	League Game	LGE			As Scored	0	0	
@@ -460,7 +460,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/22/2002	Austin Lightning	Denver Cougars	1	2	1	League Game	LGE			As Scored	0	0	
 6/22/2002	Calgary Storm Prospects	Seattle Sounders Select	1	2	1	League Game	LGE			As Scored	0	0	
 6/22/2002	Central Florida Kraze	Cocoa Expos	4	3	1	League Game	LGE			As Scored	0	0	
-6/22/2002	Chicago Fire Reserves	Thunder Bay Chill	6	1	1	League Game	LGE			As Scored	0	0	
+6/22/2002	Chicago Fire (PDL)	Thunder Bay Chill	6	1	1	League Game	LGE			As Scored	0	0	
 6/22/2002	Chico Rooks	California Gold	0	1	1	League Game	LGE			As Scored	0	0	
 6/22/2002	Cincinnati Riverhawks	Minnesota Thunder	1	2	879	League Game	LGE			As Scored	0	0	
 6/22/2002	Connecticut Wolves	New Hampshire Phantoms	1	0	1	League Game	LGE			As Scored	0	0	
@@ -502,7 +502,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/23/2002	Toronto Lynx	Pittsburgh Riverhounds	2	0	2,009	League Game	LGE			As Scored	0	0	
 6/26/2002	Brooklyn Knights	Jersey Falcons	3	1	1	League Game	LGE			As Scored	0	0	
 6/26/2002	Rhode Island Stingrays	Vermont Voltage	2	2	1	League Game	LGE			As Scored	0	0	
-6/26/2002	West Michigan Edge	Chicago Fire Reserves	3	2	1	League Game	LGE			As Scored	0	0	
+6/26/2002	West Michigan Edge	Chicago Fire (PDL)	3	2	1	League Game	LGE			As Scored	0	0	
 6/27/2002	California Gold	Orange County Blue Star	1	2	1	League Game	LGE			As Scored	0	0	
 6/27/2002	Toronto Lynx	Montreal Impact	0	0	624	League Game	LGE			As Scored	0	0	
 6/28/2002	Boulder Rapids Reserves	Denver Cougars	4	0	1	League Game	LGE			As Scored	0	0	
@@ -527,7 +527,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/29/2002	Austin Lightning	Bradenton Academics	2	2	1	League Game	LGE			As Scored	0	0	
 6/29/2002	Brooklyn Knights	Cape Cod Crusaders	1	3	1	League Game	LGE			As Scored	0	0	
 6/29/2002	Central Coast Roadrunners	Southern California Seahorses	0	1	1	League Game	LGE			As Scored	0	0	
-6/29/2002	Chicago Fire Reserves	West Michigan Edge	1	0	1	League Game	LGE			As Scored	0	0	
+6/29/2002	Chicago Fire (PDL)	West Michigan Edge	1	0	1	League Game	LGE			As Scored	0	0	
 6/29/2002	Chico Rooks	Northern Nevada Aces	5	2	1	League Game	LGE			As Scored	0	0	
 6/29/2002	Connecticut Wolves	South Jersey Barons	0	0	0	League Game	LGE			As Scored	0	0	
 6/29/2002	El Paso Patriots	Milwaukee Rampage	3	1	1	League Game	LGE			As Scored	0	0	
@@ -591,7 +591,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/6/2002	Brooklyn Knights	Worcester Kings	3	1	1	League Game	LGE			As Scored	0	0	
 7/6/2002	Charleston Battery	Milwaukee Rampage	0	1	3,964	League Game	LGE			As Scored	0	0	
 7/6/2002	Chicago Eagles Select	Thunder Bay Chill	3	1	1	League Game	LGE			As Scored	0	0	
-7/6/2002	Chicago Fire Reserves	Kalamazoo Kingdom	5	0	1	League Game	LGE			As Scored	0	0	
+7/6/2002	Chicago Fire (PDL)	Kalamazoo Kingdom	5	0	1	League Game	LGE			As Scored	0	0	
 7/6/2002	Dayton Gemini	Nashville Metros	2	1	1	League Game	LGE			As Scored	0	0	
 7/6/2002	Denver Cougars	Austin Lightning	2	1	1	League Game	LGE			As Scored	0	0	
 7/6/2002	El Paso Patriots	Calgary Storm	1	1	1	League Game	LGE			As Scored	0	0	
@@ -639,7 +639,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/12/2002	Carolina Dynamo	Northern Virginia Royals	0	0	0	League Game	LGE			As Scored	0	0	
 7/12/2002	Central Coast Roadrunners	Orange County Blue Star	0	3	1	League Game	LGE			As Scored	0	0	
 7/12/2002	Chicago Eagles Select	Wisconsin Rebels	3	1	1	League Game	LGE			As Scored	0	0	
-7/12/2002	Chicago Fire Reserves	Dayton Gemini	3	1	1	League Game	LGE			As Scored	0	0	
+7/12/2002	Chicago Fire (PDL)	Dayton Gemini	3	1	1	League Game	LGE			As Scored	0	0	
 7/12/2002	Connecticut Wolves	Westchester Flames	0	0	0	League Game	LGE			As Scored	0	0	
 7/12/2002	Denver Cougars	Texas Spurs	4	5	1	League Game	LGE			As Scored	0	0	
 7/12/2002	Greenville Lions	Richmond Kickers Future	0	0	0	League Game	LGE			As Scored	0	0	
@@ -691,7 +691,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/14/2002	Vancouver Whitecaps	Calgary Storm	4	0	4,039	League Game	LGE			As Scored	0	0	
 7/14/2002	Westchester Flames	Connecticut Wolves	0	0	0	League Game	LGE			As Scored	0	0	
 7/16/2002	Boulder Rapids Reserves	Denver Cougars	3	2	1	League Game	LGE			As Scored	0	0	
-7/17/2002	Chicago Fire Reserves	Wisconsin Rebels	5	0	1	League Game	LGE			As Scored	0	0	
+7/17/2002	Chicago Fire (PDL)	Wisconsin Rebels	5	0	1	League Game	LGE			As Scored	0	0	
 7/17/2002	Connecticut Wolves	Long Island Rough Riders	1	5	1	League Game	LGE			As Scored	0	0	
 7/17/2002	Montreal Impact	Vancouver Whitecaps	2	1	5,632	League Game	LGE			As Scored	0	0	
 7/17/2002	New York Freedoms	Western Mass Pioneers	0	0	0	League Game	LGE			As Scored	0	0	
@@ -700,7 +700,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/19/2002	Bradenton Academics	Tampa Bay Hawks	3	0	1	League Game	LGE			As Scored	0	0	
 7/19/2002	Cape Cod Crusaders	Brooklyn Knights	2	0	1	League Game	LGE			As Scored	0	0	
 7/19/2002	Chesapeake Dragons	Richmond Kickers Future	2	4	1	League Game	LGE			As Scored	0	0	
-7/19/2002	Chicago Fire Reserves	Indiana Invaders	0	3	1	League Game	LGE			As Scored	0	0	
+7/19/2002	Chicago Fire (PDL)	Indiana Invaders	0	3	1	League Game	LGE			As Scored	0	0	
 7/19/2002	Cocoa Expos	Palm Beach Pumas	3	2	1	League Game	LGE			As Scored	0	0	
 7/19/2002	Denver Cougars	Des Moines Menace	1	2	1	League Game	LGE			As Scored	0	0	
 7/19/2002	Hampton Roads Mariners	Richmond Kickers	0	1	1,336	League Game	LGE			As Scored	0	0	
@@ -719,7 +719,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/20/2002	Carolina Dynamo	Wilmington Hammerheads	0	0	0	League Game	LGE			As Scored	0	0	
 7/20/2002	Cocoa Expos	Central Florida Kraze	3	4	1	League Game	LGE			As Scored	0	0	
 7/20/2002	Indiana Blast	Cincinnati Riverhawks	1	2	1	League Game	LGE			As Scored	0	0	
-7/20/2002	Kalamazoo Kingdom	Chicago Fire Reserves	2	0	1	League Game	LGE			As Scored	0	0	
+7/20/2002	Kalamazoo Kingdom	Chicago Fire (PDL)	2	0	1	League Game	LGE			As Scored	0	0	
 7/20/2002	Los Angeles Heroes	Southern California Seahorses	3	2	1	League Game	LGE			As Scored	0	0	
 7/20/2002	Louisiana Outlaws	Memphis Express	1	2	1	League Game	LGE			As Scored	0	0	
 7/20/2002	Mid Michigan Bucks	Dayton Gemini	3	1	1	League Game	LGE			As Scored	0	0	

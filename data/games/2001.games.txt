@@ -97,7 +97,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/11/2001	Chicago Eagles Select	Twin Cities Phoenix	2	1	200	League Game	LGE			As Scored	0	0	
 5/11/2001	Chico Rooks	Arizona Sahuaros	2	1	1,241	League Game	LGE			As Scored	0	0	
 5/11/2001	Cincinnati Riverhawks	Minnesota Thunder	1	0	0	Inter League Game	ILG			As Scored	0	0	
-5/11/2001	Dayton Gemini	Chicago Fire Reserves	1	3	75	League Game	LGE	Reti, Willson 1A		As Scored	0	0	
+5/11/2001	Dayton Gemini	Chicago Fire (PDL)	1	3	75	League Game	LGE	Reti, Willson 1A		As Scored	0	0	
 5/11/2001	Denver Cougars	Boulder Nova	1	0	350	League Game	LGE			As Scored	0	0	
 5/11/2001	Indiana Blast	Atlanta Silverbacks	2	1	1,488	League Game	LGE		Akbay, Zekai	As Scored	0	0	
 5/11/2001	Jersey Falcons	Westchester Flames	0	4	100	League Game	LGE			As Scored	0	0	
@@ -142,7 +142,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/12/2001	Wilmington Hammerheads	New Jersey Stallions	2	1	1,587	League Game	LGE			As Scored	0	0	
 5/13/2001	Brooklyn Knights	North Jersey Imperials	2	1	106	League Game	LGE			As Scored	0	0	
 5/13/2001	Calgary Storm	Seattle Sounders Select	1	2	1,370	League Game	LGE	Vert, McKenna 1A		As Scored	0	0	
-5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	4	1	247	League Game	LGE	Bandanai 1A		As Scored	0	0	
+5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	4	1	247	League Game	LGE	Bandanai 1A		As Scored	0	0	
 5/13/2001	Greenville Lions	Nashville Metros	0	0	0	Inter League Game	ILG			As Scored	0	0	
 5/13/2001	Indiana Blast	Minnesota Thunder	2	3	0	Inter League Game	ILG			As Scored	0	0	
 5/13/2001	Richmond Kickers	New Jersey Stallions	5	0	100	Inter League Game	ILG			As Scored	0	0	
@@ -201,7 +201,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/20/2001	Bradenton Academics	Cocoa Expos	1	1	100	League Game	LGE			As Scored	0	0	
 5/20/2001	Brooklyn Knights	Vermont Voltage	2	0	0	League Game	LGE			As Scored	0	0	
 5/20/2001	Cascade Surge	Spokane Shadow	2	1	0	League Game	LGE			As Scored	0	0	
-5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	1	0	147	League Game	LGE	Willson 1A		As Scored	0	0	
+5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	1	0	147	League Game	LGE	Willson 1A		As Scored	0	0	
 5/20/2001	Dayton Gemini	West Michigan Edge	3	1	0	League Game	LGE			As Scored	0	0	
 5/20/2001	Jersey Falcons	North Jersey Imperials	0	4	0	League Game	LGE			As Scored	0	0	
 5/20/2001	Palm Beach Pumas	Miami Strike Force	1	3	0	League Game	LGE			As Scored	0	0	
@@ -220,7 +220,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/23/2001	Wichita Jets	Colorado Springs Ascent	5	1	0	League Game	LGE			As Scored	0	0	
 5/24/2001	Kansas City Brass	Colorado Springs Ascent	5	1	0	League Game	LGE			As Scored	0	0	
 5/24/2001	New York Freedoms	Westchester Flames	0	3	0	League Game	LGE			As Scored	0	0	
-5/24/2001	West Michigan Edge	Chicago Fire Reserves	1	4	912	League Game	LGE	Klaas, PSmith 1A, Reti 2A		As Scored	0	0	
+5/24/2001	West Michigan Edge	Chicago Fire (PDL)	1	4	912	League Game	LGE	Klaas, PSmith 1A, Reti 2A		As Scored	0	0	
 5/25/2001	Calgary Storm	Cascade Surge	1	0	1,711	League Game	LGE	Jesic 1A		As Scored	0	0	
 5/25/2001	Chicago Eagles Select	Des Moines Menace	2	0	0	League Game	LGE			As Scored	0	0	
 5/25/2001	Cocoa Expos	Central Florida Kraze	0	0	0	League Game	LGE			As Scored	0	0	
@@ -265,7 +265,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/27/2001	Bradenton Academics	Central Florida Kraze	3	2	0	League Game	LGE			As Scored	0	0	
 5/27/2001	Cape Cod Crusaders	Brooklyn Knights	2	4	0	League Game	LGE			As Scored	0	0	
 5/27/2001	Chesapeake Dragons	North Jersey Imperials	2	2	0	League Game	LGE			As Scored	0	0	
-5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	0	1	172	League Game	LGE	Mack 1A		As Scored	0	0	
+5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	0	1	172	League Game	LGE	Mack 1A		As Scored	0	0	
 5/27/2001	Lafayette Lightning	Kansas City Brass	3	2	473	League Game	LGE			As Scored	0	0	
 5/27/2001	Louisiana Outlaws	Wichita Jets	3	1	100	League Game	LGE			As Scored	0	0	
 5/27/2001	Milwaukee Rampage	Cincinnati Riverhawks	3	0	0	Inter League Game	ILG			As Scored	0	0	
@@ -290,7 +290,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/1/2001	Charleston Battery	Carolina Dynamo	5	0	0	Inter League Game	ILG			As Scored	0	0	
 6/1/2001	Cocoa Expos	Bradenton Academics	2	1	70	League Game	LGE			As Scored	0	0	
 6/1/2001	Hershey Wildcats	Rochester Rhinos	1	0	2,011	League Game	LGE		Schuster, Alex	As Scored	0	0	
-6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	1	4	830	League Game	LGE	DaSilva 1A		As Scored	0	0	
+6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	1	4	830	League Game	LGE	DaSilva 1A		As Scored	0	0	
 6/1/2001	Miami Strike Force	Palm Beach Pumas	2	3	40	League Game	LGE			As Scored	0	0	
 6/1/2001	Montreal Impact	Long Island Rough Riders	2	0	1,000	League Game	LGE			As Scored	0	0	
 6/1/2001	Nashville Metros	Greenville Lions	3	0	1,325	Inter League Game	ILG		Huber, Rich	As Scored	0	0	
@@ -339,7 +339,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/3/2001	Boston Bulldogs	Western Mass Pioneers	5	4	1,236	League Game	LGE			As Scored	0	0	
 6/3/2001	Brooklyn Knights	Cape Cod Crusaders	4	0	85	League Game	LGE			As Scored	0	0	
 6/3/2001	Calgary Storm	Spokane Shadow	1	0	1,313	League Game	LGE	Holdt 1A		As Scored	0	0	
-6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	0	1	343	League Game	LGE	Sithonnorath 1A		As Scored	0	0	
+6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	0	1	343	League Game	LGE	Sithonnorath 1A		As Scored	0	0	
 6/3/2001	Jersey Falcons	Chesapeake Dragons	1	6	65	League Game	LGE			As Scored	0	0	
 6/3/2001	Milwaukee Rampage	Vancouver Whitecaps	1	0	3,661	League Game	LGE			As Scored	0	0	
 6/3/2001	North Jersey Imperials	Vermont Voltage	3	1	103	League Game	LGE			As Scored	0	0	
@@ -351,7 +351,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/3/2001	West Dallas Kings	Colorado Springs Ascent	2	3	102	League Game	LGE			As Scored	0	0	
 6/5/2001	Dayton Gemini	West Michigan Edge	1	3	85	League Game	LGE			As Scored	0	0	
 6/5/2001	New Hampshire Phantoms	Western Mass Pioneers	1	2	100	League Game	LGE			As Scored	0	0	
-6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	1	2	300	League Game	LGE	Clanton 1A		As Scored	0	0	
+6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	1	2	300	League Game	LGE	Clanton 1A		As Scored	0	0	
 6/6/2001	Connecticut Wolves	Rochester Rhinos	0	1	2,175	League Game	LGE			As Scored	0	0	
 6/6/2001	Portland Timbers	Minnesota Thunder	3	1	2,999	League Game	LGE			As Scored	0	0	
 6/7/2001	Mid Michigan Bucks	Kalamazoo Kingdom	0	0	0	League Game	LGE			As Scored	0	0	
@@ -402,7 +402,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/9/2001	Western Mass Pioneers	South Jersey Barons	0	0	0	League Game	LGE			As Scored	0	0	
 6/10/2001	Bradenton Academics	Miami Strike Force	1	2	120	League Game	LGE			As Scored	0	0	
 6/10/2001	Brooklyn Knights	Chesapeake Dragons	0	0	0	League Game	LGE			As Scored	0	0	
-6/10/2001	Chicago Fire Reserves	Indiana Invaders	4	0	167	League Game	LGE	Reti, Mehreioskouei 1A		As Scored	0	0	
+6/10/2001	Chicago Fire (PDL)	Indiana Invaders	4	0	167	League Game	LGE	Reti, Mehreioskouei 1A		As Scored	0	0	
 6/10/2001	Connecticut Wolves	Montreal Impact	2	1	100	League Game	LGE			As Scored	0	0	
 6/10/2001	Jersey Falcons	Cape Cod Crusaders	0	0	0	League Game	LGE			As Scored	0	0	
 6/10/2001	Long Island Rough Riders	Richmond Kickers	1	2	100	League Game	LGE			As Scored	0	0	
@@ -417,7 +417,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/10/2001	Thunder Bay Chill	West Michigan Edge	0	0	0	League Game	LGE			As Scored	0	0	
 6/10/2001	Toronto Lynx	Hershey Wildcats	0	1	1,848	League Game	LGE			As Scored	0	0	
 6/10/2001	Twin Cities Phoenix	Sioux Falls SpitFire	0	0	0	League Game	LGE			As Scored	0	0	
-6/13/2001	Chicago Fire Reserves	West Michigan Edge	2	0	310	League Game	LGE	Hudson, Paul 1A		As Scored	0	0	
+6/13/2001	Chicago Fire (PDL)	West Michigan Edge	2	0	310	League Game	LGE	Hudson, Paul 1A		As Scored	0	0	
 6/13/2001	Miami Strike Force	Uruguay SC	2	3	0	US Open Cup	USOC			As Scored	0	0	
 6/13/2001	Mid Michigan Bucks	Chaldean Arsenal	3	0	0	US Open Cup	USOC			As Scored	0	0	
 6/13/2001	Portland Timbers	Vancouver Whitecaps	1	1	4,077	League Game	LGE			As Scored	0	0	
@@ -434,7 +434,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/15/2001	Chico Rooks	Stanislaus United Cruisers	1	3	1,491	League Game	LGE			As Scored	0	0	
 6/15/2001	Colorado Springs Ascent	Texas Spurs	0	0	0	League Game	LGE			As Scored	0	0	
 6/15/2001	El Paso Patriots	Seattle Sounders	3	1	3,145	League Game	LGE			As Scored	0	0	
-6/15/2001	Indiana Invaders	Chicago Fire Reserves	1	3	275	League Game	LGE	DaSilva, Mehreioskouei, Peirano 1A		As Scored	0	0	
+6/15/2001	Indiana Invaders	Chicago Fire (PDL)	1	3	275	League Game	LGE	DaSilva, Mehreioskouei, Peirano 1A		As Scored	0	0	
 6/15/2001	Jersey Falcons	Westchester Flames	2	6	50	League Game	LGE			As Scored	0	0	
 6/15/2001	Kansas City Brass	Sioux Falls SpitFire	1	2	216	League Game	LGE			As Scored	0	0	
 6/15/2001	Louisiana Outlaws	Lafayette Lightning	2	3	200	League Game	LGE			As Scored	0	0	
@@ -473,7 +473,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/16/2001	West Michigan Edge	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
 6/16/2001	Wilmington Hammerheads	Western Mass Pioneers	3	4	2,467	League Game	LGE			As Scored	0	0	
 6/17/2001	Boulder Nova	Texas Spurs	1	2	125	League Game	LGE	Elias, Zuazua 1A		As Scored	0	0	
-6/17/2001	Dayton Gemini	Chicago Fire Reserves	1	4	55	League Game	LGE	Paul, Strong 1A, Reti 2A		As Scored	0	0	
+6/17/2001	Dayton Gemini	Chicago Fire (PDL)	1	4	55	League Game	LGE	Paul, Strong 1A, Reti 2A		As Scored	0	0	
 6/17/2001	Denver Cougars	West Dallas Kings	0	0	0	League Game	LGE			As Scored	0	0	
 6/17/2001	Jersey Falcons	Vermont Voltage	1	6	25	League Game	LGE	Farrell, Allen 1A		As Scored	0	0	
 6/17/2001	Kalamazoo Kingdom	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
@@ -569,7 +569,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/29/2001	Boulder Nova	Colorado Springs Ascent	0	0	0	League Game	LGE			As Scored	0	0	
 6/29/2001	Cascade Surge	Spokane Shadow	0	0	0	League Game	LGE			As Scored	0	0	
 6/29/2001	Chicago Eagles Select	Thunder Bay Chill	0	0	0	League Game	LGE			As Scored	0	0	
-6/29/2001	Chicago Fire Reserves	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
+6/29/2001	Chicago Fire (PDL)	Mid Michigan Bucks	0	0	0	League Game	LGE			As Scored	0	0	
 6/29/2001	Chico Rooks	Tucson Fireballs	0	0	0	League Game	LGE			As Scored	0	0	
 6/29/2001	Cocoa Expos	Bradenton Academics	0	0	0	League Game	LGE			As Scored	0	0	
 6/29/2001	El Paso Patriots	San Diego Flash	0	1	4,379	League Game	LGE			As Scored	0	0	
@@ -613,7 +613,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/1/2001	Brooklyn Knights	Westchester Flames	0	0	0	League Game	LGE			As Scored	0	0	
 7/1/2001	Calgary Storm	Okanagan Challenge	0	0	0	League Game	LGE			As Scored	0	0	
 7/1/2001	Central Florida Kraze	Miami Strike Force	0	0	0	League Game	LGE			As Scored	0	0	
-7/1/2001	Chicago Fire Reserves	Dayton Gemini	0	0	0	League Game	LGE			As Scored	0	0	
+7/1/2001	Chicago Fire (PDL)	Dayton Gemini	0	0	0	League Game	LGE			As Scored	0	0	
 7/1/2001	Jersey Falcons	North Jersey Imperials	0	0	0	League Game	LGE			As Scored	0	0	
 7/1/2001	Kansas City Brass	Lafayette Lightning	0	0	0	League Game	LGE			As Scored	0	0	
 7/1/2001	Minnesota Thunder	Seattle Sounders	1	2	3,831	League Game	LGE			As Scored	0	0	
@@ -628,7 +628,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/3/2001	Charleston Battery	Indiana Blast	3	2	1	League Game	LGE			As Scored	0	0	
 7/3/2001	Portland Timbers	San Diego Flash	3	2	7,271	League Game	LGE			As Scored	0	0	
 7/3/2001	Vermont Voltage	Cape Cod Crusaders	0	0	0	League Game	LGE			As Scored	0	0	
-7/4/2001	Des Moines Menace	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+7/4/2001	Des Moines Menace	Chicago Fire (PDL)	0	0	0	League Game	LGE			As Scored	0	0	
 7/4/2001	El Paso Patriots	Pittsburgh Riverhounds	2	0	1	League Game	LGE			As Scored	0	0	
 7/4/2001	Indiana Invaders	West Michigan Edge	0	0	0	League Game	LGE			As Scored	0	0	
 7/4/2001	Montreal Impact	Connecticut Wolves	2	1	3,557	League Game	LGE			As Scored	0	0	
@@ -660,7 +660,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/7/2001	Denver Cougars	Kansas City Brass	0	0	0	League Game	LGE			As Scored	0	0	
 7/7/2001	Kalamazoo Kingdom	Twin Cities Phoenix	0	0	0	League Game	LGE			As Scored	0	0	
 7/7/2001	Louisiana Outlaws	Bradenton Academics	0	0	0	League Game	LGE			As Scored	0	0	
-7/7/2001	Mid Michigan Bucks	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+7/7/2001	Mid Michigan Bucks	Chicago Fire (PDL)	0	0	0	League Game	LGE			As Scored	0	0	
 7/7/2001	New Hampshire Phantoms	New Jersey Stallions	0	0	0	League Game	LGE			As Scored	0	0	
 7/7/2001	San Diego Flash	Pittsburgh Riverhounds	6	1	789	League Game	LGE			As Scored	0	0	
 7/7/2001	San Gabriel Valley Highlanders	San Fernando Valley Heroes	0	0	0	League Game	LGE			As Scored	0	0	
@@ -727,7 +727,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/14/2001	Carolina Dynamo	Greenville Lions	0	0	0	League Game	LGE			As Scored	0	0	
 7/14/2001	Cascade Surge	Yakima Reds	0	0	0	League Game	LGE			As Scored	0	0	
 7/14/2001	Central Coast Roadrunners	San Gabriel Valley Highlanders	0	0	0	League Game	LGE			As Scored	0	0	
-7/14/2001	Chicago Fire Reserves	Chicago Eagles Select	0	0	0	League Game	LGE			As Scored	0	0	
+7/14/2001	Chicago Fire (PDL)	Chicago Eagles Select	0	0	0	League Game	LGE			As Scored	0	0	
 7/14/2001	Chico Rooks	San Fernando Valley Heroes	2	0	0	League Game	LGE			As Scored	0	0	
 7/14/2001	Cocoa Expos	Central Florida Kraze	0	0	0	League Game	LGE			As Scored	0	0	
 7/14/2001	Colorado Springs Ascent	Denver Cougars	0	0	0	League Game	LGE			As Scored	0	0	
@@ -753,7 +753,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/15/2001	Brooklyn Knights	South Jersey Barons	0	0	0	League Game	LGE			As Scored	0	0	
 7/15/2001	Cape Cod Crusaders	Westchester Flames	5	0	0	League Game	LGE			As Scored	0	0	
 7/15/2001	Cascade Surge	Seattle Sounders Select	0	0	0	League Game	LGE			As Scored	0	0	
-7/15/2001	Chicago Fire Reserves	Des Moines Menace	0	0	0	League Game	LGE			As Scored	0	0	
+7/15/2001	Chicago Fire (PDL)	Des Moines Menace	0	0	0	League Game	LGE			As Scored	0	0	
 7/15/2001	Dayton Gemini	Kalamazoo Kingdom	0	0	0	League Game	LGE			As Scored	0	0	
 7/15/2001	Indiana Blast	Charleston Battery	1	0	100	League Game	LGE			As Scored	0	0	
 7/15/2001	Milwaukee Rampage	Atlanta Silverbacks	0	4	1,710	League Game	LGE		Spicer, John Paul	As Scored	0	0	
@@ -787,7 +787,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/20/2001	San Diego Flash	El Paso Patriots	2	2	500	League Game	LGE			As Scored	0	0	
 7/20/2001	South Jersey Barons	Wilmington Hammerheads	0	0	0	League Game	LGE			As Scored	0	0	
 7/20/2001	Spokane Shadow	Seattle Sounders Select	0	0	0	League Game	LGE			As Scored	0	0	
-7/20/2001	West Michigan Edge	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+7/20/2001	West Michigan Edge	Chicago Fire (PDL)	0	0	0	League Game	LGE			As Scored	0	0	
 7/20/2001	Western Mass Pioneers	Carolina Dynamo	3	2	0	League Game	LGE			As Scored	0	0	
 7/21/2001	Atlanta Silverbacks	Connecticut Wolves	0	0	1,232	League Game	LGE		Thunelius, Bob	As Scored	0	0	
 7/21/2001	Boulder Nova	Utah Blitzz	3	4	0	League Game	LGE			As Scored	0	0	
@@ -797,7 +797,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/21/2001	Chesapeake Dragons	Brooklyn Knights	0	0	0	League Game	LGE			As Scored	0	0	
 7/21/2001	Dayton Gemini	Indiana Invaders	0	0	0	League Game	LGE			As Scored	0	0	
 7/21/2001	Des Moines Menace	Sioux Falls SpitFire	0	0	0	League Game	LGE			As Scored	0	0	
-7/21/2001	Kalamazoo Kingdom	Chicago Fire Reserves	0	0	0	League Game	LGE			As Scored	0	0	
+7/21/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	0	0	0	League Game	LGE			As Scored	0	0	
 7/21/2001	Louisiana Outlaws	West Dallas Kings	0	0	0	League Game	LGE			As Scored	0	0	
 7/21/2001	Minnesota Thunder	Milwaukee Rampage	1	0	5,512	League Game	LGE			As Scored	0	0	
 7/21/2001	New Hampshire Phantoms	Carolina Dynamo	1	1	0	League Game	LGE			As Scored	0	0	

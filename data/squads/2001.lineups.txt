@@ -2155,37 +2155,37 @@ LGE	5/11/2001	Chico Rooks	Arizona Sahuaros	Arizona Sahuaros	Kayali, Maher	0	0	51
 LGE	5/11/2001	Chico Rooks	Arizona Sahuaros	Arizona Sahuaros	Flores, Eric	0	61	92	N	N	N	0		0	0	0	
 LGE	5/11/2001	Chico Rooks	Arizona Sahuaros	Arizona Sahuaros	Whalen, Joel	0	71	92	N	N	N	0		0	0	0	
 LGE	5/11/2001	Chico Rooks	Arizona Sahuaros	Arizona Sahuaros	Coelho-Neto, Manuel	0	51	92	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Adams, James	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Sylborne, Michael	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Foreman, Tevis	0	0	45	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Jones, Devin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Larmond, Bunny Ray	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Cummings, John	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Breines, Matthew	0	0	83	Y	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Gibson, Bradley	0	0	79	Y	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Raftery, Jared	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Bammel, Joshua	0	0	74	Y	Y	Y	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Clark, Jeffrey	0	0	74	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Rainey, Brian	0	45	90	Y	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Szucs, Andrew	0	74	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	McCloskey, Kevin	0	79	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Tackis, Jason	0	83	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Waguespack, Ryan	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Collins, John	0	0	64	Y	Y	Y	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Eastland, Robert	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Reti, Sean	0	0	89	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Willson, Eric	0	0	89	Y	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Demano, Robert	0	0	85	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Campuzano, Hernan	0	0	56	Y	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Paul, Lee	0	0	74	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Groenwald, Matthew	0	56	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Reuter, Steve	0	74	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Dieterle, Julian	0	85	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Sebek, Matt	0	89	90	N	N	N	0		0	0	0	
-LGE	5/11/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Felten, Ross	0	89	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Adams, James	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Sylborne, Michael	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Foreman, Tevis	0	0	45	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Jones, Devin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Larmond, Bunny Ray	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Cummings, John	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Breines, Matthew	0	0	83	Y	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Gibson, Bradley	0	0	79	Y	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Raftery, Jared	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Bammel, Joshua	0	0	74	Y	Y	Y	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Clark, Jeffrey	0	0	74	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Rainey, Brian	0	45	90	Y	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Szucs, Andrew	0	74	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	McCloskey, Kevin	0	79	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Tackis, Jason	0	83	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Waguespack, Ryan	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Collins, John	0	0	64	Y	Y	Y	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Eastland, Robert	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Reti, Sean	0	0	89	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Willson, Eric	0	0	89	Y	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Demano, Robert	0	0	85	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Campuzano, Hernan	0	0	56	Y	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Paul, Lee	0	0	74	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Groenwald, Matthew	0	56	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Reuter, Steve	0	74	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Dieterle, Julian	0	85	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Sebek, Matt	0	89	90	N	N	N	0		0	0	0	
+LGE	5/11/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Felten, Ross	0	89	90	N	N	N	0		0	0	0	
 LGE	5/11/2001	Denver Cougars	Boulder Nova	Denver Cougars	McClellan, Chris	0	0	90	N	N	N	0		0	0	0	
 LGE	5/11/2001	Denver Cougars	Boulder Nova	Denver Cougars	Romo, Jorge	0	0	76	N	N	N	0	Amaya, Rafael	0	0	0	
 LGE	5/11/2001	Denver Cougars	Boulder Nova	Denver Cougars	Pinto, Nelson	0	0	90	N	N	N	0		0	0	0	
@@ -3226,28 +3226,28 @@ LGE	5/13/2001	Calgary Storm	Seattle Sounders Select	Seattle Sounders Select	Raym
 LGE	5/13/2001	Calgary Storm	Seattle Sounders Select	Seattle Sounders Select	Somoza, Benjamin	0	0	90	N	N	N	0		0	0	0	
 LGE	5/13/2001	Calgary Storm	Seattle Sounders Select	Seattle Sounders Select	Armstrong, Casey	0	45	90	N	N	N	0		0	0	0	
 LGE	5/13/2001	Calgary Storm	Seattle Sounders Select	Seattle Sounders Select	Barber, Casey	0	80	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Lara, David	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Collins, John	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Bobo, Matthew	0	0	90	Y	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Reti, Sean	0	0	90	Y	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Chicago Fire Reserves	Paul, Lee	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Alianello, Joe	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Lacaria, Frank	0	0	90	Y	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Rosenfeld, Matt	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Keesic, Gordon	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Valente, Tony	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Young, Adam	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Colistro, Dave	0	0	90	Y	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Kolinski, Mike	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Giardetti, Mike	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Bandani, Ron	0	0	90	N	N	N	0		0	0	0	
-LGE	5/13/2001	Chicago Fire Reserves	Thunder Bay Chill	Thunder Bay Chill	Cierny, Rudy	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Lara, David	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Collins, John	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Bobo, Matthew	0	0	90	Y	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Reti, Sean	0	0	90	Y	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Chicago Fire (PDL)	Paul, Lee	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Alianello, Joe	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Lacaria, Frank	0	0	90	Y	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Rosenfeld, Matt	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Keesic, Gordon	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Valente, Tony	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Young, Adam	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Colistro, Dave	0	0	90	Y	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Kolinski, Mike	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Giardetti, Mike	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Bandani, Ron	0	0	90	N	N	N	0		0	0	0	
+LGE	5/13/2001	Chicago Fire (PDL)	Thunder Bay Chill	Thunder Bay Chill	Cierny, Rudy	0	0	90	N	N	N	0		0	0	0	
 ILG	5/13/2001	Richmond Kickers	New Jersey Stallions	Richmond Kickers	Pascale, Ronnie	0	0	90	N	N	N	0		0	0	0	
 ILG	5/13/2001	Richmond Kickers	New Jersey Stallions	Richmond Kickers	Brown, Christopher	0	0	90	N	N	N	0		0	0	0	
 ILG	5/13/2001	Richmond Kickers	New Jersey Stallions	Richmond Kickers	Knight, Kevin	0	0	90	N	N	N	0		0	0	0	
@@ -4699,28 +4699,28 @@ LGE	5/20/2001	Cascade Surge	Spokane Shadow	Spokane Shadow	Alberry, Dustin	0	0	85
 LGE	5/20/2001	Cascade Surge	Spokane Shadow	Spokane Shadow	Thompson, Mike	0	66	90	N	N	N	0		0	0	0	
 LGE	5/20/2001	Cascade Surge	Spokane Shadow	Spokane Shadow	Grubb, Aaron	0	85	90	N	N	N	0		0	0	0	
 LGE	5/20/2001	Cascade Surge	Spokane Shadow	Spokane Shadow	Tharp, Trevor	0	88	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Welch, James	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Klaas, CJ	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Collins, John	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Reti, Sean	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Demano, Robert	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Chicago Fire Reserves	Paul, Lee	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Reinhardt, Evan	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Barone, Giuseppe	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Swann, John	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Leitch, Chris	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Hammer, Ryan	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Kench, Craig	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Lukungu, Ali	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Noonan, Patrick	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Reinhardt, Loren	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Dias, Vijay	0	0	90	N	N	N	0		0	0	0	
-LGE	5/20/2001	Chicago Fire Reserves	Kalamazoo Kingdom	Kalamazoo Kingdom	Mariscalco, Michael	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Welch, James	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Klaas, CJ	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Collins, John	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Reti, Sean	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Demano, Robert	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Chicago Fire (PDL)	Paul, Lee	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Reinhardt, Evan	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Barone, Giuseppe	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Swann, John	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Leitch, Chris	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Hammer, Ryan	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Kench, Craig	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Lukungu, Ali	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Noonan, Patrick	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Reinhardt, Loren	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Dias, Vijay	0	0	90	N	N	N	0		0	0	0	
+LGE	5/20/2001	Chicago Fire (PDL)	Kalamazoo Kingdom	Kalamazoo Kingdom	Mariscalco, Michael	0	0	90	N	N	N	0		0	0	0	
 LGE	5/20/2001	Dayton Gemini	West Michigan Edge	Dayton Gemini	Adams, James	0	0	90	N	N	N	0		0	0	0	
 LGE	5/20/2001	Dayton Gemini	West Michigan Edge	Dayton Gemini	Schulte, William	0	0	90	N	N	N	0		0	0	0	
 LGE	5/20/2001	Dayton Gemini	West Michigan Edge	Dayton Gemini	Foreman, Tevis	0	0	90	Y	N	N	0		0	0	0	
@@ -5091,36 +5091,36 @@ LGE	5/23/2001	Wichita Jets	Colorado Springs Ascent	Colorado Springs Ascent	Black
 LGE	5/23/2001	Wichita Jets	Colorado Springs Ascent	Colorado Springs Ascent	Seago, Scott	0	0	90	N	N	N	0		0	0	0	
 LGE	5/23/2001	Wichita Jets	Colorado Springs Ascent	Colorado Springs Ascent	Morrero, Adrien	0	0	90	N	N	N	0		0	0	0	
 LGE	5/23/2001	Wichita Jets	Colorado Springs Ascent	Colorado Springs Ascent	Plakorus, Mark	0	19	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Alexander, Shawn	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Iding, Joseph	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Smith, Derek	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Ahebwa, Dennis	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Smith, Pepe	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Holloway, Neil	0	0	90	Y	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Wilson, William	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Piza, Fernando	0	0	72	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Dwaihy, David	0	0	45	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Maher, Anthony	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Bailey, Joel	0	0	72	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Fuehr, Andy	0	45	84	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Moucoulis, Anthony	0	72	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Bravo, Mike	0	72	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	West Michigan Edge	Garcia, Natanael	0	84	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Welch, James	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Klaas, CJ	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Collins, John	0	0	62	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Mehreioskouei, Hamid	0	0	61	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Reti, Sean	0	0	76	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Paul, Lee	0	0	72	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Lara, David	0	61	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Kuska, Jason	0	62	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Eastland, Robert	0	72	90	N	N	N	0		0	0	0	
-LGE	5/24/2001	West Michigan Edge	Chicago Fire Reserves	Chicago Fire Reserves	Sebek, Matt	0	76	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Alexander, Shawn	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Iding, Joseph	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Smith, Derek	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Ahebwa, Dennis	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Smith, Pepe	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Holloway, Neil	0	0	90	Y	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Wilson, William	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Piza, Fernando	0	0	72	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Dwaihy, David	0	0	45	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Maher, Anthony	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Bailey, Joel	0	0	72	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Fuehr, Andy	0	45	84	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Moucoulis, Anthony	0	72	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Bravo, Mike	0	72	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	West Michigan Edge	Garcia, Natanael	0	84	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Welch, James	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Klaas, CJ	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Collins, John	0	0	62	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Mehreioskouei, Hamid	0	0	61	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Reti, Sean	0	0	76	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Paul, Lee	0	0	72	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Lara, David	0	61	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Kuska, Jason	0	62	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Eastland, Robert	0	72	90	N	N	N	0		0	0	0	
+LGE	5/24/2001	West Michigan Edge	Chicago Fire (PDL)	Chicago Fire (PDL)	Sebek, Matt	0	76	90	N	N	N	0		0	0	0	
 LGE	5/25/2001	Calgary Storm	Cascade Surge	Calgary Storm	Hirschfeld, Lars	0	0	90	N	N	N	0		0	0	0	
 LGE	5/25/2001	Calgary Storm	Cascade Surge	Calgary Storm	Munoz, Eric	0	0	90	N	N	N	0		0	0	0	
 LGE	5/25/2001	Calgary Storm	Cascade Surge	Calgary Storm	DeSilva, William	0	0	90	Y	N	N	0		0	0	0	
@@ -5848,34 +5848,34 @@ ILG	5/26/2001	Utah Blitzz	Seattle Sounders	Seattle Sounders	Bettinger, Rees	0	0	
 ILG	5/26/2001	Utah Blitzz	Seattle Sounders	Seattle Sounders	Smith, Kyle	0	0	53	N	N	N	0	Kinoshita, Kei	0	0	0	
 ILG	5/26/2001	Utah Blitzz	Seattle Sounders	Seattle Sounders	Kinoshita, Kei	0	53	110	N	N	N	0		0	0	0	
 ILG	5/26/2001	Utah Blitzz	Seattle Sounders	Seattle Sounders	Tomlinson, Craig	0	59	110	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Welch, James	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Klaas, CJ	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Collins, John	0	0	35	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Reti, Sean	0	0	80	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Willson, Eric	0	0	90	Y	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Paul, Lee	0	0	76	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Grabavey, Ned	0	35	45	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Lara, David	0	45	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Eastland, Robert	0	76	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Chicago Fire Reserves	Geiger, Abe	0	80	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Pogue, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Scicluna, Valentino	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Malachino, Joe	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Nelson, Erik	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Djeukeng, Benjamin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Detter, Justin	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Armstrong, Stephen	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Schomaker, Chad	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Snape, Paul	0	0	85	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Mack, Ryan	0	0	89	Y	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Deopere, Scott	0	0	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Perry, Jason	0	85	90	N	N	N	0		0	0	0	
-LGE	5/27/2001	Chicago Fire Reserves	Mid Michigan Bucks	Mid Michigan Bucks	Piraine, Salvatore	0	89	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Welch, James	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Klaas, CJ	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Collins, John	0	0	35	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Reti, Sean	0	0	80	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Willson, Eric	0	0	90	Y	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Paul, Lee	0	0	76	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Grabavey, Ned	0	35	45	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Lara, David	0	45	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Eastland, Robert	0	76	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Chicago Fire (PDL)	Geiger, Abe	0	80	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Pogue, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Scicluna, Valentino	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Malachino, Joe	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Nelson, Erik	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Djeukeng, Benjamin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Detter, Justin	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Armstrong, Stephen	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Schomaker, Chad	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Snape, Paul	0	0	85	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Mack, Ryan	0	0	89	Y	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Deopere, Scott	0	0	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Perry, Jason	0	85	90	N	N	N	0		0	0	0	
+LGE	5/27/2001	Chicago Fire (PDL)	Mid Michigan Bucks	Mid Michigan Bucks	Piraine, Salvatore	0	89	90	N	N	N	0		0	0	0	
 LGE	5/27/2001	Lafayette Lightning	Kansas City Brass	Lafayette Lightning	Carney, Scott	0	0	98	N	N	N	0		0	0	0	
 LGE	5/27/2001	Lafayette Lightning	Kansas City Brass	Lafayette Lightning	Johnson, Mathius	0	0	98	N	N	N	0		0	0	0	
 LGE	5/27/2001	Lafayette Lightning	Kansas City Brass	Lafayette Lightning	Benjamin,St.Nicholas	0	0	98	Y	N	N	0		0	0	0	
@@ -6383,36 +6383,36 @@ LGE	6/1/2001	Hershey Wildcats	Rochester Rhinos	Rochester Rhinos	Wilson, Kirk	0	6
 LGE	6/1/2001	Hershey Wildcats	Rochester Rhinos	Rochester Rhinos	Butcher, Steve	0	68	90	N	N	N	0		0	0	0	
 LGE	6/1/2001	Hershey Wildcats	Rochester Rhinos	Rochester Rhinos	Tanner, James (Jimmy)	0	78	90	N	N	N	0		0	0	0	
 LGE	6/1/2001	Hershey Wildcats	Rochester Rhinos	Rochester Rhinos	Annan, Dan	0	80	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Reinhardt, Evan	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Barone, Giuseppe	0	0	71	Y	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Swann, John	0	0	63	Y	Y	Y	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Leitch, Chris	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Hammer, Ryan	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Kench, Craig	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Lukungu, Ali	0	0	83	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Skeels, Samuel	0	0	67	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Dias, Vijay	0	0	82	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Pantazi, Nicholas	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Mariscalco, Michael	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Snow, Brian	0	67	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Reinhardt, Loren	0	71	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Duhl, Scott	0	82	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Kalamazoo Kingdom	Walton, Stephen	0	83	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Lara, David	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Reti, Sean	0	0	55	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Regan, Timothy	0	0	85	Y	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Paul, Lee	0	0	65	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	DaSilva, Nino	0	0	82	Y	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Glinton, Gavin	0	55	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Collins, John	0	65	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Eastland, Robert	0	82	90	N	N	N	0		0	0	0	
-LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire Reserves	Chicago Fire Reserves	Kuska, Jason	0	85	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Reinhardt, Evan	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Barone, Giuseppe	0	0	71	Y	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Swann, John	0	0	63	Y	Y	Y	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Leitch, Chris	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Hammer, Ryan	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Kench, Craig	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Lukungu, Ali	0	0	83	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Skeels, Samuel	0	0	67	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Dias, Vijay	0	0	82	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Pantazi, Nicholas	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Mariscalco, Michael	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Snow, Brian	0	67	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Reinhardt, Loren	0	71	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Duhl, Scott	0	82	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Kalamazoo Kingdom	Walton, Stephen	0	83	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Lara, David	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Reti, Sean	0	0	55	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Regan, Timothy	0	0	85	Y	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Paul, Lee	0	0	65	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	DaSilva, Nino	0	0	82	Y	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Glinton, Gavin	0	55	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Collins, John	0	65	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Eastland, Robert	0	82	90	N	N	N	0		0	0	0	
+LGE	6/1/2001	Kalamazoo Kingdom	Chicago Fire (PDL)	Chicago Fire (PDL)	Kuska, Jason	0	85	90	N	N	N	0		0	0	0	
 LGE	6/1/2001	Miami Strike Force	Palm Beach Pumas	Miami Strike Force	Rubio, Franklin	0	0	98	N	N	N	0		0	0	0	
 LGE	6/1/2001	Miami Strike Force	Palm Beach Pumas	Miami Strike Force	Ratcliffe, Justin	0	0	86	Y	Y	Y	0		0	0	0	
 LGE	6/1/2001	Miami Strike Force	Palm Beach Pumas	Miami Strike Force	Suarez, Alfredo	0	0	98	N	N	N	0		0	0	0	
@@ -7501,31 +7501,31 @@ LGE	6/3/2001	Calgary Storm	Spokane Shadow	Spokane Shadow	Gledhill, James	0	0	57	
 LGE	6/3/2001	Calgary Storm	Spokane Shadow	Spokane Shadow	Alberry, Dustin	0	0	69	N	N	N	0		0	0	0	
 LGE	6/3/2001	Calgary Storm	Spokane Shadow	Spokane Shadow	Quinn, Connor	0	57	90	N	N	N	0		0	0	0	
 LGE	6/3/2001	Calgary Storm	Spokane Shadow	Spokane Shadow	Krestian, Kenny	0	69	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Welch, James	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Hudson, Alvin	0	0	69	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Lara, David	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Reti, Sean	0	0	54	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Paul, Lee	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	DaSilva, Nino	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Glinton, Gavin	0	54	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Chicago Fire Reserves	Collins, John	0	69	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Madigan, Michael	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Branan, Brett	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Branan, Dustin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Berg, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Werket, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Dietl, Danny	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Knox, Nathan	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Scanlon, Chris	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Krohn, Joshua	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Sithonnorath, Joe	0	0	90	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Mills, Sam	0	0	87	N	N	N	0		0	0	0	
-LGE	6/3/2001	Chicago Fire Reserves	Twin Cities Phoenix	Twin Cities Phoenix	Miller, Craig	0	87	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Welch, James	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Hudson, Alvin	0	0	69	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Lara, David	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Reti, Sean	0	0	54	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Paul, Lee	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	DaSilva, Nino	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Glinton, Gavin	0	54	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Chicago Fire (PDL)	Collins, John	0	69	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Madigan, Michael	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Branan, Brett	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Branan, Dustin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Berg, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Werket, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Dietl, Danny	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Knox, Nathan	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Scanlon, Chris	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Krohn, Joshua	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Sithonnorath, Joe	0	0	90	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Mills, Sam	0	0	87	N	N	N	0		0	0	0	
+LGE	6/3/2001	Chicago Fire (PDL)	Twin Cities Phoenix	Twin Cities Phoenix	Miller, Craig	0	87	90	N	N	N	0		0	0	0	
 LGE	6/3/2001	Jersey Falcons	Chesapeake Dragons	Jersey Falcons	Land, Jason	0	0	90	N	N	N	0		0	0	0	
 LGE	6/3/2001	Jersey Falcons	Chesapeake Dragons	Jersey Falcons	Stuttard, Andrew	0	0	90	N	N	N	0		0	0	0	
 LGE	6/3/2001	Jersey Falcons	Chesapeake Dragons	Jersey Falcons	Topol, Marcin	0	0	90	N	N	N	0		0	0	0	
@@ -7781,34 +7781,34 @@ LGE	6/5/2001	New Hampshire Phantoms	Western Mass Pioneers	Western Mass Pioneers	
 LGE	6/5/2001	New Hampshire Phantoms	Western Mass Pioneers	Western Mass Pioneers	Monje, Ricardo	0	0	90	Y	N	N	0		0	0	0	
 LGE	6/5/2001	New Hampshire Phantoms	Western Mass Pioneers	Western Mass Pioneers	Mogavaro, Chris	0	87	90	N	N	N	0		0	0	0	
 LGE	6/5/2001	New Hampshire Phantoms	Western Mass Pioneers	Western Mass Pioneers	Wilkinson, Adam	0	45	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Upton, Trevor	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Chamis, Peter	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Long, Jonah	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Person, Joel	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Nedo, Wilson	0	0	85	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Crist, Matthew	0	0	73	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Czarnecki, Michael	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Acres, Jason	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Dominguez, Jose	0	0	73	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	King, Kristofer	0	0	73	Y	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Wesseh, Doco	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Andrade, Ewerton	0	73	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Brewer, Alan	0	73	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Fichera, Nick	0	73	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Eagles Select	Edwards, Troy	0	85	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Eastland, Robert	0	0	54	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Reti, Sean	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Paul, Lee	0	0	68	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	DaSilva, Nino	0	0	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Glinton, Gavin	0	54	90	N	N	N	0		0	0	0	
-LGE	6/6/2001	Chicago Eagles Select	Chicago Fire Reserves	Chicago Fire Reserves	Maliza, Johanes	0	68	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Upton, Trevor	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Chamis, Peter	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Long, Jonah	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Person, Joel	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Nedo, Wilson	0	0	85	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Crist, Matthew	0	0	73	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Czarnecki, Michael	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Acres, Jason	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Dominguez, Jose	0	0	73	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	King, Kristofer	0	0	73	Y	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Wesseh, Doco	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Andrade, Ewerton	0	73	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Brewer, Alan	0	73	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Fichera, Nick	0	73	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Eagles Select	Edwards, Troy	0	85	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Eastland, Robert	0	0	54	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Reti, Sean	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Paul, Lee	0	0	68	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	DaSilva, Nino	0	0	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Glinton, Gavin	0	54	90	N	N	N	0		0	0	0	
+LGE	6/6/2001	Chicago Eagles Select	Chicago Fire (PDL)	Chicago Fire (PDL)	Maliza, Johanes	0	68	90	N	N	N	0		0	0	0	
 LGE	6/6/2001	Connecticut Wolves	Rochester Rhinos	Connecticut Wolves	Throop, Adam	0	0	103	N	N	N	0		0	0	0	
 LGE	6/6/2001	Connecticut Wolves	Rochester Rhinos	Connecticut Wolves	Zieky, Max	0	0	103	N	N	N	0		0	0	0	
 LGE	6/6/2001	Connecticut Wolves	Rochester Rhinos	Connecticut Wolves	Sewell, Dean	0	0	103	Y	N	N	70		0	0	0	
@@ -8209,35 +8209,35 @@ LGE	6/10/2001	Bradenton Academics	Miami Strike Force	Miami Strike Force	Gonzalez
 LGE	6/10/2001	Bradenton Academics	Miami Strike Force	Miami Strike Force	Reyes, Rafael	0	0	45	N	N	N	0	Moyssidis, Chris	0	0	0	
 LGE	6/10/2001	Bradenton Academics	Miami Strike Force	Miami Strike Force	Moyssidis, Chris	0	45	90	N	N	N	0		0	0	0	
 LGE	6/10/2001	Bradenton Academics	Miami Strike Force	Miami Strike Force	Pulido, John	0	57	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Hudson, Alvin	0	0	67	Y	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Clanton, Denny	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Eastland, Robert	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Bobo, Matthew	0	0	82	Y	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Reti, Sean	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Paul, Lee	0	0	66	Y	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Glinton, Gavin	0	0	62	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	DaSilva, Nino	0	62	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Kuska, Jason	0	66	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Dieterle, Julian	0	67	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Chicago Fire Reserves	Collins, John	0	82	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Thompson, Kerry	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	David, Stephen	0	0	55	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Shinabarger, Andrew	0	0	55	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Lemming, Miguel	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Berndt, Markus	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Lopez, Oscar	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Katz, Michael	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Selolwane, Diphetogo	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Mwansasu, John	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Lee, Shawn	0	0	80	Y	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Roff, Andrew	0	0	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Peirano, Leonardo	0	55	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Riley, Chad	0	55	90	N	N	N	0		0	0	0	
-LGE	6/10/2001	Chicago Fire Reserves	Indiana Invaders	Indiana Invaders	Petersen, Ryan	0	80	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Hudson, Alvin	0	0	67	Y	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Clanton, Denny	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Eastland, Robert	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Bobo, Matthew	0	0	82	Y	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Mehreioskouei, Hamid	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Reti, Sean	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Paul, Lee	0	0	66	Y	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Glinton, Gavin	0	0	62	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	DaSilva, Nino	0	62	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Kuska, Jason	0	66	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Dieterle, Julian	0	67	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Chicago Fire (PDL)	Collins, John	0	82	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Thompson, Kerry	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	David, Stephen	0	0	55	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Shinabarger, Andrew	0	0	55	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Lemming, Miguel	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Berndt, Markus	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Lopez, Oscar	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Katz, Michael	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Selolwane, Diphetogo	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Mwansasu, John	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Lee, Shawn	0	0	80	Y	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Roff, Andrew	0	0	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Peirano, Leonardo	0	55	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Riley, Chad	0	55	90	N	N	N	0		0	0	0	
+LGE	6/10/2001	Chicago Fire (PDL)	Indiana Invaders	Indiana Invaders	Petersen, Ryan	0	80	90	N	N	N	0		0	0	0	
 LGE	6/10/2001	Connecticut Wolves	Montreal Impact	Connecticut Wolves	Throop, Adam	0	0	90	N	N	N	0		0	0	0	
 LGE	6/10/2001	Connecticut Wolves	Montreal Impact	Connecticut Wolves	Zieky, Max	0	0	90	N	N	N	0		0	0	0	
 LGE	6/10/2001	Connecticut Wolves	Montreal Impact	Connecticut Wolves	Sewell, Dean	0	0	90	N	N	N	0		0	0	0	
@@ -8431,33 +8431,33 @@ LGE	6/10/2001	Toronto Lynx	Hershey Wildcats	Hershey Wildcats	Marinos, Chris	0	0	
 LGE	6/10/2001	Toronto Lynx	Hershey Wildcats	Hershey Wildcats	Kopp, Drew	0	32	90	N	N	N	0		0	0	0	
 LGE	6/10/2001	Toronto Lynx	Hershey Wildcats	Hershey Wildcats	DeGand, Fred	0	62	90	N	N	N	0		0	0	0	
 LGE	6/10/2001	Toronto Lynx	Hershey Wildcats	Hershey Wildcats	Sebrango, Eduardo	0	62	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Lara, David	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Mehreioskouei, Hamid	0	0	79	Y	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Reti, Sean	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Regan, Timothy	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Paul, Lee	0	0	72	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Glinton, Gavin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Klaas, CJ	0	72	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	DaSilva, Nino	0	79	85	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	Chicago Fire Reserves	Dieterle, Julian	0	85	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Hall, Gabe	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Smith, Derek	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Richards, Ralph	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Jankowski, Brian	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Ahebwa, Dennis	0	0	45	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Smith, Pepe	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Burke, Shawn	0	0	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Holloway, Neil	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Alexander, Ryan	0	0	82	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Maher, Anthony	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Kelto, Anders	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Dwaihy, David	0	45	90	N	N	N	0		0	0	0	
-LGE	6/13/2001	Chicago Fire Reserves	West Michigan Edge	West Michigan Edge	Smith, Aaron	0	82	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Lara, David	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Mehreioskouei, Hamid	0	0	79	Y	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Reti, Sean	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Regan, Timothy	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Paul, Lee	0	0	72	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Glinton, Gavin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Klaas, CJ	0	72	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	DaSilva, Nino	0	79	85	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	Chicago Fire (PDL)	Dieterle, Julian	0	85	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Hall, Gabe	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Smith, Derek	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Richards, Ralph	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Jankowski, Brian	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Ahebwa, Dennis	0	0	45	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Smith, Pepe	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Burke, Shawn	0	0	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Holloway, Neil	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Alexander, Ryan	0	0	82	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Maher, Anthony	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Kelto, Anders	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Dwaihy, David	0	45	90	N	N	N	0		0	0	0	
+LGE	6/13/2001	Chicago Fire (PDL)	West Michigan Edge	West Michigan Edge	Smith, Aaron	0	82	90	N	N	N	0		0	0	0	
 LGE	6/13/2001	Richmond Kickers	Charleston Battery	Richmond Kickers	McGinty, Mike	0	0	90	N	N	N	0		0	0	0	
 LGE	6/13/2001	Richmond Kickers	Charleston Battery	Richmond Kickers	Brown, Christopher	0	0	73	N	N	N	0	Adu-Gyamfi, Kwaku	0	0	0	
 LGE	6/13/2001	Richmond Kickers	Charleston Battery	Richmond Kickers	Knight, Kevin	0	0	90	N	N	N	0		0	0	0	
@@ -8727,24 +8727,24 @@ LGE	6/15/2001	El Paso Patriots	Seattle Sounders	Seattle Sounders	Hattrup, Peter	
 LGE	6/15/2001	El Paso Patriots	Seattle Sounders	Seattle Sounders	Kinoshita, Kei	0	45	90	N	N	N	0		0	0	0	
 LGE	6/15/2001	El Paso Patriots	Seattle Sounders	Seattle Sounders	Tomlinson, Craig	0	64	90	N	N	N	0		0	0	0	
 LGE	6/15/2001	El Paso Patriots	Seattle Sounders	Seattle Sounders	Brown, Chad	0	77	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Indiana Invaders	Short, Gerrick	0	0	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Welch, James	0	0	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Lara, David	0	0	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Collins, John	0	0	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Eastland, Robert	0	0	80	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Reuter, Steve	0	0	60	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Demano, Robert	0	0	85	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Dieterle, Julian	0	0	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Geiger, Abe	0	0	70	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Kuska, Jason	0	0	80	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	DaSilva, Nino	0	0	70	Y	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Maliza, Johanes	0	0	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Bobo, Matthew	0	60	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Hudson, Alvin	0	70	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Mehreioskouei, Hamid	0	70	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Regan, Timothy	0	80	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Groenwald, Matthew	0	80	90	N	N	N	0		0	0	0	
-LGE	6/15/2001	Indiana Invaders	Chicago Fire Reserves	Chicago Fire Reserves	Paul, Lee	0	85	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Indiana Invaders	Short, Gerrick	0	0	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Welch, James	0	0	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Lara, David	0	0	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Collins, John	0	0	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Eastland, Robert	0	0	80	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Reuter, Steve	0	0	60	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Demano, Robert	0	0	85	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Dieterle, Julian	0	0	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Geiger, Abe	0	0	70	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Kuska, Jason	0	0	80	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	DaSilva, Nino	0	0	70	Y	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Maliza, Johanes	0	0	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Bobo, Matthew	0	60	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Hudson, Alvin	0	70	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Mehreioskouei, Hamid	0	70	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Regan, Timothy	0	80	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Groenwald, Matthew	0	80	90	N	N	N	0		0	0	0	
+LGE	6/15/2001	Indiana Invaders	Chicago Fire (PDL)	Chicago Fire (PDL)	Paul, Lee	0	85	90	N	N	N	0		0	0	0	
 LGE	6/15/2001	Jersey Falcons	Westchester Flames	Jersey Falcons	Land, Jason	0	0	90	N	N	N	0		0	0	0	
 LGE	6/15/2001	Jersey Falcons	Westchester Flames	Jersey Falcons	Barrow, Brian	0	0	90	N	N	N	0		0	0	0	
 LGE	6/15/2001	Jersey Falcons	Westchester Flames	Jersey Falcons	Stuttard, Andrew	0	0	90	Y	N	N	0		0	0	0	
@@ -9569,36 +9569,36 @@ LGE	6/17/2001	Boulder Nova	Texas Spurs	Texas Spurs	Muse, Marquis	0	73	90	N	N	N	0
 LGE	6/17/2001	Boulder Nova	Texas Spurs	Texas Spurs	Fray, Tafaria	0	75	90	N	N	N	0		0	0	0	
 LGE	6/17/2001	Boulder Nova	Texas Spurs	Texas Spurs	Gibson, Torrence	0	83	90	N	N	N	0		0	0	0	
 LGE	6/17/2001	Boulder Nova	Texas Spurs	Texas Spurs	Groneau, Joel	0	88	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Gibson, Matt (Eric)	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Sylborne, Michael	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Schulte, William	0	0	80	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Morey, Carson	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Larmond, Bunny Ray	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Sobers, Travis	0	0	64	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Gruffydd, Dilwyn	0	0	58	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Jones, Bret	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Gibson, Bradley	0	0	45	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Raftery, Jared	0	0	68	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Strong, Rick	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Breines, Matthew	0	45	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Leonard, Jonathan	0	58	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Kummerle, Kevin	0	64	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Tackis, Jason	0	68	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Dayton Gemini	Bammel, Joshua	0	80	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Lara, David	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Mehreioskouei, Hamid	0	0	90	Y	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Reti, Sean	0	0	78	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Paul, Lee	0	0	60	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Glinton, Gavin	0	0	75	Y	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	DaSilva, Nino	0	60	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Eastland, Robert	0	75	90	N	N	N	0		0	0	0	
-LGE	6/17/2001	Dayton Gemini	Chicago Fire Reserves	Chicago Fire Reserves	Collins, John	0	78	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Gibson, Matt (Eric)	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Sylborne, Michael	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Schulte, William	0	0	80	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Morey, Carson	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Larmond, Bunny Ray	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Sobers, Travis	0	0	64	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Gruffydd, Dilwyn	0	0	58	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Jones, Bret	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Gibson, Bradley	0	0	45	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Raftery, Jared	0	0	68	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Strong, Rick	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Breines, Matthew	0	45	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Leonard, Jonathan	0	58	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Kummerle, Kevin	0	64	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Tackis, Jason	0	68	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Dayton Gemini	Bammel, Joshua	0	80	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Rogers, Colin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Hudson, Alvin	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Lara, David	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Clanton, Denny	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Bobo, Matthew	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Mehreioskouei, Hamid	0	0	90	Y	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Reti, Sean	0	0	78	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Willson, Eric	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Regan, Timothy	0	0	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Paul, Lee	0	0	60	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Glinton, Gavin	0	0	75	Y	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	DaSilva, Nino	0	60	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Eastland, Robert	0	75	90	N	N	N	0		0	0	0	
+LGE	6/17/2001	Dayton Gemini	Chicago Fire (PDL)	Chicago Fire (PDL)	Collins, John	0	78	90	N	N	N	0		0	0	0	
 LGE	6/17/2001	Jersey Falcons	Vermont Voltage	Jersey Falcons	Land, Jason	0	0	90	N	N	N	0		0	0	0	
 LGE	6/17/2001	Jersey Falcons	Vermont Voltage	Jersey Falcons	Frankowski, Mariusz	0	0	90	N	N	N	0		0	0	0	
 LGE	6/17/2001	Jersey Falcons	Vermont Voltage	Jersey Falcons	Stroz, Marcin	0	0	90	Y	N	N	0		0	0	0	

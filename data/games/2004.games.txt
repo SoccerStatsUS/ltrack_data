@@ -113,7 +113,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/15/2004	Cascade Surge	Yakima Reds	4	1	215	League Game	LGE			As Scored	0	0	
 5/15/2004	Charleston Battery	Atlanta Silverbacks	2	2	3,691	League Game	LGE			As Scored	0	0	
 5/15/2004	Charlotte Eagles	Northern Virginia Royals	3	2	1,787	League Game	LGE			As Scored	0	0	
-5/15/2004	Chicago Fire Reserves	Wisconsin Rebels	5	0	846	League Game	LGE			As Scored	0	0	
+5/15/2004	Chicago Fire (PDL)	Wisconsin Rebels	5	0	846	League Game	LGE			As Scored	0	0	
 5/15/2004	Cleveland Internationals	Kalamazoo Kingdom	0	1	100	League Game	LGE			As Scored	0	0	
 5/15/2004	Des Moines Menace	Boulder Rapids Reserve	1	3	4,065	League Game	LGE			As Scored	0	0	
 5/15/2004	El Paso Patriots	Austin Lightning	4	1	120	League Game	LGE			As Scored	0	0	
@@ -146,11 +146,11 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/16/2004	South Jersey Barons	Albany Black Watch Highlanders	1	1	250	League Game	LGE			As Scored	0	0	
 5/16/2004	Toronto Lynx	Rochester Rhinos	2	1	2,187	League Game	LGE			As Scored	0	0	
 5/16/2004	West Virginia Chaos	Richmond Kickers Future	1	2	200	League Game	LGE			As Scored	0	0	
-5/16/2004	Wisconsin Rebels	Chicago Fire Reserves	0	8	100	League Game	LGE			As Scored	0	0	
+5/16/2004	Wisconsin Rebels	Chicago Fire (PDL)	0	8	100	League Game	LGE			As Scored	0	0	
 5/17/2004	Rhode Island Stingrays	Cape Cod Crusaders	1	3	214	League Game	LGE			As Scored	0	0	
 5/18/2004	Michigan Bucks	Ft. Wayne Fever	1	1	100	League Game	LGE			As Scored	0	0	
 5/19/2004	Albany Black Watch Highlanders	Cape Cod Crusaders	0	1	200	League Game	LGE			As Scored	0	0	
-5/19/2004	Indiana Blast	Chicago Fire Reserves	0	5	154	League Game	LGE			As Scored	0	0	
+5/19/2004	Indiana Blast	Chicago Fire (PDL)	0	5	154	League Game	LGE			As Scored	0	0	
 5/19/2004	Indiana Invaders	West Michigan Edge	4	2	100	League Game	LGE			As Scored	0	0	
 5/19/2004	Jersey Falcons	South Jersey Barons	1	2	40	League Game	LGE			As Scored	0	0	
 5/20/2004	Ft. Wayne Fever	Toledo Slayers	3	2	100	League Game	LGE			As Scored	0	0	
@@ -173,7 +173,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/22/2004	California Gold	San Diego Gauchos	0	1	220	League Game	LGE			As Scored	0	0	
 5/22/2004	Cape Cod Crusaders	South Jersey Barons	0	1	268	League Game	LGE			As Scored	0	0	
 5/22/2004	Chesapeake Dragons	Richmond Kickers Future	3	3	115	League Game	LGE			As Scored	0	0	
-5/22/2004	Chicago Fire Reserves	Thunder Bay Chill	3	0	462	League Game	LGE			As Scored	0	0	
+5/22/2004	Chicago Fire (PDL)	Thunder Bay Chill	3	0	462	League Game	LGE			As Scored	0	0	
 5/22/2004	Cleveland Internationals	West Michigan Edge	4	3	380	League Game	LGE			As Scored	0	0	
 5/22/2004	Ft. Wayne Fever	Indiana Invaders	2	5	419	League Game	LGE			As Scored	0	0	
 5/22/2004	Harrisburg City Islanders	Wilmington Hammerheads	1	3	1,845	League Game	LGE			As Scored	0	0	
@@ -195,7 +195,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/22/2004	Williamsburg Legacy	Carolina Dynamo	3	2	254	League Game	LGE			As Scored	0	0	
 5/22/2004	Yakima Reds	Abbotsford Rangers	1	2	320	League Game	LGE			As Scored	0	0	
 5/23/2004	Ajax Orlando Prospects	Palm Beach Pumas	9	1	58	League Game	LGE			As Scored	0	0	
-5/23/2004	Chicago Fire Reserves	Des Moines Menace	2	0	376	League Game	LGE			As Scored	0	0	
+5/23/2004	Chicago Fire (PDL)	Des Moines Menace	2	0	376	League Game	LGE			As Scored	0	0	
 5/23/2004	El Paso Patriots	DFW Tornados	5	2	583	League Game	LGE			As Scored	0	0	
 5/23/2004	Indiana Blast	Wisconsin Rebels	1	1	149	League Game	LGE	Game cancelled in 47th minute		As Scored	0	0	
 5/23/2004	Orange County Blue Star	Fresno Fuego	1	2	68	League Game	LGE			As Scored	0	0	
@@ -228,7 +228,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 5/29/2004	BYU Cougars	Colorado Springs Blizzard	6	2	553	League Game	LGE			As Scored	0	0	
 5/29/2004	Cascade Surge	Yakima Reds	1	2	187	League Game	LGE			As Scored	0	0	
 5/29/2004	Charleston Battery	Atlanta Silverbacks	2	4	5,022	League Game	LGE			As Scored	0	0	
-5/29/2004	Chicago Fire Reserves	Sioux Falls SpitFire	9	0	307	League Game	LGE			As Scored	0	0	
+5/29/2004	Chicago Fire (PDL)	Sioux Falls SpitFire	9	0	307	League Game	LGE			As Scored	0	0	
 5/29/2004	Cocoa Expos	Palm Beach Pumas	3	2	100	League Game	LGE			As Scored	0	0	
 5/29/2004	Des Moines Menace	St. Louis Strikers	1	3	3,440	League Game	LGE			As Scored	0	0	
 5/29/2004	DFW Tornados	Nashville Metros	3	0	150	League Game	LGE			As Scored	0	0	
@@ -292,7 +292,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/5/2004	Indiana Invaders	Kalamazoo Kingdom	2	1	275	League Game	LGE			As Scored	0	0	
 6/5/2004	Laredo Heat	Austin Lightning	0	1	100	League Game	LGE			As Scored	0	0	
 6/5/2004	Memphis Express	DFW Tornados	1	2	281	League Game	LGE			As Scored	0	0	
-6/5/2004	Michigan Bucks	Chicago Fire Reserves	1	3	613	League Game	LGE			As Scored	0	0	
+6/5/2004	Michigan Bucks	Chicago Fire (PDL)	1	3	613	League Game	LGE			As Scored	0	0	
 6/5/2004	Minnesota Thunder	Syracuse Salty Dogs	2	0	2,209	League Game	LGE			As Scored	0	0	
 6/5/2004	Nashville Metros	Lafayette Swamp Cats	0	0	620	League Game	LGE			As Scored	0	0	
 6/5/2004	New Jersey Stallions	Rhode Island Stingrays	2	1	100	League Game	LGE			As Scored	0	0	
@@ -346,7 +346,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/12/2004	Cape Cod Crusaders	Western Mass Pioneers	4	2	350	League Game	LGE			As Scored	0	0	
 6/12/2004	Carolina Dynamo	Chesapeake Dragons	5	1	100	League Game	LGE			As Scored	0	0	
 6/12/2004	Charlotte Eagles	Raleigh CASL Elite	3	0	1,190	League Game	LGE			As Scored	0	0	
-6/12/2004	Chicago Fire Reserves	Kansas City Brass	5	1	275	League Game	LGE			As Scored	0	0	
+6/12/2004	Chicago Fire (PDL)	Kansas City Brass	5	1	275	League Game	LGE			As Scored	0	0	
 6/12/2004	Cleveland Internationals	Pittsburgh Riverhounds	1	2	100	League Game	LGE			As Scored	0	0	
 6/12/2004	Colorado Springs Blizzard	Sioux Falls SpitFire	4	1	687	League Game	LGE			As Scored	0	0	
 6/12/2004	Des Moines Menace	Thunder Bay Chill	2	0	100	League Game	LGE			As Scored	0	0	
@@ -420,7 +420,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/19/2004	Richmond Kickers	Milwaukee Wave United	2	0	2,353	League Game	LGE			As Scored	0	0	
 6/19/2004	Seattle Sounders	Rochester Rhinos	0	1	3,850	League Game	LGE			As Scored	0	0	
 6/19/2004	South Jersey Barons	Rhode Island Stingrays	4	3	180	League Game	LGE			As Scored	0	0	
-6/19/2004	St. Louis Strikers	Chicago Fire Reserves	1	6	218	League Game	LGE			As Scored	0	0	
+6/19/2004	St. Louis Strikers	Chicago Fire (PDL)	1	6	218	League Game	LGE			As Scored	0	0	
 6/19/2004	Thunder Bay Chill	Wisconsin Rebels	4	1	495	League Game	LGE			As Scored	0	0	
 6/19/2004	Vermont Voltage	Brooklyn Knights	0	3	100	League Game	LGE			As Scored	0	0	
 6/19/2004	West Michigan Edge	Cleveland Internationals	3	1	100	League Game	LGE			As Scored	0	0	
@@ -433,7 +433,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/20/2004	Chesapeake Dragons	Raleigh CASL Elite	1	2	150	League Game	LGE			As Scored	0	0	
 6/20/2004	Fresno Fuego	San Diego Gauchos	5	1	100	League Game	LGE			As Scored	0	0	
 6/20/2004	Jersey Falcons	New Jersey Stallions	0	1	157	League Game	LGE			As Scored	0	0	
-6/20/2004	Kansas City Brass	Chicago Fire Reserves	0	4	103	League Game	LGE			As Scored	0	0	
+6/20/2004	Kansas City Brass	Chicago Fire (PDL)	0	4	103	League Game	LGE			As Scored	0	0	
 6/20/2004	Laredo Heat	DFW Tornados	1	2	100	League Game	LGE			As Scored	0	0	
 6/20/2004	Montreal Impact	Toronto Lynx	1	1	9,289	League Game	LGE			As Scored	0	0	
 6/20/2004	Palm Beach Pumas	Cocoa Expos	3	1	30	League Game	LGE			As Scored	0	0	
@@ -491,7 +491,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 6/26/2004	West Michigan Edge	Toledo Slayers	1	2	354	League Game	LGE			As Scored	0	0	
 6/26/2004	Westchester Flames	Harrisburg City Islanders	0	3	161	League Game	LGE			As Scored	0	0	
 6/26/2004	Western Mass Pioneers	Charlotte Eagles	0	3	1,060	League Game	LGE			As Scored	0	0	
-6/26/2004	Wisconsin Rebels	Chicago Fire Reserves	1	5	500	League Game	LGE			As Scored	0	0	
+6/26/2004	Wisconsin Rebels	Chicago Fire (PDL)	1	5	500	League Game	LGE			As Scored	0	0	
 6/27/2004	Abbotsford Rangers	Spokane Shadow	2	3	224	League Game	LGE			As Scored	0	0	
 6/27/2004	Chesapeake Dragons	Carolina Dynamo	2	3	75	League Game	LGE			As Scored	0	0	
 6/27/2004	Indiana Blast	Des Moines Menace	1	4	118	League Game	LGE			As Scored	0	0	
@@ -517,7 +517,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/2/2004	California Gold	Orange County Blue Star	0	2	295	League Game	LGE			As Scored	0	0	
 7/2/2004	Cascade Surge	Spokane Shadow	5	1	465	League Game	LGE			As Scored	0	0	
 7/2/2004	Central Florida Kraze	Cocoa Expos	2	0	150	League Game	LGE			As Scored	0	0	
-7/2/2004	Chicago Fire Reserves	Indiana Invaders	2	1	352	League Game	LGE			As Scored	0	0	
+7/2/2004	Chicago Fire (PDL)	Indiana Invaders	2	1	352	League Game	LGE			As Scored	0	0	
 7/2/2004	Colorado Springs Blizzard	Boulder Rapids Reserve	0	3	471	League Game	LGE			As Scored	0	0	
 7/2/2004	Memphis Express	New Orleans Shell Shockers	2	1	100	League Game	LGE			As Scored	0	0	
 7/2/2004	Milwaukee Wave United	Seattle Sounders	2	2	1,518	League Game	LGE			As Scored	0	0	
@@ -532,7 +532,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/3/2004	Abbotsford Rangers	Cascade Surge	2	0	164	League Game	LGE			As Scored	0	0	
 7/3/2004	California Gold	Nevada Wonders	3	2	489	League Game	LGE			As Scored	0	0	
 7/3/2004	Charleston Battery	Puerto Rico Islanders	0	2	3,544	League Game	LGE			As Scored	0	0	
-7/3/2004	Chicago Fire Reserves	Kalamazoo Kingdom	3	0	100	League Game	LGE			As Scored	0	0	
+7/3/2004	Chicago Fire (PDL)	Kalamazoo Kingdom	3	0	100	League Game	LGE			As Scored	0	0	
 7/3/2004	Cleveland Internationals	Toledo Slayers	1	4	142	League Game	LGE			As Scored	0	0	
 7/3/2004	Des Moines Menace	Kansas City Brass	1	2	6,311	League Game	LGE			As Scored	0	0	
 7/3/2004	DFW Tornados	El Paso Patriots	1	4	320	League Game	LGE			As Scored	0	0	
@@ -574,7 +574,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/7/2004	Southern California Seahorses	San Diego Gauchos	2	3	508	League Game	LGE			As Scored	0	0	
 7/7/2004	Western Mass Pioneers	Vermont Voltage	6	1	964	League Game	LGE			As Scored	0	0	
 7/8/2004	Carolina Dynamo	Richmond Kickers Future	4	1	369	League Game	LGE			As Scored	0	0	
-7/8/2004	Chicago Fire Reserves	Wisconsin Rebels	4	1	382	League Game	LGE			As Scored	0	0	
+7/8/2004	Chicago Fire (PDL)	Wisconsin Rebels	4	1	382	League Game	LGE			As Scored	0	0	
 7/8/2004	Portland Timbers	Edmonton Aviators	6	1	4,230	League Game	LGE			As Scored	0	0	
 7/8/2004	Toronto Lynx	Charleston Battery	0	2	2,461	League Game	LGE			As Scored	0	0	
 7/8/2004	West Michigan Edge	Indiana Invaders	3	5	503	League Game	LGE			As Scored	0	0	
@@ -604,7 +604,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/10/2004	Cascade Surge	Nevada Wonders	2	3	315	League Game	LGE			As Scored	0	0	
 7/10/2004	Charlotte Eagles	West Virginia Chaos	1	0	588	League Game	LGE			As Scored	0	0	
 7/10/2004	Harrisburg City Islanders	South Jersey Barons	2	2	1,925	League Game	LGE			As Scored	0	0	
-7/10/2004	Kalamazoo Kingdom	Chicago Fire Reserves	0	0	678	League Game	LGE			As Scored	0	0	
+7/10/2004	Kalamazoo Kingdom	Chicago Fire (PDL)	0	0	678	League Game	LGE			As Scored	0	0	
 7/10/2004	Lafayette Swamp Cats	Central Florida Kraze	2	5	150	League Game	LGE			As Scored	0	0	
 7/10/2004	Minnesota Thunder	Virginia Beach Mariners	1	0	3,946	League Game	LGE			As Scored	0	0	
 7/10/2004	New Orleans Shell Shockers	Bradenton Academics	2	3	300	League Game	LGE			As Scored	0	0	
@@ -635,7 +635,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/12/2004	Syracuse Salty Dogs	Charleston Battery	1	0	3,321	League Game	LGE			As Scored	0	0	
 7/12/2004	Williamsburg Legacy	Harrisburg City Islanders	0	0	457	League Game	LGE			As Scored	0	0	
 7/13/2004	BYU Cougars	Utah Blitzz	2	4	1,356	League Game	LGE			As Scored	0	0	
-7/13/2004	Chicago Fire Reserves	Indiana Blast	5	0	225	League Game	LGE			As Scored	0	0	
+7/13/2004	Chicago Fire (PDL)	Indiana Blast	5	0	225	League Game	LGE			As Scored	0	0	
 7/13/2004	Edmonton Aviators	Vancouver Whitecaps	0	2	1,983	League Game	LGE			As Scored	0	0	
 7/14/2004	Brooklyn Knights	Jersey Falcons	5	1	200	League Game	LGE			As Scored	0	0	
 7/14/2004	Cape Cod Crusaders	Rhode Island Stingrays	5	3	536	League Game	LGE			As Scored	0	0	
@@ -664,7 +664,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/16/2004	Reading Rage	Jersey Falcons	1	2	979	League Game	LGE			As Scored	0	0	
 7/16/2004	Spokane Shadow	Cascade Surge	2	0	924	League Game	LGE			As Scored	0	0	
 7/16/2004	Syracuse Salty Dogs	Montreal Impact	2	1	6,482	League Game	LGE			As Scored	0	0	
-7/16/2004	Thunder Bay Chill	Chicago Fire Reserves	1	2	837	League Game	LGE			As Scored	0	0	
+7/16/2004	Thunder Bay Chill	Chicago Fire (PDL)	1	2	837	League Game	LGE			As Scored	0	0	
 7/16/2004	Vancouver Whitecaps	Portland Timbers	1	0	4,492	League Game	LGE			As Scored	0	0	
 7/16/2004	West Virginia Chaos	Richmond Kickers Future	1	3	400	League Game	LGE			As Scored	0	0	
 7/16/2004	Western Mass Pioneers	Pittsburgh Riverhounds	1	2	1,180	League Game	LGE			As Scored	0	0	
@@ -690,7 +690,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/17/2004	South Jersey Barons	Reading Rage	3	1	100	League Game	LGE			As Scored	0	0	
 7/17/2004	Spokane Shadow	Yakima Reds	3	1	1,110	League Game	LGE			As Scored	0	0	
 7/17/2004	St. Louis Strikers	Wisconsin Rebels	0	6	125	League Game	LGE			As Scored	0	0	
-7/17/2004	Thunder Bay Chill	Chicago Fire Reserves	0	2	598	League Game	LGE			As Scored	0	0	
+7/17/2004	Thunder Bay Chill	Chicago Fire (PDL)	0	2	598	League Game	LGE			As Scored	0	0	
 7/17/2004	Toledo Slayers	Michigan Bucks	1	2	200	League Game	LGE			As Scored	0	0	
 7/17/2004	Vermont Voltage	Cape Cod Crusaders	1	2	537	League Game	LGE			As Scored	0	0	
 7/17/2004	Virginia Beach Mariners	Rochester Rhinos	4	0	1,106	League Game	LGE			As Scored	0	0	
@@ -717,7 +717,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/23/2004	Carolina Dynamo	Cape Cod Crusaders	3	2	874	Playoffs	PLOF			As Scored	0	0	
 7/23/2004	Cascade Surge	Fresno Fuego	1	2	1,675	Playoffs	PLOF			As Scored	0	0	
 7/23/2004	Central Florida Kraze	DFW Tornados	4	2	450	Playoffs	PLOF			As Scored	0	0	
-7/23/2004	Chicago Fire Reserves	Ft. Wayne Fever	3	1	690	League Game	LGE			As Scored	0	0	
+7/23/2004	Chicago Fire (PDL)	Ft. Wayne Fever	3	1	690	League Game	LGE			As Scored	0	0	
 7/23/2004	El Paso Patriots	Cocoa Expos	4	5	400	Playoffs	PLOF			As Scored	0	0	
 7/23/2004	Michigan Bucks	Boulder Rapids Reserve	2	3	350	Playoffs	PLOF			As Scored	0	0	
 7/23/2004	Northern Virginia Royals	Western Mass Pioneers	0	2	318	League Game	LGE			As Scored	0	0	
@@ -731,7 +731,7 @@ Date	Home-Team	Away-Team	For	Against	Attendance	Competition	Comp	Comments	Refere
 7/24/2004	Central Florida Kraze	Cocoa Expos	3	1	100	Playoffs	PLOF			As Scored	0	0	
 7/24/2004	Charleston Battery	Syracuse Salty Dogs	1	2	4,494	League Game	LGE			As Scored	0	0	
 7/24/2004	Charlotte Eagles	Wilmington Hammerheads	2	0	1,673	League Game	LGE			As Scored	0	0	
-7/24/2004	Chicago Fire Reserves	Boulder Rapids Reserve	0	1	160	Playoffs	PLOF			As Scored	0	0	
+7/24/2004	Chicago Fire (PDL)	Boulder Rapids Reserve	0	1	160	Playoffs	PLOF			As Scored	0	0	
 7/24/2004	Long Island Rough Riders	New Hampshire Phantoms	3	2	1,218	League Game	LGE			As Scored	0	0	
 7/24/2004	Minnesota Thunder	Edmonton Aviators	3	0	5,109	League Game	LGE			As Scored	0	0	
 7/24/2004	Orange County Blue Star	Fresno Fuego	1	2	2,177	Playoffs	PLOF			As Scored	0	0	
