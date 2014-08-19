@@ -26,7 +26,7 @@ def make_team_to_competition_dict():
     Create a dict mapping a team and season to a competition based on standings
     """
 
-    from donelli.parse.standings import process_standings_file
+    from parse.parse.standings import process_standings_file
     from smid.build.load import USD1_DIR, US_MINOR_DIR
     from smid.alias.teams import get_team
 
