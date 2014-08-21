@@ -27,8 +27,8 @@ def make_team_to_competition_dict():
     """
 
     from parse.parse.standings import process_standings_file
-    from smid.build.load import USD1_DIR, US_MINOR_DIR
-    from smid.alias.teams import get_team
+    from build.run.load import USD1_DIR, US_MINOR_DIR
+    from build.alias.teams import get_team
 
 
     standings = [
@@ -72,7 +72,7 @@ competition_map = make_team_to_competition_dict()
 
 # Only used by ltrack.
 def determine_competition(comp, team, season):
-    from smid.alias.teams import get_team
+    from build.alias.teams import get_team
 
     
 
