@@ -2231,7 +2231,7 @@ LGE	6/20/1996	Kansas City Wiz	DC United	DC United	Causey, Jeff	0	0	46	N	N	N	0		0
 LGE	6/20/1996	Kansas City Wiz	DC United	DC United	Gori, Mario	0	0	90	N	N	N	0		0	0	0	
 LGE	6/20/1996	Kansas City Wiz	DC United	DC United	Agoos, Jeff	0	0	46	N	N	N	0		0	0	0	
 LGE	6/20/1996	Kansas City Wiz	DC United	DC United	Vaudreuil, David	0	0	90	N	N	N	0		0	0	0	
-LGE	6/20/1996	Kansas City Wiz	DC United	DC United	Gelnovatch. George	0	0	90	N	N	N	0		0	0	0	
+LGE	6/20/1996	Kansas City Wiz	DC United	DC United	Gelnovatch, George	0	0	90	N	N	N	0		0	0	0	
 LGE	6/20/1996	Kansas City Wiz	DC United	DC United	Harkes, John	0	0	90	N	N	N	0		0	0	0	
 LGE	6/20/1996	Kansas City Wiz	DC United	DC United	Etcheverry, Marco	0	0	70	N	N	N	0		0	0	0	
 LGE	6/20/1996	Kansas City Wiz	DC United	DC United	Williams, Richie	0	0	6	N	N	Y	0		0	0	0	
@@ -2389,7 +2389,7 @@ LGE	6/23/1996	San Jose Clash	DC United	DC United	Simpson, Mark	0	0	90	N	N	N	0		0
 LGE	6/23/1996	San Jose Clash	DC United	DC United	Imler, Erik	0	0	90	N	N	N	0		0	0	0	
 LGE	6/23/1996	San Jose Clash	DC United	DC United	Agoos, Jeff	0	0	90	N	N	N	0		0	0	0	
 LGE	6/23/1996	San Jose Clash	DC United	DC United	Vaudreuil, David	0	0	90	N	N	N	0		0	0	0	
-LGE	6/23/1996	San Jose Clash	DC United	DC United	Gelnovatch. George	0	0	46	N	N	N	0		0	0	0	
+LGE	6/23/1996	San Jose Clash	DC United	DC United	Gelnovatch, George	0	0	46	N	N	N	0		0	0	0	
 LGE	6/23/1996	San Jose Clash	DC United	DC United	Harkes, John	0	0	90	N	N	N	0		0	0	0	
 LGE	6/23/1996	San Jose Clash	DC United	DC United	Kelderman, Kris	0	0	90	N	N	N	0		0	0	0	
 LGE	6/23/1996	San Jose Clash	DC United	DC United	Etcheverry, Marco	0	0	90	N	N	N	0		0	0	0	
